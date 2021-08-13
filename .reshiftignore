@@ -43,3 +43,17 @@ npm-debug.log
 .firebase
 firebase
 firebase.json
+
+*.py
+*.java
+*.go 
+*.cc
+third_party
+testing
+extensions
+
+.github
+.circleci
+build-system
+ads
+
