@@ -1,0 +1,709 @@
+
+Fbuild_system_tasks_bundle_size_index_js_198_1_FD_1142_reportBundleSizej
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÆ Æ("s8_1*Ì
+s8_1
+<synthetic> (C
+A
+
+__unknown_file (	
+%global"__id**
+
+%env"
+globalM
+K
+
+__unknown_file (
+%sc-P_702_0"__id**
+
+%env"
+%scope-P_702M
+K
+
+__unknown_file (
+%sc-P_702_1"__id**
+
+%env"
+%scope-P_702»"¸
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÇ Ç(
+
+%funcRes_0*%
+
+%sc-P_702_1"
+isPullRequestBuild2
+	
+%global2
+
+%env*
+s8_2
+s8_7*¸"
+s8_2
+<synthetic> (M
+K
+
+__unknown_file (
+%sc-P_702_2"__id**
+
+%env"
+%scope-P_702M
+K
+
+__unknown_file (
+%sc-P_702_3"__id**
+
+%env"
+%scope-P_702¶"³
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÈ È(!
+
+%funcRes_1* 
+
+%sc-P_702_3"
+gitCommitHash2
+	
+%global2
+
+%env˜
+•
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÈ
+ È(
+%headSha~iSc_15"__id*
+
+
+%funcRes_1M
+K
+
+__unknown_file (
+%sc-P_702_4"__id**
+
+%env"
+%scope-P_702M
+K
+
+__unknown_file (
+%sc-P_702_5"__id**
+
+%env"
+%scope-P_702º"·
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÉ É(%
+
+%funcRes_2*$
+
+%sc-P_702_5"
+gitCiMainBaseline2
+	
+%global2
+
+%env˜
+•
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÉ
+ É(
+%baseSha~iSc_15"__id*
+
+
+%funcRes_2M
+K
+
+__unknown_file (
+%sc-P_702_6"__id**
+
+%env"
+%scope-P_702M
+K
+
+__unknown_file (
+%sc-P_702_7"__id**
+
+%env"
+%scope-P_702¾"»
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÊ Ê(*
+
+%funcRes_3*(
+
+%sc-P_702_7"
+circleciPrMergeCommit2
+	
+%global2
+
+%env™
+–
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÊ
+ Ê(
+%mergeSha~iSc_15"__id*
+
+
+%funcRes_3M
+K
+
+__unknown_file (
+%sc-P_702_8"__id**
+
+%env"
+%scope-P_702M
+K
+
+__unknown_file (
+%sc-P_702_9"__id**
+
+%env"
+%scope-P_702N
+L
+
+__unknown_file (
+%sc-P_702_10"__id**
+
+%env"
+%scope-P_702N
+L
+
+__unknown_file (
+%sc-P_702_11"__id**
+
+%env"
+%scope-P_702Ç"Ä
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÍ Í(
+
+%funcRes_4*
+
+%sc-P_702_11"
+
+shortSha2
+	
+%global2
+
+%env2
+
+%headSha~iSc_15N
+L
+
+__unknown_file (
+%sc-P_702_12"__id**
+
+%env"
+%scope-P_702¾"»
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÍ Í(
+
+
+%funcRes_5*
+
+%sc-P_702_12"
+cyan2
+	
+%global2
+
+%env2
+
+
+%funcRes_4N
+L
+
+__unknown_file (
+%sc-P_702_13"__id**
+
+%env"
+%scope-P_702N
+L
+
+__unknown_file (
+%sc-P_702_14"__id**
+
+%env"
+%scope-P_702N
+L
+
+__unknown_file (
+%sc-P_702_15"__id**
+
+%env"
+%scope-P_702Ç"Ä
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÏ Ï(
+
+%funcRes_6*
+
+%sc-P_702_15"
+
+shortSha2
+	
+%global2
+
+%env2
+
+%baseSha~iSc_15N
+L
+
+__unknown_file (
+%sc-P_702_16"__id**
+
+%env"
+%scope-P_702¾"»
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÏ Ï(
+
+
+%funcRes_7*
+
+%sc-P_702_16"
+cyan2
+	
+%global2
+
+%env2
+
+
+%funcRes_6N
+L
+
+__unknown_file (
+%sc-P_702_17"__id**
+
+%env"
+%scope-P_702N
+L
+
+__unknown_file (
+%sc-P_702_18"__id**
+
+%env"
+%scope-P_702N
+L
+
+__unknown_file (
+%sc-P_702_19"__id**
+
+%env"
+%scope-P_702È"Å
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÑ Ñ(
+
+%funcRes_8*
+
+%sc-P_702_19"
+
+shortSha2
+	
+%global2
+
+%env2
+
+%mergeSha~iSc_15N
+L
+
+__unknown_file (
+%sc-P_702_20"__id**
+
+%env"
+%scope-P_702¾"»
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÑ Ñ(
+
+
+%funcRes_9*
+
+%sc-P_702_20"
+cyan2
+	
+%global2
+
+%env2
+
+
+%funcRes_8Ÿ
+œ
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÑ Ñ(&
+	%concat_0"__concat*
+
+
+%funcRes_9*
+...N
+L
+
+__unknown_file (
+%sc-P_702_21"__id**
+
+%env"
+%scope-P_702µ"²
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsË Ë(
+%funcRes_10*
+
+%sc-P_702_21"
+log2
+	
+%global2
+
+%env2%#
+!Reporting bundle sizes for commit2
+
+
+%funcRes_52
+using baseline commit2
+
+
+%funcRes_72
+and merge commit2
+
+	%concat_0N
+L
+
+__unknown_file (
+%sc-P_702_22"__id**
+
+%env"
+%scope-P_702*
+s8_3
+s8_4*ç
+s8_3
+<synthetic> (N
+L
+
+__unknown_file (
+%sc-P_702_23"__id**
+
+%env"
+%scope-P_702H
+F
+
+__unknown_file (	
+%expr_0"__id**
+
+%sc-P_702_23"
+urlN
+L
+
+__unknown_file (
+%sc-P_702_24"__id**
+
+%env"
+%scope-P_702N
+L
+
+__unknown_file (
+%sc-P_702_25"__id**
+
+%env"
+%scope-P_702I
+G
+
+__unknown_file (	
+%expr_1"__id**
+
+%sc-P_702_25"
+pathD
+B
+
+__unknown_file (	
+%expr_2"__id**
+	
+%expr_1"
+joinÖ"Ó
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.js× ×(
+
+%methRes_0*
+	
+%expr_1"
+join2
+	
+%expr_12
+
+%env2
+
+commit2
+
+%headSha~iSc_152
+
+reportG
+E
+
+__unknown_file (	
+%expr_3"__id**
+	
+%expr_0"	
+resolveè"å
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÕ Õ(
+
+%methRes_1*
+	
+%expr_0"	
+resolve2
+	
+%expr_02
+
+%env2**(
+
+%sc-P_702_24"
+bundleSizeAppBaseUrl2
+
+
+%methRes_0N
+L
+
+__unknown_file (
+%sc-P_702_26"__id**
+
+%env"
+%scope-P_702N
+L
+
+__unknown_file (
+%sc-P_702_27"__id**
+
+%env"
+%scope-P_702¿"¼
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÜ Ü(1
+%funcRes_11*(
+
+%sc-P_702_27"
+getBrotliBundleSizes2
+	
+%global2
+
+%envŒ‰
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÙ Ý(	
+	%object_0Object"Object¬
+©
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÚ
+ Ú( 
+
+	%object_0Object"	
+baseSha"__id*
+
+%baseSha~iSc_15®
+«
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÛ
+ Û(!
+
+	%object_0Object"
+
+mergeSha"__id*
+
+%mergeSha~iSc_15¬
+©
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÜ
+ Ü(3$
+
+	%object_0Object"
+bundleSizes"__id*
+
+%funcRes_11N
+L
+
+__unknown_file (
+%sc-P_702_28"__id**
+
+%env"
+%scope-P_702Ú"×
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÔ Ô(%
+%funcRes_12*
+
+%sc-P_702_28"
+
+postJson2
+	
+%global2
+
+%env2
+
+
+%methRes_12
+
+	%object_0Objectš
+—
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsÔ Ô(
+%response~iSc_16"__id*
+
+%funcRes_12N
+L
+
+__unknown_file (
+%sc-P_702_29"__id**
+
+%env"
+%scope-P_702N
+L
+
+__unknown_file (
+%sc-P_702_30"__id**
+
+%env"
+%scope-P_702÷"ô
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsß ß(
+%funcRes_13*!
+
+%sc-P_702_30"
+checkResponse2
+	
+%global2
+
+%env2
+
+%response~iSc_162'%
+#Successfully reported bundle sizes.*
+s8_4
+s8_6*„
+
+s8_4
+<synthetic> (N
+L
+
+__unknown_file (
+%sc-P_702_31"__id**
+
+%env"
+%scope-P_702N
+L
+
+__unknown_file (
+%sc-P_702_32"__id**
+
+%env"
+%scope-P_702N
+L
+
+__unknown_file (
+%sc-P_702_33"__id**
+
+%env"
+%scope-P_702¿"¼
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsâ â(
+%funcRes_14*
+
+%sc-P_702_33"
+yellow2
+	
+%global2
+
+%env2
+
+WARNING:N
+L
+
+__unknown_file (
+%sc-P_702_34"__id**
+
+%env"
+%scope-P_702ü"ù
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsá á(	
+%funcRes_15*
+
+%sc-P_702_34"
+log2
+	
+%global2
+
+%env2
+
+%funcRes_142;9
+7Could not report the bundle sizes for this pull requestN
+L
+
+__unknown_file (
+%sc-P_702_35"__id**
+
+%env"
+%scope-P_702N
+L
+
+__unknown_file (
+%sc-P_702_36"__id**
+
+%env"
+%scope-P_702Ñ"Î
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jså å(
+%funcRes_16*'
+
+%sc-P_702_36"
+logWithoutTimestamp2
+	
+%global2
+
+%env2
+
+%error~iSc_17"p
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsæ æ( *%
+s8_6
+<synthetic> (*
+s8_8*´
+s8_7
+<synthetic> (N
+L
+
+__unknown_file (
+%sc-P_702_37"__id**
+
+%env"
+%scope-P_702N
+L
+
+__unknown_file (
+%sc-P_702_38"__id**
+
+%env"
+%scope-P_702N
+L
+
+__unknown_file (
+%sc-P_702_39"__id**
+
+%env"
+%scope-P_702¿"¼
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsê ê(
+%funcRes_17*
+
+%sc-P_702_39"
+yellow2
+	
+%global2
+
+%env2
+
+WARNING:N
+L
+
+__unknown_file (
+%sc-P_702_40"__id**
+
+%env"
+%scope-P_702Š"‡
+j
+^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/bundle-size/index.jsé é(
+%funcRes_18*
+
+%sc-P_702_40"
+log2
+	
+%global2
+
+%env2
+
+%funcRes_172IG
+EBundle sizes from pull requests can be reported only during CI builds*
+s8_8*=
+s8_8
+<synthetic> ("
+
+__unknown_file ( :
+%envB 

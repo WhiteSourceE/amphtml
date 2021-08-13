@@ -1,0 +1,531 @@
+
+Fextensions_amp_lightbox_0_1_test_test_amp_lightbox_js_276_61_A_34192_0x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsî< î(H"s40_1*Ç>
+s40_1
+<synthetic> (C
+A
+
+__unknown_file (	
+%global"__id**
+
+%env"
+global86
+
+__unknown_file (
+%scope-A_34192_0"ObjectV
+T
+
+__unknown_file (
+
+%env"
+%scope-A_34192_0"__id*
+
+%scope-A_34192_0Y
+W
+
+__unknown_file (
+%sc-A_34158_env_0"__id* *
+
+%env"
+%scope-A_34158_envY
+W
+
+__unknown_file (
+%sc-A_34158_env_1"__id* *
+
+%env"
+%scope-A_34158_env„"‡
+x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsï ï(,
+
+%funcRes_0*,
+
+%sc-A_34158_env_1"
+createOpeningButton2
+	
+%global2
+
+%env2
+openingButton∑
+¥
+x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsï ï("
+
+%scope-A_34192_0"
+
+openButton"__id*
+
+
+%funcRes_0Y
+W
+
+__unknown_file (
+%sc-A_34158_env_2"__id* *
+
+%env"
+%scope-A_34158_envY
+W
+
+__unknown_file (
+%sc-A_34158_env_3"__id* *
+
+%env"
+%scope-A_34158_envÀ"»
+x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsñ ñ(%
+
+%funcRes_1*'
+
+%sc-A_34158_env_3"
+createLightbox2
+	
+%global2
+
+%envü
+ú
+x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsñ ñ(
+
+lightbox"__id*
+
+
+%funcRes_1Y
+W
+
+__unknown_file (
+%sc-A_34158_env_4"__id* *
+
+%env"
+%scope-A_34158_envY
+W
+
+__unknown_file (
+%sc-A_34158_env_5"__id* *
+
+%env"
+%scope-A_34158_envŒ"À
+x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsó ó(+
+
+%funcRes_2**
+
+%sc-A_34158_env_5"
+createCloseButton2
+	
+%global2
+
+%env∏
+µ
+x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsó ó(#
+
+%scope-A_34192_0"
+closeButton"__id*
+
+
+%funcRes_2L
+J
+
+__unknown_file (	
+%expr_0"__id**
+
+
+lightbox"
+appendChildÁ"‰
+x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsò ò(
+
+%methRes_0*
+
+
+lightbox"
+appendChild2
+
+
+lightbox2
+
+%env2%*#
+
+%scope-A_34192_0"
+closeButtonH
+F
+
+__unknown_file (	
+%expr_1"__id**
+
+
+lightbox"	
+getImpl¬"ø
+x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsô" ô()
+
+%methRes_1*
+
+
+lightbox"	
+getImpl2
+
+
+lightbox2
+
+%env22õ
+ò
+x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsô ô(
+impl"__id*
+
+
+%methRes_1Y
+W
+
+__unknown_file (
+%sc-A_34158_env_6"__id* *
+
+%env"
+%scope-A_34158_envM
+K
+
+__unknown_file (	
+%expr_2"__id**
+
+%sc-A_34158_env_6"
+envG
+E
+
+__unknown_file (	
+%expr_3"__id**
+	
+%expr_2"	
+sandboxC
+A
+
+__unknown_file (	
+%expr_4"__id**
+	
+%expr_3"
+spy”"–
+x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsõ" õ(%
+
+%methRes_2*
+	
+%expr_3"
+spy2
+	
+%expr_32
+
+%env2
+
+impl2
+finalizeOpen_û
+õ
+x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsõ õ(	
+openSpy"__id*
+
+
+%methRes_2Y
+W
+
+__unknown_file (
+%sc-A_34158_env_7"__id* *
+
+%env"
+%scope-A_34158_envM
+K
+
+__unknown_file (	
+%expr_5"__id**
+
+%sc-A_34158_env_7"
+envG
+E
+
+__unknown_file (	
+%expr_6"__id**
+	
+%expr_5"	
+sandboxC
+A
+
+__unknown_file (	
+%expr_7"__id**
+	
+%expr_6"
+spy‘"—
+x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsú# ú(&
+
+%methRes_3*
+	
+%expr_6"
+spy2
+	
+%expr_62
+
+%env2
+
+impl2
+finalizeClose_ü
+ú
+x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsú ú(
+
+closeSpy"__id*
+
+
+%methRes_3Y
+W
+
+__unknown_file (
+%sc-A_34158_env_8"__id* *
+
+%env"
+%scope-A_34158_envM
+K
+
+__unknown_file (	
+%expr_8"__id**
+
+%sc-A_34158_env_8"
+envG
+E
+
+__unknown_file (	
+%expr_9"__id**
+	
+%expr_8"	
+sandboxO
+M
+
+__unknown_file (
+%sc-P_3145_0"__id**
+
+%env"
+%scope-P_3145D
+B
+
+__unknown_file (
+
+%expr_10"__id**
+	
+%expr_9"
+spyﬂ"‹
+x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsù& ù()
+
+%methRes_4*
+	
+%expr_9"
+spy2
+	
+%expr_92
+
+%env2*
+
+%sc-P_3145_0"
+dom2
+
+tryFocus∏
+µ
+x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsù ù(#
+
+%scope-A_34192_0"
+tryFocusSpy"__id*
+
+
+%methRes_4á
+Ñ
+
+__unknown_file (	
+%func_0"__declareFunction*JH
+Fextensions_amp_lightbox_0_1_test_test_amp_lightbox_js_286_26_A_34193_0fd
+
+__unknown_file (/
+%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_0"
+__setProto*
+	
+%func_0*1
+/
+%functionPrototype_0%SonarFunctionPrototype©
+¶
+x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsû û(
+
+impl"
+getHistory_"__id*
+	
+%func_0T
+R
+
+__unknown_file (
+
+%expr_11"__id*$*"
+
+%scope-A_34192_0"
+
+openButtonG
+E
+
+__unknown_file (
+
+%expr_12"__id**
+
+
+%expr_11"
+click∫"∑
+x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.js• •(
+
+%methRes_5*
+
+
+%expr_11"
+click2
+
+
+%expr_112
+
+%envO
+M
+
+__unknown_file (
+%sc-P_3145_1"__id**
+
+%env"
+%scope-P_3145O
+M
+
+__unknown_file (
+%sc-P_3145_2"__id**
+
+%env"
+%scope-P_3145œ"Ã
+x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.js¶ ¶(
+
+%funcRes_3*
+
+%sc-P_3145_2"
+
+whenCalled2
+	
+%global2
+
+%env2
+	
+openSpyá
+Ñ
+
+__unknown_file (	
+%func_1"__declareFunction*JH
+Fextensions_amp_lightbox_0_1_test_test_amp_lightbox_js_294_32_A_34196_0V
+T
+
+__unknown_file (
+
+%env"
+%scope-A_34192_0"__id*
+
+%scope-A_34192_0fd
+
+__unknown_file (/
+%functionPrototype_1%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_1"
+__setProto*
+	
+%func_1*1
+/
+%functionPrototype_1%SonarFunctionPrototypeΩ"∫
+x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.js¶ ¶(
+
+%funcRes_4"	
+%func_12
+	
+%global2
+
+%env2
+
+
+%funcRes_3O
+M
+
+__unknown_file (
+%sc-P_3145_3"__id**
+
+%env"
+%scope-P_3145O
+M
+
+__unknown_file (
+%sc-P_3145_4"__id**
+
+%env"
+%scope-P_3145–"Õ
+x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.js® ®(
+
+%funcRes_5*
+
+%sc-P_3145_4"
+
+whenCalled2
+	
+%global2
+
+%env2
+
+
+closeSpyá
+Ñ
+
+__unknown_file (	
+%func_2"__declareFunction*JH
+Fextensions_amp_lightbox_0_1_test_test_amp_lightbox_js_296_40_A_34197_0V
+T
+
+__unknown_file (
+
+%env"
+%scope-A_34192_0"__id*
+
+%scope-A_34192_0fd
+
+__unknown_file (/
+%functionPrototype_2%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_2"
+__setProto*
+	
+%func_2*1
+/
+%functionPrototype_2%SonarFunctionPrototypeΩ"∫
+x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.js®" ®(&
+
+%funcRes_6"	
+%func_22
+	
+%global2
+
+%env2
+
+
+%funcRes_5"ä
+x
+l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.js® ™(	
+
+
+%funcRes_6:
+%envB 

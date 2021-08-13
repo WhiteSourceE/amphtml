@@ -1,0 +1,627 @@
+
+Bextensions_amp_addthis_0_1_addthis_utils_pjson_js_39_22_A_1176_pjsr
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js' '( "s2_1*Ç%
+s2_1
+<synthetic> (C
+A
+
+__unknown_file (	
+%global"__id**
+
+%env"
+globalû
+õ
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js(	 ((
+ampDoc"__id**
+
+pjson"
+ampDocö
+ó
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js( ((
+data"__id**
+
+pjson"
+dataò
+ï
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js( ((
+loc"__id**
+
+pjson"
+locú
+ô
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js( ((!
+pubId"__id**
+
+pjson"
+pubId¢
+ü
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js(# ((+
+
+referrer"__id**
+
+pjson"
+
+referrerú
+ô
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js(- ((2
+title"__id**
+
+pjson"
+titleò
+ï
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js)	 )(
+hash"__id**
+
+loc"
+hash†
+ù
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js) )(
+
+hostname"__id**
+
+loc"
+
+hostnameò
+ï
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js) )(
+href"__id**
+
+loc"
+href†
+ù
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js) )('
+
+pathname"__id**
+
+loc"
+
+pathnameò
+ï
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js)) )(-
+port"__id**
+
+loc"
+port†
+ù
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js)/ )(7
+
+protocol"__id**
+
+loc"
+
+protocolú
+ô
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js)9 )(?
+search"__id**
+
+loc"
+searchB
+@
+
+__unknown_file (	
+%expr_0"__id**
+
+href"
+split≥"∞
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js7 7(
+
+%methRes_0*
+
+href"
+split2
+
+href2
+
+%env2
+#H
+F
+
+__unknown_file (	
+%expr_1"__id**
+
+
+%methRes_0"
+shift∏"µ
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js7 7(
+
+%methRes_1*
+
+
+%methRes_0"
+shift2
+
+
+%methRes_02
+
+%envîë
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js6 A(
+	%object_0Object"Object™
+ß
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js7 7(
+
+	%object_0Object"
+du"__id*
+
+
+%methRes_1Æ
+´
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js8 8(!
+
+	%object_0Object"
+
+hostname"__id*
+
+
+hostname¶
+£
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js9 9(
+
+	%object_0Object"
+href"__id*
+
+hrefÆ
+´
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js: :(!
+
+	%object_0Object"
+
+referrer"__id*
+
+
+referrer™
+ß
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js; ;(
+
+
+	%object_0Object"
+search"__id*
+
+
+searchÆ
+´
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js< <(!
+
+	%object_0Object"
+
+pathname"__id*
+
+
+pathname®
+•
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js= =(	
+
+	%object_0Object"
+title"__id*	
+
+title¶
+£
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js> >(
+
+	%object_0Object"
+hash"__id*
+
+hashÆ
+´
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js? ?(!
+
+	%object_0Object"
+
+protocol"__id*
+
+
+protocol¶
+£
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js@ @(
+
+	%object_0Object"
+port"__id*
+
+port†
+ù
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.js6 6(
+
+pageInfo"__id*
+
+	%object_0Object*
+s2_2
+s2_3*ﬂ
+s2_2
+<synthetic> (M
+K
+
+__unknown_file (
+%sc-P_154_0"__id**
+
+%env"
+%scope-P_154M
+K
+
+__unknown_file (
+%sc-P_154_1"__id**
+
+%env"
+%scope-P_154—"Œ
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsB$ B(6
+
+%funcRes_0*%
+
+%sc-P_154_1"
+parseUrlDeprecated2
+	
+%global2
+
+%env2
+
+
+referrerF
+D
+
+__unknown_file (
+%unionThenElse_0"__id*
+
+
+%funcRes_0*
+s2_4*ã
+s2_3
+<synthetic> (îë
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsBC B(E
+	%object_1Object"ObjectM
+K
+
+__unknown_file (
+%unionThenElse_0"__id*
+
+	%object_1Object*
+s2_4*Ü)
+s2_4
+<synthetic> (•
+¢
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsB B(
+parsedReferrer"__id*
+
+%unionThenElse_0ô
+ñ
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsC	 C(
+win"__id**
+
+ampDoc"
+winM
+K
+
+__unknown_file (
+%sc-P_154_2"__id**
+
+%env"
+%scope-P_154M
+K
+
+__unknown_file (
+%sc-P_154_3"__id**
+
+%env"
+%scope-P_154M
+K
+
+__unknown_file (
+%sc-P_154_4"__id**
+
+%env"
+%scope-P_154◊"‘
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsD D(.
+
+%funcRes_1*"
+
+%sc-P_154_4"
+getMetaElements2
+	
+%global2
+
+%env2*
+
+win"
+
+documentM
+K
+
+__unknown_file (
+%sc-P_154_5"__id**
+
+%env"
+%scope-P_154»"≈
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsD D(
+
+%funcRes_2*
+
+%sc-P_154_5"	
+toArray2
+	
+%global2
+
+%env2
+
+
+%funcRes_1ù
+ö
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsD D(
+metaElements"__id*
+
+
+%funcRes_2M
+K
+
+__unknown_file (
+%sc-P_154_6"__id**
+
+%env"
+%scope-P_154M
+K
+
+__unknown_file (
+%sc-P_154_7"__id**
+
+%env"
+%scope-P_154›"⁄
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsH H(
+
+%funcRes_3*
+
+%sc-P_154_7"
+classifyPage2
+	
+%global2
+
+%env2
+
+
+pageInfo2
+
+metaElementsM
+K
+
+__unknown_file (
+%sc-P_154_8"__id**
+
+%env"
+%scope-P_154M
+K
+
+__unknown_file (
+%sc-P_154_9"__id**
+
+%env"
+%scope-P_154N
+L
+
+__unknown_file (
+%sc-P_154_10"__id**
+
+%env"
+%scope-P_154’"“
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsL L(
+
+%funcRes_4*%
+
+%sc-P_154_10"
+getKeywordsString2
+	
+%global2
+
+%env2
+
+metaElementsN
+L
+
+__unknown_file (
+%sc-P_154_11"__id**
+
+%env"
+%scope-P_154N
+L
+
+__unknown_file (
+%sc-P_154_12"__id**
+
+%env"
+%scope-P_154N
+L
+
+__unknown_file (
+%sc-P_154_13"__id**
+
+%env"
+%scope-P_154⁄"◊
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsQ Q(
+
+%funcRes_5*&
+
+%sc-P_154_13"
+parseUrlDeprecated2
+	
+%global2
+
+%env2*
+
+
+pageInfo"
+duN
+L
+
+__unknown_file (
+%sc-P_154_14"__id**
+
+%env"
+%scope-P_154Ù"Ò
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsN N(
+
+%funcRes_6*$
+
+%sc-P_154_14"
+classifyReferrer2
+	
+%global2
+
+%env2
+
+
+referrer2
+
+parsedReferrer2
+
+
+%funcRes_5N
+L
+
+__unknown_file (
+%sc-P_154_15"__id**
+
+%env"
+%scope-P_154N
+L
+
+__unknown_file (
+%sc-P_154_16"__id**
+
+%env"
+%scope-P_154æ"ª
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsS	 S(
+
+%funcRes_7* 
+
+%sc-P_154_16"
+getSessionId2
+	
+%global2
+
+%envîë
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsF	 U(
+	%object_2Object"Object°
+û
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsG G(
+
+
+	%object_2Object"
+amp"__id*2™
+ß
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsH H(,
+
+	%object_2Object"
+cb"__id*
+
+
+%funcRes_3†
+ù
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsI I(	
+
+	%object_2Object"
+dc"__id*2≥
+∞
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsJ J(
+
+	%object_2Object"
+dest"__id**
+
+data"	
+service∑
+¥
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsK K(
+
+	%object_2Object"
+gen"__id**
+
+%sc-P_154_8"
+SHARE™
+ß
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsL L('
+
+	%object_2Object"
+mk"__id*
+
+
+%funcRes_4¶
+£
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsM M(
+
+	%object_2Object"
+pub"__id*	
+
+pubId™
+ß
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsN R(
+
+	%object_2Object"
+rb"__id*
+
+
+%funcRes_6´
+®
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsS S(
+
+	%object_2Object"
+sid"__id*
+
+
+%funcRes_7Æ
+´
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsT T(
+
+	%object_2Object"
+url"__id**
+
+data"
+url"ã
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-addthis/0.1/addthis-utils/pjson.jsF U(
+
+	%object_2Object:
+%env:
+pjsonB 

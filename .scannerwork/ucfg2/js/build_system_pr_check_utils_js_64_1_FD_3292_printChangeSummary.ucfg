@@ -1,0 +1,1085 @@
+
+>build_system_pr_check_utils_js_64_1_FD_3292_printChangeSummary_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.js@	 @("s2_1*ü
+s2_1
+<synthetic> (C
+A
+
+__unknown_file (	
+%global"__id**
+
+%env"
+globalO
+M
+
+__unknown_file (
+%sc-P_1898_0"__id**
+
+%env"
+%scope-P_1898O
+M
+
+__unknown_file (
+%sc-P_1898_1"__id**
+
+%env"
+%scope-P_1898Ø"¨
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsA A((
+
+%funcRes_0*$
+
+%sc-P_1898_1"
+getLoggingPrefix2
+	
+%global2
+
+%envã
+à
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsA A(
+loggingPrefix"__id*
+
+
+%funcRes_0O
+M
+
+__unknown_file (
+%sc-P_1898_2"__id**
+
+%env"
+%scope-P_1898O
+M
+
+__unknown_file (
+%sc-P_1898_3"__id**
+
+%env"
+%scope-P_1898®"•
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsD D(
+
+%funcRes_1*
+
+%sc-P_1898_3"
+	isCiBuild2
+	
+%global2
+
+%env*
+s2_2
+s2_3*Ÿ
+s2_2
+<synthetic> (O
+M
+
+__unknown_file (
+%sc-P_1898_4"__id**
+
+%env"
+%scope-P_1898O
+M
+
+__unknown_file (
+%sc-P_1898_5"__id**
+
+%env"
+%scope-P_1898O
+M
+
+__unknown_file (
+%sc-P_1898_6"__id**
+
+%env"
+%scope-P_1898≠"™
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsF- F(1
+
+%funcRes_2*
+
+%sc-P_1898_6"
+cyan2
+	
+%global2
+
+%env2
+main»
+≈
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsF F(E
+	%concat_0"__concat*
+
+loggingPrefix*
+ Latest commit from *
+
+
+%funcRes_2*
+
+ included O
+M
+
+__unknown_file (
+%sc-P_1898_7"__id**
+
+%env"
+%scope-P_1898O
+M
+
+__unknown_file (
+%sc-P_1898_8"__id**
+
+%env"
+%scope-P_1898O
+M
+
+__unknown_file (
+%sc-P_1898_9"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_10"__id**
+
+%env"
+%scope-P_1898±"Æ
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsG( G(9
+
+%funcRes_3*&
+
+%sc-P_1898_10"
+gitCiMainBaseline2
+	
+%global2
+
+%envP
+N
+
+__unknown_file (
+%sc-P_1898_11"__id**
+
+%env"
+%scope-P_1898∏"µ
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsG G('
+
+%funcRes_4*
+
+%sc-P_1898_11"
+
+shortSha2
+	
+%global2
+
+%env2
+
+
+%funcRes_3P
+N
+
+__unknown_file (
+%sc-P_1898_12"__id**
+
+%env"
+%scope-P_1898¥"±
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsG G(
+
+%funcRes_5*
+
+%sc-P_1898_12"
+cyan2
+	
+%global2
+
+%env2
+
+
+%funcRes_4†
+ù
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsG G(?
+	%concat_1"__concat*
+in this build: *
+
+
+%funcRes_5ô
+ñ
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsF G(?
+	%concat_2"__concat*
+
+	%concat_0*
+
+	%concat_1P
+N
+
+__unknown_file (
+%sc-P_1898_13"__id**
+
+%env"
+%scope-P_1898¬"ø
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsE E(
+
+%funcRes_6*(
+
+%sc-P_1898_13"
+logWithoutTimestamp2
+	
+%global2
+
+%env2
+
+	%concat_2P
+N
+
+__unknown_file (
+%sc-P_1898_14"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_15"__id**
+
+%env"
+%scope-P_1898∞"≠
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsI I( 
+
+%funcRes_7*%
+
+%sc-P_1898_15"
+ciPullRequestSha2
+	
+%global2
+
+%envá
+Ñ
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsI I(
+	commitSha"__id*
+
+
+%funcRes_7*
+s2_4*É
+s2_3
+<synthetic> (P
+N
+
+__unknown_file (
+%sc-P_1898_16"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_17"__id**
+
+%env"
+%scope-P_1898≠"™
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsK K(
+
+%funcRes_8*"
+
+%sc-P_1898_17"
+gitCommitHash2
+	
+%global2
+
+%envá
+Ñ
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsK K(
+	commitSha"__id*
+
+
+%funcRes_8*
+s2_4*Ú
+s2_4
+<synthetic> (P
+N
+
+__unknown_file (
+%sc-P_1898_18"__id**
+
+%env"
+%scope-P_1898Ω
+∫
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsN N(?
+	%concat_3"__concat*
+
+loggingPrefix*-+
+) Testing the following changes at commit P
+N
+
+__unknown_file (
+%sc-P_1898_19"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_20"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_21"__id**
+
+%env"
+%scope-P_1898∑"¥
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsO O(
+
+%funcRes_9*
+
+%sc-P_1898_21"
+
+shortSha2
+	
+%global2
+
+%env2
+
+	commitShaP
+N
+
+__unknown_file (
+%sc-P_1898_22"__id**
+
+%env"
+%scope-P_1898µ"≤
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsO	 O(
+%funcRes_10*
+
+%sc-P_1898_22"
+cyan2
+	
+%global2
+
+%env2
+
+
+%funcRes_9õ
+ò
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsN O($
+	%concat_4"__concat*
+
+	%concat_3*
+
+%funcRes_10P
+N
+
+__unknown_file (
+%sc-P_1898_23"__id**
+
+%env"
+%scope-P_1898√"¿
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsM M(
+%funcRes_11*(
+
+%sc-P_1898_23"
+logWithoutTimestamp2
+	
+%global2
+
+%env2
+
+	%concat_4P
+N
+
+__unknown_file (
+%sc-P_1898_24"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_25"__id**
+
+%env"
+%scope-P_1898∞"≠
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsR R(&
+%funcRes_12*$
+
+%sc-P_1898_25"
+gitDiffStatMain2
+	
+%global2
+
+%envã
+à
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsR R(
+filesChanged"__id*
+
+%funcRes_12P
+N
+
+__unknown_file (
+%sc-P_1898_26"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_27"__id**
+
+%env"
+%scope-P_1898∆"√
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsS S(
+%funcRes_13*(
+
+%sc-P_1898_27"
+logWithoutTimestamp2
+	
+%global2
+
+%env2
+
+filesChangedP
+N
+
+__unknown_file (
+%sc-P_1898_28"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_29"__id**
+
+%env"
+%scope-P_1898∑"¥
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsU U(4
+%funcRes_14*+
+
+%sc-P_1898_29"
+gitBranchCreationPoint2
+	
+%global2
+
+%enví
+è
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsU U(
+branchCreationPoint"__id*
+
+%funcRes_14*
+s2_5
+s2_6*‰
+s2_5
+<synthetic> (P
+N
+
+__unknown_file (
+%sc-P_1898_30"__id**
+
+%env"
+%scope-P_1898¨
+©
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsX X(0
+	%concat_5"__concat*
+
+loggingPrefix*
+ Commit log since branchP
+N
+
+__unknown_file (
+%sc-P_1898_31"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_32"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_33"__id**
+
+%env"
+%scope-P_1898Æ"´
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsY Y(
+%funcRes_15*"
+
+%sc-P_1898_33"
+gitBranchName2
+	
+%global2
+
+%envP
+N
+
+__unknown_file (
+%sc-P_1898_34"__id**
+
+%env"
+%scope-P_1898∂"≥
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsY	 Y(
+%funcRes_16*
+
+%sc-P_1898_34"
+cyan2
+	
+%global2
+
+%env2
+
+%funcRes_15¢
+ü
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsY Y(0
+	%concat_6"__concat*
+
+%funcRes_16*
+ was forked fromP
+N
+
+__unknown_file (
+%sc-P_1898_35"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_36"__id**
+
+%env"
+%scope-P_1898Ø"¨
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsZ	 Z(
+%funcRes_17*
+
+%sc-P_1898_36"
+cyan2
+	
+%global2
+
+%env2
+mainï
+í
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsZ Z(
+	%concat_7"__concat*
+
+%funcRes_17*
+ atP
+N
+
+__unknown_file (
+%sc-P_1898_37"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_38"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_39"__id**
+
+%env"
+%scope-P_1898¬"ø
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.js[ [(
+%funcRes_18*
+
+%sc-P_1898_39"
+
+shortSha2
+	
+%global2
+
+%env2
+
+branchCreationPointP
+N
+
+__unknown_file (
+%sc-P_1898_40"__id**
+
+%env"
+%scope-P_1898∂"≥
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.js[	 [(
+%funcRes_19*
+
+%sc-P_1898_40"
+cyan2
+	
+%global2
+
+%env2
+
+%funcRes_18ì
+ê
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.js[ [(/
+	%concat_8"__concat*
+
+%funcRes_19*
+:P
+N
+
+__unknown_file (
+%sc-P_1898_41"__id**
+
+%env"
+%scope-P_1898"Ì
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsW W(
+%funcRes_20*(
+
+%sc-P_1898_41"
+logWithoutTimestamp2
+	
+%global2
+
+%env2
+
+	%concat_52
+
+	%concat_62
+
+	%concat_72
+
+	%concat_8P
+N
+
+__unknown_file (
+%sc-P_1898_42"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_43"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_44"__id**
+
+%env"
+%scope-P_1898±"Æ
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.js] ]((
+%funcRes_21*%
+
+%sc-P_1898_44"
+gitDiffCommitLog2
+	
+%global2
+
+%envì
+ê
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.js] ](1
+	%concat_9"__concat*
+
+%funcRes_21*
+
+P
+N
+
+__unknown_file (
+%sc-P_1898_45"__id**
+
+%env"
+%scope-P_1898√"¿
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.js] ](
+%funcRes_22*(
+
+%sc-P_1898_45"
+logWithoutTimestamp2
+	
+%global2
+
+%env2
+
+	%concat_9*
+s2_7*œ%
+s2_6
+<synthetic> (P
+N
+
+__unknown_file (
+%sc-P_1898_46"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_47"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_48"__id**
+
+%env"
+%scope-P_1898µ"≤
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsa a(
+%funcRes_23*
+
+%sc-P_1898_48"
+yellow2
+	
+%global2
+
+%env2
+
+WARNING:P
+N
+
+__unknown_file (
+%sc-P_1898_49"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_50"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_51"__id**
+
+%env"
+%scope-P_1898Æ"´
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsc c(
+%funcRes_24*"
+
+%sc-P_1898_51"
+gitBranchName2
+	
+%global2
+
+%envP
+N
+
+__unknown_file (
+%sc-P_1898_52"__id**
+
+%env"
+%scope-P_1898∂"≥
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsc c(
+
+%funcRes_25*
+
+%sc-P_1898_52"
+cyan2
+	
+%global2
+
+%env2
+
+%funcRes_24P
+N
+
+__unknown_file (
+%sc-P_1898_53"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_54"__id**
+
+%env"
+%scope-P_1898Ø"¨
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jse e(
+
+%funcRes_26*
+
+%sc-P_1898_54"
+cyan2
+	
+%global2
+
+%env2
+mainæ
+ª
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jse e(B
+
+%concat_10"__concat*
+
+%funcRes_26*/-
++. (This can happen with older PR branches.)P
+N
+
+__unknown_file (
+%sc-P_1898_55"__id**
+
+%env"
+%scope-P_1898¨"©
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.js_ _(
+%funcRes_27*(
+
+%sc-P_1898_55"
+logWithoutTimestamp2
+	
+%global2
+
+%env2
+
+loggingPrefix2
+
+%funcRes_232(&
+$Could not find a common ancestor for2
+
+%funcRes_252
+and2
+
+
+%concat_10P
+N
+
+__unknown_file (
+%sc-P_1898_56"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_57"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_58"__id**
+
+%env"
+%scope-P_1898¥"±
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsi i(
+%funcRes_28*
+
+%sc-P_1898_58"
+yellow2
+	
+%global2
+
+%env2	
+NOTE 1:P
+N
+
+__unknown_file (
+%sc-P_1898_59"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_60"__id**
+
+%env"
+%scope-P_1898Ø"¨
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsk k(
+
+%funcRes_29*
+
+%sc-P_1898_60"
+cyan2
+	
+%global2
+
+%env2
+mainî
+ë
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsk k(
+
+%concat_11"__concat*
+
+%funcRes_29*
+.P
+N
+
+__unknown_file (
+%sc-P_1898_61"__id**
+
+%env"
+%scope-P_1898¥"±
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsg g(
+%funcRes_30*(
+
+%sc-P_1898_61"
+logWithoutTimestamp2
+	
+%global2
+
+%env2
+
+loggingPrefix2
+
+%funcRes_282JH
+FIf this causes unexpected test failures, try rebasing the PR branch on2
+
+
+%concat_11P
+N
+
+__unknown_file (
+%sc-P_1898_62"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_63"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_64"__id**
+
+%env"
+%scope-P_1898¥"±
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jso o(
+%funcRes_31*
+
+%sc-P_1898_64"
+yellow2
+	
+%global2
+
+%env2	
+NOTE 2:P
+N
+
+__unknown_file (
+%sc-P_1898_65"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_66"__id**
+
+%env"
+%scope-P_1898P
+N
+
+__unknown_file (
+%sc-P_1898_67"__id**
+
+%env"
+%scope-P_1898Ã"…
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsq q(
+
+%funcRes_32*
+
+%sc-P_1898_67"
+cyan2
+	
+%global2
+
+%env2%*#
+
+%sc-P_1898_66"
+GIT_BRANCH_URLï
+í
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsq q("
+
+%concat_12"__concat*
+
+%funcRes_32*
+.
+P
+N
+
+__unknown_file (
+%sc-P_1898_68"__id**
+
+%env"
+%scope-P_1898∞"≠
+_
+U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/utils.jsm m(
+%funcRes_33*(
+
+%sc-P_1898_68"
+logWithoutTimestamp2
+	
+%global2
+
+%env2
+
+loggingPrefix2
+
+%funcRes_312FD
+BIf rebasing doesn't work, you may have to recreate the branch. See2
+
+
+%concat_12*
+s2_7*=
+s2_7
+<synthetic> ("
+
+__unknown_file ( :
+%envB 

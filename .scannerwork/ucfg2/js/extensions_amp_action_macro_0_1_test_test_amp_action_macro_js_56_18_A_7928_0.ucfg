@@ -1,0 +1,869 @@
+
+Lextensions_amp_action_macro_0_1_test_test_amp_action_macro_js_56_18_A_7928_0~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.js8 8("s7_1*¶_
+s7_1
+<synthetic> (S
+Q
+
+__unknown_file (
+%sc-A_7927_0_0"__id**
+
+%env"
+%scope-A_7927_0W
+U
+
+__unknown_file (
+%sc-A_7924_env_0"__id**
+
+%env"
+%scope-A_7924_envL
+J
+
+__unknown_file (	
+%expr_0"__id**
+
+%sc-A_7924_env_0"
+docM
+K
+
+__unknown_file (	
+%expr_1"__id**
+	
+%expr_0"
+createElementÜ"Ù
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.js;% ;(2
+
+%methRes_0*
+	
+%expr_0"
+createElement2
+	
+%expr_02
+
+%env2
+amp-action-macroÇ
+Ä
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.js; ;(,
+
+%sc-A_7927_0_0"
+referrableMacroElement"__id*
+
+
+%methRes_0S
+Q
+
+__unknown_file (
+%sc-A_7927_0_1"__id**
+
+%env"
+%scope-A_7927_0]
+[
+
+__unknown_file (	
+%expr_2"__id*.*,
+
+%sc-A_7927_0_1"
+referrableMacroElementL
+J
+
+__unknown_file (	
+%expr_3"__id**
+	
+%expr_2"
+setAttribute÷"ô
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.js< <(+
+
+%methRes_1*
+	
+%expr_2"
+setAttribute2
+	
+%expr_22
+
+%env2	
+execute2#!
+target.execute(index=x,index=y)S
+Q
+
+__unknown_file (
+%sc-A_7927_0_2"__id**
+
+%env"
+%scope-A_7927_0]
+[
+
+__unknown_file (	
+%expr_4"__id*.*,
+
+%sc-A_7927_0_2"
+referrableMacroElementL
+J
+
+__unknown_file (	
+%expr_5"__id**
+	
+%expr_4"
+setAttributeÝ"Ú
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.js@ @(+
+
+%methRes_2*
+	
+%expr_4"
+setAttribute2
+	
+%expr_42
+
+%env2
+	arguments2
+x,yS
+Q
+
+__unknown_file (
+%sc-A_7927_0_3"__id**
+
+%env"
+%scope-A_7927_0]
+[
+
+__unknown_file (	
+%expr_6"__id*.*,
+
+%sc-A_7927_0_3"
+referrableMacroElementL
+J
+
+__unknown_file (	
+%expr_7"__id**
+	
+%expr_6"
+setAttributeë"è
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.jsA A(+
+
+%methRes_3*
+	
+%expr_6"
+setAttribute2
+	
+%expr_62
+
+%env2
+id2
+amp-action-id-referrableS
+Q
+
+__unknown_file (
+%sc-A_7927_0_4"__id**
+
+%env"
+%scope-A_7927_0W
+U
+
+__unknown_file (
+%sc-A_7924_env_1"__id**
+
+%env"
+%scope-A_7924_envL
+J
+
+__unknown_file (	
+%expr_8"__id**
+
+%sc-A_7924_env_1"
+docM
+K
+
+__unknown_file (	
+%expr_9"__id**
+	
+%expr_8"
+createElementÜ"Ù
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.jsC" C(/
+
+%methRes_4*
+	
+%expr_8"
+createElement2
+	
+%expr_82
+
+%env2
+amp-action-macroÄ
+Á
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.jsC C()
+
+%sc-A_7927_0_4"
+callingMacroElement"__id*
+
+
+%methRes_4S
+Q
+
+__unknown_file (
+%sc-A_7927_0_5"__id**
+
+%env"
+%scope-A_7927_0[
+Y
+
+__unknown_file (
+
+%expr_10"__id*+*)
+
+%sc-A_7927_0_5"
+callingMacroElementN
+L
+
+__unknown_file (
+
+%expr_11"__id**
+
+
+%expr_10"
+setAttributeù"ö
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.jsD D((
+
+%methRes_5*
+
+
+%expr_10"
+setAttribute2
+
+
+%expr_102
+
+%env2	
+execute2#!
+target.execute(index=x,index=y)S
+Q
+
+__unknown_file (
+%sc-A_7927_0_6"__id**
+
+%env"
+%scope-A_7927_0[
+Y
+
+__unknown_file (
+
+%expr_12"__id*+*)
+
+%sc-A_7927_0_6"
+callingMacroElementN
+L
+
+__unknown_file (
+
+%expr_13"__id**
+
+
+%expr_12"
+setAttributeß"Ü
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.jsH H((
+
+%methRes_6*
+
+
+%expr_12"
+setAttribute2
+
+
+%expr_122
+
+%env2
+	arguments2
+x,yS
+Q
+
+__unknown_file (
+%sc-A_7927_0_7"__id**
+
+%env"
+%scope-A_7927_0[
+Y
+
+__unknown_file (
+
+%expr_14"__id*+*)
+
+%sc-A_7927_0_7"
+callingMacroElementN
+L
+
+__unknown_file (
+
+%expr_15"__id**
+
+
+%expr_14"
+setAttributeâ"ß
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.jsI I((
+
+%methRes_7*
+
+
+%expr_14"
+setAttribute2
+
+
+%expr_142
+
+%env2
+id2
+amp-action-idS
+Q
+
+__unknown_file (
+%sc-A_7927_0_8"__id**
+
+%env"
+%scope-A_7927_0W
+U
+
+__unknown_file (
+%sc-A_7924_env_2"__id**
+
+%env"
+%scope-A_7924_envM
+K
+
+__unknown_file (
+
+%expr_16"__id**
+
+%sc-A_7924_env_2"
+docO
+M
+
+__unknown_file (
+
+%expr_17"__id**
+
+
+%expr_16"
+createElementÞ"Û
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.jsM' M(4
+
+%methRes_8*
+
+
+%expr_16"
+createElement2
+
+
+%expr_162
+
+%env2
+amp-action-macroÉ
+Æ
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.jsM M( .
+
+%sc-A_7927_0_8"
+unreferrableMacroElement"__id*
+
+
+%methRes_8S
+Q
+
+__unknown_file (
+%sc-A_7927_0_9"__id**
+
+%env"
+%scope-A_7927_0`
+^
+
+__unknown_file (
+
+%expr_18"__id*0*.
+
+%sc-A_7927_0_9"
+unreferrableMacroElementN
+L
+
+__unknown_file (
+
+%expr_19"__id**
+
+
+%expr_18"
+setAttributeù"ö
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.jsN! N(-
+
+%methRes_9*
+
+
+%expr_18"
+setAttribute2
+
+
+%expr_182
+
+%env2	
+execute2#!
+target.execute(index=x,index=y)T
+R
+
+__unknown_file (
+%sc-A_7927_0_10"__id**
+
+%env"
+%scope-A_7927_0a
+_
+
+__unknown_file (
+
+%expr_20"__id*1*/
+
+%sc-A_7927_0_10"
+unreferrableMacroElementN
+L
+
+__unknown_file (
+
+%expr_21"__id**
+
+
+%expr_20"
+setAttributeà"Ý
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.jsR! R(-
+%methRes_10*
+
+
+%expr_20"
+setAttribute2
+
+
+%expr_202
+
+%env2
+	arguments2
+x,yT
+R
+
+__unknown_file (
+%sc-A_7927_0_11"__id**
+
+%env"
+%scope-A_7927_0a
+_
+
+__unknown_file (
+
+%expr_22"__id*1*/
+
+%sc-A_7927_0_11"
+unreferrableMacroElementN
+L
+
+__unknown_file (
+
+%expr_23"__id**
+
+
+%expr_22"
+setAttributeð"í
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.jsS! S(-
+%methRes_11*
+
+
+%expr_22"
+setAttribute2
+
+
+%expr_222
+
+%env2
+id2
+amp-action-id-unreferrableW
+U
+
+__unknown_file (
+%sc-A_7924_env_3"__id**
+
+%env"
+%scope-A_7924_envM
+K
+
+__unknown_file (
+
+%expr_24"__id**
+
+%sc-A_7924_env_3"
+docF
+D
+
+__unknown_file (
+
+%expr_25"__id**
+
+
+%expr_24"
+bodyT
+R
+
+__unknown_file (
+%sc-A_7927_0_12"__id**
+
+%env"
+%scope-A_7927_0M
+K
+
+__unknown_file (
+
+%expr_26"__id**
+
+
+%expr_25"
+appendChildø"õ
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.jsX X(
+%methRes_12*
+
+
+%expr_25"
+appendChild2
+
+
+%expr_252
+
+%env2/*-
+
+%sc-A_7927_0_12"
+referrableMacroElementW
+U
+
+__unknown_file (
+%sc-A_7924_env_4"__id**
+
+%env"
+%scope-A_7924_envM
+K
+
+__unknown_file (
+
+%expr_27"__id**
+
+%sc-A_7924_env_4"
+docF
+D
+
+__unknown_file (
+
+%expr_28"__id**
+
+
+%expr_27"
+bodyT
+R
+
+__unknown_file (
+%sc-A_7927_0_13"__id**
+
+%env"
+%scope-A_7927_0M
+K
+
+__unknown_file (
+
+%expr_29"__id**
+
+
+%expr_28"
+appendChildõ"ò
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.jsY Y(
+%methRes_13*
+
+
+%expr_28"
+appendChild2
+
+
+%expr_282
+
+%env2,**
+
+%sc-A_7927_0_13"
+callingMacroElementW
+U
+
+__unknown_file (
+%sc-A_7924_env_5"__id**
+
+%env"
+%scope-A_7924_envM
+K
+
+__unknown_file (
+
+%expr_30"__id**
+
+%sc-A_7924_env_5"
+docF
+D
+
+__unknown_file (
+
+%expr_31"__id**
+
+
+%expr_30"
+bodyT
+R
+
+__unknown_file (
+%sc-A_7927_0_14"__id**
+
+%env"
+%scope-A_7927_0M
+K
+
+__unknown_file (
+
+%expr_32"__id**
+
+
+%expr_31"
+appendChildú"÷
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.jsZ Z(
+%methRes_14*
+
+
+%expr_31"
+appendChild2
+
+
+%expr_312
+
+%env21*/
+
+%sc-A_7927_0_14"
+unreferrableMacroElementT
+R
+
+__unknown_file (
+%sc-A_7927_0_15"__id**
+
+%env"
+%scope-A_7927_0M
+K
+
+__unknown_file (
+%sc-P_784_0"__id**
+
+%env"
+%scope-P_784T
+R
+
+__unknown_file (
+%sc-A_7927_0_16"__id**
+
+%env"
+%scope-A_7927_0 
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.js[ [(D
+	%object_0Object"ObjectS
+Q
+
+__unknown_file (
+
+%expr_33"__id*#*!
+
+%sc-P_784_0"
+AmpActionMacro‡"„
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.js[ [(D
+%methRes_15*!
+
+%sc-P_784_0"
+AmpActionMacro2
+
+	%object_0Object2
+
+%env2/*-
+
+%sc-A_7927_0_16"
+referrableMacroElementQ
+O
+
+__unknown_file (
+%fieldAccess_0"__id**
+
+
+%expr_33"
+	prototype^
+\
+
+__unknown_file (	
+%void_0"
+__setProto*
+
+	%object_0Object*
+
+%fieldAccess_0È
+Å
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.js[ [(&
+
+%sc-A_7927_0_15"
+referrableMacro"__id*
+
+	%object_0ObjectT
+R
+
+__unknown_file (
+%sc-A_7927_0_17"__id**
+
+%env"
+%scope-A_7927_0M
+K
+
+__unknown_file (
+%sc-P_784_1"__id**
+
+%env"
+%scope-P_784T
+R
+
+__unknown_file (
+%sc-A_7927_0_18"__id**
+
+%env"
+%scope-A_7927_0 
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.js\ \(7
+	%object_1Object"ObjectS
+Q
+
+__unknown_file (
+
+%expr_34"__id*#*!
+
+%sc-P_784_1"
+AmpActionMacro„"
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.js\ \(7
+%methRes_16*!
+
+%sc-P_784_1"
+AmpActionMacro2
+
+	%object_1Object2
+
+%env2,**
+
+%sc-A_7927_0_18"
+callingMacroElementQ
+O
+
+__unknown_file (
+%fieldAccess_1"__id**
+
+
+%expr_34"
+	prototype^
+\
+
+__unknown_file (	
+%void_1"
+__setProto*
+
+	%object_1Object*
+
+%fieldAccess_1¾
+»
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.js\ \(
+
+%sc-A_7927_0_17"
+macro"__id*
+
+	%object_1ObjectT
+R
+
+__unknown_file (
+%sc-A_7927_0_19"__id**
+
+%env"
+%scope-A_7927_0M
+K
+
+__unknown_file (
+%sc-P_784_2"__id**
+
+%env"
+%scope-P_784T
+R
+
+__unknown_file (
+%sc-A_7927_0_20"__id**
+
+%env"
+%scope-A_7927_0 
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.js] ](H
+	%object_2Object"ObjectS
+Q
+
+__unknown_file (
+
+%expr_35"__id*#*!
+
+%sc-P_784_2"
+AmpActionMacro‰"†
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.js] ](H
+%methRes_17*!
+
+%sc-P_784_2"
+AmpActionMacro2
+
+	%object_2Object2
+
+%env21*/
+
+%sc-A_7927_0_20"
+unreferrableMacroElementQ
+O
+
+__unknown_file (
+%fieldAccess_2"__id**
+
+
+%expr_35"
+	prototype^
+\
+
+__unknown_file (	
+%void_2"
+__setProto*
+
+	%object_2Object*
+
+%fieldAccess_2Ê
+Ç
+~
+t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-action-macro/0.1/test/test-amp-action-macro.js] ]((
+
+%sc-A_7927_0_19"
+unreferrableMacro"__id*
+
+	%object_2Object"
+
+__unknown_file ( :
+%envB 

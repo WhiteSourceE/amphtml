@@ -1,0 +1,1018 @@
+
+>extensions_amp_font_0_1_test_test_fontloader_js_85_20_A_5463_0p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsU U("s5_1*…
+s5_1
+<synthetic> (W
+U
+
+__unknown_file (
+%sc-A_5461_env_0"__id**
+
+%env"
+%scope-A_5461_envW
+U
+
+__unknown_file (
+%sc-A_5461_env_1"__id**
+
+%env"
+%scope-A_5461_envL
+J
+
+__unknown_file (	
+%expr_0"__id**
+
+%sc-A_5461_env_1"
+env¥
+±
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsV
+ V(
+
+%sc-A_5461_env_0"
+ampdoc"__id**
+	
+%expr_0"
+ampdocW
+U
+
+__unknown_file (
+%sc-A_5461_env_2"__id**
+
+%env"
+%scope-A_5461_envW
+U
+
+__unknown_file (
+%sc-A_5461_env_3"__id**
+
+%env"
+%scope-A_5461_envL
+J
+
+__unknown_file (	
+%expr_1"__id**
+
+%sc-A_5461_env_3"
+envC
+A
+
+__unknown_file (	
+%expr_2"__id**
+	
+%expr_1"
+win≥
+∞
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsW
+ W(
+
+%sc-A_5461_env_2"
+doc"__id**
+	
+%expr_2"
+
+documentW
+U
+
+__unknown_file (
+%sc-A_5461_env_4"__id**
+
+%env"
+%scope-A_5461_env_
+]
+
+__unknown_file (
+%sc-A_5460_nam_var_0"__id*#*!
+
+%env"
+%scope-A_5460_nam_varT
+R
+
+__unknown_file (	
+%expr_3"__id*%*#
+
+%sc-A_5460_nam_var_0"	
+variant¶
+£
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsY Y('
+%fieldAccess_0"__id**
+	
+%expr_3"
+ampdoc∞
+≠
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsY Y('
+%binOpRes_0"
+__js_equal*
+
+%fieldAccess_0*
+
+single*
+s5_2
+s5_3*¶
+s5_2
+<synthetic> (W
+U
+
+__unknown_file (
+%sc-A_5461_env_5"__id**
+
+%env"
+%scope-A_5461_envL
+J
+
+__unknown_file (	
+%expr_4"__id**
+
+%sc-A_5461_env_5"
+docX
+V
+
+__unknown_file (
+%unionThenElse_0"__id* *
+	
+%expr_4"
+documentElement*
+s5_4*ï
+s5_3
+<synthetic> (W
+U
+
+__unknown_file (
+%sc-A_5461_env_6"__id**
+
+%env"
+%scope-A_5461_envO
+M
+
+__unknown_file (	
+%expr_5"__id* *
+
+%sc-A_5461_env_6"
+ampdocG
+E
+
+__unknown_file (	
+%expr_6"__id**
+	
+%expr_5"	
+getBody≤"Ø
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.js[ [(
+
+%methRes_0*
+	
+%expr_5"	
+getBody2
+	
+%expr_52
+
+%envF
+D
+
+__unknown_file (
+%unionThenElse_0"__id*
+
+
+%methRes_0*
+s5_4*…
+s5_4
+<synthetic> (Ø
+¨
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsX
+ X(
+
+%sc-A_5461_env_4"
+root"__id*
+
+%unionThenElse_0W
+U
+
+__unknown_file (
+%sc-A_5461_env_7"__id**
+
+%env"
+%scope-A_5461_env_
+]
+
+__unknown_file (
+%sc-A_5460_nam_var_1"__id*#*!
+
+%env"
+%scope-A_5460_nam_varT
+R
+
+__unknown_file (	
+%expr_7"__id*%*#
+
+%sc-A_5460_nam_var_1"	
+variant¶
+£
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.js\ \(,
+%fieldAccess_1"__id**
+	
+%expr_7"
+ampdoc∞
+≠
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.js\ \(,
+%binOpRes_1"
+__js_equal*
+
+%fieldAccess_1*
+
+single*
+s5_5
+s5_6*õ
+s5_5
+<synthetic> (W
+U
+
+__unknown_file (
+%sc-A_5461_env_8"__id**
+
+%env"
+%scope-A_5461_envL
+J
+
+__unknown_file (	
+%expr_8"__id**
+
+%sc-A_5461_env_8"
+docM
+K
+
+__unknown_file (
+%unionThenElse_1"__id**
+	
+%expr_8"
+body*
+s5_7*÷
+s5_6
+<synthetic> (W
+U
+
+__unknown_file (
+%sc-A_5461_env_9"__id**
+
+%env"
+%scope-A_5461_envV
+T
+
+__unknown_file (
+%unionThenElse_1"__id**
+
+%sc-A_5461_env_9"
+root*
+s5_7*áK
+s5_7
+<synthetic> (Ø
+¨
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.js\
+ \(
+
+%sc-A_5461_env_7"
+body"__id*
+
+%unionThenElse_1X
+V
+
+__unknown_file (
+%sc-A_5461_env_10"__id**
+
+%env"
+%scope-A_5461_envX
+V
+
+__unknown_file (
+%sc-A_5461_env_11"__id**
+
+%env"
+%scope-A_5461_envM
+K
+
+__unknown_file (	
+%expr_9"__id**
+
+%sc-A_5461_env_11"
+envH
+F
+
+__unknown_file (
+
+%expr_10"__id**
+	
+%expr_9"	
+sandboxM
+K
+
+__unknown_file (
+%sc-P_581_0"__id**
+
+%env"
+%scope-P_581O
+M
+
+__unknown_file (
+
+%expr_11"__id**
+
+%sc-P_581_0"
+
+FontLoaderE
+C
+
+__unknown_file (
+
+%expr_12"__id**
+
+
+%expr_10"
+spy‰"·
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.js^1 ^(4
+
+%methRes_1*
+
+
+%expr_10"
+spy2
+
+
+%expr_102
+
+%env2*
+
+
+%expr_11"
+	prototype2
+loadWithPolyfill_æ
+ª
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.js^
+ ^("1
+
+%sc-A_5461_env_10"
+setupLoadWithPolyfillSpy"__id*
+
+
+%methRes_1X
+V
+
+__unknown_file (
+%sc-A_5461_env_12"__id**
+
+%env"
+%scope-A_5461_envX
+V
+
+__unknown_file (
+%sc-A_5461_env_13"__id**
+
+%env"
+%scope-A_5461_envN
+L
+
+__unknown_file (
+
+%expr_13"__id**
+
+%sc-A_5461_env_13"
+envI
+G
+
+__unknown_file (
+
+%expr_14"__id**
+
+
+%expr_13"	
+sandboxM
+K
+
+__unknown_file (
+%sc-P_581_1"__id**
+
+%env"
+%scope-P_581O
+M
+
+__unknown_file (
+
+%expr_15"__id**
+
+%sc-P_581_1"
+
+FontLoaderE
+C
+
+__unknown_file (
+
+%expr_16"__id**
+
+
+%expr_14"
+spyÈ"Ê
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsb6 b(9
+
+%methRes_2*
+
+
+%expr_14"
+spy2
+
+
+%expr_142
+
+%env2*
+
+
+%expr_15"
+	prototype2
+createFontComparators_√
+¿
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsb
+ b('6
+
+%sc-A_5461_env_12"
+setupCreateFontComparatorsSpy"__id*
+
+
+%methRes_2X
+V
+
+__unknown_file (
+%sc-A_5461_env_14"__id**
+
+%env"
+%scope-A_5461_envX
+V
+
+__unknown_file (
+%sc-A_5461_env_15"__id**
+
+%env"
+%scope-A_5461_envN
+L
+
+__unknown_file (
+
+%expr_17"__id**
+
+%sc-A_5461_env_15"
+envI
+G
+
+__unknown_file (
+
+%expr_18"__id**
+
+
+%expr_17"	
+sandboxM
+K
+
+__unknown_file (
+%sc-P_581_2"__id**
+
+%env"
+%scope-P_581O
+M
+
+__unknown_file (
+
+%expr_19"__id**
+
+%sc-P_581_2"
+
+FontLoaderE
+C
+
+__unknown_file (
+
+%expr_20"__id**
+
+
+%expr_18"
+spy€"ÿ
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsf( f(+
+
+%methRes_3*
+
+
+%expr_18"
+spy2
+
+
+%expr_182
+
+%env2*
+
+
+%expr_19"
+	prototype2
+
+dispose_µ
+≤
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsf
+ f((
+
+%sc-A_5461_env_14"
+setupDisposeSpy"__id*
+
+
+%methRes_3X
+V
+
+__unknown_file (
+%sc-A_5461_env_16"__id**
+
+%env"
+%scope-A_5461_envN
+L
+
+__unknown_file (
+
+%expr_21"__id**
+
+%sc-A_5461_env_16"
+docO
+M
+
+__unknown_file (
+
+%expr_22"__id**
+
+
+%expr_21"
+createElement≈"¬
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsh h()
+
+%methRes_4*
+
+
+%expr_21"
+createElement2
+
+
+%expr_212
+
+%env2	
+styleî
+ë
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsh h(
+style"__id*
+
+
+%methRes_4_
+]
+
+__unknown_file (
+%sc-A_5460_nam_var_2"__id*#*!
+
+%env"
+%scope-A_5460_nam_var_
+]
+
+__unknown_file (
+%sc-A_5460_nam_var_3"__id*#*!
+
+%env"
+%scope-A_5460_nam_var∑
+¥
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsi i(5
+%fieldAccess_2"__id*(*&
+
+%sc-A_5460_nam_var_2"
+
+FONT_FACE_∑
+¥
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsi i(5
+%fieldAccess_3"__id*(*&
+
+%sc-A_5460_nam_var_3"
+
+CSS_RULES_¥
+±
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsi i(5
+	%concat_0"__concat*
+
+%fieldAccess_2*
+
+%fieldAccess_3§
+°
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsi
+ i(
+
+style"
+textContent"__id*
+
+	%concat_0X
+V
+
+__unknown_file (
+%sc-A_5461_env_17"__id**
+
+%env"
+%scope-A_5461_envN
+L
+
+__unknown_file (
+
+%expr_23"__id**
+
+%sc-A_5461_env_17"
+docF
+D
+
+__unknown_file (
+
+%expr_24"__id**
+
+
+%expr_23"
+headM
+K
+
+__unknown_file (
+
+%expr_25"__id**
+
+
+%expr_24"
+appendChild√"¿
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsj j(
+
+%methRes_5*
+
+
+%expr_24"
+appendChild2
+
+
+%expr_242
+
+%env2	
+
+styleX
+V
+
+__unknown_file (
+%sc-A_5461_env_18"__id**
+
+%env"
+%scope-A_5461_envN
+L
+
+__unknown_file (
+
+%expr_26"__id**
+
+%sc-A_5461_env_18"
+docO
+M
+
+__unknown_file (
+
+%expr_27"__id**
+
+
+%expr_26"
+createElement¡"æ
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsk k(*
+
+%methRes_6*
+
+
+%expr_26"
+createElement2
+
+
+%expr_262
+
+%env2
+pï
+í
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsk k(
+textEl"__id*
+
+
+%methRes_6—
+Œ
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsl
+ l(
+
+textEl"
+textContent"__id*97
+5Neque porro quisquam est qui dolorem ipsum quia dolorX
+V
+
+__unknown_file (
+%sc-A_5461_env_19"__id**
+
+%env"
+%scope-A_5461_envO
+M
+
+__unknown_file (
+
+%expr_28"__id**
+
+%sc-A_5461_env_19"
+bodyM
+K
+
+__unknown_file (
+
+%expr_29"__id**
+
+
+%expr_28"
+appendChildƒ"¡
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsn n(
+
+%methRes_7*
+
+
+%expr_28"
+appendChild2
+
+
+%expr_282
+
+%env2
+
+
+textElX
+V
+
+__unknown_file (
+%sc-A_5461_env_20"__id**
+
+%env"
+%scope-A_5461_envX
+V
+
+__unknown_file (
+%sc-A_5461_env_21"__id**
+
+%env"
+%scope-A_5461_envN
+L
+
+__unknown_file (
+
+%expr_30"__id**
+
+%sc-A_5461_env_21"
+envI
+G
+
+__unknown_file (
+
+%expr_31"__id**
+
+
+%expr_30"	
+sandboxX
+V
+
+__unknown_file (
+%sc-A_5461_env_22"__id**
+
+%env"
+%scope-A_5461_envN
+L
+
+__unknown_file (
+
+%expr_32"__id**
+
+%sc-A_5461_env_22"
+docE
+C
+
+__unknown_file (
+
+%expr_33"__id**
+
+
+%expr_31"
+spy‘"—
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jso1 o(4
+
+%methRes_8*
+
+
+%expr_31"
+spy2
+
+
+%expr_312
+
+%env2*
+
+
+%expr_32"
+fonts2	
+check∑
+¥
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jso
+ o(*
+
+%sc-A_5461_env_20"
+setupFontCheckSpy"__id*
+
+
+%methRes_8X
+V
+
+__unknown_file (
+%sc-A_5461_env_23"__id**
+
+%env"
+%scope-A_5461_envX
+V
+
+__unknown_file (
+%sc-A_5461_env_24"__id**
+
+%env"
+%scope-A_5461_envN
+L
+
+__unknown_file (
+
+%expr_34"__id**
+
+%sc-A_5461_env_24"
+envI
+G
+
+__unknown_file (
+
+%expr_35"__id**
+
+
+%expr_34"	
+sandboxX
+V
+
+__unknown_file (
+%sc-A_5461_env_25"__id**
+
+%env"
+%scope-A_5461_envN
+L
+
+__unknown_file (
+
+%expr_36"__id**
+
+%sc-A_5461_env_25"
+docE
+C
+
+__unknown_file (
+
+%expr_37"__id**
+
+
+%expr_35"
+spy”"–
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsp0 p(3
+
+%methRes_9*
+
+
+%expr_35"
+spy2
+
+
+%expr_352
+
+%env2*
+
+
+%expr_36"
+fonts2
+load∂
+≥
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsp
+ p()
+
+%sc-A_5461_env_23"
+setupFontLoadSpy"__id*
+
+
+%methRes_9X
+V
+
+__unknown_file (
+%sc-A_5461_env_26"__id**
+
+%env"
+%scope-A_5461_envM
+K
+
+__unknown_file (
+%sc-P_581_3"__id**
+
+%env"
+%scope-P_581X
+V
+
+__unknown_file (
+%sc-A_5461_env_27"__id**
+
+%env"
+%scope-A_5461_envN
+L
+
+__unknown_file (
+
+%expr_38"__id**
+
+%sc-A_5461_env_27"
+envíè
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsq q(1
+	%object_0Object"ObjectO
+M
+
+__unknown_file (
+
+%expr_39"__id**
+
+%sc-P_581_3"
+
+FontLoaderﬁ"€
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsq q(1
+%methRes_10*
+
+%sc-P_581_3"
+
+FontLoader2
+
+	%object_0Object2
+
+%env2*
+
+
+%expr_38"
+ampdocQ
+O
+
+__unknown_file (
+%fieldAccess_4"__id**
+
+
+%expr_39"
+	prototype^
+\
+
+__unknown_file (	
+%void_0"
+__setProto*
+
+	%object_0Object*
+
+%fieldAccess_4∑
+¥
+p
+f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-font/0.1/test/test-fontloader.jsq
+ q(#
+
+%sc-A_5461_env_26"
+
+fontloader"__id*
+
+	%object_0Object"
+
+__unknown_file ( :
+%envB 

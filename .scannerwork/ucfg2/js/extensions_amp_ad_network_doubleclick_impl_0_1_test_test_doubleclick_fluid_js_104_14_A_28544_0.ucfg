@@ -1,0 +1,956 @@
+
+^extensions_amp_ad_network_doubleclick_impl_0_1_test_test_doubleclick_fluid_js_104_14_A_28544_0è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jsh h("s13_1*˜r
+s13_1
+<synthetic> (C
+A
+
+__unknown_file (	
+%global"__id**
+
+%env"
+globalY
+W
+
+__unknown_file (
+%sc-A_28543_env_0"__id* *
+
+%env"
+%scope-A_28543_envM
+K
+
+__unknown_file (	
+%expr_0"__id**
+
+%sc-A_28543_env_0"
+envC
+A
+
+__unknown_file (	
+%expr_1"__id**
+	
+%expr_0"
+winJ
+H
+
+__unknown_file (	
+%expr_2"__id**
+	
+%expr_1"
+
+__AMP_MODE∂
+≥
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jsi i(
+	
+%expr_2"
+test"__id*2Y
+W
+
+__unknown_file (
+%sc-A_28543_env_1"__id* *
+
+%env"
+%scope-A_28543_envM
+K
+
+__unknown_file (	
+%expr_3"__id**
+
+%sc-A_28543_env_1"
+envC
+A
+
+__unknown_file (	
+%expr_4"__id**
+	
+%expr_3"
+winΩ
+∫
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jsj
+ j(
+doc"__id**
+	
+%expr_4"
+
+documentI
+G
+
+__unknown_file (	
+%expr_5"__id**
+
+doc"
+createElement€"ÿ
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jso o(&
+
+%methRes_0*
+
+doc"
+createElement2
+
+doc2
+
+%env2	
+style∑
+¥
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jso
+ o(
+
+ampStyle"__id*
+
+
+%methRes_0M
+K
+
+__unknown_file (	
+%expr_6"__id**
+
+
+ampStyle"
+setAttributeÇ"ˇ
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jsp p(
+
+%methRes_1*
+
+
+ampStyle"
+setAttribute2
+
+
+ampStyle2
+
+%env2
+amp-runtime2
+scratch-fortesting@
+>
+
+__unknown_file (	
+%expr_7"__id**
+
+doc"
+headK
+I
+
+__unknown_file (	
+%expr_8"__id**
+	
+%expr_7"
+appendChild‰"·
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jsq q(
+
+%methRes_2*
+	
+%expr_7"
+appendChild2
+	
+%expr_72
+
+%env2
+
+
+ampStyle@
+>
+
+__unknown_file (	
+%expr_9"__id**
+
+doc"
+bodyO
+M
+
+__unknown_file (
+%sc-P_2624_0"__id**
+
+%env"
+%scope-P_2624Y
+W
+
+__unknown_file (
+%sc-A_28543_env_2"__id* *
+
+%env"
+%scope-A_28543_envN
+L
+
+__unknown_file (
+
+%expr_10"__id**
+
+%sc-A_28543_env_2"
+envE
+C
+
+__unknown_file (
+
+%expr_11"__id**
+
+
+%expr_10"
+win≤Ø
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jss; u(
+	%object_0Object"Object‹
+Ÿ
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jst t(.
+
+	%object_0Object"
+style"__id*
+width: 1px; height: 1000px;O
+M
+
+__unknown_file (
+%sc-P_2624_1"__id**
+
+%env"
+%scope-P_2624ß"§
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jss s(!
+
+%funcRes_0*/
+
+%sc-P_2624_1"
+createElementWithAttributes2
+	
+%global2
+
+%env2*
+
+
+%expr_11"
+
+document2
+div2
+
+	%object_0ObjectL
+J
+
+__unknown_file (
+
+%expr_12"__id**
+	
+%expr_9"
+appendChildÊ"„
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jsr r(
+
+%methRes_3*
+	
+%expr_9"
+appendChild2
+	
+%expr_92
+
+%env2
+
+
+%funcRes_0Y
+W
+
+__unknown_file (
+%sc-A_28543_env_3"__id* *
+
+%env"
+%scope-A_28543_envO
+M
+
+__unknown_file (
+%sc-P_2624_2"__id**
+
+%env"
+%scope-P_2624Y
+W
+
+__unknown_file (
+%sc-A_28543_env_4"__id* *
+
+%env"
+%scope-A_28543_envN
+L
+
+__unknown_file (
+
+%expr_13"__id**
+
+%sc-A_28543_env_4"
+envE
+C
+
+__unknown_file (
+
+%expr_14"__id**
+
+
+%expr_13"
+win≤Ø
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jswF z(
+	%object_1Object"Object«
+ƒ
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jsx x(
+
+	%object_1Object"
+height"__id*	
+fluidÀ
+»
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jsy y(
+
+	%object_1Object"
+type"__id*
+doubleclickO
+M
+
+__unknown_file (
+%sc-P_2624_3"__id**
+
+%env"
+%scope-P_2624™"ß
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jsw w()
+
+%funcRes_1*/
+
+%sc-P_2624_3"
+createElementWithAttributes2
+	
+%global2
+
+%env2*
+
+
+%expr_14"
+
+document2
+
+amp-ad2
+
+	%object_1ObjectÕ
+ 
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jsw w( 
+
+%sc-A_28543_env_3"	
+element"__id*
+
+
+%funcRes_1A
+?
+
+__unknown_file (
+
+%expr_15"__id**
+
+doc"
+bodyY
+W
+
+__unknown_file (
+%sc-A_28543_env_5"__id* *
+
+%env"
+%scope-A_28543_envM
+K
+
+__unknown_file (
+
+%expr_16"__id**
+
+
+%expr_15"
+appendChild¸"˘
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.js{ {(
+
+%methRes_4*
+
+
+%expr_15"
+appendChild2
+
+
+%expr_152
+
+%env2"* 
+
+%sc-A_28543_env_5"	
+elementY
+W
+
+__unknown_file (
+%sc-A_28543_env_6"__id* *
+
+%env"
+%scope-A_28543_envO
+M
+
+__unknown_file (
+%sc-P_2624_4"__id**
+
+%env"
+%scope-P_2624Y
+W
+
+__unknown_file (
+%sc-A_28543_env_7"__id* *
+
+%env"
+%scope-A_28543_envY
+W
+
+__unknown_file (
+%sc-A_28543_env_8"__id* *
+
+%env"
+%scope-A_28543_envN
+L
+
+__unknown_file (
+
+%expr_17"__id**
+
+%sc-A_28543_env_8"
+envE
+C
+
+__unknown_file (
+
+%expr_18"__id**
+
+
+%expr_17"
+winY
+W
+
+__unknown_file (
+%sc-A_28543_env_9"__id* *
+
+%env"
+%scope-A_28543_envN
+L
+
+__unknown_file (
+
+%expr_19"__id**
+
+%sc-A_28543_env_9"
+env≤Ø
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.js| |(N
+	%object_2Object"Objecta
+_
+
+__unknown_file (
+
+%expr_20"__id*1*/
+
+%sc-P_2624_4"
+AmpAdNetworkDoubleclickImplÃ"…
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.js| |(N
+
+%methRes_5*/
+
+%sc-P_2624_4"
+AmpAdNetworkDoubleclickImpl2
+
+	%object_2Object2
+
+%env2"* 
+
+%sc-A_28543_env_7"	
+element2*
+
+
+%expr_18"
+
+document2*
+
+
+%expr_19"
+winQ
+O
+
+__unknown_file (
+%fieldAccess_0"__id**
+
+
+%expr_20"
+	prototype^
+\
+
+__unknown_file (	
+%void_0"
+__setProto*
+
+	%object_2Object*
+
+%fieldAccess_0—
+Œ
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.js| |(
+
+%sc-A_28543_env_6"
+impl"__id*
+
+	%object_2ObjectZ
+X
+
+__unknown_file (
+%sc-A_28543_env_10"__id* *
+
+%env"
+%scope-A_28543_envO
+M
+
+__unknown_file (
+%sc-P_2624_5"__id**
+
+%env"
+%scope-P_2624Z
+X
+
+__unknown_file (
+%sc-A_28543_env_11"__id* *
+
+%env"
+%scope-A_28543_envO
+M
+
+__unknown_file (
+
+%expr_21"__id**
+
+%sc-A_28543_env_11"
+envE
+C
+
+__unknown_file (
+
+%expr_22"__id**
+
+
+%expr_21"
+win≥∞
+ê
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.js}O Å(
+	%object_3Object"Object«
+ƒ
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.js~ ~(
+
+	%object_3Object"
+height"__id*	
+fluidÀ
+»
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.js (
+
+	%object_3Object"
+type"__id*
+doubleclick€
+ÿ
+ë
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jsÄ Ä()(
+
+	%object_3Object"
+data-multi-size"__id*
+300x200,150x50O
+M
+
+__unknown_file (
+%sc-P_2624_6"__id**
+
+%env"
+%scope-P_2624™"ß
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.js} }(2
+
+%funcRes_2*/
+
+%sc-P_2624_6"
+createElementWithAttributes2
+	
+%global2
+
+%env2*
+
+
+%expr_22"
+
+document2
+
+amp-ad2
+
+	%object_3Object◊
+‘
+è
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.js} }(*
+
+%sc-A_28543_env_10"
+multiSizeElement"__id*
+
+
+%funcRes_2A
+?
+
+__unknown_file (
+
+%expr_23"__id**
+
+doc"
+bodyZ
+X
+
+__unknown_file (
+%sc-A_28543_env_12"__id* *
+
+%env"
+%scope-A_28543_envM
+K
+
+__unknown_file (
+
+%expr_24"__id**
+
+
+%expr_23"
+appendChildà"Ö
+ë
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jsÇ Ç(
+
+%methRes_6*
+
+
+%expr_23"
+appendChild2
+
+
+%expr_232
+
+%env2,**
+
+%sc-A_28543_env_12"
+multiSizeElementZ
+X
+
+__unknown_file (
+%sc-A_28543_env_13"__id* *
+
+%env"
+%scope-A_28543_envO
+M
+
+__unknown_file (
+%sc-P_2624_7"__id**
+
+%env"
+%scope-P_2624Z
+X
+
+__unknown_file (
+%sc-A_28543_env_14"__id* *
+
+%env"
+%scope-A_28543_envZ
+X
+
+__unknown_file (
+%sc-A_28543_env_15"__id* *
+
+%env"
+%scope-A_28543_envO
+M
+
+__unknown_file (
+
+%expr_25"__id**
+
+%sc-A_28543_env_15"
+envE
+C
+
+__unknown_file (
+
+%expr_26"__id**
+
+
+%expr_25"
+winZ
+X
+
+__unknown_file (
+%sc-A_28543_env_16"__id* *
+
+%env"
+%scope-A_28543_envO
+M
+
+__unknown_file (
+
+%expr_27"__id**
+
+%sc-A_28543_env_16"
+env¥±
+ë
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jsÉ á(
+	%object_4Object"Objecta
+_
+
+__unknown_file (
+
+%expr_28"__id*1*/
+
+%sc-P_2624_7"
+AmpAdNetworkDoubleclickImplÿ"’
+ë
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jsÉ á(
+
+%methRes_7*/
+
+%sc-P_2624_7"
+AmpAdNetworkDoubleclickImpl2
+
+	%object_4Object2
+
+%env2,**
+
+%sc-A_28543_env_14"
+multiSizeElement2*
+
+
+%expr_26"
+
+document2*
+
+
+%expr_27"
+winQ
+O
+
+__unknown_file (
+%fieldAccess_1"__id**
+
+
+%expr_28"
+	prototype^
+\
+
+__unknown_file (	
+%void_1"
+__setProto*
+
+	%object_4Object*
+
+%fieldAccess_1›
+⁄
+ë
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jsÉ É('
+
+%sc-A_28543_env_13"
+multiSizeImpl"__id*
+
+	%object_4Objectü
+ú
+
+__unknown_file (	
+%func_0"__declareFunction*b`
+^extensions_amp_ad_network_doubleclick_impl_0_1_test_test_doubleclick_fluid_js_137_23_A_28545_0fd
+
+__unknown_file (/
+%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_2"
+__setProto*
+	
+%func_0*1
+/
+%functionPrototype_0%SonarFunctionPrototype∑
+¥
+ë
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jsâ
+ â(
+	getLayout"__id*
+	
+%func_0Z
+X
+
+__unknown_file (
+%sc-A_28543_env_17"__id* *
+
+%env"
+%scope-A_28543_envP
+N
+
+__unknown_file (
+
+%expr_29"__id* *
+
+%sc-A_28543_env_17"
+impl«
+ƒ
+ë
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jsä ä(
+
+
+%expr_29"
+	getLayout"__id*
+
+	getLayoutZ
+X
+
+__unknown_file (
+%sc-A_28543_env_18"__id* *
+
+%env"
+%scope-A_28543_envP
+N
+
+__unknown_file (
+
+%expr_30"__id* *
+
+%sc-A_28543_env_18"
+implS
+Q
+
+__unknown_file (
+
+%expr_31"__id*#*!
+
+
+%expr_30"
+isLayoutSupportedÎ"Ë
+ë
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jsã	 ã(
+
+%methRes_8*!
+
+
+%expr_30"
+isLayoutSupported2
+
+
+%expr_302
+
+%env2	
+fluidZ
+X
+
+__unknown_file (
+%sc-A_28543_env_19"__id* *
+
+%env"
+%scope-A_28543_envP
+N
+
+__unknown_file (
+
+%expr_32"__id* *
+
+%sc-A_28543_env_19"
+implÂ
+‚
+ë
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jså å(07
+
+
+%expr_32")
+'experimentalNonAmpCreativeRenderMethod_"__id*
+	safeframeZ
+X
+
+__unknown_file (
+%sc-A_28543_env_20"__id* *
+
+%env"
+%scope-A_28543_envY
+W
+
+__unknown_file (
+
+%expr_33"__id*)*'
+
+%sc-A_28543_env_20"
+multiSizeImpl«
+ƒ
+ë
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jsç ç(
+
+
+%expr_33"
+	getLayout"__id*
+
+	getLayoutZ
+X
+
+__unknown_file (
+%sc-A_28543_env_21"__id* *
+
+%env"
+%scope-A_28543_envY
+W
+
+__unknown_file (
+
+%expr_34"__id*)*'
+
+%sc-A_28543_env_21"
+multiSizeImplS
+Q
+
+__unknown_file (
+
+%expr_35"__id*#*!
+
+
+%expr_34"
+isLayoutSupportedÎ"Ë
+ë
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jsé é(#
+
+%methRes_9*!
+
+
+%expr_34"
+isLayoutSupported2
+
+
+%expr_342
+
+%env2	
+fluidZ
+X
+
+__unknown_file (
+%sc-A_28543_env_22"__id* *
+
+%env"
+%scope-A_28543_envY
+W
+
+__unknown_file (
+
+%expr_36"__id*)*'
+
+%sc-A_28543_env_22"
+multiSizeImplÂ
+‚
+ë
+Ñ/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-fluid.jsè è(97
+
+
+%expr_36")
+'experimentalNonAmpCreativeRenderMethod_"__id*
+	safeframe"
+
+__unknown_file ( :
+%envB 

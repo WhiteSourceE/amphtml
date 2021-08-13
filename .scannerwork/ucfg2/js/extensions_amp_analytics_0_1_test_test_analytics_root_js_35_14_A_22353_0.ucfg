@@ -1,0 +1,691 @@
+
+Hextensions_amp_analytics_0_1_test_test_analytics_root_js_35_14_A_22353_0y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js# #("s3_1*ùI
+s3_1
+<synthetic> (Y
+W
+
+__unknown_file (
+%sc-A_22352_env_0"__id* *
+
+%env"
+%scope-A_22352_envY
+W
+
+__unknown_file (
+%sc-A_22352_env_1"__id* *
+
+%env"
+%scope-A_22352_envM
+K
+
+__unknown_file (	
+%expr_0"__id**
+
+%sc-A_22352_env_1"
+env¸
+µ
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js$ $(
+
+%sc-A_22352_env_0"
+win"__id**
+	
+%expr_0"
+winY
+W
+
+__unknown_file (
+%sc-A_22352_env_2"__id* *
+
+%env"
+%scope-A_22352_envY
+W
+
+__unknown_file (
+%sc-A_22352_env_3"__id* *
+
+%env"
+%scope-A_22352_envM
+K
+
+__unknown_file (	
+%expr_1"__id**
+
+%sc-A_22352_env_3"
+env¾
+»
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js% %(
+
+
+%sc-A_22352_env_2"
+ampdoc"__id**
+	
+%expr_1"
+ampdocY
+W
+
+__unknown_file (
+%sc-A_22352_env_4"__id* *
+
+%env"
+%scope-A_22352_envY
+W
+
+__unknown_file (
+%sc-A_22352_env_5"__id* *
+
+%env"
+%scope-A_22352_envM
+K
+
+__unknown_file (	
+%expr_2"__id**
+
+%sc-A_22352_env_5"
+winN
+L
+
+__unknown_file (	
+%expr_3"__id**
+	
+%expr_2"
+__AMP_SERVICESH
+F
+
+__unknown_file (	
+%expr_4"__id**
+	
+%expr_3"
+
+viewport½
+º
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js& &(!
+
+%sc-A_22352_env_4"
+
+viewport"__id**
+	
+%expr_4"
+objY
+W
+
+__unknown_file (
+%sc-A_22352_env_6"__id* *
+
+%env"
+%scope-A_22352_envO
+M
+
+__unknown_file (
+%sc-P_2068_0"__id**
+
+%env"
+%scope-P_2068Y
+W
+
+__unknown_file (
+%sc-A_22352_env_7"__id* *
+
+%env"
+%scope-A_22352_env›˜
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js' '(*
+	%object_0Object"ObjectX
+V
+
+__unknown_file (	
+%expr_5"__id*)*'
+
+%sc-P_2068_0"
+AmpdocAnalyticsRootù"ö
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js' '(*
+
+%methRes_0*'
+
+%sc-P_2068_0"
+AmpdocAnalyticsRoot2
+
+	%object_0Object2
+
+%env2!*
+
+%sc-A_22352_env_7"
+ampdocP
+N
+
+__unknown_file (
+%fieldAccess_0"__id**
+	
+%expr_5"
+	prototype^
+\
+
+__unknown_file (	
+%void_0"
+__setProto*
+
+	%object_0Object*
+
+%fieldAccess_0º
+·
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js' '(
+
+%sc-A_22352_env_6"
+root"__id*
+
+	%object_0ObjectY
+W
+
+__unknown_file (
+%sc-A_22352_env_8"__id* *
+
+%env"
+%scope-A_22352_envY
+W
+
+__unknown_file (
+%sc-A_22352_env_9"__id* *
+
+%env"
+%scope-A_22352_envM
+K
+
+__unknown_file (	
+%expr_6"__id**
+
+%sc-A_22352_env_9"
+winH
+F
+
+__unknown_file (	
+%expr_7"__id**
+	
+%expr_6"
+
+documentº
+·
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js( ((
+
+%sc-A_22352_env_8"
+body"__id**
+	
+%expr_7"
+bodyZ
+X
+
+__unknown_file (
+%sc-A_22352_env_10"__id* *
+
+%env"
+%scope-A_22352_envZ
+X
+
+__unknown_file (
+%sc-A_22352_env_11"__id* *
+
+%env"
+%scope-A_22352_envN
+L
+
+__unknown_file (	
+%expr_8"__id**
+
+%sc-A_22352_env_11"
+winH
+F
+
+__unknown_file (	
+%expr_9"__id**
+	
+%expr_8"
+
+documentN
+L
+
+__unknown_file (
+
+%expr_10"__id**
+	
+%expr_9"
+createElementÍ"Ê
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js* *('
+
+%methRes_1*
+	
+%expr_9"
+createElement2
+	
+%expr_92
+
+%env2
+
+target¶
+³
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js* *(
+ 
+
+%sc-A_22352_env_10"
+target"__id*
+
+
+%methRes_1Z
+X
+
+__unknown_file (
+%sc-A_22352_env_12"__id* *
+
+%env"
+%scope-A_22352_envR
+P
+
+__unknown_file (
+
+%expr_11"__id*"* 
+
+%sc-A_22352_env_12"
+target¤
+¡
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js+ +(
+
+
+%expr_11"
+id"__id*
+
+targetZ
+X
+
+__unknown_file (
+%sc-A_22352_env_13"__id* *
+
+%env"
+%scope-A_22352_envR
+P
+
+__unknown_file (
+
+%expr_12"__id*"* 
+
+%sc-A_22352_env_13"
+target«
+¨
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js, ,(
+
+
+%expr_12"
+	className"__id*
+
+targetZ
+X
+
+__unknown_file (
+%sc-A_22352_env_14"__id* *
+
+%env"
+%scope-A_22352_envP
+N
+
+__unknown_file (
+
+%expr_13"__id* *
+
+%sc-A_22352_env_14"
+bodyZ
+X
+
+__unknown_file (
+%sc-A_22352_env_15"__id* *
+
+%env"
+%scope-A_22352_envM
+K
+
+__unknown_file (
+
+%expr_14"__id**
+
+
+%expr_13"
+appendChildå"â
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js-	 -(
+
+%methRes_2*
+
+
+%expr_13"
+appendChild2
+
+
+%expr_132
+
+%env2"* 
+
+%sc-A_22352_env_15"
+targetZ
+X
+
+__unknown_file (
+%sc-A_22352_env_16"__id* *
+
+%env"
+%scope-A_22352_envZ
+X
+
+__unknown_file (
+%sc-A_22352_env_17"__id* *
+
+%env"
+%scope-A_22352_envO
+M
+
+__unknown_file (
+
+%expr_15"__id**
+
+%sc-A_22352_env_17"
+winJ
+H
+
+__unknown_file (
+
+%expr_16"__id**
+
+
+%expr_15"
+
+documentO
+M
+
+__unknown_file (
+
+%expr_17"__id**
+
+
+%expr_16"
+createElementÎ"Ë
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js/ /(&
+
+%methRes_3*
+
+
+%expr_16"
+createElement2
+
+
+%expr_162
+
+%env2	
+childµ
+²
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js/ /(	
+
+%sc-A_22352_env_16"
+child"__id*
+
+
+%methRes_3Z
+X
+
+__unknown_file (
+%sc-A_22352_env_18"__id* *
+
+%env"
+%scope-A_22352_envQ
+O
+
+__unknown_file (
+
+%expr_18"__id*!*
+
+%sc-A_22352_env_18"
+child£
+ 
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js0 0(
+
+
+%expr_18"
+id"__id*	
+childZ
+X
+
+__unknown_file (
+%sc-A_22352_env_19"__id* *
+
+%env"
+%scope-A_22352_envQ
+O
+
+__unknown_file (
+
+%expr_19"__id*!*
+
+%sc-A_22352_env_19"
+childª
+§
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js1 1(
+
+
+%expr_19"
+	className"__id*	
+childZ
+X
+
+__unknown_file (
+%sc-A_22352_env_20"__id* *
+
+%env"
+%scope-A_22352_envR
+P
+
+__unknown_file (
+
+%expr_20"__id*"* 
+
+%sc-A_22352_env_20"
+targetZ
+X
+
+__unknown_file (
+%sc-A_22352_env_21"__id* *
+
+%env"
+%scope-A_22352_envM
+K
+
+__unknown_file (
+
+%expr_21"__id**
+
+
+%expr_20"
+appendChildä"á
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js2 2(
+
+%methRes_4*
+
+
+%expr_20"
+appendChild2
+
+
+%expr_202
+
+%env2!*
+
+%sc-A_22352_env_21"
+childZ
+X
+
+__unknown_file (
+%sc-A_22352_env_22"__id* *
+
+%env"
+%scope-A_22352_envZ
+X
+
+__unknown_file (
+%sc-A_22352_env_23"__id* *
+
+%env"
+%scope-A_22352_envO
+M
+
+__unknown_file (
+
+%expr_22"__id**
+
+%sc-A_22352_env_23"
+winJ
+H
+
+__unknown_file (
+
+%expr_23"__id**
+
+
+%expr_22"
+
+documentO
+M
+
+__unknown_file (
+
+%expr_24"__id**
+
+
+%expr_23"
+createElementÌ"É
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js4 4(&
+
+%methRes_5*
+
+
+%expr_23"
+createElement2
+
+
+%expr_232
+
+%env2
+divµ
+²
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js4 4(	
+
+%sc-A_22352_env_22"
+other"__id*
+
+
+%methRes_5Z
+X
+
+__unknown_file (
+%sc-A_22352_env_24"__id* *
+
+%env"
+%scope-A_22352_envQ
+O
+
+__unknown_file (
+
+%expr_25"__id*!*
+
+%sc-A_22352_env_24"
+other£
+ 
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js5 5(
+
+
+%expr_25"
+id"__id*	
+otherZ
+X
+
+__unknown_file (
+%sc-A_22352_env_25"__id* *
+
+%env"
+%scope-A_22352_envQ
+O
+
+__unknown_file (
+
+%expr_26"__id*!*
+
+%sc-A_22352_env_25"
+otherª
+§
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js6 6(
+
+
+%expr_26"
+	className"__id*	
+otherZ
+X
+
+__unknown_file (
+%sc-A_22352_env_26"__id* *
+
+%env"
+%scope-A_22352_envP
+N
+
+__unknown_file (
+
+%expr_27"__id* *
+
+%sc-A_22352_env_26"
+bodyZ
+X
+
+__unknown_file (
+%sc-A_22352_env_27"__id* *
+
+%env"
+%scope-A_22352_envM
+K
+
+__unknown_file (
+
+%expr_28"__id**
+
+
+%expr_27"
+appendChildä"á
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js7	 7(
+
+%methRes_6*
+
+
+%expr_27"
+appendChild2
+
+
+%expr_272
+
+%env2!*
+
+%sc-A_22352_env_27"
+other"
+
+__unknown_file ( :
+%envB 

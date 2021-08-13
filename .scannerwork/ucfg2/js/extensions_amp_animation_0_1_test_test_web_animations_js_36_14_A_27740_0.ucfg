@@ -1,0 +1,1169 @@
+
+Hextensions_amp_animation_0_1_test_test_web_animations_js_36_14_A_27740_0y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.js$ $("s3_1*ª
+s3_1
+<synthetic> (C
+A
+
+__unknown_file (	
+%global"__id**
+
+%env"
+globalY
+W
+
+__unknown_file (
+%sc-A_27739_env_0"__id* *
+
+%env"
+%scope-A_27739_envY
+W
+
+__unknown_file (
+%sc-A_27739_env_1"__id* *
+
+%env"
+%scope-A_27739_envM
+K
+
+__unknown_file (	
+%expr_0"__id**
+
+%sc-A_27739_env_1"
+env¸
+µ
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.js% %(
+
+%sc-A_27739_env_0"
+win"__id**
+	
+%expr_0"
+winY
+W
+
+__unknown_file (
+%sc-A_27739_env_2"__id* *
+
+%env"
+%scope-A_27739_envY
+W
+
+__unknown_file (
+%sc-A_27739_env_3"__id* *
+
+%env"
+%scope-A_27739_envM
+K
+
+__unknown_file (	
+%expr_1"__id**
+
+%sc-A_27739_env_3"
+win½
+º
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.js& &(
+
+%sc-A_27739_env_2"
+doc"__id**
+	
+%expr_1"
+
+documentY
+W
+
+__unknown_file (
+%sc-A_27739_env_4"__id* *
+
+%env"
+%scope-A_27739_envM
+K
+
+__unknown_file (	
+%expr_2"__id**
+
+%sc-A_27739_env_4"
+envG
+E
+
+__unknown_file (	
+%expr_3"__id**
+	
+%expr_2"	
+sandboxY
+W
+
+__unknown_file (
+%sc-A_27739_env_5"__id* *
+
+%env"
+%scope-A_27739_envD
+B
+
+__unknown_file (	
+%expr_4"__id**
+	
+%expr_3"
+stubè"å
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.js' '(
+
+%methRes_0*
+	
+%expr_3"
+stub2
+	
+%expr_32
+
+%env2*
+
+%sc-A_27739_env_5"
+win2
+
+matchMedia‹
+ˆ
+
+__unknown_file (	
+%func_0"__declareFunction*NL
+Jextensions_amp_animation_0_1_test_test_web_animations_js_39_51_A_27741_quefd
+
+__unknown_file (/
+%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_0"
+__setProto*
+	
+%func_0*1
+/
+%functionPrototype_0%SonarFunctionPrototypeL
+J
+
+__unknown_file (	
+%expr_5"__id**
+
+
+%methRes_0"
+	callsFakeÐ"Í
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.js'( '(1
+
+%methRes_1*
+
+
+%methRes_0"
+	callsFake2
+
+
+%methRes_02
+
+%env2
+	
+%func_0Y
+W
+
+__unknown_file (
+%sc-A_27739_env_6"__id* *
+
+%env"
+%scope-A_27739_envM
+K
+
+__unknown_file (	
+%expr_6"__id**
+
+%sc-A_27739_env_6"
+win*
+s3_2
+s3_3*¿
+s3_2
+<synthetic> (Y
+W
+
+__unknown_file (
+%sc-A_27739_env_7"__id* *
+
+%env"
+%scope-A_27739_envM
+K
+
+__unknown_file (	
+%expr_7"__id**
+
+%sc-A_27739_env_7"
+win‰
+†
+
+__unknown_file (	
+%func_1"__declareFunction*LJ
+Hextensions_amp_animation_0_1_test_test_web_animations_js_49_28_A_27742_0fd
+
+__unknown_file (/
+%functionPrototype_1%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_1"
+__setProto*
+	
+%func_1*1
+/
+%functionPrototype_1%SonarFunctionPrototype›˜
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.js1 1($
+	%object_0Object"Object´
+±
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.js1 1(#!
+
+	%object_0Object"
+
+supports"__id*
+	
+%func_1¯
+¬
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.js1 1(
+	
+%expr_7"
+CSS"__id*
+
+	%object_0Object*
+s3_3*ƒ^
+s3_3
+<synthetic> (Y
+W
+
+__unknown_file (
+%sc-A_27739_env_8"__id* *
+
+%env"
+%scope-A_27739_envM
+K
+
+__unknown_file (	
+%expr_8"__id**
+
+%sc-A_27739_env_8"
+envG
+E
+
+__unknown_file (	
+%expr_9"__id**
+	
+%expr_8"	
+sandboxY
+W
+
+__unknown_file (
+%sc-A_27739_env_9"__id* *
+
+%env"
+%scope-A_27739_envN
+L
+
+__unknown_file (
+
+%expr_10"__id**
+
+%sc-A_27739_env_9"
+winE
+C
+
+__unknown_file (
+
+%expr_11"__id**
+	
+%expr_9"
+stubÝ"Ú
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.js3 3(
+
+%methRes_2*
+	
+%expr_9"
+stub2
+	
+%expr_92
+
+%env2*
+
+
+%expr_10"
+CSS2
+
+supports‹
+ˆ
+
+__unknown_file (	
+%func_2"__declareFunction*NL
+Jextensions_amp_animation_0_1_test_test_web_animations_js_51_53_A_27743_confd
+
+__unknown_file (/
+%functionPrototype_2%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_2"
+__setProto*
+	
+%func_2*1
+/
+%functionPrototype_2%SonarFunctionPrototypeM
+K
+
+__unknown_file (
+
+%expr_12"__id**
+
+
+%methRes_2"
+	callsFakeÐ"Í
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.js3* 3(3
+
+%methRes_3*
+
+
+%methRes_2"
+	callsFake2
+
+
+%methRes_22
+
+%env2
+	
+%func_2Z
+X
+
+__unknown_file (
+%sc-A_27739_env_10"__id* *
+
+%env"
+%scope-A_27739_envZ
+X
+
+__unknown_file (
+%sc-A_27739_env_11"__id* *
+
+%env"
+%scope-A_27739_envO
+M
+
+__unknown_file (
+
+%expr_13"__id**
+
+%sc-A_27739_env_11"
+envI
+G
+
+__unknown_file (
+
+%expr_14"__id**
+
+
+%expr_13"	
+sandboxO
+M
+
+__unknown_file (
+%sc-P_2566_0"__id**
+
+%env"
+%scope-P_2566O
+M
+
+__unknown_file (
+%sc-P_2566_1"__id**
+
+%env"
+%scope-P_2566½"º
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.js<  <($
+
+%funcRes_0*
+
+%sc-P_2566_1"
+user2
+	
+%global2
+
+%envF
+D
+
+__unknown_file (
+
+%expr_15"__id**
+
+
+%expr_14"
+stubÔ"Ñ
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.js< <(
+
+%methRes_4*
+
+
+%expr_14"
+stub2
+
+
+%expr_142
+
+%env2
+
+
+%funcRes_02
+warn¸
+µ
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.js< <("
+
+%sc-A_27739_env_10"
+
+warnStub"__id*
+
+
+%methRes_4Z
+X
+
+__unknown_file (
+%sc-A_27739_env_12"__id* *
+
+%env"
+%scope-A_27739_envO
+M
+
+__unknown_file (
+%sc-P_2566_2"__id**
+
+%env"
+%scope-P_2566N
+L
+
+__unknown_file (
+
+%expr_16"__id**
+
+%sc-P_2566_2"
+
+ServicesZ
+X
+
+__unknown_file (
+%sc-A_27739_env_13"__id* *
+
+%env"
+%scope-A_27739_envJ
+H
+
+__unknown_file (
+
+%expr_17"__id**
+
+
+%expr_16"
+
+vsyncForß"Ü
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.js> >(
+
+%methRes_5*
+
+
+%expr_16"
+
+vsyncFor2
+
+
+%expr_162
+
+%env2*
+
+%sc-A_27739_env_13"
+winµ
+²
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.js> >(	
+
+%sc-A_27739_env_12"
+vsync"__id*
+
+
+%methRes_5Z
+X
+
+__unknown_file (
+%sc-A_27739_env_14"__id* *
+
+%env"
+%scope-A_27739_envO
+M
+
+__unknown_file (
+
+%expr_18"__id**
+
+%sc-A_27739_env_14"
+envI
+G
+
+__unknown_file (
+
+%expr_19"__id**
+
+
+%expr_18"	
+sandboxZ
+X
+
+__unknown_file (
+%sc-A_27739_env_15"__id* *
+
+%env"
+%scope-A_27739_envF
+D
+
+__unknown_file (
+
+%expr_20"__id**
+
+
+%expr_19"
+stubñ"î
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.js? ?(
+
+%methRes_6*
+
+
+%expr_19"
+stub2
+
+
+%expr_192
+
+%env2!*
+
+%sc-A_27739_env_15"
+vsync2
+measurePromise‹
+ˆ
+
+__unknown_file (	
+%func_3"__declareFunction*NL
+Jextensions_amp_animation_0_1_test_test_web_animations_js_63_57_A_27744_calfd
+
+__unknown_file (/
+%functionPrototype_3%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_3"
+__setProto*
+	
+%func_3*1
+/
+%functionPrototype_3%SonarFunctionPrototypeM
+K
+
+__unknown_file (
+
+%expr_21"__id**
+
+
+%methRes_6"
+	callsFakeÐ"Í
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.js?. ?(7
+
+%methRes_7*
+
+
+%methRes_6"
+	callsFake2
+
+
+%methRes_62
+
+%env2
+	
+%func_3Z
+X
+
+__unknown_file (
+%sc-A_27739_env_16"__id* *
+
+%env"
+%scope-A_27739_envO
+M
+
+__unknown_file (
+%sc-P_2566_3"__id**
+
+%env"
+%scope-P_2566N
+L
+
+__unknown_file (
+
+%expr_22"__id**
+
+%sc-P_2566_3"
+
+ServicesZ
+X
+
+__unknown_file (
+%sc-A_27739_env_17"__id* *
+
+%env"
+%scope-A_27739_envO
+M
+
+__unknown_file (
+
+%expr_23"__id**
+
+%sc-A_27739_env_17"
+envQ
+O
+
+__unknown_file (
+
+%expr_24"__id*!*
+
+
+%expr_22"
+resourcesForDocß"Ü
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsB B((
+
+%methRes_8*
+
+
+%expr_22"
+resourcesForDoc2
+
+
+%expr_222
+
+%env2*
+
+
+%expr_23"
+ampdoc¹
+¶
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsB B(#
+
+%sc-A_27739_env_16"
+	resources"__id*
+
+
+%methRes_8Z
+X
+
+__unknown_file (
+%sc-A_27739_env_18"__id* *
+
+%env"
+%scope-A_27739_envO
+M
+
+__unknown_file (
+%sc-P_2566_4"__id**
+
+%env"
+%scope-P_2566N
+L
+
+__unknown_file (
+
+%expr_25"__id**
+
+%sc-P_2566_4"
+
+ServicesZ
+X
+
+__unknown_file (
+%sc-A_27739_env_19"__id* *
+
+%env"
+%scope-A_27739_envO
+M
+
+__unknown_file (
+
+%expr_26"__id**
+
+%sc-A_27739_env_19"
+envN
+L
+
+__unknown_file (
+
+%expr_27"__id**
+
+
+%expr_25"
+ownersForDocÜ"Ù
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsC C("
+
+%methRes_9*
+
+
+%expr_25"
+ownersForDoc2
+
+
+%expr_252
+
+%env2*
+
+
+%expr_26"
+ampdoc¶
+³
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsC C(
+ 
+
+%sc-A_27739_env_18"
+owners"__id*
+
+
+%methRes_9Z
+X
+
+__unknown_file (
+%sc-A_27739_env_20"__id* *
+
+%env"
+%scope-A_27739_envZ
+X
+
+__unknown_file (
+%sc-A_27739_env_21"__id* *
+
+%env"
+%scope-A_27739_envO
+M
+
+__unknown_file (
+
+%expr_28"__id**
+
+%sc-A_27739_env_21"
+envI
+G
+
+__unknown_file (
+
+%expr_29"__id**
+
+
+%expr_28"	
+sandboxZ
+X
+
+__unknown_file (
+%sc-A_27739_env_22"__id* *
+
+%env"
+%scope-A_27739_envE
+C
+
+__unknown_file (
+
+%expr_30"__id**
+
+
+%expr_29"
+spyñ"î
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsD# D(&
+%methRes_10*
+
+
+%expr_29"
+spy2
+
+
+%expr_292
+
+%env2"* 
+
+%sc-A_27739_env_22"
+owners2
+requireLayoutÁ
+¾
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsD D(*
+
+%sc-A_27739_env_20"
+requireLayoutSpy"__id*
+
+%methRes_10Z
+X
+
+__unknown_file (
+%sc-A_27739_env_23"__id* *
+
+%env"
+%scope-A_27739_envZ
+X
+
+__unknown_file (
+%sc-A_27739_env_24"__id* *
+
+%env"
+%scope-A_27739_envO
+M
+
+__unknown_file (
+
+%expr_31"__id**
+
+%sc-A_27739_env_24"
+docO
+M
+
+__unknown_file (
+
+%expr_32"__id**
+
+
+%expr_31"
+createElementÍ"Ê
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsF F(
+%methRes_11*
+
+
+%expr_31"
+createElement2
+
+
+%expr_312
+
+%env2
+div¸
+µ
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsF F(!
+
+%sc-A_27739_env_23"	
+target1"__id*
+
+%methRes_11Z
+X
+
+__unknown_file (
+%sc-A_27739_env_25"__id* *
+
+%env"
+%scope-A_27739_envS
+Q
+
+__unknown_file (
+
+%expr_33"__id*#*!
+
+%sc-A_27739_env_25"	
+target1¥
+¢
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsG G(
+
+
+%expr_33"
+id"__id*	
+target1Z
+X
+
+__unknown_file (
+%sc-A_27739_env_26"__id* *
+
+%env"
+%scope-A_27739_envS
+Q
+
+__unknown_file (
+
+%expr_34"__id*#*!
+
+%sc-A_27739_env_26"	
+target1K
+I
+
+__unknown_file (
+
+%expr_35"__id**
+
+
+%expr_34"
+	classListE
+C
+
+__unknown_file (
+
+%expr_36"__id**
+
+
+%expr_35"
+addÆ"Ã
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsH H(
+%methRes_12*
+
+
+%expr_35"
+add2
+
+
+%expr_352
+
+%env2
+
+targetZ
+X
+
+__unknown_file (
+%sc-A_27739_env_27"__id* *
+
+%env"
+%scope-A_27739_envZ
+X
+
+__unknown_file (
+%sc-A_27739_env_28"__id* *
+
+%env"
+%scope-A_27739_envO
+M
+
+__unknown_file (
+
+%expr_37"__id**
+
+%sc-A_27739_env_28"
+docO
+M
+
+__unknown_file (
+
+%expr_38"__id**
+
+
+%expr_37"
+createElementÍ"Ê
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsI I(
+%methRes_13*
+
+
+%expr_37"
+createElement2
+
+
+%expr_372
+
+%env2
+div¸
+µ
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsI I(!
+
+%sc-A_27739_env_27"	
+target2"__id*
+
+%methRes_13Z
+X
+
+__unknown_file (
+%sc-A_27739_env_29"__id* *
+
+%env"
+%scope-A_27739_envS
+Q
+
+__unknown_file (
+
+%expr_39"__id*#*!
+
+%sc-A_27739_env_29"	
+target2¥
+¢
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsJ J(
+
+
+%expr_39"
+id"__id*	
+target2Z
+X
+
+__unknown_file (
+%sc-A_27739_env_30"__id* *
+
+%env"
+%scope-A_27739_envS
+Q
+
+__unknown_file (
+
+%expr_40"__id*#*!
+
+%sc-A_27739_env_30"	
+target2K
+I
+
+__unknown_file (
+
+%expr_41"__id**
+
+
+%expr_40"
+	classListE
+C
+
+__unknown_file (
+
+%expr_42"__id**
+
+
+%expr_41"
+addÆ"Ã
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsK K(
+%methRes_14*
+
+
+%expr_41"
+add2
+
+
+%expr_412
+
+%env2
+
+targetZ
+X
+
+__unknown_file (
+%sc-A_27739_env_31"__id* *
+
+%env"
+%scope-A_27739_envO
+M
+
+__unknown_file (
+
+%expr_43"__id**
+
+%sc-A_27739_env_31"
+docF
+D
+
+__unknown_file (
+
+%expr_44"__id**
+
+
+%expr_43"
+bodyZ
+X
+
+__unknown_file (
+%sc-A_27739_env_32"__id* *
+
+%env"
+%scope-A_27739_envM
+K
+
+__unknown_file (
+
+%expr_45"__id**
+
+
+%expr_44"
+appendChildç"ä
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsL L(
+%methRes_15*
+
+
+%expr_44"
+appendChild2
+
+
+%expr_442
+
+%env2#*!
+
+%sc-A_27739_env_32"	
+target1Z
+X
+
+__unknown_file (
+%sc-A_27739_env_33"__id* *
+
+%env"
+%scope-A_27739_envO
+M
+
+__unknown_file (
+
+%expr_46"__id**
+
+%sc-A_27739_env_33"
+docF
+D
+
+__unknown_file (
+
+%expr_47"__id**
+
+
+%expr_46"
+bodyZ
+X
+
+__unknown_file (
+%sc-A_27739_env_34"__id* *
+
+%env"
+%scope-A_27739_envM
+K
+
+__unknown_file (
+
+%expr_48"__id**
+
+
+%expr_47"
+appendChildç"ä
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsM M(
+%methRes_16*
+
+
+%expr_47"
+appendChild2
+
+
+%expr_472
+
+%env2#*!
+
+%sc-A_27739_env_34"	
+target2"
+
+__unknown_file ( :
+%envB 

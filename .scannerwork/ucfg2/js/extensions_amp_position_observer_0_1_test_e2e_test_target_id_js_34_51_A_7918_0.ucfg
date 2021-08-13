@@ -1,0 +1,490 @@
+
+Nextensions_amp_position_observer_0_1_test_e2e_test_target_id_js_34_51_A_7918_0€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js"2 "(>"s4_1*øC
+s4_1
+<synthetic> (C
+A
+
+__unknown_file (	
+%global"__id**
+
+%env"
+globalš
+—
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js#
+ #(
+step"__id*22£ 
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js$ )(
+	%object_0Object"Object²
+¯
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js% %(
+
+	%object_0Object"
+width"__id*2-³
+°
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js& &(
+
+	%object_0Object"
+height"__id*20¯
+¬
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js' '(
+
+	%object_0Object"
+x"__id*2—¯
+¬
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js( ((
+
+	%object_0Object"
+y"__id*2¾°
+­
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js$
+ $(
+	initPoint"__id*
+
+	%object_0Object£ 
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js* /(
+	%object_1Object"Object²
+¯
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js+ +(
+
+	%object_1Object"
+width"__id*2!³
+°
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js, ,(
+
+	%object_1Object"
+height"__id*28¯
+¬
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js- -(
+
+	%object_1Object"
+x"__id*2–¯
+¬
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js. .(
+
+	%object_1Object"
+y"__id*2¿¯
+¬
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js*
+ *(
+
+midPoint"__id*
+
+	%object_1Object£ 
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js0 5(
+	%object_2Object"Object²
+¯
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js1 1(
+
+	%object_2Object"
+width"__id*2³
+°
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js2 2(
+
+	%object_2Object"
+height"__id*2<¯
+¬
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js3 3(
+
+	%object_2Object"
+x"__id*2–¯
+¬
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js4 4(
+
+	%object_2Object"
+y"__id*2À¯
+¬
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js0
+ 0(
+
+endPoint"__id*
+
+	%object_2ObjectM
+K
+
+__unknown_file (
+%sc-P_782_0"__id**
+
+%env"
+%scope-P_782g
+e
+
+__unknown_file (
+%sc-FD_1293_testScroll_0"__id*'*%
+
+%env"
+%scope-FD_1293_testScrollM
+K
+
+__unknown_file (
+%sc-P_782_1"__id**
+
+%env"
+%scope-P_782"
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js6
+ 6(
+
+%funcRes_0*&
+
+%sc-P_782_1"
+verifyClockHandRect2
+	
+%global2
+
+%env2,**
+
+%sc-FD_1293_testScroll_0"
+
+controller2
+
+	initPointM
+K
+
+__unknown_file (
+%sc-P_782_2"__id**
+
+%env"
+%scope-P_782g
+e
+
+__unknown_file (
+%sc-FD_1293_testScroll_1"__id*'*%
+
+%env"
+%scope-FD_1293_testScrollM
+K
+
+__unknown_file (
+%sc-P_782_3"__id**
+
+%env"
+%scope-P_782"Š
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js7
+ 7(
+
+%funcRes_1*(
+
+%sc-P_782_3"
+scrollParentWindowYBy2
+	
+%global2
+
+%env2,**
+
+%sc-FD_1293_testScroll_1"
+
+controller2
+
+stepM
+K
+
+__unknown_file (
+%sc-P_782_4"__id**
+
+%env"
+%scope-P_782g
+e
+
+__unknown_file (
+%sc-FD_1293_testScroll_2"__id*'*%
+
+%env"
+%scope-FD_1293_testScrollM
+K
+
+__unknown_file (
+%sc-P_782_5"__id**
+
+%env"
+%scope-P_782"Œ
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js8
+ 8(
+
+%funcRes_2*&
+
+%sc-P_782_5"
+verifyClockHandRect2
+	
+%global2
+
+%env2,**
+
+%sc-FD_1293_testScroll_2"
+
+controller2
+
+
+midPointM
+K
+
+__unknown_file (
+%sc-P_782_6"__id**
+
+%env"
+%scope-P_782g
+e
+
+__unknown_file (
+%sc-FD_1293_testScroll_3"__id*'*%
+
+%env"
+%scope-FD_1293_testScrollM
+K
+
+__unknown_file (
+%sc-P_782_7"__id**
+
+%env"
+%scope-P_782"Š
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js9
+ 9(
+
+%funcRes_3*(
+
+%sc-P_782_7"
+scrollParentWindowYBy2
+	
+%global2
+
+%env2,**
+
+%sc-FD_1293_testScroll_3"
+
+controller2
+
+stepM
+K
+
+__unknown_file (
+%sc-P_782_8"__id**
+
+%env"
+%scope-P_782g
+e
+
+__unknown_file (
+%sc-FD_1293_testScroll_4"__id*'*%
+
+%env"
+%scope-FD_1293_testScrollM
+K
+
+__unknown_file (
+%sc-P_782_9"__id**
+
+%env"
+%scope-P_782"Œ
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js:
+ :(
+
+%funcRes_4*&
+
+%sc-P_782_9"
+verifyClockHandRect2
+	
+%global2
+
+%env2,**
+
+%sc-FD_1293_testScroll_4"
+
+controller2
+
+
+endPointN
+L
+
+__unknown_file (
+%sc-P_782_10"__id**
+
+%env"
+%scope-P_782g
+e
+
+__unknown_file (
+%sc-FD_1293_testScroll_5"__id*'*%
+
+%env"
+%scope-FD_1293_testScroll²
+¯
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js;, ;(1
+%unaryOpRes_0"__js_unaryMinus*
+
+stepN
+L
+
+__unknown_file (
+%sc-P_782_11"__id**
+
+%env"
+%scope-P_782—"”
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js;
+ ;(
+
+%funcRes_5*)
+
+%sc-P_782_11"
+scrollParentWindowYBy2
+	
+%global2
+
+%env2,**
+
+%sc-FD_1293_testScroll_5"
+
+controller2
+
+%unaryOpRes_0N
+L
+
+__unknown_file (
+%sc-P_782_12"__id**
+
+%env"
+%scope-P_782g
+e
+
+__unknown_file (
+%sc-FD_1293_testScroll_6"__id*'*%
+
+%env"
+%scope-FD_1293_testScrollN
+L
+
+__unknown_file (
+%sc-P_782_13"__id**
+
+%env"
+%scope-P_782"
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js<
+ <(
+
+%funcRes_6*'
+
+%sc-P_782_13"
+verifyClockHandRect2
+	
+%global2
+
+%env2,**
+
+%sc-FD_1293_testScroll_6"
+
+controller2
+
+
+midPointN
+L
+
+__unknown_file (
+%sc-P_782_14"__id**
+
+%env"
+%scope-P_782g
+e
+
+__unknown_file (
+%sc-FD_1293_testScroll_7"__id*'*%
+
+%env"
+%scope-FD_1293_testScroll²
+¯
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js=, =(1
+%unaryOpRes_1"__js_unaryMinus*
+
+stepN
+L
+
+__unknown_file (
+%sc-P_782_15"__id**
+
+%env"
+%scope-P_782—"”
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js=
+ =(
+
+%funcRes_7*)
+
+%sc-P_782_15"
+scrollParentWindowYBy2
+	
+%global2
+
+%env2,**
+
+%sc-FD_1293_testScroll_7"
+
+controller2
+
+%unaryOpRes_1N
+L
+
+__unknown_file (
+%sc-P_782_16"__id**
+
+%env"
+%scope-P_782g
+e
+
+__unknown_file (
+%sc-FD_1293_testScroll_8"__id*'*%
+
+%env"
+%scope-FD_1293_testScrollN
+L
+
+__unknown_file (
+%sc-P_782_17"__id**
+
+%env"
+%scope-P_782‘"Ž
+€
+v/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-target-id.js>
+ >(
+
+%funcRes_8*'
+
+%sc-P_782_17"
+verifyClockHandRect2
+	
+%global2
+
+%env2,**
+
+%sc-FD_1293_testScroll_8"
+
+controller2
+
+	initPoint"
+
+__unknown_file ( :
+%envB 

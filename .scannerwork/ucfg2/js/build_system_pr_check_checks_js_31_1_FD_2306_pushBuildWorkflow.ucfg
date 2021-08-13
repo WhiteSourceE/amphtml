@@ -1,0 +1,576 @@
+
+>build_system_pr_check_checks_js_31_1_FD_2306_pushBuildWorkflow`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js	 ("s2_1*Â@
+s2_1
+<synthetic> (C
+A
+
+__unknown_file (	
+%global"__id**
+
+%env"
+globalO
+M
+
+__unknown_file (
+%sc-P_1396_0"__id**
+
+%env"
+%scope-P_1396O
+M
+
+__unknown_file (
+%sc-P_1396_1"__id**
+
+%env"
+%scope-P_1396Á"¾
+`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js   (
+
+%funcRes_0*"
+
+%sc-P_1396_1"
+timedExecOrDie2
+	
+%global2
+
+%env2
+amp presubmitO
+M
+
+__unknown_file (
+%sc-P_1396_2"__id**
+
+%env"
+%scope-P_1396O
+M
+
+__unknown_file (
+%sc-P_1396_3"__id**
+
+%env"
+%scope-P_1396Ñ"Î
+`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js! !(
+
+%funcRes_1*"
+
+%sc-P_1396_3"
+timedExecOrDie2
+	
+%global2
+
+%env2!
+amp check-invalid-whitespacesO
+M
+
+__unknown_file (
+%sc-P_1396_4"__id**
+
+%env"
+%scope-P_1396O
+M
+
+__unknown_file (
+%sc-P_1396_5"__id**
+
+%env"
+%scope-P_1396Î"Ë
+`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js" "(
+
+%funcRes_2*"
+
+%sc-P_1396_5"
+timedExecOrDie2
+	
+%global2
+
+%env2
+amp validate-html-fixturesO
+M
+
+__unknown_file (
+%sc-P_1396_6"__id**
+
+%env"
+%scope-P_1396O
+M
+
+__unknown_file (
+%sc-P_1396_7"__id**
+
+%env"
+%scope-P_1396¼"¹
+`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js# #(
+
+%funcRes_3*"
+
+%sc-P_1396_7"
+timedExecOrDie2
+	
+%global2
+
+%env2
+
+amp lintO
+M
+
+__unknown_file (
+%sc-P_1396_8"__id**
+
+%env"
+%scope-P_1396O
+M
+
+__unknown_file (
+%sc-P_1396_9"__id**
+
+%env"
+%scope-P_1396À"½
+`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js$ $(
+
+%funcRes_4*"
+
+%sc-P_1396_9"
+timedExecOrDie2
+	
+%global2
+
+%env2
+amp prettifyP
+N
+
+__unknown_file (
+%sc-P_1396_10"__id**
+
+%env"
+%scope-P_1396P
+N
+
+__unknown_file (
+%sc-P_1396_11"__id**
+
+%env"
+%scope-P_1396¼"¹
+`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js% %(
+
+%funcRes_5*#
+
+%sc-P_1396_11"
+timedExecOrDie2
+	
+%global2
+
+%env2	
+amp avaP
+N
+
+__unknown_file (
+%sc-P_1396_12"__id**
+
+%env"
+%scope-P_1396P
+N
+
+__unknown_file (
+%sc-P_1396_13"__id**
+
+%env"
+%scope-P_1396Ë"È
+`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js& &(
+
+%funcRes_6*#
+
+%sc-P_1396_13"
+timedExecOrDie2
+	
+%global2
+
+%env2
+amp check-build-systemP
+N
+
+__unknown_file (
+%sc-P_1396_14"__id**
+
+%env"
+%scope-P_1396P
+N
+
+__unknown_file (
+%sc-P_1396_15"__id**
+
+%env"
+%scope-P_1396Ë"È
+`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js' '(
+
+%funcRes_7*#
+
+%sc-P_1396_15"
+timedExecOrDie2
+	
+%global2
+
+%env2
+amp babel-plugin-testsP
+N
+
+__unknown_file (
+%sc-P_1396_16"__id**
+
+%env"
+%scope-P_1396P
+N
+
+__unknown_file (
+%sc-P_1396_17"__id**
+
+%env"
+%scope-P_1396Ä"Á
+`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js( ((
+
+%funcRes_8*#
+
+%sc-P_1396_17"
+timedExecOrDie2
+	
+%global2
+
+%env2
+amp caches-jsonP
+N
+
+__unknown_file (
+%sc-P_1396_18"__id**
+
+%env"
+%scope-P_1396P
+N
+
+__unknown_file (
+%sc-P_1396_19"__id**
+
+%env"
+%scope-P_1396Í"Ê
+`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js) )(
+
+%funcRes_9*#
+
+%sc-P_1396_19"
+timedExecOrDie2
+	
+%global2
+
+%env2
+amp check-exact-versionsP
+N
+
+__unknown_file (
+%sc-P_1396_20"__id**
+
+%env"
+%scope-P_1396P
+N
+
+__unknown_file (
+%sc-P_1396_21"__id**
+
+%env"
+%scope-P_1396Ï"Ì
+`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js* *(
+%funcRes_10*#
+
+%sc-P_1396_21"
+timedExecOrDie2
+	
+%global2
+
+%env2
+amp check-renovate-configP
+N
+
+__unknown_file (
+%sc-P_1396_22"__id**
+
+%env"
+%scope-P_1396P
+N
+
+__unknown_file (
+%sc-P_1396_23"__id**
+
+%env"
+%scope-P_1396Æ"Ã
+`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js+ +(
+%funcRes_11*#
+
+%sc-P_1396_23"
+timedExecOrDie2
+	
+%global2
+
+%env2
+amp server-testsP
+N
+
+__unknown_file (
+%sc-P_1396_24"__id**
+
+%env"
+%scope-P_1396P
+N
+
+__unknown_file (
+%sc-P_1396_25"__id**
+
+%env"
+%scope-P_1396â"ß
+`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js, ,(
+%funcRes_12*#
+
+%sc-P_1396_25"
+timedExecOrDie2
+	
+%global2
+
+%env20.
+,amp make-extension --name=t --test --cleanupP
+N
+
+__unknown_file (
+%sc-P_1396_26"__id**
+
+%env"
+%scope-P_1396P
+N
+
+__unknown_file (
+%sc-P_1396_27"__id**
+
+%env"
+%scope-P_1396ê"ç
+`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js- -(
+%funcRes_13*#
+
+%sc-P_1396_27"
+timedExecOrDie2
+	
+%global2
+
+%env286
+4amp make-extension --name=t --test --cleanup --bentoP
+N
+
+__unknown_file (
+%sc-P_1396_28"__id**
+
+%env"
+%scope-P_1396P
+N
+
+__unknown_file (
+%sc-P_1396_29"__id**
+
+%env"
+%scope-P_1396Ã"À
+`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js. .(
+%funcRes_14*#
+
+%sc-P_1396_29"
+timedExecOrDie2
+	
+%global2
+
+%env2
+amp dep-checkP
+N
+
+__unknown_file (
+%sc-P_1396_30"__id**
+
+%env"
+%scope-P_1396P
+N
+
+__unknown_file (
+%sc-P_1396_31"__id**
+
+%env"
+%scope-P_1396Å"Â
+`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js/ /(
+%funcRes_15*#
+
+%sc-P_1396_31"
+timedExecOrDie2
+	
+%global2
+
+%env2
+amp check-typesP
+N
+
+__unknown_file (
+%sc-P_1396_32"__id**
+
+%env"
+%scope-P_1396P
+N
+
+__unknown_file (
+%sc-P_1396_33"__id**
+
+%env"
+%scope-P_1396Ê"Ç
+`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js0 0(
+%funcRes_16*#
+
+%sc-P_1396_33"
+timedExecOrDie2
+	
+%global2
+
+%env2
+amp check-sourcemapsP
+N
+
+__unknown_file (
+%sc-P_1396_34"__id**
+
+%env"
+%scope-P_1396P
+N
+
+__unknown_file (
+%sc-P_1396_35"__id**
+
+%env"
+%scope-P_1396Ê"Ç
+`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js1 1(
+%funcRes_17*#
+
+%sc-P_1396_35"
+timedExecOrDie2
+	
+%global2
+
+%env2
+amp performance-urlsP
+N
+
+__unknown_file (
+%sc-P_1396_36"__id**
+
+%env"
+%scope-P_1396P
+N
+
+__unknown_file (
+%sc-P_1396_37"__id**
+
+%env"
+%scope-P_1396Ö"Ó
+`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js2 2(
+%funcRes_18*#
+
+%sc-P_1396_37"
+timedExecOrDie2
+	
+%global2
+
+%env2$"
+ amp check-analytics-vendors-listP
+N
+
+__unknown_file (
+%sc-P_1396_38"__id**
+
+%env"
+%scope-P_1396P
+N
+
+__unknown_file (
+%sc-P_1396_39"__id**
+
+%env"
+%scope-P_1396Ô"Ñ
+`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js3 3(
+%funcRes_19*#
+
+%sc-P_1396_39"
+timedExecOrDie2
+	
+%global2
+
+%env2" 
+amp check-video-interface-listP
+N
+
+__unknown_file (
+%sc-P_1396_40"__id**
+
+%env"
+%scope-P_1396P
+N
+
+__unknown_file (
+%sc-P_1396_41"__id**
+
+%env"
+%scope-P_1396Ä"Á
+`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js4 4(
+%funcRes_20*#
+
+%sc-P_1396_41"
+timedExecOrDie2
+	
+%global2
+
+%env2
+amp get-zindexP
+N
+
+__unknown_file (
+%sc-P_1396_42"__id**
+
+%env"
+%scope-P_1396P
+N
+
+__unknown_file (
+%sc-P_1396_43"__id**
+
+%env"
+%scope-P_1396Æ"Ã
+`
+V/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/pr-check/checks.js5 5(
+%funcRes_21*#
+
+%sc-P_1396_43"
+timedExecOrDie2
+	
+%global2
+
+%env2
+amp markdown-toc"
+
+__unknown_file ( :
+%envB 

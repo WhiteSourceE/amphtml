@@ -1,0 +1,623 @@
+
+Aextensions_amp_video_0_1_test_test_video_cache_js_29_14_A_20025_0r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-video/0.1/test/test-video-cache.js ("s3_1*ÓB
+s3_1
+<synthetic> (C
+A
+
+__unknown_file (	
+%global"__id**
+
+%env"
+globalY
+W
+
+__unknown_file (
+%sc-A_20024_env_0"__id* *
+
+%env"
+%scope-A_20024_envO
+M
+
+__unknown_file (
+%sc-P_1808_0"__id**
+
+%env"
+%scope-P_1808Y
+W
+
+__unknown_file (
+%sc-A_20024_env_1"__id* *
+
+%env"
+%scope-A_20024_envM
+K
+
+__unknown_file (	
+%expr_0"__id**
+
+%sc-A_20024_env_1"
+envO
+M
+
+__unknown_file (
+%sc-P_1808_1"__id**
+
+%env"
+%scope-P_1808‹"Ÿ
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-video/0.1/test/test-video-cache.js (%
+
+%funcRes_0*(
+
+%sc-P_1808_1"
+xhrServiceForTesting2
+	
+%global2
+
+%env2*
+	
+%expr_0"
+win≤
+Ø
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-video/0.1/test/test-video-cache.js (#
+
+%sc-A_20024_env_0"
+
+xhrService"__id*
+
+
+%funcRes_0Y
+W
+
+__unknown_file (
+%sc-A_20024_env_2"__id* *
+
+%env"
+%scope-A_20024_envM
+K
+
+__unknown_file (	
+%expr_1"__id**
+
+%sc-A_20024_env_2"
+envG
+E
+
+__unknown_file (	
+%expr_2"__id**
+	
+%expr_1"	
+sandboxO
+M
+
+__unknown_file (
+%sc-P_1808_2"__id**
+
+%env"
+%scope-P_1808D
+B
+
+__unknown_file (	
+%expr_3"__id**
+	
+%expr_2"
+stub›"⁄
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-video/0.1/test/test-video-cache.js (
+
+%methRes_0*
+	
+%expr_2"
+stub2
+	
+%expr_22
+
+%env2*
+
+%sc-P_1808_2"
+
+Services2
+
+xhrForY
+W
+
+__unknown_file (
+%sc-A_20024_env_3"__id* *
+
+%env"
+%scope-A_20024_envJ
+H
+
+__unknown_file (	
+%expr_4"__id**
+
+
+%methRes_0"	
+returns·"ﬁ
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-video/0.1/test/test-video-cache.js) (0
+
+%methRes_1*
+
+
+%methRes_0"	
+returns2
+
+
+%methRes_02
+
+%env2%*#
+
+%sc-A_20024_env_3"
+
+xhrServiceY
+W
+
+__unknown_file (
+%sc-A_20024_env_4"__id* *
+
+%env"
+%scope-A_20024_envY
+W
+
+__unknown_file (
+%sc-A_20024_env_5"__id* *
+
+%env"
+%scope-A_20024_envM
+K
+
+__unknown_file (	
+%expr_5"__id**
+
+%sc-A_20024_env_5"
+envG
+E
+
+__unknown_file (	
+%expr_6"__id**
+	
+%expr_5"	
+sandboxÅ
+
+
+__unknown_file (	
+%func_0"__declareFunction*EC
+Aextensions_amp_video_0_1_test_test_video_cache_js_34_47_A_20026_0fd
+
+__unknown_file (/
+%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_0"
+__setProto*
+	
+%func_0*1
+/
+%functionPrototype_0%SonarFunctionPrototypeC
+A
+
+__unknown_file (	
+%expr_7"__id**
+	
+%expr_6"
+spyΩ"∫
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-video/0.1/test/test-video-cache.js"* "(-
+
+%methRes_2*
+	
+%expr_6"
+spy2
+	
+%expr_62
+
+%env2
+	
+%func_0îë
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-video/0.1/test/test-video-cache.js! #(
+	%object_0Object"Objectæ
+ª
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-video/0.1/test/test-video-cache.js" "(F/
+
+	%object_0Object"
+installExtensionForDoc"__id*
+
+
+%methRes_2¿
+Ω
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-video/0.1/test/test-video-cache.js! !(*
+
+%sc-A_20024_env_4"
+extensionsService"__id*
+
+	%object_0ObjectY
+W
+
+__unknown_file (
+%sc-A_20024_env_6"__id* *
+
+%env"
+%scope-A_20024_envM
+K
+
+__unknown_file (	
+%expr_8"__id**
+
+%sc-A_20024_env_6"
+envG
+E
+
+__unknown_file (	
+%expr_9"__id**
+	
+%expr_8"	
+sandboxO
+M
+
+__unknown_file (
+%sc-P_1808_3"__id**
+
+%env"
+%scope-P_1808E
+C
+
+__unknown_file (
+
+%expr_10"__id**
+	
+%expr_9"
+stub‰"·
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-video/0.1/test/test-video-cache.js$ $(
+
+%methRes_3*
+	
+%expr_9"
+stub2
+	
+%expr_92
+
+%env2*
+
+%sc-P_1808_3"
+
+Services2
+extensionsForY
+W
+
+__unknown_file (
+%sc-A_20024_env_7"__id* *
+
+%env"
+%scope-A_20024_envK
+I
+
+__unknown_file (
+
+%expr_11"__id**
+
+
+%methRes_3"	
+returnsË"Â
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-video/0.1/test/test-video-cache.js$0 $(7
+
+%methRes_4*
+
+
+%methRes_3"	
+returns2
+
+
+%methRes_32
+
+%env2,**
+
+%sc-A_20024_env_7"
+extensionsServiceY
+W
+
+__unknown_file (
+%sc-A_20024_env_8"__id* *
+
+%env"
+%scope-A_20024_envO
+M
+
+__unknown_file (
+%sc-P_1808_4"__id**
+
+%env"
+%scope-P_1808îë
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-video/0.1/test/test-video-cache.js& &(.
+	%object_1Object"ObjectX
+V
+
+__unknown_file (
+
+%expr_12"__id*(*&
+
+%sc-P_1808_4"
+AmpCacheUrlServiceŒ"À
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-video/0.1/test/test-video-cache.js& &(.
+
+%methRes_5*&
+
+%sc-P_1808_4"
+AmpCacheUrlService2
+
+	%object_1Object2
+
+%envQ
+O
+
+__unknown_file (
+%fieldAccess_0"__id**
+
+
+%expr_12"
+	prototype^
+\
+
+__unknown_file (	
+%void_1"
+__setProto*
+
+	%object_1Object*
+
+%fieldAccess_0æ
+ª
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-video/0.1/test/test-video-cache.js& &((
+
+%sc-A_20024_env_8"
+cacheUrlService"__id*
+
+	%object_1ObjectY
+W
+
+__unknown_file (
+%sc-A_20024_env_9"__id* *
+
+%env"
+%scope-A_20024_envN
+L
+
+__unknown_file (
+
+%expr_13"__id**
+
+%sc-A_20024_env_9"
+envI
+G
+
+__unknown_file (
+
+%expr_14"__id**
+
+
+%expr_13"	
+sandboxO
+M
+
+__unknown_file (
+%sc-P_1808_5"__id**
+
+%env"
+%scope-P_1808F
+D
+
+__unknown_file (
+
+%expr_15"__id**
+
+
+%expr_14"
+stubı"Ú
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-video/0.1/test/test-video-cache.js( ((
+
+%methRes_6*
+
+
+%expr_14"
+stub2
+
+
+%expr_142
+
+%env2*
+
+%sc-P_1808_5"
+
+Services2 
+cacheUrlServicePromiseForDocZ
+X
+
+__unknown_file (
+%sc-A_20024_env_10"__id* *
+
+%env"
+%scope-A_20024_envL
+J
+
+__unknown_file (
+
+%expr_16"__id**
+
+
+%methRes_6"
+
+resolvesË"Â
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-video/0.1/test/test-video-cache.js) )(
+
+%methRes_7*
+
+
+%methRes_6"
+
+resolves2
+
+
+%methRes_62
+
+%env2+*)
+
+%sc-A_20024_env_10"
+cacheUrlServiceZ
+X
+
+__unknown_file (
+%sc-A_20024_env_11"__id* *
+
+%env"
+%scope-A_20024_envO
+M
+
+__unknown_file (
+
+%expr_17"__id**
+
+%sc-A_20024_env_11"
+envI
+G
+
+__unknown_file (
+
+%expr_18"__id**
+
+
+%expr_17"	
+sandboxO
+M
+
+__unknown_file (
+%sc-P_1808_6"__id**
+
+%env"
+%scope-P_1808F
+D
+
+__unknown_file (
+
+%expr_19"__id**
+
+
+%expr_18"
+stubÎ"Ë
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-video/0.1/test/test-video-cache.js* *(
+
+%methRes_8*
+
+
+%expr_18"
+stub2
+
+
+%expr_182
+
+%env2*
+
+%sc-P_1808_6"
+
+Services2
+documentInfoForDocîë
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-video/0.1/test/test-video-cache.js*= -(
+	%object_2Object"Object∫
+∑
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-video/0.1/test/test-video-cache.js+ +(&"
+
+	%object_2Object"
+	sourceUrl"__id*
+https://example.comø
+º
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-video/0.1/test/test-video-cache.js, ,(+%
+
+	%object_2Object"
+canonicalUrl"__id*
+https://canonical.comK
+I
+
+__unknown_file (
+
+%expr_20"__id**
+
+
+%methRes_8"	
+returns—"Œ
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-video/0.1/test/test-video-cache.js*5 *(<
+
+%methRes_9*
+
+
+%methRes_8"	
+returns2
+
+
+%methRes_82
+
+%env2
+
+	%object_2ObjectO
+M
+
+__unknown_file (
+%sc-P_1808_7"__id**
+
+%env"
+%scope-P_1808Z
+X
+
+__unknown_file (
+%sc-A_20024_env_12"__id* *
+
+%env"
+%scope-A_20024_envO
+M
+
+__unknown_file (
+
+%expr_21"__id**
+
+%sc-A_20024_env_12"
+envO
+M
+
+__unknown_file (
+%sc-P_1808_8"__id**
+
+%env"
+%scope-P_1808‚"ﬂ
+r
+h/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-video/0.1/test/test-video-cache.js/ /(
+
+%funcRes_1*-
+
+%sc-P_1808_8"
+installPerformanceService2
+	
+%global2
+
+%env2*
+
+
+%expr_21"
+win"
+
+__unknown_file ( :
+%envB 

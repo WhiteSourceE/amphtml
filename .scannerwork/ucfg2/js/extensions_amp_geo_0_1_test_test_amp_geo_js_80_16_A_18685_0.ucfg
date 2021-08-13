@@ -1,0 +1,694 @@
+
+;extensions_amp_geo_0_1_test_test_amp_geo_js_80_16_A_18685_0l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.jsP P("s3_1*ÙI
+s3_1
+<synthetic> (C
+A
+
+__unknown_file (	
+%global"__id**
+
+%env"
+global86
+
+__unknown_file (
+%scope-A_18685_0"ObjectV
+T
+
+__unknown_file (
+
+%env"
+%scope-A_18685_0"__id*
+
+%scope-A_18685_0Y
+W
+
+__unknown_file (
+%sc-A_18684_env_0"__id* *
+
+%env"
+%scope-A_18684_envY
+W
+
+__unknown_file (
+%sc-A_18684_env_1"__id* *
+
+%env"
+%scope-A_18684_envM
+K
+
+__unknown_file (	
+%expr_0"__id**
+
+%sc-A_18684_env_1"
+envG
+E
+
+__unknown_file (	
+%expr_1"__id**
+	
+%expr_0"	
+sandboxO
+M
+
+__unknown_file (
+%sc-P_1714_0"__id**
+
+%env"
+%scope-P_1714O
+M
+
+__unknown_file (
+%sc-P_1714_1"__id**
+
+%env"
+%scope-P_1714°"­
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.jsQ' Q(+
+
+%funcRes_0*
+
+%sc-P_1714_1"
+user2
+	
+%global2
+
+%envD
+B
+
+__unknown_file (	
+%expr_2"__id**
+	
+%expr_1"
+stubÆ"Ã
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.jsQ" Q(&
+
+%methRes_0*
+	
+%expr_1"
+stub2
+	
+%expr_12
+
+%env2
+
+
+%funcRes_02	
+error¯
+¬
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.jsQ Q(&
+
+%sc-A_18684_env_0"
+userErrorStub"__id*
+
+
+%methRes_0Y
+W
+
+__unknown_file (
+%sc-A_18684_env_2"__id* *
+
+%env"
+%scope-A_18684_envY
+W
+
+__unknown_file (
+%sc-A_18684_env_3"__id* *
+
+%env"
+%scope-A_18684_envM
+K
+
+__unknown_file (	
+%expr_3"__id**
+
+%sc-A_18684_env_3"
+env«
+¨
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.jsR R(	
+
+%sc-A_18684_env_2"
+win"__id**
+	
+%expr_3"
+winY
+W
+
+__unknown_file (
+%sc-A_18684_env_4"__id* *
+
+%env"
+%scope-A_18684_envY
+W
+
+__unknown_file (
+%sc-A_18684_env_5"__id* *
+
+%env"
+%scope-A_18684_envM
+K
+
+__unknown_file (	
+%expr_4"__id**
+
+%sc-A_18684_env_5"
+win°
+­
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.jsS S(	
+
+%sc-A_18684_env_4"
+doc"__id**
+	
+%expr_4"
+
+documentY
+W
+
+__unknown_file (
+%sc-A_18684_env_6"__id* *
+
+%env"
+%scope-A_18684_envY
+W
+
+__unknown_file (
+%sc-A_18684_env_7"__id* *
+
+%env"
+%scope-A_18684_envM
+K
+
+__unknown_file (	
+%expr_5"__id**
+
+%sc-A_18684_env_7"
+env±
+®
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.jsT T(
+
+%sc-A_18684_env_6"
+ampdoc"__id**
+	
+%expr_5"
+ampdocY
+W
+
+__unknown_file (
+%sc-A_18684_env_8"__id* *
+
+%env"
+%scope-A_18684_envY
+W
+
+__unknown_file (
+%sc-A_18684_env_9"__id* *
+
+%env"
+%scope-A_18684_envM
+K
+
+__unknown_file (	
+%expr_6"__id**
+
+%sc-A_18684_env_9"
+docM
+K
+
+__unknown_file (	
+%expr_7"__id**
+	
+%expr_6"
+createElementÁ"¾
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.jsU U(
+
+%methRes_1*
+	
+%expr_6"
+createElement2
+	
+%expr_62
+
+%env2	
+amp-geo¤
+¡
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.jsU U(
+
+%sc-A_18684_env_8"
+el"__id*
+
+
+%methRes_1Z
+X
+
+__unknown_file (
+%sc-A_18684_env_10"__id* *
+
+%env"
+%scope-A_18684_envM
+K
+
+__unknown_file (	
+%expr_8"__id**
+
+%sc-A_18684_env_10"
+elL
+J
+
+__unknown_file (	
+%expr_9"__id**
+	
+%expr_8"
+setAttributeÎ"Ë
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.jsV	 V(
+
+%methRes_2*
+	
+%expr_8"
+setAttribute2
+	
+%expr_82
+
+%env2
+
+layout2
+	nodisplayZ
+X
+
+__unknown_file (
+%sc-A_18684_env_11"__id* *
+
+%env"
+%scope-A_18684_envO
+M
+
+__unknown_file (
+
+%expr_10"__id**
+
+%sc-A_18684_env_11"
+docF
+D
+
+__unknown_file (
+
+%expr_11"__id**
+
+
+%expr_10"
+bodyZ
+X
+
+__unknown_file (
+%sc-A_18684_env_12"__id* *
+
+%env"
+%scope-A_18684_envM
+K
+
+__unknown_file (
+
+%expr_12"__id**
+
+
+%expr_11"
+appendChildÔ"Ñ
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.jsW W(
+
+%methRes_3*
+
+
+%expr_11"
+appendChild2
+
+
+%expr_112
+
+%env2*
+
+%sc-A_18684_env_12"
+elZ
+X
+
+__unknown_file (
+%sc-A_18684_env_13"__id* *
+
+%env"
+%scope-A_18684_envN
+L
+
+__unknown_file (
+
+%expr_13"__id**
+
+%sc-A_18684_env_13"
+elZ
+X
+
+__unknown_file (
+%sc-A_18684_env_14"__id* *
+
+%env"
+%scope-A_18684_env´
+±
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.jsX X(
+
+
+%expr_13"	
+ampdoc_"__id*"* 
+
+%sc-A_18684_env_14"
+ampdocO
+M
+
+__unknown_file (
+%sc-P_1714_2"__id**
+
+%env"
+%scope-P_1714Z
+X
+
+__unknown_file (
+%sc-A_18684_env_15"__id* *
+
+%env"
+%scope-A_18684_envO
+M
+
+__unknown_file (
+%sc-P_1714_3"__id**
+
+%env"
+%scope-P_1714Ü"Ù
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.jsY Y(#
+
+%funcRes_1*#
+
+%sc-P_1714_3"
+vsyncForTesting2
+	
+%global2
+
+%env2*
+
+%sc-A_18684_env_15"
+win¦
+£
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.jsY Y(
+
+%scope-A_18685_0"
+vsync"__id*
+
+
+%funcRes_1O
+M
+
+__unknown_file (
+
+%expr_14"__id**
+
+%scope-A_18685_0"
+vsync{
+y
+
+__unknown_file (	
+%func_0"__declareFunction*?=
+;extensions_amp_geo_0_1_test_test_amp_geo_js_90_25_A_18686_0V
+T
+
+__unknown_file (
+
+%env"
+%scope-A_18685_0"__id*
+
+%scope-A_18685_0fd
+
+__unknown_file (/
+%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_0"
+__setProto*
+	
+%func_0*1
+/
+%functionPrototype_0%SonarFunctionPrototypeŸ
+œ
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.jsZ Z(
+
+
+%expr_14"
+	schedule_"__id*
+	
+%func_0Z
+X
+
+__unknown_file (
+%sc-A_18684_env_16"__id* *
+
+%env"
+%scope-A_18684_envZ
+X
+
+__unknown_file (
+%sc-A_18684_env_17"__id* *
+
+%env"
+%scope-A_18684_envO
+M
+
+__unknown_file (
+
+%expr_15"__id**
+
+%sc-A_18684_env_17"
+envI
+G
+
+__unknown_file (
+
+%expr_16"__id**
+
+
+%expr_15"	
+sandboxF
+D
+
+__unknown_file (
+
+%expr_17"__id**
+
+
+%expr_16"
+stub­"ª
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.js^ ^(#
+
+%methRes_4*
+
+
+%expr_16"
+stub2
+
+
+%expr_162
+
+%envŽ‹
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.js] _(
+	%object_0Object"Object«
+¨
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.js^ ^(%"
+
+	%object_0Object"
+	fetchJson"__id*
+
+
+%methRes_4­
+ª
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.js] ](	
+
+%sc-A_18684_env_16"
+xhr"__id*
+
+	%object_0ObjectZ
+X
+
+__unknown_file (
+%sc-A_18684_env_18"__id* *
+
+%env"
+%scope-A_18684_envO
+M
+
+__unknown_file (
+
+%expr_18"__id**
+
+%sc-A_18684_env_18"
+envI
+G
+
+__unknown_file (
+
+%expr_19"__id**
+
+
+%expr_18"	
+sandboxO
+M
+
+__unknown_file (
+%sc-P_1714_4"__id**
+
+%env"
+%scope-P_1714F
+D
+
+__unknown_file (
+
+%expr_20"__id**
+
+
+%expr_19"
+stubÙ"Ö
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.js` `(
+
+%methRes_5*
+
+
+%expr_19"
+stub2
+
+
+%expr_192
+
+%env2*
+
+%sc-P_1714_4"
+
+Services2
+
+xhrForZ
+X
+
+__unknown_file (
+%sc-A_18684_env_19"__id* *
+
+%env"
+%scope-A_18684_envK
+I
+
+__unknown_file (
+
+%expr_21"__id**
+
+
+%methRes_5"	
+returnsÕ"Ò
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.js`+ `(2
+
+%methRes_6*
+
+
+%methRes_5"	
+returns2
+
+
+%methRes_52
+
+%env2*
+
+%sc-A_18684_env_19"
+xhrZ
+X
+
+__unknown_file (
+%sc-A_18684_env_20"__id* *
+
+%env"
+%scope-A_18684_envO
+M
+
+__unknown_file (
+%sc-P_1714_5"__id**
+
+%env"
+%scope-P_1714Z
+X
+
+__unknown_file (
+%sc-A_18684_env_21"__id* *
+
+%env"
+%scope-A_18684_envŽ‹
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.jsb b(
+	%object_1Object"ObjectL
+J
+
+__unknown_file (
+
+%expr_22"__id**
+
+%sc-P_1714_5"
+AmpGeoÜ"Ù
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.jsb b(
+
+%methRes_7*
+
+%sc-P_1714_5"
+AmpGeo2
+
+	%object_1Object2
+
+%env2*
+
+%sc-A_18684_env_21"
+elQ
+O
+
+__unknown_file (
+%fieldAccess_0"__id**
+
+
+%expr_22"
+	prototype^
+\
+
+__unknown_file (	
+%void_1"
+__setProto*
+
+	%object_1Object*
+
+%fieldAccess_0­
+ª
+l
+b/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-geo/0.1/test/test-amp-geo.jsb b(	
+
+%sc-A_18684_env_20"
+geo"__id*
+
+	%object_1Object"
+
+__unknown_file ( :
+%envB 

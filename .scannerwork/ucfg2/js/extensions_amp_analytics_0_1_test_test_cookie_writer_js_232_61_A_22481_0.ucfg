@@ -1,0 +1,422 @@
+
+Hextensions_amp_analytics_0_1_test_test_cookie_writer_js_232_61_A_22481_0z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.jsË< Ë(B"s29_1*—>
+s29_1
+<synthetic> (C
+A
+
+__unknown_file (	
+%global"__id**
+
+%env"
+globalO
+M
+
+__unknown_file (
+%sc-P_2071_0"__id**
+
+%env"
+%scope-P_2071Y
+W
+
+__unknown_file (
+%sc-A_22478_env_0"__id* *
+
+%env"
+%scope-A_22478_envM
+K
+
+__unknown_file (	
+%expr_0"__id**
+
+%sc-A_22478_env_0"
+envY
+W
+
+__unknown_file (
+%sc-A_22478_env_1"__id* *
+
+%env"
+%scope-A_22478_envO
+M
+
+__unknown_file (
+%sc-P_2071_1"__id**
+
+%env"
+%scope-P_2071©"¶
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.jsÈ È(
+
+%funcRes_0*
+
+%sc-P_2071_1"
+stubService2
+	
+%global2
+
+%env2*
+	
+%expr_0"	
+sandbox2*
+
+%sc-A_22478_env_1"
+win2
+amp-analytics-linker-reader2
+geté
+ã
+
+__unknown_file (	
+%func_0"__declareFunction*QO
+Mextensions_amp_analytics_0_1_test_test_cookie_writer_js_238_17_A_22482_nam_idfd
+
+__unknown_file (/
+%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_0"
+__setProto*
+	
+%func_0*1
+/
+%functionPrototype_0%SonarFunctionPrototypeL
+J
+
+__unknown_file (	
+%expr_1"__id**
+
+
+%funcRes_0"
+	callsFake—"Œ
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.jsÓ Ó(
+
+%methRes_0*
+
+
+%funcRes_0"
+	callsFake2
+
+
+%funcRes_02
+
+%env2
+	
+%func_0Y
+W
+
+__unknown_file (
+%sc-A_22478_env_2"__id* *
+
+%env"
+%scope-A_22478_envM
+K
+
+__unknown_file (	
+%expr_2"__id**
+
+%sc-A_22478_env_2"
+winû"õ
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.jsÒ Ò(	
+%void_1*3
+	
+%expr_2"&
+$__setWatchedMemberDescendantProperty2*
+
+%sc-A_22478_env_2"
+win2
+
+%env2
+
+location2%#
+!https://example.test/?a=123&b=567≈
+¬
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.jsÒ Ò(
+	
+%expr_2"
+
+location"__id*%#
+!https://example.test/?a=123&b=567O
+M
+
+__unknown_file (
+%sc-P_2071_2"__id**
+
+%env"
+%scope-P_2071Y
+W
+
+__unknown_file (
+%sc-A_22478_env_3"__id* *
+
+%env"
+%scope-A_22478_envY
+W
+
+__unknown_file (
+%sc-A_22478_env_4"__id* *
+
+%env"
+%scope-A_22478_envM
+K
+
+__unknown_file (	
+%expr_3"__id**
+
+%sc-A_22478_env_4"
+winH
+F
+
+__unknown_file (	
+%expr_4"__id**
+	
+%expr_3"
+
+documentO
+M
+
+__unknown_file (
+%sc-P_2071_3"__id**
+
+%env"
+%scope-P_2071úô
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.js˜ ˘(
+	%object_0Object"Objectπ
+∂
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.js¯ ¯(%
+
+	%object_0Object"
+value"__id*
+QUERY_PARAM(a)úô
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.js˙ ¸(
+	%object_1Object"Objectº
+π
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.js˚ ˚((
+
+	%object_1Object"
+value"__id*
+LINKER_PARAM(b,c)úô
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.js˝ ˇ(
+	%object_2Object"Object±
+Æ
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.js˛ ˛(
+
+	%object_2Object"
+value"__id*
+
+staticúô
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.jsÄ Ç(
+	%object_3Object"Object»
+≈
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.jsÅ Å(4
+
+	%object_3Object"
+value"__id*!
+$SUBSTR(QUERY_PARAM(a),1)-sufúô
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.jsÉ Ö(
+	%object_4Object"Object»
+≈
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.jsÑ Ñ(4
+
+	%object_4Object"
+value"__id*!
+pre-TIMESTAMPQUERY_PARAM(abc)úô
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.jsˆ Ü(	
+	%object_5Object"Objectæ
+ª
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.js˜
+ ˘( 
+
+	%object_5Object"	
+aCookie"__id*
+
+	%object_0Objectæ
+ª
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.js˙
+ ¸( 
+
+	%object_5Object"	
+bCookie"__id*
+
+	%object_1Objectæ
+ª
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.js˝
+ ˇ( 
+
+	%object_5Object"	
+testId1"__id*
+
+	%object_2Objectæ
+ª
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.jsÄ
+ Ç( 
+
+	%object_5Object"	
+testId2"__id*
+
+	%object_3Objectæ
+ª
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.jsÉ
+ Ö( 
+
+	%object_5Object"	
+testId3"__id*
+
+	%object_4Objectúô
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.jsı á(
+	%object_6Object"Objectæ
+ª
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.jsˆ Ü(	 
+
+	%object_6Object"	
+cookies"__id*
+
+	%object_5ObjectO
+M
+
+__unknown_file (
+%sc-P_2071_4"__id**
+
+%env"
+%scope-P_2071’"“
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.jsı ı(
+
+
+%funcRes_1*
+
+%sc-P_2071_4"
+dict2
+	
+%global2
+
+%env2
+
+	%object_6Objectúô
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.jsÚ à(
+	%object_7Object"ObjectQ
+O
+
+__unknown_file (	
+%expr_5"__id*"* 
+
+%sc-P_2071_2"
+CookieWriteró"î
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.jsÚ à(
+
+%methRes_1* 
+
+%sc-P_2071_2"
+CookieWriter2
+
+	%object_7Object2
+
+%env2*
+
+%sc-A_22478_env_3"
+win2*
+	
+%expr_4"
+body2
+
+
+%funcRes_1P
+N
+
+__unknown_file (
+%fieldAccess_0"__id**
+	
+%expr_5"
+	prototype^
+\
+
+__unknown_file (	
+%void_2"
+__setProto*
+
+	%object_7Object*
+
+%fieldAccess_0¨
+©
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.jsÚ
+ Ú(
+cookieWriter"__id*
+
+	%object_7ObjectJ
+H
+
+__unknown_file (	
+%expr_6"__id**
+
+cookieWriter"
+writeƒ"¡
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.jsâ â(
+
+%methRes_2*
+
+cookieWriter"
+write2
+
+cookieWriter2
+
+%envâ
+Ü
+
+__unknown_file (	
+%func_1"__declareFunction*LJ
+Hextensions_amp_analytics_0_1_test_test_cookie_writer_js_265_38_A_22483_0fd
+
+__unknown_file (/
+%functionPrototype_1%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_3"
+__setProto*
+	
+%func_1*1
+/
+%functionPrototype_1%SonarFunctionPrototypeø"º
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.jsâ  â($
+
+%funcRes_2"	
+%func_12
+	
+%global2
+
+%env2
+
+
+%methRes_2"å
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-cookie-writer.jsâ ê(
+
+
+%funcRes_2:
+%envB 

@@ -1,0 +1,690 @@
+
+Gextensions_amp_ad_custom_0_1_test_test_amp_ad_custom_js_38_14_A_18089_0x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-custom/0.1/test/test-amp-ad-custom.js& &("s3_1*§S
+s3_1
+<synthetic> (Y
+W
+
+__unknown_file (
+%sc-A_18088_env_0"__id* *
+
+%env"
+%scope-A_18088_envY
+W
+
+__unknown_file (
+%sc-A_18088_env_1"__id* *
+
+%env"
+%scope-A_18088_envM
+K
+
+__unknown_file (	
+%expr_0"__id**
+
+%sc-A_18088_env_1"
+envC
+A
+
+__unknown_file (	
+%expr_1"__id**
+	
+%expr_0"
+win¼
+¹
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-custom/0.1/test/test-amp-ad-custom.js' '(
+
+%sc-A_18088_env_0"
+doc"__id**
+	
+%expr_1"
+
+documentY
+W
+
+__unknown_file (
+%sc-A_18088_env_2"__id* *
+
+%env"
+%scope-A_18088_envY
+W
+
+__unknown_file (
+%sc-A_18088_env_3"__id* *
+
+%env"
+%scope-A_18088_envM
+K
+
+__unknown_file (	
+%expr_2"__id**
+
+%sc-A_18088_env_3"
+env½
+º
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-custom/0.1/test/test-amp-ad-custom.js( ((
+
+
+%sc-A_18088_env_2"
+ampdoc"__id**
+	
+%expr_2"
+ampdocY
+W
+
+__unknown_file (
+%sc-A_18088_env_4"__id* *
+
+%env"
+%scope-A_18088_envY
+W
+
+__unknown_file (
+%sc-A_18088_env_5"__id* *
+
+%env"
+%scope-A_18088_envM
+K
+
+__unknown_file (	
+%expr_3"__id**
+
+%sc-A_18088_env_5"
+docM
+K
+
+__unknown_file (	
+%expr_4"__id**
+	
+%expr_3"
+createElementÉ"Æ
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-custom/0.1/test/test-amp-ad-custom.js) )((
+
+%methRes_0*
+	
+%expr_3"
+createElement2
+	
+%expr_32
+
+%env2
+div¾
+»
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-custom/0.1/test/test-amp-ad-custom.js) )()
+
+%sc-A_18088_env_4"
+containerElement"__id*
+
+
+%methRes_0Y
+W
+
+__unknown_file (
+%sc-A_18088_env_6"__id* *
+
+%env"
+%scope-A_18088_envZ
+X
+
+__unknown_file (	
+%expr_5"__id*+*)
+
+%sc-A_18088_env_6"
+containerElementL
+J
+
+__unknown_file (	
+%expr_6"__id**
+	
+%expr_5"
+setAttributeÑ"Î
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-custom/0.1/test/test-amp-ad-custom.js* *(!
+
+%methRes_1*
+	
+%expr_5"
+setAttribute2
+	
+%expr_52
+
+%env2
+
+height222Y
+W
+
+__unknown_file (
+%sc-A_18088_env_7"__id* *
+
+%env"
+%scope-A_18088_envZ
+X
+
+__unknown_file (	
+%expr_7"__id*+*)
+
+%sc-A_18088_env_7"
+containerElementL
+J
+
+__unknown_file (	
+%expr_8"__id**
+	
+%expr_7"
+setAttributeÑ"Î
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-custom/0.1/test/test-amp-ad-custom.js+ +(!
+
+%methRes_2*
+	
+%expr_7"
+setAttribute2
+	
+%expr_72
+
+%env2	
+width22ÀY
+W
+
+__unknown_file (
+%sc-A_18088_env_8"__id* *
+
+%env"
+%scope-A_18088_envZ
+X
+
+__unknown_file (	
+%expr_9"__id*+*)
+
+%sc-A_18088_env_8"
+containerElementY
+W
+
+__unknown_file (
+%sc-A_18088_env_9"__id* *
+
+%env"
+%scope-A_18088_envM
+K
+
+__unknown_file (
+
+%expr_10"__id**
+	
+%expr_9"
+setAttributeð"í
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-custom/0.1/test/test-amp-ad-custom.js, ,(!
+
+%methRes_3*
+	
+%expr_9"
+setAttribute2
+	
+%expr_92
+
+%env2
+src2&*$
+
+%sc-A_18088_env_9"
+templateUrlZ
+X
+
+__unknown_file (
+%sc-A_18088_env_10"__id* *
+
+%env"
+%scope-A_18088_env\
+Z
+
+__unknown_file (
+
+%expr_11"__id*,**
+
+%sc-A_18088_env_10"
+containerElementˆ
+…
+
+__unknown_file (	
+%func_0"__declareFunction*KI
+Gextensions_amp_ad_custom_0_1_test_test_amp_ad_custom_js_45_32_A_18090_0fd
+
+__unknown_file (/
+%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_0"
+__setProto*
+	
+%func_0*1
+/
+%functionPrototype_0%SonarFunctionPrototype©
+¦
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-custom/0.1/test/test-amp-ad-custom.js- -(
+
+
+%expr_11"	
+signals"__id*
+	
+%func_0Z
+X
+
+__unknown_file (
+%sc-A_18088_env_11"__id* *
+
+%env"
+%scope-A_18088_env\
+Z
+
+__unknown_file (
+
+%expr_12"__id*,**
+
+%sc-A_18088_env_11"
+containerElementˆ
+…
+
+__unknown_file (	
+%func_1"__declareFunction*KI
+Gextensions_amp_ad_custom_0_1_test_test_amp_ad_custom_js_50_38_A_18094_0fd
+
+__unknown_file (/
+%functionPrototype_1%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_1"
+__setProto*
+	
+%func_1*1
+/
+%functionPrototype_1%SonarFunctionPrototype¯
+¬
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-custom/0.1/test/test-amp-ad-custom.js2 2("
+
+
+%expr_12"
+renderStarted"__id*
+	
+%func_1Z
+X
+
+__unknown_file (
+%sc-A_18088_env_12"__id* *
+
+%env"
+%scope-A_18088_env\
+Z
+
+__unknown_file (
+
+%expr_13"__id*,**
+
+%sc-A_18088_env_12"
+containerElementˆ
+…
+
+__unknown_file (	
+%func_2"__declareFunction*KI
+Gextensions_amp_ad_custom_0_1_test_test_amp_ad_custom_js_51_37_A_18095_0fd
+
+__unknown_file (/
+%functionPrototype_2%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_2"
+__setProto*
+	
+%func_2*1
+/
+%functionPrototype_2%SonarFunctionPrototype®
+«
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-custom/0.1/test/test-amp-ad-custom.js3 3(!
+
+
+%expr_13"
+getLayoutBox"__id*
+	
+%func_2Z
+X
+
+__unknown_file (
+%sc-A_18088_env_13"__id* *
+
+%env"
+%scope-A_18088_env\
+Z
+
+__unknown_file (
+
+%expr_14"__id*,**
+
+%sc-A_18088_env_13"
+containerElementˆ
+…
+
+__unknown_file (	
+%func_3"__declareFunction*KI
+Gextensions_amp_ad_custom_0_1_test_test_amp_ad_custom_js_57_51_A_18096_0fd
+
+__unknown_file (/
+%functionPrototype_3%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_3"
+__setProto*
+	
+%func_3*1
+/
+%functionPrototype_3%SonarFunctionPrototype¼
+¹
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-custom/0.1/test/test-amp-ad-custom.js9 9(/*
+
+
+%expr_14"
+getIntersectionChangeEntry"__id*
+	
+%func_3Z
+X
+
+__unknown_file (
+%sc-A_18088_env_14"__id* *
+
+%env"
+%scope-A_18088_env\
+Z
+
+__unknown_file (
+
+%expr_15"__id*,**
+
+%sc-A_18088_env_14"
+containerElementˆ
+…
+
+__unknown_file (	
+%func_4"__declareFunction*KI
+Gextensions_amp_ad_custom_0_1_test_test_amp_ad_custom_js_62_37_A_18097_0fd
+
+__unknown_file (/
+%functionPrototype_4%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_4"
+__setProto*
+	
+%func_4*1
+/
+%functionPrototype_4%SonarFunctionPrototype®
+«
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-custom/0.1/test/test-amp-ad-custom.js> >(!
+
+
+%expr_15"
+isInViewport"__id*
+	
+%func_4Z
+X
+
+__unknown_file (
+%sc-A_18088_env_15"__id* *
+
+%env"
+%scope-A_18088_env\
+Z
+
+__unknown_file (
+
+%expr_16"__id*,**
+
+%sc-A_18088_env_15"
+containerElementˆ
+…
+
+__unknown_file (	
+%func_5"__declareFunction*KI
+Gextensions_amp_ad_custom_0_1_test_test_amp_ad_custom_js_63_34_A_18098_0fd
+
+__unknown_file (/
+%functionPrototype_5%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_5"
+__setProto*
+	
+%func_5*1
+/
+%functionPrototype_5%SonarFunctionPrototype«
+¨
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-custom/0.1/test/test-amp-ad-custom.js? ?(
+
+
+%expr_16"
+	getAmpDoc"__id*
+	
+%func_5Z
+X
+
+__unknown_file (
+%sc-A_18088_env_16"__id* *
+
+%env"
+%scope-A_18088_envO
+M
+
+__unknown_file (
+
+%expr_17"__id**
+
+%sc-A_18088_env_16"
+docF
+D
+
+__unknown_file (
+
+%expr_18"__id**
+
+
+%expr_17"
+bodyZ
+X
+
+__unknown_file (
+%sc-A_18088_env_17"__id* *
+
+%env"
+%scope-A_18088_envM
+K
+
+__unknown_file (
+
+%expr_19"__id**
+
+
+%expr_18"
+appendChildî"ë
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-custom/0.1/test/test-amp-ad-custom.js@ @(
+
+%methRes_4*
+
+
+%expr_18"
+appendChild2
+
+
+%expr_182
+
+%env2,**
+
+%sc-A_18088_env_17"
+containerElementZ
+X
+
+__unknown_file (
+%sc-A_18088_env_18"__id* *
+
+%env"
+%scope-A_18088_envO
+M
+
+__unknown_file (
+%sc-P_1677_0"__id**
+
+%env"
+%scope-P_1677Z
+X
+
+__unknown_file (
+%sc-A_18088_env_19"__id* *
+
+%env"
+%scope-A_18088_envš—
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-custom/0.1/test/test-amp-ad-custom.jsB B(.
+	%object_0Object"ObjectS
+Q
+
+__unknown_file (
+
+%expr_20"__id*#*!
+
+%sc-P_1677_0"
+AmpAdTemplateý"ú
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-custom/0.1/test/test-amp-ad-custom.jsB B(.
+
+%methRes_5*!
+
+%sc-P_1677_0"
+AmpAdTemplate2
+
+	%object_0Object2
+
+%env2,**
+
+%sc-A_18088_env_19"
+containerElementQ
+O
+
+__unknown_file (
+%fieldAccess_0"__id**
+
+
+%expr_20"
+	prototype^
+\
+
+__unknown_file (	
+%void_6"
+__setProto*
+
+	%object_0Object*
+
+%fieldAccess_0º
+·
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-custom/0.1/test/test-amp-ad-custom.jsB B(
+
+%sc-A_18088_env_18"
+impl"__id*
+
+	%object_0ObjectZ
+X
+
+__unknown_file (
+%sc-A_18088_env_20"__id* *
+
+%env"
+%scope-A_18088_envP
+N
+
+__unknown_file (
+
+%expr_21"__id* *
+
+%sc-A_18088_env_20"
+implŽ
+‹
+
+__unknown_file (	
+%func_6"__declareFunction*QO
+Mextensions_amp_ad_custom_0_1_test_test_amp_ad_custom_js_67_30_A_18099_wid_heifd
+
+__unknown_file (/
+%functionPrototype_6%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_7"
+__setProto*
+	
+%func_6*1
+/
+%functionPrototype_6%SonarFunctionPrototype³
+°
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-custom/0.1/test/test-amp-ad-custom.jsC C(!
+
+
+%expr_21"
+attemptChangeSize"__id*
+	
+%func_6Z
+X
+
+__unknown_file (
+%sc-A_18088_env_21"__id* *
+
+%env"
+%scope-A_18088_envO
+M
+
+__unknown_file (
+
+%expr_22"__id**
+
+%sc-A_18088_env_21"
+envR
+P
+
+__unknown_file (
+
+%expr_23"__id*"* 
+
+
+%expr_22"
+installExtensionê"ç
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-custom/0.1/test/test-amp-ad-custom.jsH H(
+
+%methRes_6* 
+
+
+%expr_22"
+installExtension2
+
+
+%expr_222
+
+%env2
+amp-mustache2
+0.22222 "
+
+__unknown_file ( :
+%envB 

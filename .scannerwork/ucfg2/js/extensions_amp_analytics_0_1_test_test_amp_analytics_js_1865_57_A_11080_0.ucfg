@@ -1,0 +1,484 @@
+
+Iextensions_amp_analytics_0_1_test_test_amp_analytics_js_1865_57_A_11080_0z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÉ8 É(D"s199_1*¹A
+s199_1
+<synthetic> (C
+A
+
+__unknown_file (	
+%global"__id**
+
+%env"
+globalY
+W
+
+__unknown_file (
+%sc-FE_3858_env_0"__id* *
+
+%env"
+%scope-FE_3858_envœ™
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÌ Ì(=
+	%object_0Object"ObjectÁ
+¾
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÌ Ì(<
+
+	%object_0Object"
+foo"__id*
+https://example.test/barœ™
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÑ Ñ(3
+	%object_1Object"Object²
+¯
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÑ Ñ(2%
+
+	%object_1Object"
+persistEvent"__id*2œ™
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÎ Ò(
+	%object_2Object"Object¯
+¬
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÏ Ï(!
+
+	%object_2Object"
+on"__id*	
+visible°
+­
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÐ Ð(" 
+
+	%object_2Object"	
+request"__id*
+foo¾
+»
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÑ Ñ(3 
+
+	%object_2Object"	
+session"__id*
+
+	%object_1Objectœ™
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÖ Ö(3
+	%object_3Object"Object²
+¯
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÖ Ö(2%
+
+	%object_3Object"
+persistEvent"__id*2œ™
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÓ ×(
+	%object_4Object"Object¯
+¬
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÔ Ô(!
+
+	%object_4Object"
+on"__id*	
+visible°
+­
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÕ Õ(" 
+
+	%object_4Object"	
+request"__id*
+foo¾
+»
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÖ Ö(3 
+
+	%object_4Object"	
+session"__id*
+
+	%object_3Objectœ™
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÍ Ø(
+	%object_5Object"Object¿
+¼
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÎ Ò(!
+
+	%object_5Object"
+
+pageview"__id*
+
+	%object_2ObjectÀ
+½
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÓ ×("
+
+	%object_5Object"
+	pageview2"__id*
+
+	%object_4Objectœ™
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsË Ù(
+	%object_6Object"Object¿
+¼
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÌ Ì(=!
+
+	%object_6Object"
+
+requests"__id*
+
+	%object_0Object¿
+¼
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÍ Ø(!
+
+	%object_6Object"
+
+triggers"__id*
+
+	%object_5ObjectU
+S
+
+__unknown_file (
+%sc-A_11073_0_0"__id**
+
+%env"
+%scope-A_11073_0œ™
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÚ Ü(
+	%object_7Object"ObjectÉ
+Æ
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÛ Û( 
+
+	%object_7Object"
+type"__id*#*!
+
+%sc-A_11073_0_0"
+
+vendorTypeY
+W
+
+__unknown_file (
+%sc-FE_3858_env_1"__id* *
+
+%env"
+%scope-FE_3858_envü"ù
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÊ Ê(+
+
+%funcRes_0*(
+
+%sc-FE_3858_env_1"
+getAnalyticsTag2
+	
+%global2
+
+%env2
+
+	%object_6Object2
+
+	%object_7Object¢
+Ÿ
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsÊ Ê(
+	analytics"__id*
+
+
+%funcRes_0Y
+W
+
+__unknown_file (
+%sc-FE_3858_env_2"__id* *
+
+%env"
+%scope-FE_3858_envM
+K
+
+__unknown_file (	
+%expr_0"__id**
+
+%sc-FE_3858_env_2"
+envG
+E
+
+__unknown_file (	
+%expr_1"__id**
+	
+%expr_0"	
+sandboxO
+M
+
+__unknown_file (
+%sc-P_1020_0"__id**
+
+%env"
+%scope-P_1020S
+Q
+
+__unknown_file (	
+%expr_2"__id*$*"
+
+%sc-P_1020_0"
+SessionManagerC
+A
+
+__unknown_file (	
+%expr_3"__id**
+	
+%expr_1"
+spyå"â
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsß) ß(,
+
+%methRes_0*
+	
+%expr_1"
+spy2
+	
+%expr_12
+
+%env2*
+	
+%expr_2"
+	prototype2
+updateEvent£
+ 
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsß ß(
+
+sessionSpy"__id*
+
+
+%methRes_0Y
+W
+
+__unknown_file (
+%sc-FE_3858_env_3"__id* *
+
+%env"
+%scope-FE_3858_envY
+W
+
+__unknown_file (
+%sc-FE_3858_env_4"__id* *
+
+%env"
+%scope-FE_3858_envà"Ý
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsä ä("
+
+%funcRes_1*+
+
+%sc-FE_3858_env_4"
+waitForSendRequest2
+	
+%global2
+
+%env2
+
+	analyticsO
+M
+
+__unknown_file (
+%sc-P_1020_1"__id**
+
+%env"
+%scope-P_1020O
+M
+
+__unknown_file (
+%sc-P_1020_2"__id**
+
+%env"
+%scope-P_1020Ð"Í
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jså
+ å(
+
+%funcRes_2*
+
+%sc-P_1020_2"
+expect2
+	
+%global2
+
+%env2
+
+
+sessionSpyE
+C
+
+__unknown_file (	
+%expr_4"__id**
+
+
+%funcRes_2"
+toB
+@
+
+__unknown_file (	
+%expr_5"__id**
+	
+%expr_4"
+beO
+M
+
+__unknown_file (
+%sc-P_1020_3"__id**
+
+%env"
+%scope-P_1020O
+M
+
+__unknown_file (
+%sc-P_1020_4"__id**
+
+%env"
+%scope-P_1020ß"Ü
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsæ
+ æ(
+
+%funcRes_3*
+
+%sc-P_1020_4"
+expect2
+	
+%global2
+
+%env2*
+
+
+sessionSpy"
+	firstCallE
+C
+
+__unknown_file (	
+%expr_6"__id**
+
+
+%funcRes_3"
+toB
+@
+
+__unknown_file (	
+%expr_7"__id**
+	
+%expr_6"
+beU
+S
+
+__unknown_file (
+%sc-A_11073_0_1"__id**
+
+%env"
+%scope-A_11073_0J
+H
+
+__unknown_file (	
+%expr_8"__id**
+	
+%expr_7"
+
+calledWithä"á
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsæ- æ(7
+
+%methRes_1*
+	
+%expr_7"
+
+calledWith2
+	
+%expr_72
+
+%env2#*!
+
+%sc-A_11073_0_1"
+
+vendorTypeO
+M
+
+__unknown_file (
+%sc-P_1020_5"__id**
+
+%env"
+%scope-P_1020O
+M
+
+__unknown_file (
+%sc-P_1020_6"__id**
+
+%env"
+%scope-P_1020à"Ý
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsç
+ ç(
+
+%funcRes_4*
+
+%sc-P_1020_6"
+expect2
+	
+%global2
+
+%env2*
+
+
+sessionSpy"
+
+secondCallE
+C
+
+__unknown_file (	
+%expr_9"__id**
+
+
+%funcRes_4"
+toC
+A
+
+__unknown_file (
+
+%expr_10"__id**
+	
+%expr_9"
+beU
+S
+
+__unknown_file (
+%sc-A_11073_0_2"__id**
+
+%env"
+%scope-A_11073_0L
+J
+
+__unknown_file (
+
+%expr_11"__id**
+
+
+%expr_10"
+
+calledWithæ"ã
+z
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-amp-analytics.jsç. ç(8
+
+%methRes_2*
+
+
+%expr_10"
+
+calledWith2
+
+
+%expr_102
+
+%env2#*!
+
+%sc-A_11073_0_2"
+
+vendorType"
+
+__unknown_file ( :
+%envB 

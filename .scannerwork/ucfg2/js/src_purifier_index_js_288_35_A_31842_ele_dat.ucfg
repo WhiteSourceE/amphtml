@@ -1,0 +1,900 @@
+
+,src_purifier_index_js_288_35_A_31842_ele_datX
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js†" †(5"s13_1*∆
+s13_1
+<synthetic> (C
+A
+
+__unknown_file (	
+%global"__id**
+
+%env"
+global><
+
+__unknown_file (
+%scope-A_31842_ele_dat"Objectb
+`
+
+__unknown_file ("
+
+%env"
+%scope-A_31842_ele_dat"__id*
+
+%scope-A_31842_ele_datH
+F
+
+__unknown_file (	
+%expr_0"__id**
+	
+element"
+
+nodeNameK
+I
+
+__unknown_file (	
+%expr_1"__id**
+	
+%expr_0"
+toLowerCaseû"õ
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.jsß' ß(2
+
+%methRes_0*
+	
+%expr_0"
+toLowerCase2
+	
+%expr_02
+
+%env}
+{
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.jsß ß(	
+tagName"__id*
+
+
+%methRes_0£
+†
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js® ®(&
+
+%scope-A_31842_ele_dat"
+
+attrName"__id**
+
+data"
+
+attrNameâ
+Ü
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js© ©(
+	attrValue"__id**
+
+data"
+	attrValuec
+a
+
+__unknown_file (
+%sc-FE_11877_pur_att_0"__id*%*#
+
+%env"
+%scope-FE_11877_pur_attµ
+≤
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js™ ™(/
+
+%sc-FE_11877_pur_att_0"
+allowedAttributes"__id**
+
+data"
+allowedAttributesf
+d
+
+__unknown_file (	
+%func_0"__declareFunction**(
+&src_purifier_index_js_300_30_A_31843_0b
+`
+
+__unknown_file ("
+
+%env"
+%scope-A_31842_ele_dat"__id*
+
+%scope-A_31842_ele_datfd
+
+__unknown_file (/
+%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_0"
+__setProto*
+	
+%func_0*1
+/
+%functionPrototype_0%SonarFunctionPrototypeÅ
+
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js¨ ¨(
+allowAttribute"__id*
+	
+%func_0J
+H
+
+__unknown_file (	
+%expr_2"__id**
+	
+tagName"
+
+startsWithß"§
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js∑# ∑(-
+
+%methRes_1*
+	
+tagName"
+
+startsWith2
+	
+tagName2
+
+%env2
+amp-É
+Ä
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js∑ ∑(
+isAmpElement"__id*
+
+
+%methRes_1*
+s13_2
+s13_3*ø
+s13_2
+<synthetic> (î"ë
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.jsπ π(
+
+%funcRes_0"
+allowAttribute2
+	
+%global2
+
+%env*
+s13_13*Ä
+s13_3
+<synthetic> (å
+â
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.jsø ø(
+%binOpRes_0"
+__js_equal*
+	
+tagName*
+aA
+?
+
+__unknown_file (
+
+%leftAnd_0"__id*
+
+%binOpRes_0*
+s13_4
+s13_9*Ø
+s13_4
+<synthetic> (ü
+ú
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.jsø ø(2
+%fieldAccess_0"__id*(*&
+
+%scope-A_31842_ele_dat"
+
+attrNameò
+ï
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.jsø ø(2
+%binOpRes_1"
+__js_equal*
+
+%fieldAccess_0*
+
+targetB
+@
+
+__unknown_file (
+%rightAnd_0"__id*
+
+%binOpRes_1*
+s13_5
+s13_9*·
+s13_5
+<synthetic> (M
+K
+
+__unknown_file (	
+%expr_3"__id**
+
+	attrValue"
+toLowerCase¢"ü
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js¿+ ¿(6
+
+%methRes_2*
+
+	attrValue"
+toLowerCase2
+
+	attrValue2
+
+%envç
+ä
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js¿ ¿(
+%lowercaseValue~iSc_20"__id*
+
+
+%methRes_2O
+M
+
+__unknown_file (
+%sc-P_2911_0"__id**
+
+%env"
+%scope-P_2911X
+V
+
+__unknown_file (	
+%expr_4"__id*)*'
+
+%sc-P_2911_0"
+ALLOWLISTED_TARGETSH
+F
+
+__unknown_file (	
+%expr_5"__id**
+	
+%expr_4"
+
+includes∑"¥
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js¡# ¡(+
+
+%methRes_3*
+	
+%expr_4"
+
+includes2
+	
+%expr_42
+
+%env2
+
+%lowercaseValue~iSc_20*
+s13_6
+s13_7*¢
+s13_6
+<synthetic> (y
+w
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js¬ ¬(
+	attrValue"__id*
+_top*
+s13_8*∂
+s13_7
+<synthetic> (å
+â
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js≈ ≈(
+	attrValue"__id*
+
+%lowercaseValue~iSc_20*
+s13_8*'
+s13_8
+<synthetic> (*
+s13_9*√
+s13_9
+<synthetic> (O
+M
+
+__unknown_file (
+%sc-P_2911_1"__id**
+
+%env"
+%scope-P_2911^
+\
+
+__unknown_file (	
+%expr_6"__id*/*-
+
+%sc-P_2911_1"
+ALLOWLISTED_ATTRS_BY_TAGSã
+à
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js   (>
+%var_0"__mapGet*
+	
+%expr_6*
+	
+tagNameÜ
+É
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js   (
+%attrsByTags~iSc_19"__id*
+
+
+%var_0I
+G
+
+__unknown_file (
+
+%leftAnd_1"__id*
+
+%attrsByTags~iSc_19*
+s13_10
+s13_12*™
+s13_10
+<synthetic>	 	(T
+R
+
+__unknown_file (	
+%expr_7"__id*%*#
+
+%attrsByTags~iSc_19"
+
+includes›"⁄
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.jsÀ' À(/
+
+%methRes_4*#
+
+%attrsByTags~iSc_19"
+
+includes2
+
+%attrsByTags~iSc_192
+
+%env2(*&
+
+%scope-A_31842_ele_dat"
+
+attrNameA
+?
+
+__unknown_file (
+%rightAnd_1"__id*
+
+
+%methRes_4*
+s13_11
+s13_12*¿
+s13_11
+<synthetic>
+ 
+(î"ë
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.jsÃ
+ Ã(
+
+%funcRes_1"
+allowAttribute2
+	
+%global2
+
+%env*
+s13_12*)
+s13_12
+<synthetic> (*
+s13_13*É
+s13_13
+<synthetic> (O
+M
+
+__unknown_file (
+%sc-P_2911_2"__id**
+
+%env"
+%scope-P_2911O
+M
+
+__unknown_file (
+%sc-P_2911_3"__id**
+
+%env"
+%scope-P_2911‘"—
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js– –(,
+
+%funcRes_2*&
+
+%sc-P_2911_3"
+bindingTypeForAttr2
+	
+%global2
+
+%env2(*&
+
+%scope-A_31842_ele_dat"
+
+attrNameÅ
+
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js– –(
+bindingType"__id*
+
+
+%funcRes_2O
+M
+
+__unknown_file (
+%sc-P_2911_4"__id**
+
+%env"
+%scope-P_2911P
+N
+
+__unknown_file (	
+%expr_8"__id*!*
+
+%sc-P_2911_4"
+BindingTypeè
+å
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js‘
+ ‘(-
+%fieldAccess_1"__id**
+	
+%expr_8"	
+CLASSICù
+ö
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js‘
+ ‘(-
+%binOpRes_2"
+__js_equal*
+
+bindingType*
+
+%fieldAccess_1*
+s13_14
+s13_15*©
+s13_14
+<synthetic> (W
+U
+
+__unknown_file (	
+%expr_9"__id*(*&
+
+%scope-A_31842_ele_dat"
+
+attrNameX
+V
+
+__unknown_file (
+
+%expr_10"__id*(*&
+
+%scope-A_31842_ele_dat"
+
+attrNameè
+å
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js’/ ’(B
+%fieldAccess_2"__id**
+
+
+%expr_10"
+lengthê
+ç
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js’/ ’(B
+%binOpRes_3"__js_sub*
+
+%fieldAccess_2*2J
+H
+
+__unknown_file (
+
+%expr_11"__id**
+	
+%expr_9"
+	substring≥"∞
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js’" ’(+
+
+%methRes_5*
+	
+%expr_9"
+	substring2
+	
+%expr_92
+
+%env222
+
+%binOpRes_3á
+Ñ
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js’ ’(
+%property~iSc_24"__id*
+
+
+%methRes_5O
+M
+
+__unknown_file (
+%sc-P_2911_5"__id**
+
+%env"
+%scope-P_2911ò
+ï
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js÷ ÷(8
+%fieldAccess_3"__id*!*
+
+%sc-P_2911_5"
+BIND_PREFIXû
+õ
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js÷ ÷(8
+	%concat_0"__concat*
+
+%fieldAccess_3*
+
+%property~iSc_24M
+K
+
+__unknown_file (
+
+%expr_12"__id**
+	
+element"
+setAttributeΩ"∫
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js÷ ÷(
+
+%methRes_6*
+	
+element"
+setAttribute2
+	
+element2
+
+%env2
+
+	%concat_02
+
+	attrValue*
+s13_15*á
+s13_15
+<synthetic> (O
+M
+
+__unknown_file (
+%sc-P_2911_6"__id**
+
+%env"
+%scope-P_2911Q
+O
+
+__unknown_file (
+
+%expr_13"__id*!*
+
+%sc-P_2911_6"
+BindingTypeç
+ä
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.jsÿ
+ ÿ(*
+%fieldAccess_4"__id**
+
+
+%expr_13"
+NONEü
+ú
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.jsÿ
+ ÿ(*
+%binOpRes_4"__js_unequal*
+
+bindingType*
+
+%fieldAccess_4*
+s13_16
+s13_17*µ
+s13_16
+<synthetic> (M
+K
+
+__unknown_file (
+
+%expr_14"__id**
+	
+element"
+setAttribute∫"∑
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.js€ €(
+
+%methRes_7*
+	
+element"
+setAttribute2
+	
+element2
+
+%env2
+i-amphtml-binding2 *
+s13_17*µ
+s13_17
+<synthetic> (O
+M
+
+__unknown_file (
+%sc-P_2911_7"__id**
+
+%env"
+%scope-P_2911V
+T
+
+__unknown_file (
+
+%expr_15"__id*&*$
+
+%env"
+_this_1_FE_11877_pur_attO
+M
+
+__unknown_file (
+%sc-P_2911_8"__id**
+
+%env"
+%scope-P_2911á"Ñ
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.jsﬂ ﬂ(
+
+%funcRes_3*
+
+%sc-P_2911_8"
+isValidAttr2
+	
+%global2
+
+%env2
+	
+tagName2(*&
+
+%scope-A_31842_ele_dat"
+
+attrName2
+
+	attrValue2*
+
+
+%expr_15"
+doc_22*
+s13_18
+s13_23*ı
+s13_18
+<synthetic> (c
+a
+
+__unknown_file (
+%sc-FE_11877_pur_att_1"__id*%*#
+
+%env"
+%scope-FE_11877_pur_att]
+[
+
+__unknown_file (
+
+%leftAnd_2"__id*+*)
+
+%sc-FE_11877_pur_att_1"
+attrRewrite*
+s13_19
+s13_22*∂
+s13_19
+<synthetic> (@
+>
+
+__unknown_file (
+%rightAnd_2"__id*
+
+	attrValueA
+?
+
+__unknown_file (
+
+%leftAnd_3"__id*
+
+%rightAnd_2*
+s13_20
+s13_22*¶
+s13_20
+<synthetic> (X
+V
+
+__unknown_file (
+
+%expr_16"__id*(*&
+
+%scope-A_31842_ele_dat"
+
+attrNameO
+M
+
+__unknown_file (
+%sc-P_2911_9"__id**
+
+%env"
+%scope-P_2911L
+J
+
+__unknown_file (
+
+%expr_17"__id**
+
+
+%expr_16"
+
+startsWith¬"ø
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.jsÁ2 Á(<
+
+%methRes_8*
+
+
+%expr_16"
+
+startsWith2
+
+
+%expr_162
+
+%env2!*
+
+%sc-P_2911_9"
+BIND_PREFIX5
+3
+
+__unknown_file (
+%rightAnd_3"__id* *
+s13_21
+s13_22*Í
+s13_21
+<synthetic> (c
+a
+
+__unknown_file (
+%sc-FE_11877_pur_att_2"__id*%*#
+
+%env"
+%scope-FE_11877_pur_attc
+a
+
+__unknown_file (
+%sc-FE_11877_pur_att_3"__id*%*#
+
+%env"
+%scope-FE_11877_pur_attÛ"
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.jsË Ë(!
+
+%funcRes_4*)
+
+%sc-FE_11877_pur_att_3"
+attrRewrite2
+	
+%global2
+
+%env2
+	
+tagName2(*&
+
+%scope-A_31842_ele_dat"
+
+attrName2
+
+	attrValue
+}
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.jsË
+ Ë(
+	attrValue"__id*
+
+
+%funcRes_4*
+s13_22*)
+s13_22
+<synthetic> (*
+s13_24*∑
+s13_23
+<synthetic> (|
+z
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.jsÎ Î(
+
+data"
+
+keepAttr"__id*2 P
+N
+
+__unknown_file (
+%sc-P_2911_10"__id**
+
+%env"
+%scope-P_2911P
+N
+
+__unknown_file (
+%sc-P_2911_11"__id**
+
+%env"
+%scope-P_2911ù"ö
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.jsÏ Ï(
+
+%funcRes_5*
+
+%sc-P_2911_11"
+user2
+	
+%global2
+
+%envP
+N
+
+__unknown_file (
+%sc-P_2911_12"__id**
+
+%env"
+%scope-P_2911I
+G
+
+__unknown_file (
+
+%expr_18"__id**
+
+
+%funcRes_5"
+error¨"©
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.jsÏ Ï(
+
+%methRes_9*
+
+
+%funcRes_5"
+error2
+
+
+%funcRes_52
+
+%env2*
+
+%sc-P_2911_12"
+TAG2*(
+&Removed invalid attribute %s[%s="%s"].2
+	
+tagName2(*&
+
+%scope-A_31842_ele_dat"
+
+attrName2
+
+	attrValue*
+s13_24*À
+s13_24
+<synthetic> (â
+Ü
+X
+L/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/purifier/index.jsˆ ˆ(
+
+data"
+	attrValue"__id*
+
+	attrValue"
+
+__unknown_file ( :
+%env:	
+element:
+dataB 

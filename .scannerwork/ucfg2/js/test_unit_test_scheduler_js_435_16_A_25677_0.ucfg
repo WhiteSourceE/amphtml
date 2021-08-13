@@ -1,0 +1,548 @@
+
+,test_unit_test_scheduler_js_435_16_A_25677_0^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.js³ ³("s52_1*¦A
+s52_1
+<synthetic> (C
+A
+
+__unknown_file (	
+%global"__id**
+
+%env"
+globalU
+S
+
+__unknown_file (
+%sc-A_25676_0_0"__id**
+
+%env"
+%scope-A_25676_0Y
+W
+
+__unknown_file (
+%sc-A_25628_env_0"__id* *
+
+%env"
+%scope-A_25628_env}
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.js´# ´(I
+	%object_0Object"Object•
+’
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.js´$ ´(3
+
+	%object_0Object"
+id"__id*
+	container—
+”
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.js´5 ´(H&
+
+	%object_0Object"
+deferredMount"__id*2Y
+W
+
+__unknown_file (
+%sc-A_25628_env_1"__id* *
+
+%env"
+%scope-A_25628_envÊ"Ç
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.js´ ´("
+
+%funcRes_0*)
+
+%sc-A_25628_env_1"
+createAmpElement2
+	
+%global2
+
+%env2
+
+	%object_0Object›
+˜
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.js´ ´( 
+
+%sc-A_25676_0_0"
+	container"__id*
+
+
+%funcRes_0U
+S
+
+__unknown_file (
+%sc-A_25676_0_1"__id**
+
+%env"
+%scope-A_25676_0O
+M
+
+__unknown_file (
+%sc-P_2381_0"__id**
+
+%env"
+%scope-P_2381Y
+W
+
+__unknown_file (
+%sc-A_25628_env_2"__id* *
+
+%env"
+%scope-A_25628_env}
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.jsµB ·(
+	%object_1Object"Object”
+‘
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.js¶ ¶(
+
+	%object_1Object"
+id"__id*
+
+scrollerO
+M
+
+__unknown_file (
+%sc-P_2381_1"__id**
+
+%env"
+%scope-P_2381ù"ö
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.jsµ µ(5
+
+%funcRes_1*/
+
+%sc-P_2381_1"
+createElementWithAttributes2
+	
+%global2
+
+%env2*
+
+%sc-A_25628_env_2"
+doc2
+div2
+
+	%object_1Object£
+ 
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.jsµ µ((
+
+%sc-A_25676_0_1"
+containerScroller"__id*
+
+
+%funcRes_1U
+S
+
+__unknown_file (
+%sc-A_25676_0_2"__id**
+
+%env"
+%scope-A_25676_0Y
+W
+
+__unknown_file (
+%sc-A_25628_env_3"__id* *
+
+%env"
+%scope-A_25628_env}
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.js¹$ ¹(K
+	%object_2Object"Object–
+“
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.js¹% ¹(5
+
+	%object_2Object"
+id"__id*
+
+topElement—
+”
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.js¹7 ¹(J&
+
+	%object_2Object"
+deferredMount"__id*2Y
+W
+
+__unknown_file (
+%sc-A_25628_env_4"__id* *
+
+%env"
+%scope-A_25628_envÊ"Ç
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.js¹ ¹(#
+
+%funcRes_2*)
+
+%sc-A_25628_env_4"
+createAmpElement2
+	
+%global2
+
+%env2
+
+	%object_2Objectœ
+™
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.js¹ ¹(!
+
+%sc-A_25676_0_2"
+
+topElement"__id*
+
+
+%funcRes_2U
+S
+
+__unknown_file (
+%sc-A_25676_0_3"__id**
+
+%env"
+%scope-A_25676_0Y
+W
+
+__unknown_file (
+%sc-A_25628_env_5"__id* *
+
+%env"
+%scope-A_25628_env}
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.jsº* ½(
+	%object_3Object"Objectœ
+™
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.js» »(
+
+	%object_3Object"
+id"__id*
+containerElement—
+”
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.js¼ ¼(&
+
+	%object_3Object"
+deferredMount"__id*2Y
+W
+
+__unknown_file (
+%sc-A_25628_env_6"__id* *
+
+%env"
+%scope-A_25628_envÊ"Ç
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.jsº º()
+
+%funcRes_3*)
+
+%sc-A_25628_env_6"
+createAmpElement2
+	
+%global2
+
+%env2
+
+	%object_3Object¢
+Ÿ
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.jsº º('
+
+%sc-A_25676_0_3"
+containerElement"__id*
+
+
+%funcRes_3U
+S
+
+__unknown_file (
+%sc-A_25676_0_4"__id**
+
+%env"
+%scope-A_25676_0Y
+W
+
+__unknown_file (
+%sc-A_25628_env_7"__id* *
+
+%env"
+%scope-A_25628_env}
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.js¾/ Á(
+	%object_4Object"Object¡
+ž
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.js¿ ¿(#
+
+	%object_4Object"
+id"__id*
+containerElementChild—
+”
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.jsÀ À(&
+
+	%object_4Object"
+deferredMount"__id*2Y
+W
+
+__unknown_file (
+%sc-A_25628_env_8"__id* *
+
+%env"
+%scope-A_25628_envÊ"Ç
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.js¾ ¾(.
+
+%funcRes_4*)
+
+%sc-A_25628_env_8"
+createAmpElement2
+	
+%global2
+
+%env2
+
+	%object_4Object§
+¤
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.js¾ ¾(,
+
+%sc-A_25676_0_4"
+containerElementChild"__id*
+
+
+%funcRes_4Y
+W
+
+__unknown_file (
+%sc-A_25628_env_9"__id* *
+
+%env"
+%scope-A_25628_envM
+K
+
+__unknown_file (	
+%expr_0"__id**
+
+%sc-A_25628_env_9"
+docD
+B
+
+__unknown_file (	
+%expr_1"__id**
+	
+%expr_0"
+bodyU
+S
+
+__unknown_file (
+%sc-A_25676_0_5"__id**
+
+%env"
+%scope-A_25676_0K
+I
+
+__unknown_file (	
+%expr_2"__id**
+	
+%expr_1"
+appendChildÈ"Å
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.jsÃ Ã(
+
+%methRes_0*
+	
+%expr_1"
+appendChild2
+	
+%expr_12
+
+%env2"* 
+
+%sc-A_25676_0_5"
+	containerZ
+X
+
+__unknown_file (
+%sc-A_25628_env_10"__id* *
+
+%env"
+%scope-A_25628_envN
+L
+
+__unknown_file (	
+%expr_3"__id**
+
+%sc-A_25628_env_10"
+docD
+B
+
+__unknown_file (	
+%expr_4"__id**
+	
+%expr_3"
+bodyU
+S
+
+__unknown_file (
+%sc-A_25676_0_6"__id**
+
+%env"
+%scope-A_25676_0K
+I
+
+__unknown_file (	
+%expr_5"__id**
+	
+%expr_4"
+appendChildÉ"Æ
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.jsÄ Ä(
+
+%methRes_1*
+	
+%expr_4"
+appendChild2
+	
+%expr_42
+
+%env2#*!
+
+%sc-A_25676_0_6"
+
+topElementU
+S
+
+__unknown_file (
+%sc-A_25676_0_7"__id**
+
+%env"
+%scope-A_25676_0Q
+O
+
+__unknown_file (	
+%expr_6"__id*"* 
+
+%sc-A_25676_0_7"
+	containerU
+S
+
+__unknown_file (
+%sc-A_25676_0_8"__id**
+
+%env"
+%scope-A_25676_0K
+I
+
+__unknown_file (	
+%expr_7"__id**
+	
+%expr_6"
+appendChildÐ"Í
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.jsÅ Å(
+
+%methRes_2*
+	
+%expr_6"
+appendChild2
+	
+%expr_62
+
+%env2**(
+
+%sc-A_25676_0_8"
+containerScrollerU
+S
+
+__unknown_file (
+%sc-A_25676_0_9"__id**
+
+%env"
+%scope-A_25676_0Y
+W
+
+__unknown_file (	
+%expr_8"__id***(
+
+%sc-A_25676_0_9"
+containerScrollerV
+T
+
+__unknown_file (
+%sc-A_25676_0_10"__id**
+
+%env"
+%scope-A_25676_0K
+I
+
+__unknown_file (	
+%expr_9"__id**
+	
+%expr_8"
+appendChildÐ"Í
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.jsÆ Æ(#
+
+%methRes_3*
+	
+%expr_8"
+appendChild2
+	
+%expr_82
+
+%env2**(
+
+%sc-A_25676_0_10"
+containerElementV
+T
+
+__unknown_file (
+%sc-A_25676_0_11"__id**
+
+%env"
+%scope-A_25676_0Z
+X
+
+__unknown_file (
+
+%expr_10"__id***(
+
+%sc-A_25676_0_11"
+containerElementV
+T
+
+__unknown_file (
+%sc-A_25676_0_12"__id**
+
+%env"
+%scope-A_25676_0M
+K
+
+__unknown_file (
+
+%expr_11"__id**
+
+
+%expr_10"
+appendChild×"Ô
+^
+R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-scheduler.jsÇ Ç("
+
+%methRes_4*
+
+
+%expr_10"
+appendChild2
+
+
+%expr_102
+
+%env2/*-
+
+%sc-A_25676_0_12"
+containerElementChild"
+
+__unknown_file ( :
+%envB 

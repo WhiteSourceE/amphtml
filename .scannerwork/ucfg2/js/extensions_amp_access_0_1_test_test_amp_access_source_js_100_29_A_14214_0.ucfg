@@ -1,0 +1,663 @@
+
+Iextensions_amp_access_0_1_test_test_amp_access_source_js_100_29_A_14214_0y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsd d(""s7_1*àR
+s7_1
+<synthetic> (C
+A
+
+__unknown_file (	
+%global"__id**
+
+%env"
+globalõò
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsj j(
+	%object_0Object"Objectõò
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jse k(
+	%object_1Object"Objectƒ
+¡
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsf f(-&
+
+	%object_1Object"
+authorization"__id*
+https://acme.com/aø
+º
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsg g((!
+
+	%object_1Object"
+
+pingback"__id*
+https://acme.com/pº
+π
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsh h(%
+
+	%object_1Object"
+login"__id*
+https://acme.com/l¿
+Ω
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsi i()"
+
+	%object_1Object"
+	iframeSrc"__id*
+https://acme.com/i≈
+¬
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsj j((
+
+	%object_1Object"
+defaultResponse"__id*
+
+	%object_0Object•
+¢
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jse
+ e(
+config"__id*
+
+	%object_1ObjectY
+W
+
+__unknown_file (
+%sc-A_14210_env_0"__id* *
+
+%env"
+%scope-A_14210_envY
+W
+
+__unknown_file (
+%sc-A_14210_env_1"__id* *
+
+%env"
+%scope-A_14210_envO
+M
+
+__unknown_file (
+%sc-P_1317_0"__id**
+
+%env"
+%scope-P_1317Y
+W
+
+__unknown_file (
+%sc-A_14210_env_2"__id* *
+
+%env"
+%scope-A_14210_env¥"±
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsl l(
+
+%funcRes_0*)
+
+%sc-A_14210_env_2"
+expectSourceType2
+	
+%global2
+
+%env2!*
+
+%sc-A_14210_env_1"
+ampdoc2
+
+
+config2
+
+client2)*'
+
+%sc-P_1317_0"
+AccessClientAdapter§
+°
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsn n(
+
+config"
+type"__id*
+
+clientY
+W
+
+__unknown_file (
+%sc-A_14210_env_3"__id* *
+
+%env"
+%scope-A_14210_envY
+W
+
+__unknown_file (
+%sc-A_14210_env_4"__id* *
+
+%env"
+%scope-A_14210_envO
+M
+
+__unknown_file (
+%sc-P_1317_1"__id**
+
+%env"
+%scope-P_1317Y
+W
+
+__unknown_file (
+%sc-A_14210_env_5"__id* *
+
+%env"
+%scope-A_14210_env¥"±
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jso o(
+
+%funcRes_1*)
+
+%sc-A_14210_env_5"
+expectSourceType2
+	
+%global2
+
+%env2!*
+
+%sc-A_14210_env_4"
+ampdoc2
+
+
+config2
+
+client2)*'
+
+%sc-P_1317_1"
+AccessClientAdapter§
+°
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsq q(
+
+config"
+type"__id*
+
+iframeY
+W
+
+__unknown_file (
+%sc-A_14210_env_6"__id* *
+
+%env"
+%scope-A_14210_envY
+W
+
+__unknown_file (
+%sc-A_14210_env_7"__id* *
+
+%env"
+%scope-A_14210_envO
+M
+
+__unknown_file (
+%sc-P_1317_2"__id**
+
+%env"
+%scope-P_1317Y
+W
+
+__unknown_file (
+%sc-A_14210_env_8"__id* *
+
+%env"
+%scope-A_14210_env¥"±
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsr r(
+
+%funcRes_2*)
+
+%sc-A_14210_env_8"
+expectSourceType2
+	
+%global2
+
+%env2!*
+
+%sc-A_14210_env_7"
+ampdoc2
+
+
+config2
+
+iframe2)*'
+
+%sc-P_1317_2"
+AccessIframeAdapter§
+°
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jst t(
+
+config"
+type"__id*
+
+serverY
+W
+
+__unknown_file (
+%sc-A_14210_env_9"__id* *
+
+%env"
+%scope-A_14210_envZ
+X
+
+__unknown_file (
+%sc-A_14210_env_10"__id* *
+
+%env"
+%scope-A_14210_envO
+M
+
+__unknown_file (
+%sc-P_1317_3"__id**
+
+%env"
+%scope-P_1317Z
+X
+
+__unknown_file (
+%sc-A_14210_env_11"__id* *
+
+%env"
+%scope-A_14210_env∂"≥
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsu u(
+
+%funcRes_3**
+
+%sc-A_14210_env_11"
+expectSourceType2
+	
+%global2
+
+%env2"* 
+
+%sc-A_14210_env_10"
+ampdoc2
+
+
+config2
+
+client2)*'
+
+%sc-P_1317_3"
+AccessClientAdapter§
+°
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsw w(
+
+config"
+type"__id*
+
+serverO
+M
+
+__unknown_file (
+%sc-P_1317_4"__id**
+
+%env"
+%scope-P_1317Z
+X
+
+__unknown_file (
+%sc-A_14210_env_12"__id* *
+
+%env"
+%scope-A_14210_envO
+M
+
+__unknown_file (
+%sc-P_1317_5"__id**
+
+%env"
+%scope-P_1317á"Ñ
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsx x(
+
+%funcRes_4*$
+
+%sc-P_1317_5"
+toggleExperiment2
+	
+%global2
+
+%env2*
+
+%sc-A_14210_env_12"
+win2
+amp-access-server22Z
+X
+
+__unknown_file (
+%sc-A_14210_env_13"__id* *
+
+%env"
+%scope-A_14210_envZ
+X
+
+__unknown_file (
+%sc-A_14210_env_14"__id* *
+
+%env"
+%scope-A_14210_envO
+M
+
+__unknown_file (
+%sc-P_1317_6"__id**
+
+%env"
+%scope-P_1317Z
+X
+
+__unknown_file (
+%sc-A_14210_env_15"__id* *
+
+%env"
+%scope-A_14210_env∂"≥
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsy y(
+
+%funcRes_5**
+
+%sc-A_14210_env_15"
+expectSourceType2
+	
+%global2
+
+%env2"* 
+
+%sc-A_14210_env_14"
+ampdoc2
+
+
+config2
+
+server2)*'
+
+%sc-P_1317_6"
+AccessServerAdapter§
+°
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.js} }(
+
+config"
+type"__id*
+
+clientO
+M
+
+__unknown_file (
+%sc-P_1317_7"__id**
+
+%env"
+%scope-P_1317Z
+X
+
+__unknown_file (
+%sc-A_14210_env_16"__id* *
+
+%env"
+%scope-A_14210_envO
+M
+
+__unknown_file (
+%sc-P_1317_8"__id**
+
+%env"
+%scope-P_1317á"Ñ
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.js~ ~(
+
+%funcRes_6*$
+
+%sc-P_1317_8"
+toggleExperiment2
+	
+%global2
+
+%env2*
+
+%sc-A_14210_env_16"
+win2
+amp-access-server22Z
+X
+
+__unknown_file (
+%sc-A_14210_env_17"__id* *
+
+%env"
+%scope-A_14210_envZ
+X
+
+__unknown_file (
+%sc-A_14210_env_18"__id* *
+
+%env"
+%scope-A_14210_envO
+M
+
+__unknown_file (
+%sc-P_1317_9"__id**
+
+%env"
+%scope-P_1317Z
+X
+
+__unknown_file (
+%sc-A_14210_env_19"__id* *
+
+%env"
+%scope-A_14210_env∂"≥
+y
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.js (
+
+%funcRes_7**
+
+%sc-A_14210_env_19"
+expectSourceType2
+	
+%global2
+
+%env2"* 
+
+%sc-A_14210_env_18"
+ampdoc2
+
+
+config2
+
+server2)*'
+
+%sc-P_1317_9"
+AccessServerAdapter•
+¢
+{
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsÅ Å(
+
+config"
+type"__id*	
+otherZ
+X
+
+__unknown_file (
+%sc-A_14210_env_20"__id* *
+
+%env"
+%scope-A_14210_envZ
+X
+
+__unknown_file (
+%sc-A_14210_env_21"__id* *
+
+%env"
+%scope-A_14210_envP
+N
+
+__unknown_file (
+%sc-P_1317_10"__id**
+
+%env"
+%scope-P_1317Z
+X
+
+__unknown_file (
+%sc-A_14210_env_22"__id* *
+
+%env"
+%scope-A_14210_env∑"¥
+{
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsÇ Ç(
+
+%funcRes_8**
+
+%sc-A_14210_env_22"
+expectSourceType2
+	
+%global2
+
+%env2"* 
+
+%sc-A_14210_env_21"
+ampdoc2
+
+
+config2	
+other2)*'
+
+%sc-P_1317_10"
+AccessOtherAdapterùö
+{
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsÑ Ñ(
+	%object_2Object"Objectß
+§
+{
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsÑ Ñ(
+config"__id*
+
+	%object_2Object¶
+£
+{
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsÖ Ö(
+
+config"
+type"__id*
+
+vendor©
+¶
+{
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsÜ Ü(
+
+config"
+vendor"__id*	
+vendor1Z
+X
+
+__unknown_file (
+%sc-A_14210_env_23"__id* *
+
+%env"
+%scope-A_14210_envZ
+X
+
+__unknown_file (
+%sc-A_14210_env_24"__id* *
+
+%env"
+%scope-A_14210_envP
+N
+
+__unknown_file (
+%sc-P_1317_11"__id**
+
+%env"
+%scope-P_1317Z
+X
+
+__unknown_file (
+%sc-A_14210_env_25"__id* *
+
+%env"
+%scope-A_14210_envπ"∂
+{
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsá á(
+
+%funcRes_9**
+
+%sc-A_14210_env_25"
+expectSourceType2
+	
+%global2
+
+%env2"* 
+
+%sc-A_14210_env_24"
+ampdoc2
+
+
+config2
+
+vendor2**(
+
+%sc-P_1317_11"
+AccessVendorAdapter©
+¶
+{
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsä ä(
+
+config"
+vendor"__id*	
+vendor1Z
+X
+
+__unknown_file (
+%sc-A_14210_env_26"__id* *
+
+%env"
+%scope-A_14210_envZ
+X
+
+__unknown_file (
+%sc-A_14210_env_27"__id* *
+
+%env"
+%scope-A_14210_envP
+N
+
+__unknown_file (
+%sc-P_1317_12"__id**
+
+%env"
+%scope-P_1317Z
+X
+
+__unknown_file (
+%sc-A_14210_env_28"__id* *
+
+%env"
+%scope-A_14210_env∫"∑
+{
+o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-source.jsã ã(
+%funcRes_10**
+
+%sc-A_14210_env_28"
+expectSourceType2
+	
+%global2
+
+%env2"* 
+
+%sc-A_14210_env_27"
+ampdoc2
+
+
+config2
+
+vendor2**(
+
+%sc-P_1317_12"
+AccessVendorAdapter"
+
+__unknown_file ( :
+%envB 

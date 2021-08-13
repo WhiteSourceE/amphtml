@@ -1,0 +1,514 @@
+
+Gextensions_amp_a4a_0_1_test_test_name_frame_renderer_js_34_14_A_17766_0x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js" "("s3_1*Î@
+s3_1
+<synthetic> (C
+A
+
+__unknown_file (	
+%global"__id**
+
+%env"
+globalY
+W
+
+__unknown_file (
+%sc-A_17765_env_0"__id* *
+
+%env"
+%scope-A_17765_envš—
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js$ $((
+	%object_0Object"Object¬
+©
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js$ $(
+
+	%object_0Object"
+width"__id*
+320¬
+©
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js$ $('
+
+	%object_0Object"
+height"__id*
+50Y
+W
+
+__unknown_file (
+%sc-A_17765_env_1"__id* *
+
+%env"
+%scope-A_17765_envM
+K
+
+__unknown_file (	
+%expr_0"__id**
+
+%sc-A_17765_env_1"
+envš—
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js# ((
+	%object_1Object"Object¹
+¶
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js$ $((
+
+	%object_1Object"
+size"__id*
+
+	%object_0ObjectÃ
+À
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js% %()#
+
+	%object_1Object"
+
+requestUrl"__id*
+http://www.google.com·
+´
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js& &(
+
+	%object_1Object"
+win"__id**
+	
+%expr_0"
+win²
+¯
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js' '(!
+
+	%object_1Object"
+
+sentinel"__id*
+
+s-1234¼
+¹
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js# #( 
+
+%sc-A_17765_env_0"	
+context"__id*
+
+	%object_1ObjectY
+W
+
+__unknown_file (
+%sc-A_17765_env_2"__id* *
+
+%env"
+%scope-A_17765_envO
+M
+
+__unknown_file (
+%sc-P_1671_0"__id**
+
+%env"
+%scope-P_1671Y
+W
+
+__unknown_file (
+%sc-A_17765_env_3"__id* *
+
+%env"
+%scope-A_17765_envO
+M
+
+__unknown_file (
+%sc-P_1671_1"__id**
+
+%env"
+%scope-P_1671ï"ì
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js+ +("
+
+%funcRes_0*
+
+%sc-P_1671_1"
+
+utf8Encode2
+	
+%global2
+
+%env2+*)
+
+%sc-A_17765_env_3"
+minifiedCreativeš—
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js,! ,(#
+	%object_2Object"Objectš—
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js* -(
+	%object_3Object"Object¾
+»
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js+ +(4)
+
+	%object_3Object"
+rawCreativeBytes"__id*
+
+
+%funcRes_0Î
+Ë
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js, ,(#2
+
+	%object_3Object"
+additionalContextMetadata"__id*
+
+	%object_2ObjectÁ
+¾
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js* *(%
+
+%sc-A_17765_env_2"
+creativeData"__id*
+
+	%object_3ObjectY
+W
+
+__unknown_file (
+%sc-A_17765_env_4"__id* *
+
+%env"
+%scope-A_17765_envY
+W
+
+__unknown_file (
+%sc-A_17765_env_5"__id* *
+
+%env"
+%scope-A_17765_envM
+K
+
+__unknown_file (	
+%expr_1"__id**
+
+%sc-A_17765_env_5"
+envC
+A
+
+__unknown_file (	
+%expr_2"__id**
+	
+%expr_1"
+winH
+F
+
+__unknown_file (	
+%expr_3"__id**
+	
+%expr_2"
+
+documentM
+K
+
+__unknown_file (	
+%expr_4"__id**
+	
+%expr_3"
+createElementÉ"Æ
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js/( /(5
+
+%methRes_0*
+	
+%expr_3"
+createElement2
+	
+%expr_32
+
+%env2
+div¾
+»
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js/ /()
+
+%sc-A_17765_env_4"
+containerElement"__id*
+
+
+%methRes_0Y
+W
+
+__unknown_file (
+%sc-A_17765_env_6"__id* *
+
+%env"
+%scope-A_17765_envZ
+X
+
+__unknown_file (	
+%expr_5"__id*+*)
+
+%sc-A_17765_env_6"
+containerElementL
+J
+
+__unknown_file (	
+%expr_6"__id**
+	
+%expr_5"
+setAttributeÑ"Î
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js0 0(!
+
+%methRes_1*
+	
+%expr_5"
+setAttribute2
+	
+%expr_52
+
+%env2
+
+height222Y
+W
+
+__unknown_file (
+%sc-A_17765_env_7"__id* *
+
+%env"
+%scope-A_17765_envZ
+X
+
+__unknown_file (	
+%expr_7"__id*+*)
+
+%sc-A_17765_env_7"
+containerElementL
+J
+
+__unknown_file (	
+%expr_8"__id**
+	
+%expr_7"
+setAttributeÑ"Î
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js1 1(!
+
+%methRes_2*
+	
+%expr_7"
+setAttribute2
+	
+%expr_72
+
+%env2	
+width22ÀY
+W
+
+__unknown_file (
+%sc-A_17765_env_8"__id* *
+
+%env"
+%scope-A_17765_envZ
+X
+
+__unknown_file (	
+%expr_9"__id*+*)
+
+%sc-A_17765_env_8"
+containerElementˆ
+…
+
+__unknown_file (	
+%func_0"__declareFunction*KI
+Gextensions_amp_a4a_0_1_test_test_name_frame_renderer_js_50_51_A_17767_0fd
+
+__unknown_file (/
+%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_0"
+__setProto*
+	
+%func_0*1
+/
+%functionPrototype_0%SonarFunctionPrototype»
+¸
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js2 2(/)
+	
+%expr_9"
+getIntersectionChangeEntry"__id*
+	
+%func_0Y
+W
+
+__unknown_file (
+%sc-A_17765_env_9"__id* *
+
+%env"
+%scope-A_17765_envN
+L
+
+__unknown_file (
+
+%expr_10"__id**
+
+%sc-A_17765_env_9"
+envE
+C
+
+__unknown_file (
+
+%expr_11"__id**
+
+
+%expr_10"
+winJ
+H
+
+__unknown_file (
+
+%expr_12"__id**
+
+
+%expr_11"
+
+documentF
+D
+
+__unknown_file (
+
+%expr_13"__id**
+
+
+%expr_12"
+bodyZ
+X
+
+__unknown_file (
+%sc-A_17765_env_10"__id* *
+
+%env"
+%scope-A_17765_envM
+K
+
+__unknown_file (
+
+%expr_14"__id**
+
+
+%expr_13"
+appendChildî"ë
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js8 8(%
+
+%methRes_3*
+
+
+%expr_13"
+appendChild2
+
+
+%expr_132
+
+%env2,**
+
+%sc-A_17765_env_10"
+containerElementO
+M
+
+__unknown_file (
+%sc-P_1671_2"__id**
+
+%env"
+%scope-P_1671š—
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js:
+ :(!
+	%object_4Object"ObjectW
+U
+
+__unknown_file (
+
+%expr_15"__id*'*%
+
+%sc-P_1671_2"
+NameFrameRendererÓ"Ð
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js:
+ :(!
+
+%methRes_4*%
+
+%sc-P_1671_2"
+NameFrameRenderer2
+
+	%object_4Object2
+
+%envQ
+O
+
+__unknown_file (
+%fieldAccess_0"__id**
+
+
+%expr_15"
+	prototype^
+\
+
+__unknown_file (	
+%void_1"
+__setProto*
+
+	%object_4Object*
+
+%fieldAccess_0Z
+X
+
+__unknown_file (
+%sc-A_17765_env_11"__id* *
+
+%env"
+%scope-A_17765_envZ
+X
+
+__unknown_file (
+%sc-A_17765_env_12"__id* *
+
+%env"
+%scope-A_17765_envZ
+X
+
+__unknown_file (
+%sc-A_17765_env_13"__id* *
+
+%env"
+%scope-A_17765_envQ
+O
+
+__unknown_file (
+
+%expr_16"__id*!*
+
+	%object_4Object"
+renderÊ"Ç
+x
+n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-a4a/0.1/test/test-name-frame-renderer.js:" :((
+
+%methRes_5*
+
+	%object_4Object"
+render2
+
+	%object_4Object2
+
+%env2#*!
+
+%sc-A_17765_env_11"	
+context2,**
+
+%sc-A_17765_env_12"
+containerElement2(*&
+
+%sc-A_17765_env_13"
+creativeData"
+
+__unknown_file ( :
+%envB 

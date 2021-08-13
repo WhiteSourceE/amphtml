@@ -1,0 +1,490 @@
+
+Zextensions_amp_position_observer_0_1_test_e2e_test_scrollbound_animation_js_34_51_A_7922_0ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js"2 "(>"s4_1*˚F
+s4_1
+<synthetic> (C
+A
+
+__unknown_file (	
+%global"__id**
+
+%env"
+globalß
+§
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js#
+ #(
+step"__id*22∞≠
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js$ )(
+	%object_0Object"Objectø
+º
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js% %(
+
+	%object_0Object"
+width"__id*25¿
+Ω
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js& &(
+
+	%object_0Object"
+height"__id*2'º
+π
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js' '(
+
+	%object_0Object"
+x"__id*2óª
+∏
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js( ((
+
+	%object_0Object"
+y"__id*2nΩ
+∫
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js$
+ $(
+	initPoint"__id*
+
+	%object_0Object∞≠
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js* /(
+	%object_1Object"Objectø
+º
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js+ +(
+
+	%object_1Object"
+width"__id*2%¿
+Ω
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js, ,(
+
+	%object_1Object"
+height"__id*26º
+π
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js- -(
+
+	%object_1Object"
+x"__id*2ñª
+∏
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js. .(
+
+	%object_1Object"
+y"__id*2oº
+π
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js*
+ *(
+
+midPoint"__id*
+
+	%object_1Object∞≠
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js0 5(
+	%object_2Object"Objectø
+º
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js1 1(
+
+	%object_2Object"
+width"__id*2¿
+Ω
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js2 2(
+
+	%object_2Object"
+height"__id*2<º
+π
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js3 3(
+
+	%object_2Object"
+x"__id*2ñª
+∏
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js4 4(
+
+	%object_2Object"
+y"__id*2pº
+π
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js0
+ 0(
+
+endPoint"__id*
+
+	%object_2ObjectM
+K
+
+__unknown_file (
+%sc-P_783_0"__id**
+
+%env"
+%scope-P_783g
+e
+
+__unknown_file (
+%sc-FD_1296_testScroll_0"__id*'*%
+
+%env"
+%scope-FD_1296_testScrollM
+K
+
+__unknown_file (
+%sc-P_783_1"__id**
+
+%env"
+%scope-P_783ù"ö
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js6
+ 6(
+
+%funcRes_0*&
+
+%sc-P_783_1"
+verifyClockHandRect2
+	
+%global2
+
+%env2,**
+
+%sc-FD_1296_testScroll_0"
+
+controller2
+
+	initPointM
+K
+
+__unknown_file (
+%sc-P_783_2"__id**
+
+%env"
+%scope-P_783g
+e
+
+__unknown_file (
+%sc-FD_1296_testScroll_1"__id*'*%
+
+%env"
+%scope-FD_1296_testScrollM
+K
+
+__unknown_file (
+%sc-P_783_3"__id**
+
+%env"
+%scope-P_783ö"ó
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js7
+ 7(
+
+%funcRes_1*(
+
+%sc-P_783_3"
+scrollParentWindowYBy2
+	
+%global2
+
+%env2,**
+
+%sc-FD_1296_testScroll_1"
+
+controller2
+
+stepM
+K
+
+__unknown_file (
+%sc-P_783_4"__id**
+
+%env"
+%scope-P_783g
+e
+
+__unknown_file (
+%sc-FD_1296_testScroll_2"__id*'*%
+
+%env"
+%scope-FD_1296_testScrollM
+K
+
+__unknown_file (
+%sc-P_783_5"__id**
+
+%env"
+%scope-P_783ú"ô
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js8
+ 8(
+
+%funcRes_2*&
+
+%sc-P_783_5"
+verifyClockHandRect2
+	
+%global2
+
+%env2,**
+
+%sc-FD_1296_testScroll_2"
+
+controller2
+
+
+midPointM
+K
+
+__unknown_file (
+%sc-P_783_6"__id**
+
+%env"
+%scope-P_783g
+e
+
+__unknown_file (
+%sc-FD_1296_testScroll_3"__id*'*%
+
+%env"
+%scope-FD_1296_testScrollM
+K
+
+__unknown_file (
+%sc-P_783_7"__id**
+
+%env"
+%scope-P_783ö"ó
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js9
+ 9(
+
+%funcRes_3*(
+
+%sc-P_783_7"
+scrollParentWindowYBy2
+	
+%global2
+
+%env2,**
+
+%sc-FD_1296_testScroll_3"
+
+controller2
+
+stepM
+K
+
+__unknown_file (
+%sc-P_783_8"__id**
+
+%env"
+%scope-P_783g
+e
+
+__unknown_file (
+%sc-FD_1296_testScroll_4"__id*'*%
+
+%env"
+%scope-FD_1296_testScrollM
+K
+
+__unknown_file (
+%sc-P_783_9"__id**
+
+%env"
+%scope-P_783ú"ô
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js:
+ :(
+
+%funcRes_4*&
+
+%sc-P_783_9"
+verifyClockHandRect2
+	
+%global2
+
+%env2,**
+
+%sc-FD_1296_testScroll_4"
+
+controller2
+
+
+endPointN
+L
+
+__unknown_file (
+%sc-P_783_10"__id**
+
+%env"
+%scope-P_783g
+e
+
+__unknown_file (
+%sc-FD_1296_testScroll_5"__id*'*%
+
+%env"
+%scope-FD_1296_testScrollø
+º
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js;, ;(1
+%unaryOpRes_0"__js_unaryMinus*
+
+stepN
+L
+
+__unknown_file (
+%sc-P_783_11"__id**
+
+%env"
+%scope-P_783§"°
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js;
+ ;(
+
+%funcRes_5*)
+
+%sc-P_783_11"
+scrollParentWindowYBy2
+	
+%global2
+
+%env2,**
+
+%sc-FD_1296_testScroll_5"
+
+controller2
+
+%unaryOpRes_0N
+L
+
+__unknown_file (
+%sc-P_783_12"__id**
+
+%env"
+%scope-P_783g
+e
+
+__unknown_file (
+%sc-FD_1296_testScroll_6"__id*'*%
+
+%env"
+%scope-FD_1296_testScrollN
+L
+
+__unknown_file (
+%sc-P_783_13"__id**
+
+%env"
+%scope-P_783ù"ö
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js<
+ <(
+
+%funcRes_6*'
+
+%sc-P_783_13"
+verifyClockHandRect2
+	
+%global2
+
+%env2,**
+
+%sc-FD_1296_testScroll_6"
+
+controller2
+
+
+midPointN
+L
+
+__unknown_file (
+%sc-P_783_14"__id**
+
+%env"
+%scope-P_783g
+e
+
+__unknown_file (
+%sc-FD_1296_testScroll_7"__id*'*%
+
+%env"
+%scope-FD_1296_testScrollø
+º
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js=, =(1
+%unaryOpRes_1"__js_unaryMinus*
+
+stepN
+L
+
+__unknown_file (
+%sc-P_783_15"__id**
+
+%env"
+%scope-P_783§"°
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js=
+ =(
+
+%funcRes_7*)
+
+%sc-P_783_15"
+scrollParentWindowYBy2
+	
+%global2
+
+%env2,**
+
+%sc-FD_1296_testScroll_7"
+
+controller2
+
+%unaryOpRes_1N
+L
+
+__unknown_file (
+%sc-P_783_16"__id**
+
+%env"
+%scope-P_783g
+e
+
+__unknown_file (
+%sc-FD_1296_testScroll_8"__id*'*%
+
+%env"
+%scope-FD_1296_testScrollN
+L
+
+__unknown_file (
+%sc-P_783_17"__id**
+
+%env"
+%scope-P_783û"õ
+ç
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-position-observer/0.1/test-e2e/test-scrollbound-animation.js>
+ >(
+
+%funcRes_8*'
+
+%sc-P_783_17"
+verifyClockHandRect2
+	
+%global2
+
+%env2,**
+
+%sc-FD_1296_testScroll_8"
+
+controller2
+
+	initPoint"
+
+__unknown_file ( :
+%envB 

@@ -1,0 +1,579 @@
+
+Eextensions_amp_access_0_1_amp_access_server_jwt_js_315_34_A_17243_resu
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.jsª! ª(+"s24_1*–D
+s24_1
+<synthetic> (C
+A
+
+__unknown_file (	
+%global"__id**
+
+%env"
+global:8
+
+__unknown_file (
+%scope-A_17243_res"ObjectZ
+X
+
+__unknown_file (
+
+%env"
+%scope-A_17243_res"__id*
+
+%scope-A_17243_res¢
+ü
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.jsº º(	
+encoded"__id**
+
+resp"	
+encodedö
+ó
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.jsº º(
+jwt"__id**
+
+resp"
+jwt¡
+æ
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.jsΩ Ω($
+
+%scope-A_17243_res"
+
+accessData"__id**
+
+jwt"
+amp_authdataO
+M
+
+__unknown_file (
+%sc-P_1597_0"__id**
+
+%env"
+%scope-P_1597O
+M
+
+__unknown_file (
+%sc-P_1597_1"__id**
+
+%env"
+%scope-P_1597O
+M
+
+__unknown_file (
+%sc-P_1597_2"__id**
+
+%env"
+%scope-P_1597N
+L
+
+__unknown_file (	
+%expr_0"__id**
+
+%env"
+_this_1_FE_6648_0F
+D
+
+__unknown_file (	
+%expr_1"__id**
+	
+%expr_0"
+ampdocC
+A
+
+__unknown_file (	
+%expr_2"__id**
+	
+%expr_1"
+winH
+F
+
+__unknown_file (	
+%expr_3"__id**
+	
+%expr_2"
+
+locationO
+M
+
+__unknown_file (
+%sc-P_1597_3"__id**
+
+%env"
+%scope-P_1597⁄"◊
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.js¿ ¿(
+
+%funcRes_0*"
+
+%sc-P_1597_3"
+removeFragment2
+	
+%global2
+
+%env2*
+	
+%expr_3"
+hrefN
+L
+
+__unknown_file (	
+%expr_4"__id**
+
+%env"
+_this_1_FE_6648_0óî
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.jsø √(	
+	%object_0Object"ObjectÆ
+´
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.js¿
+ ¿(>
+
+	%object_0Object"
+url"__id*
+
+
+%funcRes_0ø
+º
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.js¡
+ ¡($
+
+	%object_0Object"
+state"__id**
+	
+%expr_4"
+serverState_´
+®
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.js¬
+ ¬(
+
+	%object_0Object"
+jwt"__id*
+	
+encodedO
+M
+
+__unknown_file (
+%sc-P_1597_4"__id**
+
+%env"
+%scope-P_1597–"Õ
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.jsø ø(
+
+%funcRes_1*
+
+%sc-P_1597_4"
+dict2
+	
+%global2
+
+%env2
+
+	%object_0ObjectO
+M
+
+__unknown_file (
+%sc-P_1597_5"__id**
+
+%env"
+%scope-P_1597Ÿ"÷
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.jsæ æ(*
+
+%funcRes_2*(
+
+%sc-P_1597_5"
+serializeQueryString2
+	
+%global2
+
+%env2
+
+
+%funcRes_1õ
+ò
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.jsæ æ(	
+request"__id*
+
+
+%funcRes_2O
+M
+
+__unknown_file (
+%sc-P_1597_6"__id**
+
+%env"
+%scope-P_1597O
+M
+
+__unknown_file (
+%sc-P_1597_7"__id**
+
+%env"
+%scope-P_1597∏"µ
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.js≈ ≈(	
+
+%funcRes_3*
+
+%sc-P_1597_7"
+dev2
+	
+%global2
+
+%envO
+M
+
+__unknown_file (
+%sc-P_1597_8"__id**
+
+%env"
+%scope-P_1597N
+L
+
+__unknown_file (	
+%expr_5"__id**
+
+%env"
+_this_1_FE_6648_0G
+E
+
+__unknown_file (	
+%expr_6"__id**
+
+
+%funcRes_3"
+fineù"ö
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.js≈ ≈(
+
+%methRes_0*
+
+
+%funcRes_3"
+fine2
+
+
+%funcRes_32
+
+%env2*
+
+%sc-P_1597_8"
+TAG2
+Authorization request: 2*
+	
+%expr_5"
+serviceUrl_2
+	
+requestO
+M
+
+__unknown_file (
+%sc-P_1597_9"__id**
+
+%env"
+%scope-P_1597P
+N
+
+__unknown_file (
+%sc-P_1597_10"__id**
+
+%env"
+%scope-P_1597π"∂
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.js∆ ∆(	
+
+%funcRes_4*
+
+%sc-P_1597_10"
+dev2
+	
+%global2
+
+%envP
+N
+
+__unknown_file (
+%sc-P_1597_11"__id**
+
+%env"
+%scope-P_1597G
+E
+
+__unknown_file (	
+%expr_7"__id**
+
+
+%funcRes_4"
+fineì"ê
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.js∆ ∆(
+
+%methRes_1*
+
+
+%funcRes_4"
+fine2
+
+
+%funcRes_42
+
+%env2*
+
+%sc-P_1597_11"
+TAG2
+- access data: 2&*$
+
+%scope-A_17243_res"
+
+accessDataN
+L
+
+__unknown_file (	
+%expr_8"__id**
+
+%env"
+_this_1_FE_6648_0F
+D
+
+__unknown_file (	
+%expr_9"__id**
+	
+%expr_8"
+timer_P
+N
+
+__unknown_file (
+%sc-P_1597_12"__id**
+
+%env"
+%scope-P_1597P
+N
+
+__unknown_file (
+%sc-P_1597_13"__id**
+
+%env"
+%scope-P_1597O
+M
+
+__unknown_file (
+
+%expr_10"__id**
+
+%env"
+_this_1_FE_6648_0H
+F
+
+__unknown_file (
+
+%expr_11"__id**
+
+
+%expr_10"
+ampdocO
+M
+
+__unknown_file (
+
+%expr_12"__id**
+
+%env"
+_this_1_FE_6648_0P
+N
+
+__unknown_file (
+%sc-P_1597_14"__id**
+
+%env"
+%scope-P_1597óî
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.jsœ —(
+	%object_1Object"ObjectŒ
+À
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.js– –(A%
+
+	%object_1Object"
+Content-Type"__id*%#
+!application/x-www-form-urlencodedP
+N
+
+__unknown_file (
+%sc-P_1597_15"__id**
+
+%env"
+%scope-P_1597—"Œ
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.jsœ œ(
+
+%funcRes_5*
+
+%sc-P_1597_15"
+dict2
+	
+%global2
+
+%env2
+
+	%object_1Objectóî
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.jsÃ; “(
+	%object_2Object"Object´
+®
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.jsÕ Õ(
+
+	%object_2Object"
+method"__id*
+POST¨
+©
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.jsŒ Œ(
+
+	%object_2Object"
+body"__id*
+	
+request≤
+Ø
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.jsœ —( 
+
+	%object_2Object"	
+headers"__id*
+
+
+%funcRes_5P
+N
+
+__unknown_file (
+%sc-P_1597_16"__id**
+
+%env"
+%scope-P_1597ê"ç
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.jsÃ
+ Ã(
+
+%funcRes_6*"
+
+%sc-P_1597_16"
+fetchDocument2
+	
+%global2
+
+%env2*
+
+
+%expr_11"
+win2*
+
+
+%expr_12"
+serviceUrl_2
+
+	%object_2ObjectO
+M
+
+__unknown_file (
+
+%expr_13"__id**
+	
+%expr_9"
+timeoutPromise¸"˘
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.js 	  (
+
+%methRes_2*
+	
+%expr_9"
+timeoutPromise2
+	
+%expr_92
+
+%env2,**
+
+%sc-P_1597_12"
+AUTHORIZATION_TIMEOUT2
+
+
+%funcRes_6Ü
+É
+
+__unknown_file (	
+%func_0"__declareFunction*IG
+Eextensions_amp_access_0_1_amp_access_server_jwt_js_340_15_A_17244_resfd
+
+__unknown_file (/
+%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_0"
+__setProto*
+	
+%func_0*1
+/
+%functionPrototype_0%SonarFunctionPrototype∫"∑
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.js‘	 ‘(
+
+%funcRes_7"	
+%func_02
+	
+%global2
+
+%env2
+
+
+%methRes_2Ñ
+Å
+
+__unknown_file (	
+%func_1"__declareFunction*GE
+Cextensions_amp_access_0_1_amp_access_server_jwt_js_344_15_A_17245_0Z
+X
+
+__unknown_file (
+
+%env"
+%scope-A_17243_res"__id*
+
+%scope-A_17243_resfd
+
+__unknown_file (/
+%functionPrototype_1%SonarFunctionPrototype"%SonarFunctionPrototypes
+q
+
+__unknown_file (	
+%void_1"
+__setProto*
+	
+%func_1*1
+/
+%functionPrototype_1%SonarFunctionPrototype∫"∑
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.jsÿ	 ÿ(
+
+%funcRes_8"	
+%func_12
+	
+%global2
+
+%env2
+
+
+%funcRes_7"á
+u
+i/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/amp-access-server-jwt.js… ÿ( 
+
+
+%funcRes_8:
+%env:
+respB 

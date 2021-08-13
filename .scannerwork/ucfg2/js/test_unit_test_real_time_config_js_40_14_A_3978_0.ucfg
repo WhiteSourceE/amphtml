@@ -1,0 +1,977 @@
+
+1test_unit_test_real_time_config_js_40_14_A_3978_0c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js( (("s3_1*Ï`
+s3_1
+<synthetic> (C
+A
+
+__unknown_file (	
+%global"__id**
+
+%env"
+globalW
+U
+
+__unknown_file (
+%sc-A_3977_env_0"__id**
+
+%env"
+%scope-A_3977_envL
+J
+
+__unknown_file (	
+%expr_0"__id**
+
+%sc-A_3977_env_0"
+envC
+A
+
+__unknown_file (	
+%expr_1"__id**
+	
+%expr_0"
+winJ
+H
+
+__unknown_file (	
+%expr_2"__id**
+	
+%expr_1"
+
+__AMP_MODE‰
+†
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js* *(
+	
+%expr_2"
+test"__id*2W
+U
+
+__unknown_file (
+%sc-A_3977_env_1"__id**
+
+%env"
+%scope-A_3977_envL
+J
+
+__unknown_file (	
+%expr_3"__id**
+
+%sc-A_3977_env_1"
+envC
+A
+
+__unknown_file (	
+%expr_4"__id**
+	
+%expr_3"
+win
+
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js,
+ ,(
+doc"__id**
+	
+%expr_4"
+
+documentW
+U
+
+__unknown_file (
+%sc-A_3977_env_2"__id**
+
+%env"
+%scope-A_3977_envL
+J
+
+__unknown_file (	
+%expr_5"__id**
+
+%sc-A_3977_env_2"
+env”
+‘
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js- -(
+
+doc"
+win"__id**
+	
+%expr_5"
+winW
+U
+
+__unknown_file (
+%sc-A_3977_env_3"__id**
+
+%env"
+%scope-A_3977_envM
+K
+
+__unknown_file (
+%sc-P_429_0"__id**
+
+%env"
+%scope-P_429W
+U
+
+__unknown_file (
+%sc-A_3977_env_4"__id**
+
+%env"
+%scope-A_3977_envL
+J
+
+__unknown_file (	
+%expr_6"__id**
+
+%sc-A_3977_env_4"
+envC
+A
+
+__unknown_file (	
+%expr_7"__id**
+	
+%expr_6"
+win…‚
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js.F 3(
+	%object_0Object"Object—
+”
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js/ /(
+
+	%object_0Object"
+width"__id*
+200—
+”
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js0 0(
+
+	%object_0Object"
+height"__id*
+50ž
+›
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js1 1(
+
+	%object_0Object"
+type"__id*
+doubleclickš
+—
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js2 2(
+
+	%object_0Object"
+layout"__id*	
+fixedM
+K
+
+__unknown_file (
+%sc-P_429_1"__id**
+
+%env"
+%scope-P_429û"ø
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js. .()
+
+%funcRes_0*.
+
+%sc-P_429_1"
+createElementWithAttributes2
+	
+%global2
+
+%env2*
+	
+%expr_7"
+
+document2
+
+amp-ad2
+
+	%object_0ObjectŸ
+œ
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js. .(
+
+%sc-A_3977_env_3"	
+element"__id*
+
+
+%funcRes_0@
+>
+
+__unknown_file (	
+%expr_8"__id**
+
+doc"
+bodyW
+U
+
+__unknown_file (
+%sc-A_3977_env_5"__id**
+
+%env"
+%scope-A_3977_envK
+I
+
+__unknown_file (	
+%expr_9"__id**
+	
+%expr_8"
+appendChildÌ"É
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js4 4(
+
+%methRes_0*
+	
+%expr_8"
+appendChild2
+	
+%expr_82
+
+%env2!*
+
+%sc-A_3977_env_5"	
+elementW
+U
+
+__unknown_file (
+%sc-A_3977_env_6"__id**
+
+%env"
+%scope-A_3977_envW
+U
+
+__unknown_file (
+%sc-A_3977_env_7"__id**
+
+%env"
+%scope-A_3977_envM
+K
+
+__unknown_file (
+
+%expr_10"__id**
+
+%sc-A_3977_env_7"
+envI
+G
+
+__unknown_file (
+
+%expr_11"__id**
+
+
+%expr_10"	
+sandboxM
+K
+
+__unknown_file (
+%sc-P_429_2"__id**
+
+%env"
+%scope-P_429H
+F
+
+__unknown_file (
+
+%expr_12"__id**
+
+%sc-P_429_2"
+XhrF
+D
+
+__unknown_file (
+
+%expr_13"__id**
+
+
+%expr_11"
+stubÐ"Í
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js5  5($
+
+%methRes_1*
+
+
+%expr_11"
+stub2
+
+
+%expr_112
+
+%env2*
+
+
+%expr_12"
+	prototype2
+	fetchJson¥
+¢
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js5 5(%
+
+%sc-A_3977_env_6"
+fetchJsonStub"__id*
+
+
+%methRes_1M
+K
+
+__unknown_file (
+%sc-P_429_3"__id**
+
+%env"
+%scope-P_429M
+K
+
+__unknown_file (
+
+%expr_14"__id**
+
+%sc-P_429_3"
+
+ServicesW
+U
+
+__unknown_file (
+%sc-A_3977_env_8"__id**
+
+%env"
+%scope-A_3977_envW
+U
+
+__unknown_file (
+
+%expr_15"__id*'*%
+
+
+%expr_14"
+urlReplacementsForDocØ"Õ
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js9% 9(:
+
+%methRes_2*%
+
+
+%expr_14"
+urlReplacementsForDoc2
+
+
+%expr_142
+
+%env2!*
+
+%sc-A_3977_env_8"	
+element‘
+Ž
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js9
+ 9(
+urlReplacements"__id*
+
+
+%methRes_2W
+U
+
+__unknown_file (
+%sc-A_3977_env_9"__id**
+
+%env"
+%scope-A_3977_envM
+K
+
+__unknown_file (
+
+%expr_16"__id**
+
+%sc-A_3977_env_9"
+envI
+G
+
+__unknown_file (
+
+%expr_17"__id**
+
+
+%expr_16"	
+sandboxM
+K
+
+__unknown_file (
+%sc-P_429_4"__id**
+
+%env"
+%scope-P_429F
+D
+
+__unknown_file (
+
+%expr_18"__id**
+
+
+%expr_17"
+stubÞ"Û
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js; ;(
+
+%methRes_3*
+
+
+%expr_17"
+stub2
+
+
+%expr_172
+
+%env2*
+
+%sc-P_429_4"
+
+Services2
+urlReplacementsForDocL
+J
+
+__unknown_file (
+
+%expr_19"__id**
+
+
+%methRes_3"
+
+withArgsµ"²
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js< <(
+
+%methRes_4*
+
+
+%methRes_3"
+
+withArgs2
+
+
+%methRes_32
+
+%env2
+
+docK
+I
+
+__unknown_file (
+
+%expr_20"__id**
+
+
+%methRes_4"	
+returnsÀ"½
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js= =(
+
+%methRes_5*
+
+
+%methRes_4"	
+returns2
+
+
+%methRes_42
+
+%env2
+
+urlReplacementsX
+V
+
+__unknown_file (
+%sc-A_3977_env_10"__id**
+
+%env"
+%scope-A_3977_envM
+K
+
+__unknown_file (
+%sc-P_429_5"__id**
+
+%env"
+%scope-P_429…‚
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js?
+ ?((
+	%object_1Object"ObjectZ
+X
+
+__unknown_file (
+
+%expr_21"__id***(
+
+%sc-P_429_5"
+RealTimeConfigManagerÊ"Ç
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js?
+ ?((
+
+%methRes_6*(
+
+%sc-P_429_5"
+RealTimeConfigManager2
+
+	%object_1Object2
+
+%env2
+
+docQ
+O
+
+__unknown_file (
+%fieldAccess_0"__id**
+
+
+%expr_21"
+	prototype^
+\
+
+__unknown_file (	
+%void_0"
+__setProto*
+
+	%object_1Object*
+
+%fieldAccess_0£
+ 
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js? ?(
+
+%sc-A_3977_env_10"
+rtc"__id*
+
+	%object_1ObjectX
+V
+
+__unknown_file (
+%sc-A_3977_env_11"__id**
+
+%env"
+%scope-A_3977_envX
+V
+
+__unknown_file (
+%sc-A_3977_env_12"__id**
+
+%env"
+%scope-A_3977_envN
+L
+
+__unknown_file (
+
+%expr_22"__id**
+
+%sc-A_3977_env_12"
+rtcI
+G
+
+__unknown_file (
+
+%expr_23"__id**
+
+
+%expr_22"	
+executeX
+V
+
+__unknown_file (
+%sc-A_3977_env_13"__id**
+
+%env"
+%scope-A_3977_envF
+D
+
+__unknown_file (
+
+%expr_24"__id**
+
+
+%expr_23"
+bindÄ"Á
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js@ @(
+
+%methRes_7*
+
+
+%expr_23"
+bind2
+
+
+%expr_232
+
+%env2*
+
+%sc-A_3977_env_13"
+rtc¡
+ž
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.js@ @(!
+
+%sc-A_3977_env_11"
+
+execute_"__id*
+
+
+%methRes_7X
+V
+
+__unknown_file (
+%sc-A_3977_env_14"__id**
+
+%env"
+%scope-A_3977_envX
+V
+
+__unknown_file (
+%sc-A_3977_env_15"__id**
+
+%env"
+%scope-A_3977_envN
+L
+
+__unknown_file (
+
+%expr_25"__id**
+
+%sc-A_3977_env_15"
+rtcR
+P
+
+__unknown_file (
+
+%expr_26"__id*"* 
+
+
+%expr_25"
+getCalloutParam_X
+V
+
+__unknown_file (
+%sc-A_3977_env_16"__id**
+
+%env"
+%scope-A_3977_envF
+D
+
+__unknown_file (
+
+%expr_27"__id**
+
+
+%expr_26"
+bindÄ"Á
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.jsA, A(0
+
+%methRes_8*
+
+
+%expr_26"
+bind2
+
+
+%expr_262
+
+%env2*
+
+%sc-A_3977_env_16"
+rtc©
+¦
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.jsA A()
+
+%sc-A_3977_env_14"
+getCalloutParam_"__id*
+
+
+%methRes_8X
+V
+
+__unknown_file (
+%sc-A_3977_env_17"__id**
+
+%env"
+%scope-A_3977_envX
+V
+
+__unknown_file (
+%sc-A_3977_env_18"__id**
+
+%env"
+%scope-A_3977_envN
+L
+
+__unknown_file (
+
+%expr_28"__id**
+
+%sc-A_3977_env_18"
+rtcT
+R
+
+__unknown_file (
+
+%expr_29"__id*$*"
+
+
+%expr_28"
+validateRtcConfig_X
+V
+
+__unknown_file (
+%sc-A_3977_env_19"__id**
+
+%env"
+%scope-A_3977_envF
+D
+
+__unknown_file (
+
+%expr_30"__id**
+
+
+%expr_29"
+bindÄ"Á
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.jsB0 B(4
+
+%methRes_9*
+
+
+%expr_29"
+bind2
+
+
+%expr_292
+
+%env2*
+
+%sc-A_3977_env_19"
+rtc«
+¨
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.jsB B(+
+
+%sc-A_3977_env_17"
+validateRtcConfig_"__id*
+
+
+%methRes_9X
+V
+
+__unknown_file (
+%sc-A_3977_env_20"__id**
+
+%env"
+%scope-A_3977_envX
+V
+
+__unknown_file (
+%sc-A_3977_env_21"__id**
+
+%env"
+%scope-A_3977_envN
+L
+
+__unknown_file (
+
+%expr_31"__id**
+
+%sc-A_3977_env_21"
+rtcK
+I
+
+__unknown_file (
+
+%expr_32"__id**
+
+
+%expr_31"
+	truncUrl_X
+V
+
+__unknown_file (
+%sc-A_3977_env_22"__id**
+
+%env"
+%scope-A_3977_envF
+D
+
+__unknown_file (
+
+%expr_33"__id**
+
+
+%expr_32"
+bindÅ"Â
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.jsC C("
+%methRes_10*
+
+
+%expr_32"
+bind2
+
+
+%expr_322
+
+%env2*
+
+%sc-A_3977_env_22"
+rtc£
+ 
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.jsC C("
+
+%sc-A_3977_env_20"
+	truncUrl_"__id*
+
+%methRes_10X
+V
+
+__unknown_file (
+%sc-A_3977_env_23"__id**
+
+%env"
+%scope-A_3977_envX
+V
+
+__unknown_file (
+%sc-A_3977_env_24"__id**
+
+%env"
+%scope-A_3977_envN
+L
+
+__unknown_file (
+
+%expr_34"__id**
+
+%sc-A_3977_env_24"
+rtcT
+R
+
+__unknown_file (
+
+%expr_35"__id*$*"
+
+
+%expr_34"
+inflateAndSendRtc_X
+V
+
+__unknown_file (
+%sc-A_3977_env_25"__id**
+
+%env"
+%scope-A_3977_envF
+D
+
+__unknown_file (
+
+%expr_36"__id**
+
+
+%expr_35"
+bindÅ"Â
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.jsD0 D(4
+%methRes_11*
+
+
+%expr_35"
+bind2
+
+
+%expr_352
+
+%env2*
+
+%sc-A_3977_env_25"
+rtc¬
+©
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.jsD D(+
+
+%sc-A_3977_env_23"
+inflateAndSendRtc_"__id*
+
+%methRes_11X
+V
+
+__unknown_file (
+%sc-A_3977_env_26"__id**
+
+%env"
+%scope-A_3977_envX
+V
+
+__unknown_file (
+%sc-A_3977_env_27"__id**
+
+%env"
+%scope-A_3977_envN
+L
+
+__unknown_file (
+
+%expr_37"__id**
+
+%sc-A_3977_env_27"
+rtcR
+P
+
+__unknown_file (
+
+%expr_38"__id*"* 
+
+
+%expr_37"
+sendErrorMessageX
+V
+
+__unknown_file (
+%sc-A_3977_env_28"__id**
+
+%env"
+%scope-A_3977_envF
+D
+
+__unknown_file (
+
+%expr_39"__id**
+
+
+%expr_38"
+bindÅ"Â
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.jsE, E(0
+%methRes_12*
+
+
+%expr_38"
+bind2
+
+
+%expr_382
+
+%env2*
+
+%sc-A_3977_env_28"
+rtcª
+§
+c
+Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-real-time-config.jsE E()
+
+%sc-A_3977_env_26"
+sendErrorMessage"__id*
+
+%methRes_12"
+
+__unknown_file ( :
+%envB 
