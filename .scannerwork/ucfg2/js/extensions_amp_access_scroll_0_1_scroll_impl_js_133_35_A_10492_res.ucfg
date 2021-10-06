@@ -1,896 +1,0 @@
-
-Bextensions_amp_access_scroll_0_1_scroll_impl_js_133_35_A_10492_resr
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.jsÖ" Ö(0"s7_1*≥	
-s7_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-global:8
-
-__unknown_file (
-%scope-A_10492_res"ObjectZ
-X
-
-__unknown_file (
-
-%env"
-%scope-A_10492_res"__id*
-
-%scope-A_10492_resN
-L
-
-__unknown_file (	
-%expr_0"__id**
-
-%env"
-_this_1_FE_3779_0F
-D
-
-__unknown_file (	
-%expr_1"__id**
-	
-%expr_0"
-ampdocK
-I
-
-__unknown_file (	
-%expr_2"__id**
-	
-%expr_1"
-getRootNode∏"µ
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.jsá	 á(
-
-%methRes_0*
-	
-%expr_1"
-getRootNode2
-	
-%expr_12
-
-%envP
-N
-
-__unknown_file (	
-%expr_3"__id*!*
-
-
-%methRes_0"
-querySelector€"ÿ
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.jsà	 à(
-
-%methRes_1*
-
-
-%methRes_0"
-querySelector2
-
-
-%methRes_02
-
-%env2
-amp-story[standalone]ò
-ï
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.jsÜ Ü(	
-isStory"__id*
-
-
-%methRes_1>
-<
-
-__unknown_file (
-
-%leftAnd_0"__id*
-
-
-response*
-s7_2
-s7_9*x
-s7_2
-<synthetic> (K
-I
-
-__unknown_file (
-%rightAnd_0"__id**
-
-
-response"
-scroll*
-s7_3
-s7_9*+
-s7_3
-<synthetic>
- 
-(*
-s7_4
-s7_8*ú.
-s7_4
-<synthetic> (M
-K
-
-__unknown_file (
-%sc-P_976_0"__id**
-
-%env"
-%scope-P_976N
-L
-
-__unknown_file (	
-%expr_4"__id**
-
-%env"
-_this_1_FE_3779_0N
-L
-
-__unknown_file (	
-%expr_5"__id**
-
-%env"
-_this_1_FE_3779_0îë
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.jsç ç(D
-	%object_0Object"ObjectM
-K
-
-__unknown_file (	
-%expr_6"__id**
-
-%sc-P_976_0"
-	ScrollBar˝"˙
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.jsç ç(D
-
-%methRes_2*
-
-%sc-P_976_0"
-	ScrollBar2
-
-	%object_0Object2
-
-%env2*
-	
-%expr_4"
-ampdoc2*
-	
-%expr_5"
-accessSource_P
-N
-
-__unknown_file (
-%fieldAccess_0"__id**
-	
-%expr_6"
-	prototype^
-\
-
-__unknown_file (	
-%void_0"
-__setProto*
-
-	%object_0Object*
-
-%fieldAccess_0∫
-∑
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.jsç ç($
-
-%scope-A_10492_res"
-
-%bar~iSc_3"__id*
-
-	%object_0ObjectM
-K
-
-__unknown_file (
-%sc-P_976_1"__id**
-
-%env"
-%scope-P_976N
-L
-
-__unknown_file (	
-%expr_7"__id**
-
-%env"
-_this_1_FE_3779_0îë
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.jsé é(.
-	%object_1Object"ObjectI
-G
-
-__unknown_file (	
-%expr_8"__id**
-
-%sc-P_976_1"
-SheetŸ"÷
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.jsé é(.
-
-%methRes_3*
-
-%sc-P_976_1"
-Sheet2
-
-	%object_1Object2
-
-%env2*
-	
-%expr_7"
-ampdocP
-N
-
-__unknown_file (
-%fieldAccess_1"__id**
-	
-%expr_8"
-	prototype^
-\
-
-__unknown_file (	
-%void_1"
-__setProto*
-
-	%object_1Object*
-
-%fieldAccess_1º
-π
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.jsé é(&
-
-%scope-A_10492_res"
-%sheet~iSc_3"__id*
-
-	%object_1ObjectM
-K
-
-__unknown_file (
-%sc-P_976_2"__id**
-
-%env"
-%scope-P_976N
-L
-
-__unknown_file (	
-%expr_9"__id**
-
-%env"
-_this_1_FE_3779_0îë
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.jsê ê(0
-	%object_2Object"ObjectJ
-H
-
-__unknown_file (
-
-%expr_10"__id**
-
-%sc-P_976_2"
-Relay€"ÿ
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.jsê ê(0
-
-%methRes_4*
-
-%sc-P_976_2"
-Relay2
-
-	%object_2Object2
-
-%env2*
-	
-%expr_9"
-
-baseUrl_Q
-O
-
-__unknown_file (
-%fieldAccess_2"__id**
-
-
-%expr_10"
-	prototype^
-\
-
-__unknown_file (	
-%void_2"
-__setProto*
-
-	%object_2Object*
-
-%fieldAccess_2§
-°
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.jsê ê(
-%relay~iSc_3"__id*
-
-	%object_2ObjectX
-V
-
-__unknown_file (
-
-%expr_11"__id*(*&
-
-%scope-A_10492_res"
-%sheet~iSc_3É
-Ä
-
-__unknown_file (	
-%func_0"__declareFunction*FD
-Bextensions_amp_access_scroll_0_1_scroll_impl_js_145_40_A_10493_mesZ
-X
-
-__unknown_file (
-
-%env"
-%scope-A_10492_res"__id*
-
-%scope-A_10492_resfd
-
-__unknown_file (/
-%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_3"
-__setProto*
-	
-%func_0*1
-/
-%functionPrototype_0%SonarFunctionPrototypeN
-L
-
-__unknown_file (
-
-%expr_12"__id**
-
-%relay~iSc_3"
-
-registerÊ"„
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.jsë ë(
-
-%methRes_5*
-
-%relay~iSc_3"
-
-register2
-
-%relay~iSc_32
-
-%env2*
-
-
-%expr_11"
-window2
-	
-%func_0V
-T
-
-__unknown_file (
-
-%expr_13"__id*&*$
-
-%scope-A_10492_res"
-
-%bar~iSc_3É
-Ä
-
-__unknown_file (	
-%func_1"__declareFunction*FD
-Bextensions_amp_access_scroll_0_1_scroll_impl_js_150_38_A_10494_mesZ
-X
-
-__unknown_file (
-
-%env"
-%scope-A_10492_res"__id*
-
-%scope-A_10492_resfd
-
-__unknown_file (/
-%functionPrototype_1%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_4"
-__setProto*
-	
-%func_1*1
-/
-%functionPrototype_1%SonarFunctionPrototypeN
-L
-
-__unknown_file (
-
-%expr_14"__id**
-
-%relay~iSc_3"
-
-registerÊ"„
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.jsñ ñ(
-
-%methRes_6*
-
-%relay~iSc_3"
-
-register2
-
-%relay~iSc_32
-
-%env2*
-
-
-%expr_13"
-window2
-	
-%func_1O
-M
-
-__unknown_file (
-
-%expr_15"__id**
-
-%env"
-_this_1_FE_3779_0O
-M
-
-__unknown_file (
-
-%expr_16"__id**
-
-
-%expr_15"
-accessSource_R
-P
-
-__unknown_file (
-
-%expr_17"__id*"* 
-
-
-%expr_16"
-getAdapterConfigø"º
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.jsù, ù(<
-
-%methRes_7* 
-
-
-%expr_16"
-getAdapterConfig2
-
-
-%expr_162
-
-%envû
-õ
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.jsù ù(
-%config~iSc_3"__id*
-
-
-%methRes_7M
-K
-
-__unknown_file (
-%sc-P_976_3"__id**
-
-%env"
-%scope-P_976O
-M
-
-__unknown_file (
-
-%expr_18"__id**
-
-%env"
-_this_1_FE_3779_0M
-K
-
-__unknown_file (
-%sc-P_976_4"__id**
-
-%env"
-%scope-P_976Í"Á
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.jsû
- û(
-
-%funcRes_0*
-
-%sc-P_976_4"
-addAnalytics2
-	
-%global2
-
-%env2*
-
-
-%expr_18"
-ampdoc2
-
-%config~iSc_3L
-J
-
-__unknown_file (
-
-%leftAnd_1"__id**
-
-
-response"
-
-features*
-s7_5
-s7_7*ø
-s7_5
-<synthetic> (J
-H
-
-__unknown_file (
-
-%expr_19"__id**
-
-
-response"
-
-featuresF
-D
-
-__unknown_file (
-%rightAnd_1"__id**
-
-
-%expr_19"
-d*
-s7_6
-s7_7*ƒ
-
-s7_6
-<synthetic> (M
-K
-
-__unknown_file (
-%sc-P_976_5"__id**
-
-%env"
-%scope-P_976O
-M
-
-__unknown_file (
-
-%expr_20"__id**
-
-%env"
-_this_1_FE_3779_0O
-M
-
-__unknown_file (
-
-%expr_21"__id**
-
-%env"
-_this_1_FE_3779_0M
-K
-
-__unknown_file (
-%sc-P_976_6"__id**
-
-%env"
-%scope-P_976M
-K
-
-__unknown_file (
-%sc-P_976_7"__id**
-
-%env"
-%scope-P_976”"–
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.js£ £(
-
-%funcRes_1*"
-
-%sc-P_976_7"
-connectHostname2
-	
-%global2
-
-%env2
-
-%config~iSc_3îë
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.js† §(
-	%object_3Object"ObjectU
-S
-
-__unknown_file (
-
-%expr_22"__id*%*#
-
-%sc-P_976_5"
-ReadDepthTrackerñ"ì
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.js† §(
-
-%methRes_8*#
-
-%sc-P_976_5"
-ReadDepthTracker2
-
-	%object_3Object2
-
-%env2*
-
-
-%expr_20"
-ampdoc2*
-
-
-%expr_21"
-accessSource_2
-
-
-%funcRes_1Q
-O
-
-__unknown_file (
-%fieldAccess_3"__id**
-
-
-%expr_22"
-	prototype^
-\
-
-__unknown_file (	
-%void_5"
-__setProto*
-
-	%object_3Object*
-
-%fieldAccess_3*
-s7_7*%
-s7_7
-<synthetic> (*
-s7_8*&
-s7_8
-<synthetic> (*
-s7_16*m
-s7_9
-<synthetic> (>
-<
-
-__unknown_file (
-
-%leftAnd_2"__id*
-
-
-response*
-s7_10
-s7_15*ø
-s7_10
-<synthetic> (L
-J
-
-__unknown_file (
-%rightAnd_2"__id**
-
-
-response"	
-blockerA
-?
-
-__unknown_file (
-
-%leftAnd_3"__id*
-
-%rightAnd_2*
-s7_11
-s7_15*í
-s7_11
-<synthetic> (M
-K
-
-__unknown_file (
-%sc-P_976_8"__id**
-
-%env"
-%scope-P_976Y
-W
-
-__unknown_file (
-
-%expr_23"__id*)*'
-
-%sc-P_976_8"
-ScrollContentBlockerO
-M
-
-__unknown_file (
-
-%expr_24"__id**
-
-%env"
-_this_1_FE_3779_0M
-K
-
-__unknown_file (
-
-%expr_25"__id**
-
-
-%expr_23"
-shouldCheck‘"—
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.js´ ´(*
-
-%methRes_9*
-
-
-%expr_23"
-shouldCheck2
-
-
-%expr_232
-
-%env2*
-
-
-%expr_24"
-ampdocA
-?
-
-__unknown_file (
-%rightAnd_3"__id*
-
-
-%methRes_9*
-s7_12
-s7_15*Ì
-s7_12
-<synthetic> (M
-K
-
-__unknown_file (
-%sc-P_976_9"__id**
-
-%env"
-%scope-P_976O
-M
-
-__unknown_file (
-
-%expr_26"__id**
-
-%env"
-_this_1_FE_3779_0O
-M
-
-__unknown_file (
-
-%expr_27"__id**
-
-%env"
-_this_1_FE_3779_0L
-J
-
-__unknown_file (
-
-%leftAnd_4"__id**
-
-
-response"
-
-features*
-s7_13
-s7_14*ª
-s7_13
-<synthetic> (J
-H
-
-__unknown_file (
-
-%expr_28"__id**
-
-
-response"
-
-featuresF
-D
-
-__unknown_file (
-%rightAnd_4"__id**
-
-
-%expr_28"
-r*
-s7_14*á
-s7_14
-<synthetic> (îë
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.js≠
- ±(
-	%object_4Object"ObjectY
-W
-
-__unknown_file (
-
-%expr_29"__id*)*'
-
-%sc-P_976_9"
-ScrollContentBlockerú"ô
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.js≠
- ±(
-%methRes_10*'
-
-%sc-P_976_9"
-ScrollContentBlocker2
-
-	%object_4Object2
-
-%env2*
-
-
-%expr_26"
-ampdoc2*
-
-
-%expr_27"
-accessSource_2
-
-%rightAnd_4Q
-O
-
-__unknown_file (
-%fieldAccess_4"__id**
-
-
-%expr_29"
-	prototype^
-\
-
-__unknown_file (	
-%void_6"
-__setProto*
-
-	%object_4Object*
-
-%fieldAccess_4P
-N
-
-__unknown_file (
-
-%expr_30"__id* *
-
-	%object_4Object"
-check«"ƒ
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.js± ±(
-%methRes_11*
-
-	%object_4Object"
-check2
-
-	%object_4Object2
-
-%env*
-s7_15*'
-s7_15
-<synthetic>	 	(*
-s7_16*£
-s7_16
-<synthetic> ("Ç
-r
-f/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-scroll/0.1/scroll-impl.js¥ ¥(
-
-
-response:
-%env:
-
-responseB 

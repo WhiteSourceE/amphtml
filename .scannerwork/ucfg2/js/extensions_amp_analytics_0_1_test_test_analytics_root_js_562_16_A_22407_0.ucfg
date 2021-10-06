@@ -1,883 +1,0 @@
-
-Iextensions_amp_analytics_0_1_test_test_analytics_root_js_562_16_A_22407_0{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js≤ ≤("s58_1*∏`
-s58_1
-<synthetic> (Y
-W
-
-__unknown_file (
-%sc-A_22406_env_0"__id* *
-
-%env"
-%scope-A_22406_envY
-W
-
-__unknown_file (
-%sc-A_22406_env_1"__id* *
-
-%env"
-%scope-A_22406_envM
-K
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-A_22406_env_1"
-env∫
-∑
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js≥ ≥(	
-
-%sc-A_22406_env_0"
-win"__id**
-	
-%expr_0"
-winY
-W
-
-__unknown_file (
-%sc-A_22406_env_2"__id* *
-
-%env"
-%scope-A_22406_envY
-W
-
-__unknown_file (
-%sc-A_22406_env_3"__id* *
-
-%env"
-%scope-A_22406_envM
-K
-
-__unknown_file (	
-%expr_1"__id**
-
-%sc-A_22406_env_3"
-envæ
-ª
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js¥ ¥(
-
-%sc-A_22406_env_2"
-embed"__id**
-	
-%expr_1"
-embedY
-W
-
-__unknown_file (
-%sc-A_22406_env_4"__id* *
-
-%env"
-%scope-A_22406_envY
-W
-
-__unknown_file (
-%sc-A_22406_env_5"__id* *
-
-%env"
-%scope-A_22406_envM
-K
-
-__unknown_file (	
-%expr_2"__id**
-
-%sc-A_22406_env_5"
-env¿
-Ω
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.jsµ µ(
-
-%sc-A_22406_env_4"
-ampdoc"__id**
-	
-%expr_2"
-ampdocY
-W
-
-__unknown_file (
-%sc-A_22406_env_6"__id* *
-
-%env"
-%scope-A_22406_envO
-M
-
-__unknown_file (	
-%expr_3"__id* *
-
-%sc-A_22406_env_6"
-embedY
-W
-
-__unknown_file (
-%sc-A_22406_env_7"__id* *
-
-%env"
-%scope-A_22406_envP
-N
-
-__unknown_file (	
-%expr_4"__id*!*
-
-%sc-A_22406_env_7"
-ampdocC
-A
-
-__unknown_file (	
-%expr_5"__id**
-	
-%expr_4"
-winH
-F
-
-__unknown_file (	
-%expr_6"__id**
-	
-%expr_5"
-
-documentM
-K
-
-__unknown_file (	
-%expr_7"__id**
-	
-%expr_6"
-createElement◊"‘
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js∂' ∂(4
-
-%methRes_0*
-	
-%expr_6"
-createElement2
-	
-%expr_62
-
-%env2
-amp-embed-hostÜ"É
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js∂ ∂(	
-%void_0*3
-	
-%expr_3"&
-$__setWatchedMemberDescendantProperty2 *
-
-%sc-A_22406_env_6"
-embed2
-
-%env2
-host2
-
-
-%methRes_0´
-®
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js∂ ∂(
-	
-%expr_3"
-host"__id*
-
-
-%methRes_0Y
-W
-
-__unknown_file (
-%sc-A_22406_env_8"__id* *
-
-%env"
-%scope-A_22406_envY
-W
-
-__unknown_file (
-%sc-A_22406_env_9"__id* *
-
-%env"
-%scope-A_22406_envM
-K
-
-__unknown_file (	
-%expr_8"__id**
-
-%sc-A_22406_env_9"
-envÃ
-…
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js∑ ∑(%
-
-%sc-A_22406_env_8"
-parentAmpdoc"__id**
-	
-%expr_8"
-parentAmpdocZ
-X
-
-__unknown_file (
-%sc-A_22406_env_10"__id* *
-
-%env"
-%scope-A_22406_envO
-M
-
-__unknown_file (
-%sc-P_2068_0"__id**
-
-%env"
-%scope-P_2068Z
-X
-
-__unknown_file (
-%sc-A_22406_env_11"__id* *
-
-%env"
-%scope-A_22406_envùö
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js∏ ∏(8
-	%object_0Object"ObjectX
-V
-
-__unknown_file (	
-%expr_9"__id*)*'
-
-%sc-P_2068_0"
-AmpdocAnalyticsRootÇ"ˇ
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js∏ ∏(8
-
-%methRes_1*'
-
-%sc-P_2068_0"
-AmpdocAnalyticsRoot2
-
-	%object_0Object2
-
-%env2(*&
-
-%sc-A_22406_env_11"
-parentAmpdocP
-N
-
-__unknown_file (
-%fieldAccess_0"__id**
-	
-%expr_9"
-	prototype^
-\
-
-__unknown_file (	
-%void_1"
-__setProto*
-
-	%object_0Object*
-
-%fieldAccess_0√
-¿
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js∏ ∏($
-
-%sc-A_22406_env_10"
-
-parentRoot"__id*
-
-	%object_0ObjectZ
-X
-
-__unknown_file (
-%sc-A_22406_env_12"__id* *
-
-%env"
-%scope-A_22406_envO
-M
-
-__unknown_file (
-%sc-P_2068_1"__id**
-
-%env"
-%scope-P_2068Z
-X
-
-__unknown_file (
-%sc-A_22406_env_13"__id* *
-
-%env"
-%scope-A_22406_envZ
-X
-
-__unknown_file (
-%sc-A_22406_env_14"__id* *
-
-%env"
-%scope-A_22406_envùö
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.jsπ π(2
-	%object_1Object"ObjectX
-V
-
-__unknown_file (
-
-%expr_10"__id*(*&
-
-%sc-P_2068_1"
-EmbedAnalyticsRootû"õ
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.jsπ π(2
-
-%methRes_2*&
-
-%sc-P_2068_1"
-EmbedAnalyticsRoot2
-
-	%object_1Object2
-
-%env2"* 
-
-%sc-A_22406_env_13"
-ampdoc2!*
-
-%sc-A_22406_env_14"
-embedQ
-O
-
-__unknown_file (
-%fieldAccess_1"__id**
-
-
-%expr_10"
-	prototype^
-\
-
-__unknown_file (	
-%void_2"
-__setProto*
-
-	%object_1Object*
-
-%fieldAccess_1Ω
-∫
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.jsπ π(
-
-
-%sc-A_22406_env_12"
-root"__id*
-
-	%object_1ObjectZ
-X
-
-__unknown_file (
-%sc-A_22406_env_15"__id* *
-
-%env"
-%scope-A_22406_envZ
-X
-
-__unknown_file (
-%sc-A_22406_env_16"__id* *
-
-%env"
-%scope-A_22406_envO
-M
-
-__unknown_file (
-
-%expr_11"__id**
-
-%sc-A_22406_env_16"
-winJ
-H
-
-__unknown_file (
-
-%expr_12"__id**
-
-
-%expr_11"
-
-documentæ
-ª
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js∫ ∫(
-
-
-%sc-A_22406_env_15"
-body"__id**
-
-
-%expr_12"
-bodyZ
-X
-
-__unknown_file (
-%sc-A_22406_env_17"__id* *
-
-%env"
-%scope-A_22406_envZ
-X
-
-__unknown_file (
-%sc-A_22406_env_18"__id* *
-
-%env"
-%scope-A_22406_envO
-M
-
-__unknown_file (
-
-%expr_13"__id**
-
-%sc-A_22406_env_18"
-winJ
-H
-
-__unknown_file (
-
-%expr_14"__id**
-
-
-%expr_13"
-
-documentO
-M
-
-__unknown_file (
-
-%expr_15"__id**
-
-
-%expr_14"
-createElement—"Œ
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.jsº º()
-
-%methRes_3*
-
-
-%expr_14"
-createElement2
-
-
-%expr_142
-
-%env2
-
-target∏
-µ
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.jsº º( 
-
-%sc-A_22406_env_17"
-target"__id*
-
-
-%methRes_3Z
-X
-
-__unknown_file (
-%sc-A_22406_env_19"__id* *
-
-%env"
-%scope-A_22406_envR
-P
-
-__unknown_file (
-
-%expr_16"__id*"* 
-
-%sc-A_22406_env_19"
-target¶
-£
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.jsΩ Ω(
-
-
-%expr_16"
-id"__id*
-
-targetZ
-X
-
-__unknown_file (
-%sc-A_22406_env_20"__id* *
-
-%env"
-%scope-A_22406_envR
-P
-
-__unknown_file (
-
-%expr_17"__id*"* 
-
-%sc-A_22406_env_20"
-target≠
-™
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.jsæ æ(
-
-
-%expr_17"
-	className"__id*
-
-targetZ
-X
-
-__unknown_file (
-%sc-A_22406_env_21"__id* *
-
-%env"
-%scope-A_22406_envP
-N
-
-__unknown_file (
-
-%expr_18"__id* *
-
-%sc-A_22406_env_21"
-bodyZ
-X
-
-__unknown_file (
-%sc-A_22406_env_22"__id* *
-
-%env"
-%scope-A_22406_envM
-K
-
-__unknown_file (
-
-%expr_19"__id**
-
-
-%expr_18"
-appendChildÁ"‰
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.jsø ø(
-
-%methRes_4*
-
-
-%expr_18"
-appendChild2
-
-
-%expr_182
-
-%env2"* 
-
-%sc-A_22406_env_22"
-targetZ
-X
-
-__unknown_file (
-%sc-A_22406_env_23"__id* *
-
-%env"
-%scope-A_22406_envZ
-X
-
-__unknown_file (
-%sc-A_22406_env_24"__id* *
-
-%env"
-%scope-A_22406_envO
-M
-
-__unknown_file (
-
-%expr_20"__id**
-
-%sc-A_22406_env_24"
-winJ
-H
-
-__unknown_file (
-
-%expr_21"__id**
-
-
-%expr_20"
-
-documentO
-M
-
-__unknown_file (
-
-%expr_22"__id**
-
-
-%expr_21"
-createElement–"Õ
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js¡ ¡((
-
-%methRes_5*
-
-
-%expr_21"
-createElement2
-
-
-%expr_212
-
-%env2	
-child∑
-¥
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js¡ ¡(
-
-%sc-A_22406_env_23"
-child"__id*
-
-
-%methRes_5Z
-X
-
-__unknown_file (
-%sc-A_22406_env_25"__id* *
-
-%env"
-%scope-A_22406_envQ
-O
-
-__unknown_file (
-
-%expr_23"__id*!*
-
-%sc-A_22406_env_25"
-child•
-¢
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js¬ ¬(
-
-
-%expr_23"
-id"__id*	
-childZ
-X
-
-__unknown_file (
-%sc-A_22406_env_26"__id* *
-
-%env"
-%scope-A_22406_envQ
-O
-
-__unknown_file (
-
-%expr_24"__id*!*
-
-%sc-A_22406_env_26"
-child¨
-©
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js√ √(
-
-
-%expr_24"
-	className"__id*	
-childZ
-X
-
-__unknown_file (
-%sc-A_22406_env_27"__id* *
-
-%env"
-%scope-A_22406_envR
-P
-
-__unknown_file (
-
-%expr_25"__id*"* 
-
-%sc-A_22406_env_27"
-targetZ
-X
-
-__unknown_file (
-%sc-A_22406_env_28"__id* *
-
-%env"
-%scope-A_22406_envM
-K
-
-__unknown_file (
-
-%expr_26"__id**
-
-
-%expr_25"
-appendChildÊ"„
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.jsƒ ƒ(
-
-%methRes_6*
-
-
-%expr_25"
-appendChild2
-
-
-%expr_252
-
-%env2!*
-
-%sc-A_22406_env_28"
-childZ
-X
-
-__unknown_file (
-%sc-A_22406_env_29"__id* *
-
-%env"
-%scope-A_22406_envZ
-X
-
-__unknown_file (
-%sc-A_22406_env_30"__id* *
-
-%env"
-%scope-A_22406_envO
-M
-
-__unknown_file (
-
-%expr_27"__id**
-
-%sc-A_22406_env_30"
-winJ
-H
-
-__unknown_file (
-
-%expr_28"__id**
-
-
-%expr_27"
-
-documentO
-M
-
-__unknown_file (
-
-%expr_29"__id**
-
-
-%expr_28"
-createElementŒ"À
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js∆ ∆((
-
-%methRes_7*
-
-
-%expr_28"
-createElement2
-
-
-%expr_282
-
-%env2
-div∑
-¥
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js∆ ∆(
-
-%sc-A_22406_env_29"
-other"__id*
-
-
-%methRes_7Z
-X
-
-__unknown_file (
-%sc-A_22406_env_31"__id* *
-
-%env"
-%scope-A_22406_envQ
-O
-
-__unknown_file (
-
-%expr_30"__id*!*
-
-%sc-A_22406_env_31"
-other•
-¢
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js« «(
-
-
-%expr_30"
-id"__id*	
-otherZ
-X
-
-__unknown_file (
-%sc-A_22406_env_32"__id* *
-
-%env"
-%scope-A_22406_envQ
-O
-
-__unknown_file (
-
-%expr_31"__id*!*
-
-%sc-A_22406_env_32"
-other¨
-©
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js» »(
-
-
-%expr_31"
-	className"__id*	
-otherZ
-X
-
-__unknown_file (
-%sc-A_22406_env_33"__id* *
-
-%env"
-%scope-A_22406_envP
-N
-
-__unknown_file (
-
-%expr_32"__id* *
-
-%sc-A_22406_env_33"
-bodyZ
-X
-
-__unknown_file (
-%sc-A_22406_env_34"__id* *
-
-%env"
-%scope-A_22406_envM
-K
-
-__unknown_file (
-
-%expr_33"__id**
-
-
-%expr_32"
-appendChildÊ"„
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-analytics-root.js… …(
-
-%methRes_8*
-
-
-%expr_32"
-appendChild2
-
-
-%expr_322
-
-%env2!*
-
-%sc-A_22406_env_34"
-other"
-
-__unknown_file ( :
-%envB 

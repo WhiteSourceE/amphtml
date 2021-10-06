@@ -1,953 +1,0 @@
-
-Eextensions_amp_next_page_0_1_test_test_amp_next_page_js_46_16_A_497_0x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.js. .("s3_1*êf
-s3_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-globalU
-S
-
-__unknown_file (
-%sc-A_496_env_0"__id**
-
-%env"
-%scope-A_496_envU
-S
-
-__unknown_file (
-%sc-A_496_env_1"__id**
-
-%env"
-%scope-A_496_envK
-I
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-A_496_env_1"
-envµ
-²
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.js/ /(	
-
-%sc-A_496_env_0"
-win"__id**
-	
-%expr_0"
-winU
-S
-
-__unknown_file (
-%sc-A_496_env_2"__id**
-
-%env"
-%scope-A_496_envU
-S
-
-__unknown_file (
-%sc-A_496_env_3"__id**
-
-%env"
-%scope-A_496_envK
-I
-
-__unknown_file (	
-%expr_1"__id**
-
-%sc-A_496_env_3"
-winº
-·
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.js0 0(	
-
-%sc-A_496_env_2"
-doc"__id**
-	
-%expr_1"
-
-documentU
-S
-
-__unknown_file (
-%sc-A_496_env_4"__id**
-
-%env"
-%scope-A_496_envU
-S
-
-__unknown_file (
-%sc-A_496_env_5"__id**
-
-%env"
-%scope-A_496_envK
-I
-
-__unknown_file (	
-%expr_2"__id**
-
-%sc-A_496_env_5"
-env»
-¸
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.js1 1(
-
-%sc-A_496_env_4"
-ampdoc"__id**
-	
-%expr_2"
-ampdocU
-S
-
-__unknown_file (
-%sc-A_496_env_6"__id**
-
-%env"
-%scope-A_496_envK
-I
-
-__unknown_file (
-
-%sc-P_72_0"__id**
-
-%env"
-%scope-P_72K
-I
-
-__unknown_file (	
-%expr_3"__id**
-
-
-%sc-P_72_0"
-
-ServicesU
-S
-
-__unknown_file (
-%sc-A_496_env_7"__id**
-
-%env"
-%scope-A_496_envN
-L
-
-__unknown_file (	
-%expr_4"__id**
-	
-%expr_3"
-viewportForDocâ"ß
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.js2 2((
-
-%methRes_0*
-	
-%expr_3"
-viewportForDoc2
-	
-%expr_32
-
-%env2*
-
-%sc-A_496_env_7"
-ampdoc´
-±
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.js2 2(
-
-%sc-A_496_env_6"
-
-viewport"__id*
-
-
-%methRes_0U
-S
-
-__unknown_file (
-%sc-A_496_env_8"__id**
-
-%env"
-%scope-A_496_envU
-S
-
-__unknown_file (
-%sc-A_496_env_9"__id**
-
-%env"
-%scope-A_496_envP
-N
-
-__unknown_file (	
-%expr_5"__id*!*
-
-%sc-A_496_env_9"
-
-viewportG
-E
-
-__unknown_file (	
-%expr_6"__id**
-	
-%expr_5"	
-getSizeº"·
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.js3 3(
-
-%methRes_1*
-	
-%expr_5"	
-getSize2
-	
-%expr_52
-
-%env±
-®
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.js3 3(
-
-%sc-A_496_env_8"
-sizes"__id*
-
-
-%methRes_1V
-T
-
-__unknown_file (
-%sc-A_496_env_10"__id**
-
-%env"
-%scope-A_496_envV
-T
-
-__unknown_file (
-%sc-A_496_env_11"__id**
-
-%env"
-%scope-A_496_envL
-J
-
-__unknown_file (	
-%expr_7"__id**
-
-%sc-A_496_env_11"
-docM
-K
-
-__unknown_file (	
-%expr_8"__id**
-	
-%expr_7"
-createElementÉ"Æ
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.js4 4(!
-
-%methRes_2*
-	
-%expr_7"
-createElement2
-	
-%expr_72
-
-%env2
-div´
-±
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.js4 4(
-
-%sc-A_496_env_10"	
-element"__id*
-
-
-%methRes_2K
-I
-
-__unknown_file (
-
-%sc-P_72_1"__id**
-
-%env"
-%scope-P_72V
-T
-
-__unknown_file (
-%sc-A_496_env_12"__id**
-
-%env"
-%scope-A_496_envK
-I
-
-__unknown_file (
-
-%sc-P_72_2"__id**
-
-%env"
-%scope-P_72þ"û
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.js6 6(
-
-%funcRes_0*"
-
-
-%sc-P_72_2"
-toggleExperiment2
-	
-%global2
-
-%env2*
-
-%sc-A_496_env_12"
-win2
-amp-next-page22K
-I
-
-__unknown_file (
-
-%sc-P_72_3"__id**
-
-%env"
-%scope-P_72V
-T
-
-__unknown_file (
-%sc-A_496_env_13"__id**
-
-%env"
-%scope-A_496_envK
-I
-
-__unknown_file (
-
-%sc-P_72_4"__id**
-
-%env"
-%scope-P_72ý"ú
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.js9 9(
-
-%funcRes_1*
-
-
-%sc-P_72_4"
-
-setStyle2
-	
-%global2
-
-%env2!*
-
-%sc-A_496_env_13"	
-element2
-	marginTop2	
-10000pxV
-T
-
-__unknown_file (
-%sc-A_496_env_14"__id**
-
-%env"
-%scope-A_496_envP
-N
-
-__unknown_file (	
-%expr_9"__id*!*
-
-%sc-A_496_env_14"	
-element†
-ƒ
-
-__unknown_file (	
-%func_0"__declareFunction*IG
-Eextensions_amp_next_page_0_1_test_test_amp_next_page_js_58_27_A_498_0fd
-
-__unknown_file (/
-%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_0"
-__setProto*
-	
-%func_0*1
-/
-%functionPrototype_0%SonarFunctionPrototypeª
-§
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.js: :(
-	
-%expr_9"
-	getAmpDoc"__id*
-	
-%func_0V
-T
-
-__unknown_file (
-%sc-A_496_env_15"__id**
-
-%env"
-%scope-A_496_envQ
-O
-
-__unknown_file (
-
-%expr_10"__id*!*
-
-%sc-A_496_env_15"	
-element†
-ƒ
-
-__unknown_file (	
-%func_1"__declareFunction*IG
-Eextensions_amp_next_page_0_1_test_test_amp_next_page_js_59_29_A_499_0fd
-
-__unknown_file (/
-%functionPrototype_1%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_1"
-__setProto*
-	
-%func_1*1
-/
-%functionPrototype_1%SonarFunctionPrototype­
-ª
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.js; ;(
-
-
-%expr_10"
-getFallback"__id*
-	
-%func_1V
-T
-
-__unknown_file (
-%sc-A_496_env_16"__id**
-
-%env"
-%scope-A_496_envQ
-O
-
-__unknown_file (
-
-%expr_11"__id*!*
-
-%sc-A_496_env_16"	
-element†
-ƒ
-
-__unknown_file (	
-%func_2"__declareFunction*IG
-Eextensions_amp_next_page_0_1_test_test_amp_next_page_js_60_30_A_500_0fd
-
-__unknown_file (/
-%functionPrototype_2%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_2"
-__setProto*
-	
-%func_2*1
-/
-%functionPrototype_2%SonarFunctionPrototype®
-«
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.js< <(
-
-
-%expr_11"
-getResources"__id*
-	
-%func_2V
-T
-
-__unknown_file (
-%sc-A_496_env_17"__id**
-
-%env"
-%scope-A_496_envM
-K
-
-__unknown_file (
-
-%expr_12"__id**
-
-%sc-A_496_env_17"
-docF
-D
-
-__unknown_file (
-
-%expr_13"__id**
-
-
-%expr_12"
-bodyV
-T
-
-__unknown_file (
-%sc-A_496_env_18"__id**
-
-%env"
-%scope-A_496_envM
-K
-
-__unknown_file (
-
-%expr_14"__id**
-
-
-%expr_13"
-appendChildã"à
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.js> >(
-
-%methRes_3*
-
-
-%expr_13"
-appendChild2
-
-
-%expr_132
-
-%env2!*
-
-%sc-A_496_env_18"	
-elementV
-T
-
-__unknown_file (
-%sc-A_496_env_19"__id**
-
-%env"
-%scope-A_496_envK
-I
-
-__unknown_file (
-
-%sc-P_72_5"__id**
-
-%env"
-%scope-P_72V
-T
-
-__unknown_file (
-%sc-A_496_env_20"__id**
-
-%env"
-%scope-A_496_envš—
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.js? ?()
-	%object_0Object"ObjectO
-M
-
-__unknown_file (
-
-%expr_15"__id**
-
-
-%sc-P_72_5"
-AmpNextPageî"ë
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.js? ?()
-
-%methRes_4*
-
-
-%sc-P_72_5"
-AmpNextPage2
-
-	%object_0Object2
-
-%env2!*
-
-%sc-A_496_env_20"	
-elementQ
-O
-
-__unknown_file (
-%fieldAccess_0"__id**
-
-
-%expr_15"
-	prototype^
-\
-
-__unknown_file (	
-%void_3"
-__setProto*
-
-	%object_0Object*
-
-%fieldAccess_0¼
-¹
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.js? ?( 
-
-%sc-A_496_env_19"
-
-nextPage"__id*
-
-	%object_0ObjectV
-T
-
-__unknown_file (
-%sc-A_496_env_21"__id**
-
-%env"
-%scope-A_496_envP
-N
-
-__unknown_file (
-
-%expr_16"__id* *
-
-%sc-A_496_env_21"
-ampdoc†
-ƒ
-
-__unknown_file (	
-%func_3"__declareFunction*IG
-Eextensions_amp_next_page_0_1_test_test_amp_next_page_js_65_23_A_501_0fd
-
-__unknown_file (/
-%functionPrototype_3%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_4"
-__setProto*
-	
-%func_3*1
-/
-%functionPrototype_3%SonarFunctionPrototype¨
-¥
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.jsA A(
-
-
-%expr_16"
-getUrl"__id*
-	
-%func_3V
-T
-
-__unknown_file (
-%sc-A_496_env_22"__id**
-
-%env"
-%scope-A_496_envV
-T
-
-__unknown_file (
-%sc-A_496_env_23"__id**
-
-%env"
-%scope-A_496_envM
-K
-
-__unknown_file (
-
-%expr_17"__id**
-
-%sc-A_496_env_23"
-envI
-G
-
-__unknown_file (
-
-%expr_18"__id**
-
-
-%expr_17"	
-sandboxK
-I
-
-__unknown_file (
-
-%sc-P_72_6"__id**
-
-%env"
-%scope-P_72F
-D
-
-__unknown_file (
-
-%expr_19"__id**
-
-
-%expr_18"
-mockÙ"Ö
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.jsC& C(*
-
-%methRes_5*
-
-
-%expr_18"
-mock2
-
-
-%expr_182
-
-%env2*
-
-
-%sc-P_72_6"
-
-DocFetcher¾
-»
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.jsC C()
-
-%sc-A_496_env_22"
-fetchDocumentMock"__id*
-
-
-%methRes_5V
-T
-
-__unknown_file (
-%sc-A_496_env_24"__id**
-
-%env"
-%scope-A_496_envM
-K
-
-__unknown_file (
-
-%expr_20"__id**
-
-%sc-A_496_env_24"
-envI
-G
-
-__unknown_file (
-
-%expr_21"__id**
-
-
-%expr_20"	
-sandboxK
-I
-
-__unknown_file (
-
-%sc-P_72_7"__id**
-
-%env"
-%scope-P_72L
-J
-
-__unknown_file (
-
-%expr_22"__id**
-
-
-%sc-P_72_7"
-
-ServicesV
-T
-
-__unknown_file (
-%sc-A_496_env_25"__id**
-
-%env"
-%scope-A_496_envO
-M
-
-__unknown_file (
-
-%expr_23"__id**
-
-
-%expr_22"
-mutatorForDocä"á
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.jsE E($
-
-%methRes_6*
-
-
-%expr_22"
-mutatorForDoc2
-
-
-%expr_222
-
-%env2 *
-
-%sc-A_496_env_25"
-ampdocF
-D
-
-__unknown_file (
-
-%expr_24"__id**
-
-
-%expr_21"
-stubÜ"Ù
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.jsE	 E(
-
-%methRes_7*
-
-
-%expr_21"
-stub2
-
-
-%expr_212
-
-%env2
-
-
-%methRes_62
-mutateElementŒ
-‰
-
-__unknown_file (	
-%func_4"__declareFunction*OM
-Kextensions_amp_next_page_0_1_test_test_amp_next_page_js_70_20_A_502_unu_mutfd
-
-__unknown_file (/
-%functionPrototype_4%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_5"
-__setProto*
-	
-%func_4*1
-/
-%functionPrototype_4%SonarFunctionPrototypeM
-K
-
-__unknown_file (
-
-%expr_25"__id**
-
-
-%methRes_7"
-	callsFakeÏ"Ì
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.jsF	 F(
-
-%methRes_8*
-
-
-%methRes_7"
-	callsFake2
-
-
-%methRes_72
-
-%env2
-	
-%func_4V
-T
-
-__unknown_file (
-%sc-A_496_env_26"__id**
-
-%env"
-%scope-A_496_envM
-K
-
-__unknown_file (
-
-%expr_26"__id**
-
-%sc-A_496_env_26"
-envI
-G
-
-__unknown_file (
-
-%expr_27"__id**
-
-
-%expr_26"	
-sandboxV
-T
-
-__unknown_file (
-%sc-A_496_env_27"__id**
-
-%env"
-%scope-A_496_envF
-D
-
-__unknown_file (
-
-%expr_28"__id**
-
-
-%expr_27"
-stubð"í
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.jsJ J(
-
-%methRes_9*
-
-
-%expr_27"
-stub2
-
-
-%expr_272
-
-%env2"* 
-
-%sc-A_496_env_27"
-
-nextPage2
-mutateElementˆ
-…
-
-__unknown_file (	
-%func_5"__declareFunction*KI
-Gextensions_amp_next_page_0_1_test_test_amp_next_page_js_74_61_A_503_mutfd
-
-__unknown_file (/
-%functionPrototype_5%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_6"
-__setProto*
-	
-%func_5*1
-/
-%functionPrototype_5%SonarFunctionPrototypeM
-K
-
-__unknown_file (
-
-%expr_29"__id**
-
-
-%methRes_9"
-	callsFakeÐ"Í
-x
-n/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-next-page/0.1/test/test-amp-next-page.jsJ2 J(;
-%methRes_10*
-
-
-%methRes_9"
-	callsFake2
-
-
-%methRes_92
-
-%env2
-	
-%func_5"
-
-__unknown_file ( :
-%envB 

@@ -1,764 +1,0 @@
-
-Jextensions_amp_animation_0_1_test_test_web_animations_js_1646_16_A_27930_0{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsÓ Ó("s196_1*ùQ
-s196_1
-<synthetic> (U
-S
-
-__unknown_file (
-%sc-A_27929_0_0"__id**
-
-%env"
-%scope-A_27929_0Y
-W
-
-__unknown_file (
-%sc-A_27739_env_0"__id* *
-
-%env"
-%scope-A_27739_envM
-K
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-A_27739_env_0"
-envP
-N
-
-__unknown_file (	
-%expr_1"__id*!*
-	
-%expr_0"
-createAmpElement∆"√
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsÔ Ô(!
-
-%methRes_0*
-	
-%expr_0"
-createAmpElement2
-	
-%expr_02
-
-%env≥
-∞
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsÔ Ô(
-
-
-%sc-A_27929_0_0"
-amp1"__id*
-
-
-%methRes_0U
-S
-
-__unknown_file (
-%sc-A_27929_0_1"__id**
-
-%env"
-%scope-A_27929_0Y
-W
-
-__unknown_file (
-%sc-A_27739_env_1"__id* *
-
-%env"
-%scope-A_27739_envM
-K
-
-__unknown_file (	
-%expr_2"__id**
-
-%sc-A_27739_env_1"
-envP
-N
-
-__unknown_file (	
-%expr_3"__id*!*
-	
-%expr_2"
-createAmpElement∆"√
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.js (!
-
-%methRes_1*
-	
-%expr_2"
-createAmpElement2
-	
-%expr_22
-
-%env≥
-∞
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.js (
-
-
-%sc-A_27929_0_1"
-amp2"__id*
-
-
-%methRes_1Y
-W
-
-__unknown_file (
-%sc-A_27739_env_2"__id* *
-
-%env"
-%scope-A_27739_envM
-K
-
-__unknown_file (	
-%expr_4"__id**
-
-%sc-A_27739_env_2"
-envG
-E
-
-__unknown_file (	
-%expr_5"__id**
-	
-%expr_4"	
-sandboxU
-S
-
-__unknown_file (
-%sc-A_27929_0_2"__id**
-
-%env"
-%scope-A_27929_0D
-B
-
-__unknown_file (	
-%expr_6"__id**
-	
-%expr_5"
-stubÈ"Ê
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsÒ Ò(
-
-%methRes_2*
-	
-%expr_5"
-stub2
-	
-%expr_52
-
-%env2*
-
-%sc-A_27929_0_2"
-amp12
-
-isUpgradedã
-à
-
-__unknown_file (	
-%func_0"__declareFunction*NL
-Jextensions_amp_animation_0_1_test_test_web_animations_js_1649_54_A_27931_0fd
-
-__unknown_file (/
-%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_0"
-__setProto*
-	
-%func_0*1
-/
-%functionPrototype_0%SonarFunctionPrototypeL
-J
-
-__unknown_file (	
-%expr_7"__id**
-
-
-%methRes_2"
-	callsFake“"œ
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsÒ+ Ò(4
-
-%methRes_3*
-
-
-%methRes_2"
-	callsFake2
-
-
-%methRes_22
-
-%env2
-	
-%func_0Y
-W
-
-__unknown_file (
-%sc-A_27739_env_3"__id* *
-
-%env"
-%scope-A_27739_envM
-K
-
-__unknown_file (	
-%expr_8"__id**
-
-%sc-A_27739_env_3"
-envG
-E
-
-__unknown_file (	
-%expr_9"__id**
-	
-%expr_8"	
-sandboxU
-S
-
-__unknown_file (
-%sc-A_27929_0_3"__id**
-
-%env"
-%scope-A_27929_0E
-C
-
-__unknown_file (
-
-%expr_10"__id**
-	
-%expr_9"
-stubÈ"Ê
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsÚ Ú(
-
-%methRes_4*
-	
-%expr_9"
-stub2
-	
-%expr_92
-
-%env2*
-
-%sc-A_27929_0_3"
-amp22
-
-isUpgradedã
-à
-
-__unknown_file (	
-%func_1"__declareFunction*NL
-Jextensions_amp_animation_0_1_test_test_web_animations_js_1650_54_A_27932_0fd
-
-__unknown_file (/
-%functionPrototype_1%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_1"
-__setProto*
-	
-%func_1*1
-/
-%functionPrototype_1%SonarFunctionPrototypeM
-K
-
-__unknown_file (
-
-%expr_11"__id**
-
-
-%methRes_4"
-	callsFake“"œ
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsÚ+ Ú(4
-
-%methRes_5*
-
-
-%methRes_4"
-	callsFake2
-
-
-%methRes_42
-
-%env2
-	
-%func_1Y
-W
-
-__unknown_file (
-%sc-A_27739_env_4"__id* *
-
-%env"
-%scope-A_27739_envN
-L
-
-__unknown_file (
-
-%expr_12"__id**
-
-%sc-A_27739_env_4"
-envI
-G
-
-__unknown_file (
-
-%expr_13"__id**
-
-
-%expr_12"	
-sandboxU
-S
-
-__unknown_file (
-%sc-A_27929_0_4"__id**
-
-%env"
-%scope-A_27929_0F
-D
-
-__unknown_file (
-
-%expr_14"__id**
-
-
-%expr_13"
-stubË"Â
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsÛ Û(
-
-%methRes_6*
-
-
-%expr_13"
-stub2
-
-
-%expr_132
-
-%env2*
-
-%sc-A_27929_0_4"
-amp12	
-isBuiltã
-à
-
-__unknown_file (	
-%func_2"__declareFunction*NL
-Jextensions_amp_animation_0_1_test_test_web_animations_js_1651_51_A_27933_0fd
-
-__unknown_file (/
-%functionPrototype_2%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_2"
-__setProto*
-	
-%func_2*1
-/
-%functionPrototype_2%SonarFunctionPrototypeM
-K
-
-__unknown_file (
-
-%expr_15"__id**
-
-
-%methRes_6"
-	callsFake“"œ
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsÛ( Û(1
-
-%methRes_7*
-
-
-%methRes_6"
-	callsFake2
-
-
-%methRes_62
-
-%env2
-	
-%func_2Y
-W
-
-__unknown_file (
-%sc-A_27739_env_5"__id* *
-
-%env"
-%scope-A_27739_envN
-L
-
-__unknown_file (
-
-%expr_16"__id**
-
-%sc-A_27739_env_5"
-envI
-G
-
-__unknown_file (
-
-%expr_17"__id**
-
-
-%expr_16"	
-sandboxU
-S
-
-__unknown_file (
-%sc-A_27929_0_5"__id**
-
-%env"
-%scope-A_27929_0F
-D
-
-__unknown_file (
-
-%expr_18"__id**
-
-
-%expr_17"
-stubË"Â
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsÙ Ù(
-
-%methRes_8*
-
-
-%expr_17"
-stub2
-
-
-%expr_172
-
-%env2*
-
-%sc-A_27929_0_5"
-amp22	
-isBuiltã
-à
-
-__unknown_file (	
-%func_3"__declareFunction*NL
-Jextensions_amp_animation_0_1_test_test_web_animations_js_1652_51_A_27934_0fd
-
-__unknown_file (/
-%functionPrototype_3%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_3"
-__setProto*
-	
-%func_3*1
-/
-%functionPrototype_3%SonarFunctionPrototypeM
-K
-
-__unknown_file (
-
-%expr_19"__id**
-
-
-%methRes_8"
-	callsFake“"œ
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsÙ( Ù(1
-
-%methRes_9*
-
-
-%methRes_8"
-	callsFake2
-
-
-%methRes_82
-
-%env2
-	
-%func_3Y
-W
-
-__unknown_file (
-%sc-A_27739_env_6"__id* *
-
-%env"
-%scope-A_27739_envN
-L
-
-__unknown_file (
-
-%expr_20"__id**
-
-%sc-A_27739_env_6"
-envI
-G
-
-__unknown_file (
-
-%expr_21"__id**
-
-
-%expr_20"	
-sandboxU
-S
-
-__unknown_file (
-%sc-A_27929_0_6"__id**
-
-%env"
-%scope-A_27929_0F
-D
-
-__unknown_file (
-
-%expr_22"__id**
-
-
-%expr_21"
-stubÎ"Ë
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsı ı(
-%methRes_10*
-
-
-%expr_21"
-stub2
-
-
-%expr_212
-
-%env2*
-
-%sc-A_27929_0_6"
-amp12
-	whenBuiltã
-à
-
-__unknown_file (	
-%func_4"__declareFunction*NL
-Jextensions_amp_animation_0_1_test_test_web_animations_js_1653_53_A_27935_0fd
-
-__unknown_file (/
-%functionPrototype_4%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_4"
-__setProto*
-	
-%func_4*1
-/
-%functionPrototype_4%SonarFunctionPrototypeN
-L
-
-__unknown_file (
-
-%expr_23"__id**
-
-%methRes_10"
-	callsFake’"“
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsı* ı(3
-%methRes_11*
-
-%methRes_10"
-	callsFake2
-
-%methRes_102
-
-%env2
-	
-%func_4Y
-W
-
-__unknown_file (
-%sc-A_27739_env_7"__id* *
-
-%env"
-%scope-A_27739_envN
-L
-
-__unknown_file (
-
-%expr_24"__id**
-
-%sc-A_27739_env_7"
-envI
-G
-
-__unknown_file (
-
-%expr_25"__id**
-
-
-%expr_24"	
-sandboxU
-S
-
-__unknown_file (
-%sc-A_27929_0_7"__id**
-
-%env"
-%scope-A_27929_0F
-D
-
-__unknown_file (
-
-%expr_26"__id**
-
-
-%expr_25"
-stubÎ"Ë
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsˆ ˆ(
-%methRes_12*
-
-
-%expr_25"
-stub2
-
-
-%expr_252
-
-%env2*
-
-%sc-A_27929_0_7"
-amp22
-	whenBuiltã
-à
-
-__unknown_file (	
-%func_5"__declareFunction*NL
-Jextensions_amp_animation_0_1_test_test_web_animations_js_1654_53_A_27936_0fd
-
-__unknown_file (/
-%functionPrototype_5%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_5"
-__setProto*
-	
-%func_5*1
-/
-%functionPrototype_5%SonarFunctionPrototypeN
-L
-
-__unknown_file (
-
-%expr_27"__id**
-
-%methRes_12"
-	callsFake’"“
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.jsˆ* ˆ(3
-%methRes_13*
-
-%methRes_12"
-	callsFake2
-
-%methRes_122
-
-%env2
-	
-%func_5Y
-W
-
-__unknown_file (
-%sc-A_27739_env_8"__id* *
-
-%env"
-%scope-A_27739_envT
-R
-
-__unknown_file (
-
-%expr_28"__id*$*"
-
-%sc-A_27739_env_8"
-	resourcesU
-S
-
-__unknown_file (
-%sc-A_27929_0_8"__id**
-
-%env"
-%scope-A_27929_0E
-C
-
-__unknown_file (
-
-%expr_29"__id**
-
-
-%expr_28"
-add€"ÿ
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.js˜ ˜(
-%methRes_14*
-
-
-%expr_28"
-add2
-
-
-%expr_282
-
-%env2*
-
-%sc-A_27929_0_8"
-amp1Y
-W
-
-__unknown_file (
-%sc-A_27739_env_9"__id* *
-
-%env"
-%scope-A_27739_envT
-R
-
-__unknown_file (
-
-%expr_30"__id*$*"
-
-%sc-A_27739_env_9"
-	resourcesU
-S
-
-__unknown_file (
-%sc-A_27929_0_9"__id**
-
-%env"
-%scope-A_27929_0E
-C
-
-__unknown_file (
-
-%expr_31"__id**
-
-
-%expr_30"
-add€"ÿ
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-animation/0.1/test/test-web-animations.js¯ ¯(
-%methRes_15*
-
-
-%expr_30"
-add2
-
-
-%expr_302
-
-%env2*
-
-%sc-A_27929_0_9"
-amp2"
-
-__unknown_file ( :
-%envB 

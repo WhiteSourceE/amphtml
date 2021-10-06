@@ -1,540 +1,0 @@
-
-Lextensions_amp_bind_0_1_test_integration_test_bind_impl_js_1396_65_A_23390_0}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.jsÙ
-@ Ù
-(F"s171_1*¥E
-s171_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-global86
-
-__unknown_file (
-%scope-A_23390_0"ObjectV
-T
-
-__unknown_file (
-
-%env"
-%scope-A_23390_0"__id*
-
-%scope-A_23390_0Y
-W
-
-__unknown_file (
-%sc-A_23270_env_0"__id* *
-
-%env"
-%scope-A_23270_envN
-L
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-A_23270_env_0"
-bindQ
-O
-
-__unknown_file (	
-%expr_1"__id*"* 
-	
-%expr_0"
-addOverridableKey“"œ
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.jsı
- ı
-( 
-
-%methRes_0* 
-	
-%expr_0"
-addOverridableKey2
-	
-%expr_02
-
-%env2
-fooY
-W
-
-__unknown_file (
-%sc-A_23270_env_1"__id* *
-
-%env"
-%scope-A_23270_envN
-L
-
-__unknown_file (	
-%expr_2"__id**
-
-%sc-A_23270_env_1"
-bindQ
-O
-
-__unknown_file (	
-%expr_3"__id*"* 
-	
-%expr_2"
-addOverridableKey“"œ
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.jsˆ
- ˆ
-( 
-
-%methRes_1* 
-	
-%expr_2"
-addOverridableKey2
-	
-%expr_22
-
-%env2
-barO
-M
-
-__unknown_file (
-%sc-P_2150_0"__id**
-
-%env"
-%scope-P_2150Y
-W
-
-__unknown_file (
-%sc-A_23270_env_2"__id* *
-
-%env"
-%scope-A_23270_envY
-W
-
-__unknown_file (
-%sc-A_23270_env_3"__id* *
-
-%env"
-%scope-A_23270_enve
-c
-
-__unknown_file (
-%sc-FD_3759_testSuite_0"__id*&*$
-
-%env"
-%scope-FD_3759_testSuiteüú
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.js¯
-D ˙
-(
-	%object_0Object"ObjectÌ
-Í
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.js˘
- ˘
-(50
-
-	%object_0Object"
-insertQuerySelectorAttr"__id*1*/
-
-%sc-FD_3759_testSuite_0"
-useQuerySelectorO
-M
-
-__unknown_file (
-%sc-P_2150_1"__id**
-
-%env"
-%scope-P_2150π"∂
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.js¯
- ¯
-(#
-
-%funcRes_0*!
-
-%sc-P_2150_1"
-createElement2
-	
-%global2
-
-%env2*
-
-%sc-A_23270_env_2"
-env2$*"
-
-%sc-A_23270_env_3"
-	container2
-[text]="foo"2
-
-	%object_0Objectµ
-≤
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.js¯
- ¯
-(
-
-%scope-A_23390_0"
-foo"__id*
-
-
-%funcRes_0O
-M
-
-__unknown_file (
-%sc-P_2150_2"__id**
-
-%env"
-%scope-P_2150Y
-W
-
-__unknown_file (
-%sc-A_23270_env_4"__id* *
-
-%env"
-%scope-A_23270_envY
-W
-
-__unknown_file (
-%sc-A_23270_env_5"__id* *
-
-%env"
-%scope-A_23270_enve
-c
-
-__unknown_file (
-%sc-FD_3759_testSuite_1"__id*&*$
-
-%env"
-%scope-FD_3759_testSuiteüú
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.js˚
-D ˝
-(
-	%object_1Object"ObjectÌ
-Í
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.js¸
- ¸
-(50
-
-	%object_1Object"
-insertQuerySelectorAttr"__id*1*/
-
-%sc-FD_3759_testSuite_1"
-useQuerySelectorO
-M
-
-__unknown_file (
-%sc-P_2150_3"__id**
-
-%env"
-%scope-P_2150π"∂
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.js˚
- ˚
-(#
-
-%funcRes_1*!
-
-%sc-P_2150_3"
-createElement2
-	
-%global2
-
-%env2*
-
-%sc-A_23270_env_4"
-env2$*"
-
-%sc-A_23270_env_5"
-	container2
-[text]="bar"2
-
-	%object_1Objectµ
-≤
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.js˚
- ˚
-(
-
-%scope-A_23390_0"
-bar"__id*
-
-
-%funcRes_1O
-M
-
-__unknown_file (
-%sc-P_2150_4"__id**
-
-%env"
-%scope-P_2150Y
-W
-
-__unknown_file (
-%sc-A_23270_env_6"__id* *
-
-%env"
-%scope-A_23270_envY
-W
-
-__unknown_file (
-%sc-A_23270_env_7"__id* *
-
-%env"
-%scope-A_23270_enve
-c
-
-__unknown_file (
-%sc-FD_3759_testSuite_2"__id*&*$
-
-%env"
-%scope-FD_3759_testSuiteüú
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.js˛
-D Ä(
-	%object_2Object"ObjectÌ
-Í
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.jsˇ
- ˇ
-(50
-
-	%object_2Object"
-insertQuerySelectorAttr"__id*1*/
-
-%sc-FD_3759_testSuite_2"
-useQuerySelectorO
-M
-
-__unknown_file (
-%sc-P_2150_5"__id**
-
-%env"
-%scope-P_2150π"∂
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.js˛
- ˛
-(#
-
-%funcRes_2*!
-
-%sc-P_2150_5"
-createElement2
-	
-%global2
-
-%env2*
-
-%sc-A_23270_env_6"
-env2$*"
-
-%sc-A_23270_env_7"
-	container2
-[text]="baz"2
-
-	%object_2Objectµ
-≤
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.js˛
- ˛
-(
-
-%scope-A_23390_0"
-baz"__id*
-
-
-%funcRes_2O
-M
-
-__unknown_file (
-%sc-P_2150_6"__id**
-
-%env"
-%scope-P_2150Y
-W
-
-__unknown_file (
-%sc-A_23270_env_8"__id* *
-
-%env"
-%scope-A_23270_envY
-W
-
-__unknown_file (
-%sc-A_23270_env_9"__id* *
-
-%env"
-%scope-A_23270_enve
-c
-
-__unknown_file (
-%sc-FD_3759_testSuite_3"__id*&*$
-
-%env"
-%scope-FD_3759_testSuiteüú
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.jsÅD É(
-	%object_3Object"ObjectÌ
-Í
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.jsÇ Ç(50
-
-	%object_3Object"
-insertQuerySelectorAttr"__id*1*/
-
-%sc-FD_3759_testSuite_3"
-useQuerySelectorO
-M
-
-__unknown_file (
-%sc-P_2150_7"__id**
-
-%env"
-%scope-P_2150π"∂
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.jsÅ Å(#
-
-%funcRes_3*!
-
-%sc-P_2150_7"
-createElement2
-	
-%global2
-
-%env2*
-
-%sc-A_23270_env_8"
-env2$*"
-
-%sc-A_23270_env_9"
-	container2
-[text]="qux"2
-
-	%object_3Objectµ
-≤
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.jsÅ Å(
-
-%scope-A_23390_0"
-qux"__id*
-
-
-%funcRes_3O
-M
-
-__unknown_file (
-%sc-P_2150_8"__id**
-
-%env"
-%scope-P_2150Z
-X
-
-__unknown_file (
-%sc-A_23270_env_10"__id* *
-
-%env"
-%scope-A_23270_envZ
-X
-
-__unknown_file (
-%sc-A_23270_env_11"__id* *
-
-%env"
-%scope-A_23270_envüú
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.jsÑ3 â(
-	%object_4Object"Object¨
-©
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.jsÖ Ö(
-
-	%object_4Object"
-foo"__id*2¨
-©
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.jsÜ Ü(
-
-	%object_4Object"
-bar"__id*2¨
-©
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.jsá á(
-
-	%object_4Object"
-baz"__id*2¨
-©
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.jsà à(
-
-	%object_4Object"
-qux"__id*2O
-M
-
-__unknown_file (
-%sc-P_2150_9"__id**
-
-%env"
-%scope-P_2150≠"™
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.jsÑ Ñ('
-
-%funcRes_4**
-
-%sc-P_2150_9"
-onBindReadyAndSetState2
-	
-%global2
-
-%env2*
-
-%sc-A_23270_env_10"
-env2 *
-
-%sc-A_23270_env_11"
-bind2
-
-	%object_4Objectç
-ä
-
-__unknown_file (	
-%func_0"__declareFunction*PN
-Lextensions_amp_bind_0_1_test_integration_test_bind_impl_js_1417_19_A_23391_0V
-T
-
-__unknown_file (
-
-%env"
-%scope-A_23390_0"__id*
-
-%scope-A_23390_0fd
-
-__unknown_file (/
-%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_0"
-__setProto*
-	
-%func_0*1
-/
-%functionPrototype_0%SonarFunctionPrototype¬"ø
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.jsâ â(
-
-%funcRes_5"	
-%func_02
-	
-%global2
-
-%env2
-
-
-%funcRes_4"è
-}
-q/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-bind/0.1/test/integration/test-bind-impl.jsÑ
- ô(
-
-
-%funcRes_5:
-%envB 

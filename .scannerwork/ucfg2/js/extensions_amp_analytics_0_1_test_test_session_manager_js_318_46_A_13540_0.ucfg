@@ -1,1357 +1,0 @@
-
-Jextensions_amp_analytics_0_1_test_test_session_manager_js_318_46_A_13540_0|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.js¾- ¾(9"s23_1*““
-s23_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-globalU
-S
-
-__unknown_file (
-%sc-A_13536_0_0"__id**
-
-%env"
-%scope-A_13536_0O
-M
-
-__unknown_file (
-%sc-P_1260_0"__id**
-
-%env"
-%scope-P_1260S
-Q
-
-__unknown_file (	
-%expr_0"__id*$*"
-
-%sc-P_1260_0"
-SESSION_VALUESO
-M
-
-__unknown_file (
-%sc-P_1260_1"__id**
-
-%env"
-%scope-P_1260S
-Q
-
-__unknown_file (	
-%expr_1"__id*$*"
-
-%sc-P_1260_1"
-SESSION_VALUESY
-W
-
-__unknown_file (
-%sc-A_13520_env_0"__id* *
-
-%env"
-%scope-A_13520_envO
-M
-
-__unknown_file (
-%sc-P_1260_2"__id**
-
-%env"
-%scope-P_1260S
-Q
-
-__unknown_file (	
-%expr_2"__id*$*"
-
-%sc-P_1260_2"
-SESSION_VALUESY
-W
-
-__unknown_file (
-%sc-A_13520_env_1"__id* *
-
-%env"
-%scope-A_13520_envÁ
-¾
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÂ- Â(<
-%fieldAccess_0"__id*&*$
-
-%sc-A_13520_env_1"
-defaultTime²
-¯
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÂ- Â(<
-	%concat_0"__concat*
-
-%fieldAccess_0*2O
-M
-
-__unknown_file (
-%sc-P_1260_3"__id**
-
-%env"
-%scope-P_1260S
-Q
-
-__unknown_file (	
-%expr_3"__id*$*"
-
-%sc-P_1260_3"
-SESSION_VALUESO
-M
-
-__unknown_file (
-%sc-P_1260_4"__id**
-
-%env"
-%scope-P_1260S
-Q
-
-__unknown_file (	
-%expr_4"__id*$*"
-
-%sc-P_1260_4"
-SESSION_VALUESY
-W
-
-__unknown_file (
-%sc-A_13520_env_2"__id* *
-
-%env"
-%scope-A_13520_envÁ
-¾
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÄ, Ä(;
-%fieldAccess_1"__id*&*$
-
-%sc-A_13520_env_2"
-defaultTime²
-¯
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÄ, Ä(;
-	%concat_1"__concat*
-
-%fieldAccess_1*2O
-M
-
-__unknown_file (
-%sc-P_1260_5"__id**
-
-%env"
-%scope-P_1260S
-Q
-
-__unknown_file (	
-%expr_5"__id*$*"
-
-%sc-P_1260_5"
-SESSION_VALUESž›
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.js¿ Æ(	
-	%object_0Object"Object¶
-³
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÀ
- À(+
-%fieldAccess_2"__id**
-	
-%expr_0"
-
-SESSION_IDÈ
-Å
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÀ
- À(+	
-%void_0"__mapSet*
-
-	%object_0Object*
-
-%fieldAccess_2*2ˆ'¾
-»
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÁ
- Á(:
-%fieldAccess_3"__id*#*!
-	
-%expr_1"
-CREATION_TIMESTAMPÁ
-¾
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÁ
- Á(:
-%fieldAccess_4"__id*&*$
-
-%sc-A_13520_env_0"
-defaultTimeÕ
-Ò
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÁ
- Á(:	
-%void_1"__mapSet*
-
-	%object_0Object*
-
-%fieldAccess_3*
-
-%fieldAccess_4¼
-¹
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÂ
- Â(<
-%fieldAccess_5"__id*!*
-	
-%expr_2"
-ACCESS_TIMESTAMPÐ
-Í
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÂ
- Â(<	
-%void_2"__mapSet*
-
-	%object_0Object*
-
-%fieldAccess_5*
-
-	%concat_0±
-®
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÃ
- Ã(#
-%fieldAccess_6"__id**
-	
-%expr_3"
-COUNTÇ
-Ä
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÃ
- Ã(#	
-%void_3"__mapSet*
-
-	%object_0Object*
-
-%fieldAccess_6*2»
-¸
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÄ
- Ä(;
-%fieldAccess_7"__id* *
-	
-%expr_4"
-EVENT_TIMESTAMPÐ
-Í
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÄ
- Ä(;	
-%void_4"__mapSet*
-
-	%object_0Object*
-
-%fieldAccess_7*
-
-	%concat_1³
-°
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÅ
- Å((
-%fieldAccess_8"__id**
-	
-%expr_5"	
-ENGAGEDÇ
-Ä
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÅ
- Å((	
-%void_5"__mapSet*
-
-	%object_0Object*
-
-%fieldAccess_8*2¾
-»
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.js¿ ¿(
-
-%sc-A_13536_0_0"	
-session"__id*
-
-	%object_0ObjectY
-W
-
-__unknown_file (
-%sc-A_13520_env_3"__id* *
-
-%env"
-%scope-A_13520_envX
-V
-
-__unknown_file (	
-%expr_6"__id*)*'
-
-%sc-A_13520_env_3"
-sessionManagerU
-S
-
-__unknown_file (
-%sc-A_13536_0_1"__id**
-
-%env"
-%scope-A_13536_0K
-I
-
-__unknown_file (	
-%expr_7"__id**
-	
-%expr_6"
-updateEventç"ä
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÈ È((
-
-%methRes_0*
-	
-%expr_6"
-updateEvent2
-	
-%expr_62
-
-%env2#*!
-
-%sc-A_13536_0_1"
-
-vendorTypeY
-W
-
-__unknown_file (
-%sc-A_13520_env_4"__id* *
-
-%env"
-%scope-A_13520_envO
-M
-
-__unknown_file (	
-%expr_8"__id* *
-
-%sc-A_13520_env_4"
-clockD
-B
-
-__unknown_file (	
-%expr_9"__id**
-	
-%expr_8"
-tickÁ"¾
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÉ É(
-
-%methRes_1*
-	
-%expr_8"
-tick2
-	
-%expr_82
-
-%env22Y
-W
-
-__unknown_file (
-%sc-A_13520_env_5"__id* *
-
-%env"
-%scope-A_13520_envX
-V
-
-__unknown_file (
-
-%expr_10"__id*(*&
-
-%sc-A_13520_env_5"
-storageSetSpyN
-L
-
-__unknown_file (
-
-%expr_11"__id**
-
-
-%expr_10"
-resetHistoryÅ"Â
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÊ Ê("
-
-%methRes_2*
-
-
-%expr_10"
-resetHistory2
-
-
-%expr_102
-
-%envY
-W
-
-__unknown_file (
-%sc-A_13520_env_6"__id* *
-
-%env"
-%scope-A_13520_envY
-W
-
-__unknown_file (
-
-%expr_12"__id*)*'
-
-%sc-A_13520_env_6"
-sessionManagerU
-S
-
-__unknown_file (
-%sc-A_13536_0_2"__id**
-
-%env"
-%scope-A_13536_0M
-K
-
-__unknown_file (
-
-%expr_13"__id**
-
-
-%expr_12"
-updateEventé"æ
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsË Ë((
-
-%methRes_3*
-
-
-%expr_12"
-updateEvent2
-
-
-%expr_122
-
-%env2#*!
-
-%sc-A_13536_0_2"
-
-vendorTypeO
-M
-
-__unknown_file (
-%sc-P_1260_6"__id**
-
-%env"
-%scope-P_1260Y
-W
-
-__unknown_file (
-%sc-A_13520_env_7"__id* *
-
-%env"
-%scope-A_13520_envO
-M
-
-__unknown_file (
-%sc-P_1260_7"__id**
-
-%env"
-%scope-P_1260ì"é
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÍ Í(
-
-%funcRes_0*
-
-%sc-P_1260_7"
-expect2
-	
-%global2
-
-%env2(*&
-
-%sc-A_13520_env_7"
-storageSetSpyF
-D
-
-__unknown_file (
-
-%expr_14"__id**
-
-
-%funcRes_0"
-toD
-B
-
-__unknown_file (
-
-%expr_15"__id**
-
-
-%expr_14"
-beO
-M
-
-__unknown_file (
-%sc-P_1260_8"__id**
-
-%env"
-%scope-P_1260Y
-W
-
-__unknown_file (
-%sc-A_13520_env_8"__id* *
-
-%env"
-%scope-A_13520_envO
-M
-
-__unknown_file (
-%sc-P_1260_9"__id**
-
-%env"
-%scope-P_1260ì"é
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÎ Î(
-
-%funcRes_1*
-
-%sc-P_1260_9"
-expect2
-	
-%global2
-
-%env2(*&
-
-%sc-A_13520_env_8"
-storageSetSpyF
-D
-
-__unknown_file (
-
-%expr_16"__id**
-
-
-%funcRes_1"
-toD
-B
-
-__unknown_file (
-
-%expr_17"__id**
-
-
-%expr_16"
-beU
-S
-
-__unknown_file (
-%sc-A_13536_0_3"__id**
-
-%env"
-%scope-A_13536_0¾
-»
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÏ
- Ï(%
-%fieldAccess_9"__id*#*!
-
-%sc-A_13536_0_3"
-
-vendorType¾
-»
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÏ
- Ï(%
-	%concat_2"__concat*
-amp-session:*
-
-%fieldAccess_9U
-S
-
-__unknown_file (
-%sc-A_13536_0_4"__id**
-
-%env"
-%scope-A_13536_0L
-J
-
-__unknown_file (
-
-%expr_18"__id**
-
-
-%expr_17"
-
-calledWithô"ñ
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÎ$ Î(.
-
-%methRes_4*
-
-
-%expr_17"
-
-calledWith2
-
-
-%expr_172
-
-%env2
-
-	%concat_22 *
-
-%sc-A_13536_0_4"	
-sessionP
-N
-
-__unknown_file (
-%sc-P_1260_10"__id**
-
-%env"
-%scope-P_1260Y
-W
-
-__unknown_file (
-%sc-A_13520_env_9"__id* *
-
-%env"
-%scope-A_13520_envY
-W
-
-__unknown_file (
-
-%expr_19"__id*)*'
-
-%sc-A_13520_env_9"
-sessionManagerU
-S
-
-__unknown_file (
-%sc-A_13536_0_5"__id**
-
-%env"
-%scope-A_13536_0K
-I
-
-__unknown_file (
-
-%expr_20"__id**
-
-
-%expr_19"
-	sessions_¿
-¼
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÓ Ó(3
-%fieldAccess_10"__id*#*!
-
-%sc-A_13536_0_5"
-
-vendorType¸
-µ
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÓ Ó(3
-%var_0"__mapGet*
-
-
-%expr_20*
-
-%fieldAccess_10P
-N
-
-__unknown_file (
-%sc-P_1260_11"__id**
-
-%env"
-%scope-P_1260Ï"Ì
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÓ Ó(
-
-%funcRes_2*
-
-%sc-P_1260_11"
-expect2
-	
-%global2
-
-%env2
-
-
-%var_0F
-D
-
-__unknown_file (
-
-%expr_21"__id**
-
-
-%funcRes_2"
-toF
-D
-
-__unknown_file (
-
-%expr_22"__id**
-
-
-%expr_21"
-deepU
-S
-
-__unknown_file (
-%sc-A_13536_0_6"__id**
-
-%env"
-%scope-A_13536_0H
-F
-
-__unknown_file (
-
-%expr_23"__id**
-
-
-%expr_22"
-equalsá"Þ
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÓ= Ó(C
-
-%methRes_5*
-
-
-%expr_22"
-equals2
-
-
-%expr_222
-
-%env2 *
-
-%sc-A_13536_0_6"	
-sessionP
-N
-
-__unknown_file (
-%sc-P_1260_12"__id**
-
-%env"
-%scope-P_1260Z
-X
-
-__unknown_file (
-%sc-A_13520_env_10"__id* *
-
-%env"
-%scope-A_13520_envZ
-X
-
-__unknown_file (
-
-%expr_24"__id***(
-
-%sc-A_13520_env_10"
-sessionManagerU
-S
-
-__unknown_file (
-%sc-A_13536_0_7"__id**
-
-%env"
-%scope-A_13536_0E
-C
-
-__unknown_file (
-
-%expr_25"__id**
-
-
-%expr_24"
-getá"Þ
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÔ$ Ô('
-
-%methRes_6*
-
-
-%expr_24"
-get2
-
-
-%expr_242
-
-%env2#*!
-
-%sc-A_13536_0_7"
-
-vendorTypeP
-N
-
-__unknown_file (
-%sc-P_1260_13"__id**
-
-%env"
-%scope-P_1260Ó"Ð
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÔ Ô(
-
-%funcRes_3*
-
-%sc-P_1260_13"
-expect2
-	
-%global2
-
-%env2
-
-
-%methRes_6F
-D
-
-__unknown_file (
-
-%expr_26"__id**
-
-
-%funcRes_3"
-toF
-D
-
-__unknown_file (
-
-%expr_27"__id**
-
-
-%expr_26"
-deepU
-S
-
-__unknown_file (
-%sc-A_13536_0_8"__id**
-
-%env"
-%scope-A_13536_0H
-F
-
-__unknown_file (
-
-%expr_28"__id**
-
-
-%expr_27"
-equalsá"Þ
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÔ= Ô(C
-
-%methRes_7*
-
-
-%expr_27"
-equals2
-
-
-%expr_272
-
-%env2 *
-
-%sc-A_13536_0_8"	
-sessionZ
-X
-
-__unknown_file (
-%sc-A_13520_env_11"__id* *
-
-%env"
-%scope-A_13520_envY
-W
-
-__unknown_file (
-
-%expr_29"__id*)*'
-
-%sc-A_13520_env_11"
-storageSetSpyN
-L
-
-__unknown_file (
-
-%expr_30"__id**
-
-
-%expr_29"
-resetHistoryÅ"Â
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÖ Ö("
-
-%methRes_8*
-
-
-%expr_29"
-resetHistory2
-
-
-%expr_292
-
-%envZ
-X
-
-__unknown_file (
-%sc-A_13520_env_12"__id* *
-
-%env"
-%scope-A_13520_envZ
-X
-
-__unknown_file (
-
-%expr_31"__id***(
-
-%sc-A_13520_env_12"
-sessionManagerU
-S
-
-__unknown_file (
-%sc-A_13536_0_9"__id**
-
-%env"
-%scope-A_13536_0M
-K
-
-__unknown_file (
-
-%expr_32"__id**
-
-
-%expr_31"
-updateEventé"æ
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.js× ×((
-
-%methRes_9*
-
-
-%expr_31"
-updateEvent2
-
-
-%expr_312
-
-%env2#*!
-
-%sc-A_13536_0_9"
-
-vendorTypeP
-N
-
-__unknown_file (
-%sc-P_1260_14"__id**
-
-%env"
-%scope-P_1260Z
-X
-
-__unknown_file (
-%sc-A_13520_env_13"__id* *
-
-%env"
-%scope-A_13520_envP
-N
-
-__unknown_file (
-%sc-P_1260_15"__id**
-
-%env"
-%scope-P_1260î"ë
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÙ Ù(
-
-%funcRes_4*
-
-%sc-P_1260_15"
-expect2
-	
-%global2
-
-%env2)*'
-
-%sc-A_13520_env_13"
-storageSetSpyF
-D
-
-__unknown_file (
-
-%expr_33"__id**
-
-
-%funcRes_4"
-toD
-B
-
-__unknown_file (
-
-%expr_34"__id**
-
-
-%expr_33"
-beP
-N
-
-__unknown_file (
-%sc-P_1260_16"__id**
-
-%env"
-%scope-P_1260Z
-X
-
-__unknown_file (
-%sc-A_13520_env_14"__id* *
-
-%env"
-%scope-A_13520_envP
-N
-
-__unknown_file (
-%sc-P_1260_17"__id**
-
-%env"
-%scope-P_1260î"ë
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÚ Ú(
-
-%funcRes_5*
-
-%sc-P_1260_17"
-expect2
-	
-%global2
-
-%env2)*'
-
-%sc-A_13520_env_14"
-storageSetSpyF
-D
-
-__unknown_file (
-
-%expr_35"__id**
-
-
-%funcRes_5"
-toD
-B
-
-__unknown_file (
-
-%expr_36"__id**
-
-
-%expr_35"
-beV
-T
-
-__unknown_file (
-%sc-A_13536_0_10"__id**
-
-%env"
-%scope-A_13536_0À
-½
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÛ
- Û(%
-%fieldAccess_11"__id*$*"
-
-%sc-A_13536_0_10"
-
-vendorType¿
-¼
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÛ
- Û(%
-	%concat_3"__concat*
-amp-session:*
-
-%fieldAccess_11V
-T
-
-__unknown_file (
-%sc-A_13536_0_11"__id**
-
-%env"
-%scope-A_13536_0L
-J
-
-__unknown_file (
-
-%expr_37"__id**
-
-
-%expr_36"
-
-calledWithö"ó
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsÚ$ Ú(.
-%methRes_10*
-
-
-%expr_36"
-
-calledWith2
-
-
-%expr_362
-
-%env2
-
-	%concat_32!*
-
-%sc-A_13536_0_11"	
-sessionP
-N
-
-__unknown_file (
-%sc-P_1260_18"__id**
-
-%env"
-%scope-P_1260Z
-X
-
-__unknown_file (
-%sc-A_13520_env_15"__id* *
-
-%env"
-%scope-A_13520_envZ
-X
-
-__unknown_file (
-
-%expr_38"__id***(
-
-%sc-A_13520_env_15"
-sessionManagerV
-T
-
-__unknown_file (
-%sc-A_13536_0_12"__id**
-
-%env"
-%scope-A_13536_0K
-I
-
-__unknown_file (
-
-%expr_39"__id**
-
-
-%expr_38"
-	sessions_À
-½
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsß ß(3
-%fieldAccess_12"__id*$*"
-
-%sc-A_13536_0_12"
-
-vendorType¸
-µ
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsß ß(3
-%var_1"__mapGet*
-
-
-%expr_39*
-
-%fieldAccess_12P
-N
-
-__unknown_file (
-%sc-P_1260_19"__id**
-
-%env"
-%scope-P_1260Ï"Ì
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsß ß(
-
-%funcRes_6*
-
-%sc-P_1260_19"
-expect2
-	
-%global2
-
-%env2
-
-
-%var_1F
-D
-
-__unknown_file (
-
-%expr_40"__id**
-
-
-%funcRes_6"
-toF
-D
-
-__unknown_file (
-
-%expr_41"__id**
-
-
-%expr_40"
-deepV
-T
-
-__unknown_file (
-%sc-A_13536_0_13"__id**
-
-%env"
-%scope-A_13536_0H
-F
-
-__unknown_file (
-
-%expr_42"__id**
-
-
-%expr_41"
-equalsã"à
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsß= ß(C
-%methRes_11*
-
-
-%expr_41"
-equals2
-
-
-%expr_412
-
-%env2!*
-
-%sc-A_13536_0_13"	
-sessionP
-N
-
-__unknown_file (
-%sc-P_1260_20"__id**
-
-%env"
-%scope-P_1260Z
-X
-
-__unknown_file (
-%sc-A_13520_env_16"__id* *
-
-%env"
-%scope-A_13520_envZ
-X
-
-__unknown_file (
-
-%expr_43"__id***(
-
-%sc-A_13520_env_16"
-sessionManagerV
-T
-
-__unknown_file (
-%sc-A_13536_0_14"__id**
-
-%env"
-%scope-A_13536_0E
-C
-
-__unknown_file (
-
-%expr_44"__id**
-
-
-%expr_43"
-getã"à
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsà$ à('
-%methRes_12*
-
-
-%expr_43"
-get2
-
-
-%expr_432
-
-%env2$*"
-
-%sc-A_13536_0_14"
-
-vendorTypeP
-N
-
-__unknown_file (
-%sc-P_1260_21"__id**
-
-%env"
-%scope-P_1260Ô"Ñ
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsà à(
-
-%funcRes_7*
-
-%sc-P_1260_21"
-expect2
-	
-%global2
-
-%env2
-
-%methRes_12F
-D
-
-__unknown_file (
-
-%expr_45"__id**
-
-
-%funcRes_7"
-toF
-D
-
-__unknown_file (
-
-%expr_46"__id**
-
-
-%expr_45"
-deepV
-T
-
-__unknown_file (
-%sc-A_13536_0_15"__id**
-
-%env"
-%scope-A_13536_0H
-F
-
-__unknown_file (
-
-%expr_47"__id**
-
-
-%expr_46"
-equalsã"à
-|
-p/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-session-manager.jsà= à(C
-%methRes_13*
-
-
-%expr_46"
-equals2
-
-
-%expr_462
-
-%env2!*
-
-%sc-A_13536_0_15"	
-session"
-
-__unknown_file ( :
-%envB 

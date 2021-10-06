@@ -1,785 +1,0 @@
-
-3p_yotpo_js_274_8_FD_2054_yotpoN
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.jsí í("s17_1*•
-s17_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-global<:
-
-__unknown_file (
-%scope-FD_2054_yotpo"Object^
-\
-
-__unknown_file ( 
-
-%env"
-%scope-FD_2054_yotpo"__id*
-
-%scope-FD_2054_yotpoÄ
-~
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.jsì	 ì(
-
-widgetType"__id**
-
-data"
-
-widgetTypeé
-ã
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.jsï ï( 
-%binOpRes_0"
-__js_equal*
-
-
-widgetType*
-
-BottomLine*
-s17_2
-s17_3*˛
-s17_2
-<synthetic> (O
-M
-
-__unknown_file (
-%sc-P_1185_0"__id**
-
-%env"
-%scope-P_1185O
-M
-
-__unknown_file (
-%sc-P_1185_1"__id**
-
-%env"
-%scope-P_1185∫"∑
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.jsñ ñ(&
-
-%funcRes_0**
-
-%sc-P_1185_1"
-getBottomLineContainer2
-	
-%global2
-
-%env2
-
-
-global2
-
-datau
-s
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.jsñ ñ(
-	container"__id*
-
-
-%funcRes_0*
-s17_31*ƒ
-s17_3
-<synthetic> (ì
-ê
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.jsó ó(,
-%binOpRes_1"
-__js_equal*
-
-
-widgetType*
-ReviewsCarousel*
-s17_4
-s17_5*É
-s17_4
-<synthetic> (O
-M
-
-__unknown_file (
-%sc-P_1185_2"__id**
-
-%env"
-%scope-P_1185O
-M
-
-__unknown_file (
-%sc-P_1185_3"__id**
-
-%env"
-%scope-P_1185ø"º
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.jsò ò(+
-
-%funcRes_1*/
-
-%sc-P_1185_3"
-getReviewsCarouselContainer2
-	
-%global2
-
-%env2
-
-
-global2
-
-datau
-s
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.jsò ò(
-	container"__id*
-
-
-%funcRes_1*
-s17_30*ƒ
-s17_5
-<synthetic> (ì
-ê
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.jsô ô(,
-%binOpRes_2"
-__js_equal*
-
-
-widgetType*
-PicturesGallery*
-s17_6
-s17_7*˛
-s17_6
-<synthetic> (O
-M
-
-__unknown_file (
-%sc-P_1185_4"__id**
-
-%env"
-%scope-P_1185O
-M
-
-__unknown_file (
-%sc-P_1185_5"__id**
-
-%env"
-%scope-P_1185∫"∑
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.jsö ö(&
-
-%funcRes_2**
-
-%sc-P_1185_5"
-getUgcGalleryContainer2
-	
-%global2
-
-%env2
-
-
-global2
-
-datau
-s
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.jsö ö(
-	container"__id*
-
-
-%funcRes_2*
-s17_29*∫
-s17_7
-<synthetic> (â
-Ü
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.jsõ õ("
-%binOpRes_3"
-__js_equal*
-
-
-widgetType*	
-Badge*
-s17_8
-s17_9*Ò
-s17_8
-<synthetic> (O
-M
-
-__unknown_file (
-%sc-P_1185_6"__id**
-
-%env"
-%scope-P_1185O
-M
-
-__unknown_file (
-%sc-P_1185_7"__id**
-
-%env"
-%scope-P_1185≠"™
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.jsú ú(#
-
-%funcRes_3*'
-
-%sc-P_1185_7"
-getBadgetsContainer2
-	
-%global2
-
-%env2
-
-
-globalu
-s
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.jsú ú(
-	container"__id*
-
-
-%funcRes_3*
-s17_28*¡
-s17_9
-<synthetic> (é
-ã
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.jsù ù('
-%binOpRes_4"
-__js_equal*
-
-
-widgetType*
-
-ReviewsTab*
-s17_10
-s17_11*ı
-s17_10
-<synthetic> (O
-M
-
-__unknown_file (
-%sc-P_1185_8"__id**
-
-%env"
-%scope-P_1185O
-M
-
-__unknown_file (
-%sc-P_1185_9"__id**
-
-%env"
-%scope-P_1185∞"≠
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.jsû û(&
-
-%funcRes_4**
-
-%sc-P_1185_9"
-getReviewsTabContainer2
-	
-%global2
-
-%env2
-
-
-globalu
-s
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.jsû û(
-	container"__id*
-
-
-%funcRes_4*
-s17_27*∆
-s17_11
-<synthetic> (í
-è
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.jsü ü(+
-%binOpRes_5"
-__js_equal*
-
-
-widgetType*
-ProductGallery*
-s17_12
-s17_13*Ü
-s17_12
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1185_10"__id**
-
-%env"
-%scope-P_1185P
-N
-
-__unknown_file (
-%sc-P_1185_11"__id**
-
-%env"
-%scope-P_1185ø"º
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js† †(*
-
-%funcRes_5*/
-
-%sc-P_1185_11"
-getProductGalleryContainer2
-	
-%global2
-
-%env2
-
-
-global2
-
-datau
-s
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js† †(
-	container"__id*
-
-
-%funcRes_5*
-s17_26*»
-s17_13
-<synthetic> (î
-ë
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js° °(-
-%binOpRes_6"
-__js_equal*
-
-
-widgetType*
-VisualUgcGallery*
-s17_14
-s17_15*˛
-s17_14
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1185_12"__id**
-
-%env"
-%scope-P_1185P
-N
-
-__unknown_file (
-%sc-P_1185_13"__id**
-
-%env"
-%scope-P_1185∑"¥
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js¢ ¢(,
-
-%funcRes_6*1
-
-%sc-P_1185_13"
-getVisualUgcGalleryContainer2
-	
-%global2
-
-%env2
-
-
-globalu
-s
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js¢ ¢(
-	container"__id*
-
-
-%funcRes_6*
-s17_25*∆
-s17_15
-<synthetic> (í
-è
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js£ £(+
-%binOpRes_7"
-__js_equal*
-
-
-widgetType*
-EmbeddedWidget*
-s17_16
-s17_17*Ü
-s17_16
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1185_14"__id**
-
-%env"
-%scope-P_1185P
-N
-
-__unknown_file (
-%sc-P_1185_15"__id**
-
-%env"
-%scope-P_1185ø"º
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js§ §(*
-
-%funcRes_7*/
-
-%sc-P_1185_15"
-getEmbeddedWidgetContainer2
-	
-%global2
-
-%env2
-
-
-global2
-
-datau
-s
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js§ §(
-	container"__id*
-
-
-%funcRes_7*
-s17_24*∆
-s17_17
-<synthetic>	 	(í
-è
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js• •(+
-%binOpRes_8"
-__js_equal*
-
-
-widgetType*
-PhotosCarousel*
-s17_18
-s17_19*Ü
-s17_18
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1185_16"__id**
-
-%env"
-%scope-P_1185P
-N
-
-__unknown_file (
-%sc-P_1185_17"__id**
-
-%env"
-%scope-P_1185ø"º
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js¶ ¶(*
-
-%funcRes_8*/
-
-%sc-P_1185_17"
-getPhotosCarouselContainer2
-	
-%global2
-
-%env2
-
-
-global2
-
-datau
-s
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js¶ ¶(
-	container"__id*
-
-
-%funcRes_8*
-s17_23*»
-s17_19
-<synthetic>
- 
-(î
-ë
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.jsß ß(-
-%binOpRes_9"
-__js_equal*
-
-
-widgetType*
-PromotedProducts*
-s17_20
-s17_21*à
-s17_20
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1185_18"__id**
-
-%env"
-%scope-P_1185P
-N
-
-__unknown_file (
-%sc-P_1185_19"__id**
-
-%env"
-%scope-P_1185¡"æ
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js® ®(,
-
-%funcRes_9*1
-
-%sc-P_1185_19"
-getPromotedProductsContainer2
-	
-%global2
-
-%env2
-
-
-global2
-
-datau
-s
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js® ®(
-	container"__id*
-
-
-%funcRes_9*
-s17_22*Ñ
-s17_21
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1185_20"__id**
-
-%env"
-%scope-P_1185P
-N
-
-__unknown_file (
-%sc-P_1185_21"__id**
-
-%env"
-%scope-P_1185º"π
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js™ ™(&
-%funcRes_10*+
-
-%sc-P_1185_21"
-getMainWidgetContainer2
-	
-%global2
-
-%env2
-
-
-global2
-
-datav
-t
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js™ ™(
-	container"__id*
-
-%funcRes_10*
-s17_22*)
-s17_22
-<synthetic> (*
-s17_23*)
-s17_23
-<synthetic> (*
-s17_24*)
-s17_24
-<synthetic> (*
-s17_25*)
-s17_25
-<synthetic> (*
-s17_26*)
-s17_26
-<synthetic> (*
-s17_27*)
-s17_27
-<synthetic> (*
-s17_28*)
-s17_28
-<synthetic> (*
-s17_29*)
-s17_29
-<synthetic> (*
-s17_30*)
-s17_30
-<synthetic> (*
-s17_31*û
-s17_31
-<synthetic> (G
-E
-
-__unknown_file (	
-%expr_0"__id**
-
-global"
-
-documentN
-L
-
-__unknown_file (	
-%expr_1"__id**
-	
-%expr_0"
-getElementByIdû"õ
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js≠ ≠( 
-
-%methRes_0*
-	
-%expr_0"
-getElementById2
-	
-%expr_02
-
-%env2
-cN
-L
-
-__unknown_file (	
-%expr_2"__id**
-
-
-%methRes_0"
-appendChild©"¶
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js≠& ≠(1
-
-%methRes_1*
-
-
-%methRes_0"
-appendChild2
-
-
-%methRes_02
-
-%env2
-
-	containerÑ
-Å
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.jsØ Ø(%
-
-%scope-FD_2054_yotpo"
-	cssLoaded"__id*2 Ü
-É
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js∞ ∞('
-
-%scope-FD_2054_yotpo"
-batchLoaded"__id*2 Ä
-~
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js≤ ≤(/
-%fieldAccess_0"__id**
-
-data"
-appKeyü
-ú
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js≤ ≤(/
-	%concat_0"__concat*
-https://staticw2.yotpo.com/*
-
-%fieldAccess_0â
-Ü
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js≤ ≤(>
-	%concat_1"__concat*
-
-	%concat_0*
-
-/widget.jsw
-u
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js± ±(
-scriptSource"__id*
-
-	%concat_1P
-N
-
-__unknown_file (
-%sc-P_1185_22"__id**
-
-%env"
-%scope-P_1185a
-_
-
-__unknown_file (	
-%func_0"__declareFunction*%#
-!3p_yotpo_js_311_5_A_12805_yot_eve^
-\
-
-__unknown_file ( 
-
-%env"
-%scope-FD_2054_yotpo"__id*
-
-%scope-FD_2054_yotpofd
-
-__unknown_file (/
-%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_0"
-__setProto*
-	
-%func_0*1
-/
-%functionPrototype_0%SonarFunctionPrototypeI
-G
-
-__unknown_file (!
-
-%env"
-_this_1_FD_2054_yotpo"__id* P
-N
-
-__unknown_file (
-%sc-P_1185_23"__id**
-
-%env"
-%scope-P_1185›"⁄
-N
-B/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/3p/yotpo.js≥ ≥(
-%funcRes_11*'
-
-%sc-P_1185_23"
-getContainerScript2
-	
-%global2
-
-%env2
-
-
-global2
-
-scriptSource2
-
-
-widgetType2
-	
-%func_0"
-
-__unknown_file ( :
-%env:
-global:
-dataB 

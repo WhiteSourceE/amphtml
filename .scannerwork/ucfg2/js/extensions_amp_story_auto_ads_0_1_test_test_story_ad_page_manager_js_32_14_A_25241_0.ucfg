@@ -1,524 +1,0 @@
-
-Textensions_amp_story_auto_ads_0_1_test_test_story_ad_page_manager_js_32_14_A_25241_0…
-{/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story-auto-ads/0.1/test/test-story-ad-page-manager.js   ("s3_1*è>
-s3_1
-<synthetic> (Y
-W
-
-__unknown_file (
-%sc-A_25240_env_0"__id* *
-
-%env"
-%scope-A_25240_envY
-W
-
-__unknown_file (
-%sc-A_25240_env_1"__id* *
-
-%env"
-%scope-A_25240_envM
-K
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-A_25240_env_1"
-envC
-A
-
-__unknown_file (	
-%expr_1"__id**
-	
-%expr_0"
-winÊ
-Ç
-…
-{/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story-auto-ads/0.1/test/test-story-ad-page-manager.js! !(
-
-%sc-A_25240_env_0"
-doc"__id**
-	
-%expr_1"
-
-documentY
-W
-
-__unknown_file (
-%sc-A_25240_env_2"__id* *
-
-%env"
-%scope-A_25240_envM
-K
-
-__unknown_file (	
-%expr_2"__id**
-
-%sc-A_25240_env_2"
-docM
-K
-
-__unknown_file (	
-%expr_3"__id**
-	
-%expr_2"
-createElementÝ"Ú
-…
-{/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story-auto-ads/0.1/test/test-story-ad-page-manager.js" "(*
-
-%methRes_0*
-	
-%expr_2"
-createElement2
-	
-%expr_22
-
-%env2
-	amp-story±
-®
-…
-{/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story-auto-ads/0.1/test/test-story-ad-page-manager.js"
- "(
-storyElement"__id*
-
-
-%methRes_0Y
-W
-
-__unknown_file (
-%sc-A_25240_env_3"__id* *
-
-%env"
-%scope-A_25240_envM
-K
-
-__unknown_file (	
-%expr_4"__id**
-
-%sc-A_25240_env_3"
-docD
-B
-
-__unknown_file (	
-%expr_5"__id**
-	
-%expr_4"
-bodyK
-I
-
-__unknown_file (	
-%expr_6"__id**
-	
-%expr_5"
-appendChildÞ"Û
-…
-{/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story-auto-ads/0.1/test/test-story-ad-page-manager.js# #(
-
-%methRes_1*
-	
-%expr_5"
-appendChild2
-	
-%expr_52
-
-%env2
-
-storyElementY
-W
-
-__unknown_file (
-%sc-A_25240_env_4"__id* *
-
-%env"
-%scope-A_25240_envO
-M
-
-__unknown_file (
-%sc-P_2330_0"__id**
-
-%env"
-%scope-P_2330¨¥
-…
-{/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story-auto-ads/0.1/test/test-story-ad-page-manager.js$ $()
-	%object_0Object"ObjectM
-K
-
-__unknown_file (	
-%expr_7"__id**
-
-%sc-P_2330_0"
-
-AmpStoryê"ç
-…
-{/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story-auto-ads/0.1/test/test-story-ad-page-manager.js$ $()
-
-%methRes_2*
-
-%sc-P_2330_0"
-
-AmpStory2
-
-	%object_0Object2
-
-%env2
-
-storyElementP
-N
-
-__unknown_file (
-%fieldAccess_0"__id**
-	
-%expr_7"
-	prototype^
-\
-
-__unknown_file (	
-%void_0"
-__setProto*
-
-	%object_0Object*
-
-%fieldAccess_0Ë
-È
-…
-{/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story-auto-ads/0.1/test/test-story-ad-page-manager.js$ $(!
-
-%sc-A_25240_env_4"
-
-ampStory"__id*
-
-	%object_0ObjectY
-W
-
-__unknown_file (
-%sc-A_25240_env_5"__id* *
-
-%env"
-%scope-A_25240_envM
-K
-
-__unknown_file (	
-%expr_8"__id**
-
-%sc-A_25240_env_5"
-envG
-E
-
-__unknown_file (	
-%expr_9"__id**
-	
-%expr_8"	
-sandboxY
-W
-
-__unknown_file (
-%sc-A_25240_env_6"__id* *
-
-%env"
-%scope-A_25240_envE
-C
-
-__unknown_file (
-
-%expr_10"__id**
-	
-%expr_9"
-stubù"ö
-…
-{/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story-auto-ads/0.1/test/test-story-ad-page-manager.js% %(
-
-%methRes_3*
-	
-%expr_9"
-stub2
-	
-%expr_92
-
-%env2#*!
-
-%sc-A_25240_env_6"
-
-ampStory2
-	getAmpDocY
-W
-
-__unknown_file (
-%sc-A_25240_env_7"__id* *
-
-%env"
-%scope-A_25240_envN
-L
-
-__unknown_file (
-
-%expr_11"__id**
-
-%sc-A_25240_env_7"
-envK
-I
-
-__unknown_file (
-
-%expr_12"__id**
-
-
-%methRes_3"	
-returnsè"å
-…
-{/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story-auto-ads/0.1/test/test-story-ad-page-manager.js%, %(3
-
-%methRes_4*
-
-
-%methRes_3"	
-returns2
-
-
-%methRes_32
-
-%env2*
-
-
-%expr_11"
-ampdocY
-W
-
-__unknown_file (
-%sc-A_25240_env_8"__id* *
-
-%env"
-%scope-A_25240_envN
-L
-
-__unknown_file (
-
-%expr_13"__id**
-
-%sc-A_25240_env_8"
-docO
-M
-
-__unknown_file (
-
-%expr_14"__id**
-
-
-%expr_13"
-createElementä"á
-…
-{/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story-auto-ads/0.1/test/test-story-ad-page-manager.js& &(+
-
-%methRes_5*
-
-
-%expr_13"
-createElement2
-
-
-%expr_132
-
-%env2
-amp-story-page²
-¯
-…
-{/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story-auto-ads/0.1/test/test-story-ad-page-manager.js&
- &(
-storyAdPageEl"__id*
-
-
-%methRes_5Y
-W
-
-__unknown_file (
-%sc-A_25240_env_9"__id* *
-
-%env"
-%scope-A_25240_env•
-’
-
-__unknown_file (	
-%func_0"__declareFunction*XV
-Textensions_amp_story_auto_ads_0_1_test_test_story_ad_page_manager_js_39_28_A_25242_0fd
-
-__unknown_file (/
-%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_1"
-__setProto*
-	
-%func_0*1
-/
-%functionPrototype_0%SonarFunctionPrototype¨¥
-…
-{/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story-auto-ads/0.1/test/test-story-ad-page-manager.js' '(&
-	%object_1Object"Object½
-º
-…
-{/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story-auto-ads/0.1/test/test-story-ad-page-manager.js' '(%
-
-	%object_1Object"
-isAd"__id*
-	
-%func_0Ð
-Í
-…
-{/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story-auto-ads/0.1/test/test-story-ad-page-manager.js' '(&
-
-%sc-A_25240_env_9"
-mockStoryPage"__id*
-
-	%object_1Object•
-’
-
-__unknown_file (	
-%func_1"__declareFunction*XV
-Textensions_amp_story_auto_ads_0_1_test_test_story_ad_page_manager_js_40_29_A_25243_0fd
-
-__unknown_file (/
-%functionPrototype_1%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_2"
-__setProto*
-	
-%func_1*1
-/
-%functionPrototype_1%SonarFunctionPrototype¼
-¹
-…
-{/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story-auto-ads/0.1/test/test-story-ad-page-manager.js( ((
-
-storyAdPageEl"	
-getImpl"__id*
-	
-%func_1Z
-X
-
-__unknown_file (
-%sc-A_25240_env_10"__id* *
-
-%env"
-%scope-A_25240_envZ
-X
-
-__unknown_file (
-%sc-A_25240_env_11"__id* *
-
-%env"
-%scope-A_25240_envO
-M
-
-__unknown_file (
-
-%expr_15"__id**
-
-%sc-A_25240_env_11"
-envI
-G
-
-__unknown_file (
-
-%expr_16"__id**
-
-
-%expr_15"	
-sandboxO
-M
-
-__unknown_file (
-%sc-P_2330_1"__id**
-
-%env"
-%scope-P_2330Q
-O
-
-__unknown_file (
-
-%expr_17"__id*!*
-
-%sc-P_2330_1"
-StoryAdPageF
-D
-
-__unknown_file (
-
-%expr_18"__id**
-
-
-%expr_16"
-stubï"ì
-…
-{/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story-auto-ads/0.1/test/test-story-ad-page-manager.js* *(
-
-%methRes_6*
-
-
-%expr_16"
-stub2
-
-
-%expr_162
-
-%env2*
-
-
-%expr_17"
-	prototype2	
-buildK
-I
-
-__unknown_file (
-
-%expr_19"__id**
-
-
-%methRes_6"	
-returnsá"Þ
-…
-{/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story-auto-ads/0.1/test/test-story-ad-page-manager.js+ +(
-
-%methRes_7*
-
-
-%methRes_6"	
-returns2
-
-
-%methRes_62
-
-%env2
-
-storyAdPageElÊ
-Ç
-…
-{/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story-auto-ads/0.1/test/test-story-ad-page-manager.js) )('
-
-%sc-A_25240_env_10"
-buildPageStub"__id*
-
-
-%methRes_7Z
-X
-
-__unknown_file (
-%sc-A_25240_env_12"__id* *
-
-%env"
-%scope-A_25240_env¨¥
-…
-{/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story-auto-ads/0.1/test/test-story-ad-page-manager.js, ,(
-	%object_2Object"ObjectÎ
-Ë
-…
-{/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story-auto-ads/0.1/test/test-story-ad-page-manager.js, ,($
-
-%sc-A_25240_env_12"
-
-mockConfig"__id*
-
-	%object_2Object"
-
-__unknown_file ( :
-%envB 

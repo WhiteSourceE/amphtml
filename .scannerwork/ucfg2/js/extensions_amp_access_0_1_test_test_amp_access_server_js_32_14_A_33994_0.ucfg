@@ -1,538 +1,0 @@
-
-Hextensions_amp_access_0_1_test_test_amp_access_server_js_32_14_A_33994_0y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-server.js   ("s3_1*þ?
-s3_1
-<synthetic> (Y
-W
-
-__unknown_file (
-%sc-A_33993_env_0"__id* *
-
-%env"
-%scope-A_33993_envY
-W
-
-__unknown_file (
-%sc-A_33993_env_1"__id* *
-
-%env"
-%scope-A_33993_envM
-K
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-A_33993_env_1"
-env¸
-µ
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-server.js! !(
-
-%sc-A_33993_env_0"
-win"__id**
-	
-%expr_0"
-winY
-W
-
-__unknown_file (
-%sc-A_33993_env_2"__id* *
-
-%env"
-%scope-A_33993_envY
-W
-
-__unknown_file (
-%sc-A_33993_env_3"__id* *
-
-%env"
-%scope-A_33993_envM
-K
-
-__unknown_file (	
-%expr_1"__id**
-
-%sc-A_33993_env_3"
-winÂ
-¿
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-server.js" "(!
-
-%sc-A_33993_env_2"
-
-document"__id**
-	
-%expr_1"
-
-documentY
-W
-
-__unknown_file (
-%sc-A_33993_env_4"__id* *
-
-%env"
-%scope-A_33993_envY
-W
-
-__unknown_file (
-%sc-A_33993_env_5"__id* *
-
-%env"
-%scope-A_33993_envM
-K
-
-__unknown_file (	
-%expr_2"__id**
-
-%sc-A_33993_env_5"
-env¾
-»
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-server.js# #(
-
-
-%sc-A_33993_env_4"
-ampdoc"__id**
-	
-%expr_2"
-ampdocY
-W
-
-__unknown_file (
-%sc-A_33993_env_6"__id* *
-
-%env"
-%scope-A_33993_envO
-M
-
-__unknown_file (
-%sc-P_3124_0"__id**
-
-%env"
-%scope-P_3124O
-M
-
-__unknown_file (	
-%expr_3"__id* *
-
-%sc-P_3124_0"
-
-fakeTimersY
-W
-
-__unknown_file (
-%sc-A_33993_env_7"__id* *
-
-%env"
-%scope-A_33993_envJ
-H
-
-__unknown_file (	
-%expr_4"__id**
-	
-%expr_3"
-
-withGlobalÞ"Û
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-server.js$ $(!
-
-%methRes_0*
-	
-%expr_3"
-
-withGlobal2
-	
-%expr_32
-
-%env2*
-
-%sc-A_33993_env_7"
-winJ
-H
-
-__unknown_file (	
-%expr_5"__id**
-
-
-%methRes_0"	
-installÁ"¾
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-server.js$' $(.
-
-%methRes_1*
-
-
-%methRes_0"	
-install2
-
-
-%methRes_02
-
-%env´
-±
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-server.js$ $(	
-
-%sc-A_33993_env_6"
-clock"__id*
-
-
-%methRes_1Y
-W
-
-__unknown_file (
-%sc-A_33993_env_8"__id* *
-
-%env"
-%scope-A_33993_env›˜
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-server.js& )(
-	%object_0Object"ObjectÒ
-Ï
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-server.js' '(9&
-
-	%object_0Object"
-authorization"__id*$"
- https://acme.com/a?rid=READER_IDÍ
-Ê
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-server.js( ((4!
-
-	%object_0Object"
-
-pingback"__id*$"
- https://acme.com/p?rid=READER_IDÁ
-¾
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-server.js& &($
-
-%sc-A_33993_env_8"
-validConfig"__id*
-
-	%object_0ObjectY
-W
-
-__unknown_file (
-%sc-A_33993_env_9"__id* *
-
-%env"
-%scope-A_33993_envZ
-X
-
-__unknown_file (
-%sc-A_33993_env_10"__id* *
-
-%env"
-%scope-A_33993_envS
-Q
-
-__unknown_file (	
-%expr_6"__id*$*"
-
-%sc-A_33993_env_10"
-
-documentM
-K
-
-__unknown_file (	
-%expr_7"__id**
-	
-%expr_6"
-createElementË"È
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-server.js+ +(!
-
-%methRes_2*
-	
-%expr_6"
-createElement2
-	
-%expr_62
-
-%env2
-meta³
-°
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-server.js+ +(
-
-%sc-A_33993_env_9"
-meta"__id*
-
-
-%methRes_2Z
-X
-
-__unknown_file (
-%sc-A_33993_env_11"__id* *
-
-%env"
-%scope-A_33993_envO
-M
-
-__unknown_file (	
-%expr_8"__id* *
-
-%sc-A_33993_env_11"
-metaL
-J
-
-__unknown_file (	
-%expr_9"__id**
-	
-%expr_8"
-setAttributeæ"ã
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-server.js,	 ,(
-
-%methRes_3*
-	
-%expr_8"
-setAttribute2
-	
-%expr_82
-
-%env2
-name2
-i-amphtml-access-stateZ
-X
-
-__unknown_file (
-%sc-A_33993_env_12"__id* *
-
-%env"
-%scope-A_33993_envP
-N
-
-__unknown_file (
-
-%expr_10"__id* *
-
-%sc-A_33993_env_12"
-metaN
-L
-
-__unknown_file (
-
-%expr_11"__id**
-
-
-%expr_10"
-setAttributeÛ"Ø
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-server.js-	 -(
-
-%methRes_4*
-
-
-%expr_10"
-setAttribute2
-
-
-%expr_102
-
-%env2	
-content2
-
-STATE1Z
-X
-
-__unknown_file (
-%sc-A_33993_env_13"__id* *
-
-%env"
-%scope-A_33993_envT
-R
-
-__unknown_file (
-
-%expr_12"__id*$*"
-
-%sc-A_33993_env_13"
-
-documentF
-D
-
-__unknown_file (
-
-%expr_13"__id**
-
-
-%expr_12"
-headZ
-X
-
-__unknown_file (
-%sc-A_33993_env_14"__id* *
-
-%env"
-%scope-A_33993_envM
-K
-
-__unknown_file (
-
-%expr_14"__id**
-
-
-%expr_13"
-appendChildã"à
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-server.js. .(
-
-%methRes_5*
-
-
-%expr_13"
-appendChild2
-
-
-%expr_132
-
-%env2 *
-
-%sc-A_33993_env_14"
-metaZ
-X
-
-__unknown_file (
-%sc-A_33993_env_15"__id* *
-
-%env"
-%scope-A_33993_env‰
-†
-
-__unknown_file (	
-%func_0"__declareFunction*LJ
-Hextensions_amp_access_0_1_test_test_amp_access_server_js_49_17_A_33995_0fd
-
-__unknown_file (/
-%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_0"
-__setProto*
-	
-%func_0*1
-/
-%functionPrototype_0%SonarFunctionPrototype‰
-†
-
-__unknown_file (	
-%func_1"__declareFunction*LJ
-Hextensions_amp_access_0_1_test_test_amp_access_server_js_50_23_A_33996_0fd
-
-__unknown_file (/
-%functionPrototype_1%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_1"
-__setProto*
-	
-%func_1*1
-/
-%functionPrototype_1%SonarFunctionPrototype›˜
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-server.js0 3(
-	%object_1Object"Object´
-±
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-server.js1 1(!
-
-	%object_1Object"
-
-buildUrl"__id*
-	
-%func_0º
-·
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-server.js2 2('
-
-	%object_1Object"
-collectUrlVars"__id*
-	
-%func_1¾
-»
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-server.js0 0(!
-
-%sc-A_33993_env_15"	
-context"__id*
-
-	%object_1ObjectZ
-X
-
-__unknown_file (
-%sc-A_33993_env_16"__id* *
-
-%env"
-%scope-A_33993_envZ
-X
-
-__unknown_file (
-%sc-A_33993_env_17"__id* *
-
-%env"
-%scope-A_33993_envO
-M
-
-__unknown_file (
-
-%expr_15"__id**
-
-%sc-A_33993_env_17"
-envI
-G
-
-__unknown_file (
-
-%expr_16"__id**
-
-
-%expr_15"	
-sandboxZ
-X
-
-__unknown_file (
-%sc-A_33993_env_18"__id* *
-
-%env"
-%scope-A_33993_envF
-D
-
-__unknown_file (
-
-%expr_17"__id**
-
-
-%expr_16"
-mockß"Ü
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-server.js4 4("
-
-%methRes_6*
-
-
-%expr_16"
-mock2
-
-
-%expr_162
-
-%env2#*!
-
-%sc-A_33993_env_18"	
-context»
-¸
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access/0.1/test/test-amp-access-server.js4 4(%
-
-%sc-A_33993_env_16"
-contextMock"__id*
-
-
-%methRes_6"
-
-__unknown_file ( :
-%envB 

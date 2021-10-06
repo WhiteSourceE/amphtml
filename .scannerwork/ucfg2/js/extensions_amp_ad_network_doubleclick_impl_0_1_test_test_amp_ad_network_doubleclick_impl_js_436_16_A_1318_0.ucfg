@@ -1,744 +1,0 @@
-
-kextensions_amp_ad_network_doubleclick_impl_0_1_test_test_amp_ad_network_doubleclick_impl_js_436_16_A_1318_0Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.js´ ´("s46_1*Ç]
-s46_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-globalW
-U
-
-__unknown_file (
-%sc-A_1291_env_0"__id**
-
-%env"
-%scope-A_1291_envL
-J
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-A_1291_env_0"
-docW
-U
-
-__unknown_file (
-%sc-A_1291_env_1"__id**
-
-%env"
-%scope-A_1291_envL
-J
-
-__unknown_file (	
-%expr_1"__id**
-
-%sc-A_1291_env_1"
-envÕ
-Ò
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.jsµ µ(
-	
-%expr_0"
-win"__id**
-	
-%expr_1"
-winW
-U
-
-__unknown_file (
-%sc-A_1291_env_2"__id**
-
-%env"
-%scope-A_1291_envM
-K
-
-__unknown_file (
-%sc-P_180_0"__id**
-
-%env"
-%scope-P_180W
-U
-
-__unknown_file (
-%sc-A_1291_env_3"__id**
-
-%env"
-%scope-A_1291_envÂ¿
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.js¶; º(
-	%object_0Object"ObjectÔ
-Ñ
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.js· ·(
-
-	%object_0Object"
-width"__id*
-200Ô
-Ñ
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.js¸ ¸(
-
-	%object_0Object"
-height"__id*
-50Û
-Ø
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.js¹ ¹(
-
-	%object_0Object"
-type"__id*
-doubleclickM
-K
-
-__unknown_file (
-%sc-P_180_1"__id**
-
-%env"
-%scope-P_180¼"¹
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.js¶ ¶(+
-
-%funcRes_0*.
-
-%sc-P_180_1"
-createElementWithAttributes2
-	
-%global2
-
-%env2*
-
-%sc-A_1291_env_3"
-doc2
-
-amp-ad2
-
-	%object_0ObjectÜ
-Ù
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.js¶ ¶(
-
-%sc-A_1291_env_2"	
-element"__id*
-
-
-%funcRes_0W
-U
-
-__unknown_file (
-%sc-A_1291_env_4"__id**
-
-%env"
-%scope-A_1291_envL
-J
-
-__unknown_file (	
-%expr_2"__id**
-
-%sc-A_1291_env_4"
-docD
-B
-
-__unknown_file (	
-%expr_3"__id**
-	
-%expr_2"
-bodyW
-U
-
-__unknown_file (
-%sc-A_1291_env_5"__id**
-
-%env"
-%scope-A_1291_envK
-I
-
-__unknown_file (	
-%expr_4"__id**
-	
-%expr_3"
-appendChild‰"†
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.js» »(
-
-%methRes_0*
-	
-%expr_3"
-appendChild2
-	
-%expr_32
-
-%env2!*
-
-%sc-A_1291_env_5"	
-elementW
-U
-
-__unknown_file (
-%sc-A_1291_env_6"__id**
-
-%env"
-%scope-A_1291_envM
-K
-
-__unknown_file (
-%sc-P_180_2"__id**
-
-%env"
-%scope-P_180W
-U
-
-__unknown_file (
-%sc-A_1291_env_7"__id**
-
-%env"
-%scope-A_1291_envÂ¿
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.js¼ ¼(5
-	%object_1Object"Object_
-]
-
-__unknown_file (	
-%expr_5"__id*0*.
-
-%sc-P_180_2"
-AmpAdNetworkDoubleclickImpl§"¤
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.js¼ ¼(5
-
-%methRes_1*.
-
-%sc-P_180_2"
-AmpAdNetworkDoubleclickImpl2
-
-	%object_1Object2
-
-%env2!*
-
-%sc-A_1291_env_7"	
-elementP
-N
-
-__unknown_file (
-%fieldAccess_0"__id**
-	
-%expr_5"
-	prototype^
-\
-
-__unknown_file (	
-%void_0"
-__setProto*
-
-	%object_1Object*
-
-%fieldAccess_0à
-Ý
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.js¼ ¼(
-
-
-%sc-A_1291_env_6"
-impl"__id*
-
-	%object_1ObjectW
-U
-
-__unknown_file (
-%sc-A_1291_env_8"__id**
-
-%env"
-%scope-A_1291_envM
-K
-
-__unknown_file (	
-%expr_6"__id**
-
-%sc-A_1291_env_8"
-impl¬
-©
-
-__unknown_file (	
-%func_0"__declareFunction*om
-kextensions_amp_ad_network_doubleclick_impl_0_1_test_test_amp_ad_network_doubleclick_impl_js_445_36_A_1319_0fd
-
-__unknown_file (/
-%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_1"
-__setProto*
-	
-%func_0*1
-/
-%functionPrototype_0%SonarFunctionPrototypeÞ
-Û
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.js½ ½( $
-	
-%expr_6"
-getA4aAnalyticsConfig"__id*
-	
-%func_0W
-U
-
-__unknown_file (
-%sc-A_1291_env_9"__id**
-
-%env"
-%scope-A_1291_envM
-K
-
-__unknown_file (	
-%expr_7"__id**
-
-%sc-A_1291_env_9"
-implM
-K
-
-__unknown_file (	
-%expr_8"__id**
-	
-%expr_7"
-buildCallbackè"å
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.js¾ ¾(
-
-%methRes_2*
-	
-%expr_7"
-buildCallback2
-	
-%expr_72
-
-%envX
-V
-
-__unknown_file (
-%sc-A_1291_env_10"__id**
-
-%env"
-%scope-A_1291_envM
-K
-
-__unknown_file (	
-%expr_9"__id**
-
-%sc-A_1291_env_10"
-envH
-F
-
-__unknown_file (
-
-%expr_10"__id**
-	
-%expr_9"	
-sandboxX
-V
-
-__unknown_file (
-%sc-A_1291_env_11"__id**
-
-%env"
-%scope-A_1291_envF
-D
-
-__unknown_file (
-
-%expr_11"__id**
-
-
-%expr_10"
-stub‘"Ž
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.js¿ ¿(
-
-%methRes_3*
-
-
-%expr_10"
-stub2
-
-
-%expr_102
-
-%env2*
-
-%sc-A_1291_env_11"
-impl2
-	getAmpDoc¬
-©
-
-__unknown_file (	
-%func_1"__declareFunction*om
-kextensions_amp_ad_network_doubleclick_impl_0_1_test_test_amp_ad_network_doubleclick_impl_js_447_53_A_1320_0fd
-
-__unknown_file (/
-%functionPrototype_1%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_2"
-__setProto*
-	
-%func_1*1
-/
-%functionPrototype_1%SonarFunctionPrototypeM
-K
-
-__unknown_file (
-
-%expr_12"__id**
-
-
-%methRes_3"
-	callsFake÷"ô
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.js¿* ¿(3
-
-%methRes_4*
-
-
-%methRes_3"
-	callsFake2
-
-
-%methRes_32
-
-%env2
-	
-%func_1X
-V
-
-__unknown_file (
-%sc-A_1291_env_12"__id**
-
-%env"
-%scope-A_1291_envN
-L
-
-__unknown_file (
-
-%expr_13"__id**
-
-%sc-A_1291_env_12"
-envI
-G
-
-__unknown_file (
-
-%expr_14"__id**
-
-
-%expr_13"	
-sandboxX
-V
-
-__unknown_file (
-%sc-A_1291_env_13"__id**
-
-%env"
-%scope-A_1291_envN
-L
-
-__unknown_file (
-
-%expr_15"__id**
-
-%sc-A_1291_env_13"
-envF
-D
-
-__unknown_file (
-
-%expr_16"__id**
-
-
-%expr_14"
-stub‘"Ž
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.jsÀ À(
-
-%methRes_5*
-
-
-%expr_14"
-stub2
-
-
-%expr_142
-
-%env2*
-
-
-%expr_15"
-ampdocService2
-	getAmpDoc¬
-©
-
-__unknown_file (	
-%func_2"__declareFunction*om
-kextensions_amp_ad_network_doubleclick_impl_0_1_test_test_amp_ad_network_doubleclick_impl_js_448_66_A_1321_0fd
-
-__unknown_file (/
-%functionPrototype_2%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_3"
-__setProto*
-	
-%func_2*1
-/
-%functionPrototype_2%SonarFunctionPrototypeM
-K
-
-__unknown_file (
-
-%expr_17"__id**
-
-
-%methRes_5"
-	callsFake÷"ô
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.jsÀ7 À(@
-
-%methRes_6*
-
-
-%methRes_5"
-	callsFake2
-
-
-%methRes_52
-
-%env2
-	
-%func_2X
-V
-
-__unknown_file (
-%sc-A_1291_env_14"__id**
-
-%env"
-%scope-A_1291_envO
-M
-
-__unknown_file (
-
-%expr_18"__id**
-
-%sc-A_1291_env_14"
-implÂ¿
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.jsÃ Ã(+
-	%object_2Object"ObjectÒ
-Ï
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.jsÃ Ã(
-
-	%object_2Object"
-width"__id*2ÈÒ
-Ï
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.jsÃ  Ã(*
-
-	%object_2Object"
-height"__id*22Ù
-Ö
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.jsÃ Ã(
-
-
-%expr_18"
-size_"__id*
-
-	%object_2ObjectX
-V
-
-__unknown_file (
-%sc-A_1291_env_15"__id**
-
-%env"
-%scope-A_1291_envO
-M
-
-__unknown_file (
-
-%expr_19"__id**
-
-%sc-A_1291_env_15"
-implX
-V
-
-__unknown_file (
-%sc-A_1291_env_16"__id**
-
-%env"
-%scope-A_1291_envO
-M
-
-__unknown_file (
-
-%expr_20"__id**
-
-%sc-A_1291_env_16"
-implE
-C
-
-__unknown_file (
-
-%expr_21"__id**
-
-
-%expr_20"
-winJ
-H
-
-__unknown_file (
-
-%expr_22"__id**
-
-
-%expr_21"
-
-documentO
-M
-
-__unknown_file (
-
-%expr_23"__id**
-
-
-%expr_22"
-createElementö"ó
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.jsÄ& Ä(3
-
-%methRes_7*
-
-
-%expr_22"
-createElement2
-
-
-%expr_222
-
-%env2
-
-iframeÓ
-Ð
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.jsÄ Ä(
-
-
-%expr_19"
-iframe"__id*
-
-
-%methRes_7X
-V
-
-__unknown_file (
-%sc-A_1291_env_17"__id**
-
-%env"
-%scope-A_1291_envN
-L
-
-__unknown_file (
-
-%expr_24"__id**
-
-%sc-A_1291_env_17"
-envI
-G
-
-__unknown_file (
-
-%expr_25"__id**
-
-
-%expr_24"	
-sandboxX
-V
-
-__unknown_file (
-%sc-A_1291_env_18"__id**
-
-%env"
-%scope-A_1291_envF
-D
-
-__unknown_file (
-
-%expr_26"__id**
-
-
-%expr_25"
-stub§"¤
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.jsÇ	 Ç(
-
-%methRes_8*
-
-
-%expr_25"
-stub2
-
-
-%expr_252
-
-%env2*
-
-%sc-A_1291_env_18"
-impl2#!
-getIntersectionElementLayoutBox¬
-©
-
-__unknown_file (	
-%func_3"__declareFunction*om
-kextensions_amp_ad_network_doubleclick_impl_0_1_test_test_amp_ad_network_doubleclick_impl_js_456_20_A_1322_0fd
-
-__unknown_file (/
-%functionPrototype_3%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_4"
-__setProto*
-	
-%func_3*1
-/
-%functionPrototype_3%SonarFunctionPrototypeM
-K
-
-__unknown_file (
-
-%expr_27"__id**
-
-
-%methRes_8"
-	callsFake÷"ô
-Ÿ
-’/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-amp-ad-network-doubleclick-impl.jsÈ	 È(
-
-%methRes_9*
-
-
-%methRes_8"
-	callsFake2
-
-
-%methRes_82
-
-%env2
-	
-%func_3"
-
-__unknown_file ( :
-%envB 

@@ -1,591 +1,0 @@
-
-Atest_unit_core_dom_test_resource_container_helper_js_34_14_A_38_0u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js" "("s3_1*šN
-s3_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-globalS
-Q
-
-__unknown_file (
-%sc-A_37_env_0"__id**
-
-%env"
-%scope-A_37_envS
-Q
-
-__unknown_file (
-%sc-A_37_env_1"__id**
-
-%env"
-%scope-A_37_envJ
-H
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-A_37_env_1"
-env±
-®
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js# #(
-
-%sc-A_37_env_0"
-win"__id**
-	
-%expr_0"
-winS
-Q
-
-__unknown_file (
-%sc-A_37_env_2"__id**
-
-%env"
-%scope-A_37_envS
-Q
-
-__unknown_file (
-%sc-A_37_env_3"__id**
-
-%env"
-%scope-A_37_envJ
-H
-
-__unknown_file (	
-%expr_1"__id**
-
-%sc-A_37_env_3"
-win¶
-³
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js$ $(
-
-%sc-A_37_env_2"
-doc"__id**
-	
-%expr_1"
-
-documentS
-Q
-
-__unknown_file (
-%sc-A_37_env_4"__id**
-
-%env"
-%scope-A_37_envS
-Q
-
-__unknown_file (
-%sc-A_37_env_5"__id**
-
-%env"
-%scope-A_37_envJ
-H
-
-__unknown_file (	
-%expr_2"__id**
-
-%sc-A_37_env_5"
-docM
-K
-
-__unknown_file (	
-%expr_3"__id**
-	
-%expr_2"
-createElementÆ"Ã
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js& &(
-
-%methRes_0*
-	
-%expr_2"
-createElement2
-	
-%expr_22
-
-%env2
-div¬
-©
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js& &(
-
-%sc-A_37_env_4"
-tree"__id*
-
-
-%methRes_0S
-Q
-
-__unknown_file (
-%sc-A_37_env_6"__id**
-
-%env"
-%scope-A_37_envJ
-H
-
-__unknown_file (	
-%expr_4"__id**
-
-%sc-A_37_env_6"
-docD
-B
-
-__unknown_file (	
-%expr_5"__id**
-	
-%expr_4"
-bodyS
-Q
-
-__unknown_file (
-%sc-A_37_env_7"__id**
-
-%env"
-%scope-A_37_envK
-I
-
-__unknown_file (	
-%expr_6"__id**
-	
-%expr_5"
-appendChildÙ"Ö
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js' '(
-
-%methRes_1*
-	
-%expr_5"
-appendChild2
-	
-%expr_52
-
-%env2*
-
-%sc-A_37_env_7"
-treeS
-Q
-
-__unknown_file (
-%sc-A_37_env_8"__id**
-
-%env"
-%scope-A_37_envS
-Q
-
-__unknown_file (
-%sc-A_37_env_9"__id**
-
-%env"
-%scope-A_37_envT
-R
-
-__unknown_file (
-%sc-A_37_env_10"__id**
-
-%env"
-%scope-A_37_env—”
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js)& )(G
-	%object_0Object"Object®
-«
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js)' )(8
-
-	%object_0Object"
-id"__id*
-grandparentÀ
-½
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js): )(F
-
-	%object_0Object"
-parent"__id**
-
-%sc-A_37_env_10"
-treeT
-R
-
-__unknown_file (
-%sc-A_37_env_11"__id**
-
-%env"
-%scope-A_37_envß"Ü
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js) )(%
-
-%funcRes_0*'
-
-%sc-A_37_env_11"
-createAmpElement2
-	
-%global2
-
-%env2
-
-	%object_0Object¶
-³
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js) )($
-
-%sc-A_37_env_8"
-ampGrandparent"__id*
-
-
-%funcRes_0T
-R
-
-__unknown_file (
-%sc-A_37_env_12"__id**
-
-%env"
-%scope-A_37_envT
-R
-
-__unknown_file (
-%sc-A_37_env_13"__id**
-
-%env"
-%scope-A_37_envT
-R
-
-__unknown_file (
-%sc-A_37_env_14"__id**
-
-%env"
-%scope-A_37_env—”
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js*- -(
-	%object_1Object"Object¶
-³
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js+ +(
-
-	%object_1Object"
-id"__id*
-grandparent-siblingÀ
-½
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js, ,(
-
-	%object_1Object"
-parent"__id**
-
-%sc-A_37_env_14"
-treeT
-R
-
-__unknown_file (
-%sc-A_37_env_15"__id**
-
-%env"
-%scope-A_37_envß"Ü
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js* *(,
-
-%funcRes_1*'
-
-%sc-A_37_env_15"
-createAmpElement2
-	
-%global2
-
-%env2
-
-	%object_1Object¾
-»
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js* *(,
-
-%sc-A_37_env_12"
-ampGrandparentSibling"__id*
-
-
-%funcRes_1T
-R
-
-__unknown_file (
-%sc-A_37_env_16"__id**
-
-%env"
-%scope-A_37_envT
-R
-
-__unknown_file (
-%sc-A_37_env_17"__id**
-
-%env"
-%scope-A_37_envT
-R
-
-__unknown_file (
-%sc-A_37_env_18"__id**
-
-%env"
-%scope-A_37_env—”
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js.! .(G
-	%object_2Object"Object©
-¦
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js." .(.
-
-	%object_2Object"
-id"__id*
-
-parentÊ
-Ç
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js.0 .(F
-
-	%object_2Object"
-parent"__id*'*%
-
-%sc-A_37_env_18"
-ampGrandparentT
-R
-
-__unknown_file (
-%sc-A_37_env_19"__id**
-
-%env"
-%scope-A_37_envß"Ü
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js. .( 
-
-%funcRes_2*'
-
-%sc-A_37_env_19"
-createAmpElement2
-	
-%global2
-
-%env2
-
-	%object_2Object²
-¯
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js. .( 
-
-%sc-A_37_env_16"
-	ampParent"__id*
-
-
-%funcRes_2T
-R
-
-__unknown_file (
-%sc-A_37_env_20"__id**
-
-%env"
-%scope-A_37_envT
-R
-
-__unknown_file (
-%sc-A_37_env_21"__id**
-
-%env"
-%scope-A_37_envT
-R
-
-__unknown_file (
-%sc-A_37_env_22"__id**
-
-%env"
-%scope-A_37_env—”
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js/( 2(
-	%object_3Object"Object±
-®
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js0 0(
-
-	%object_3Object"
-id"__id*
-parent-siblingÊ
-Ç
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js1 1(
-
-	%object_3Object"
-parent"__id*'*%
-
-%sc-A_37_env_22"
-ampGrandparentT
-R
-
-__unknown_file (
-%sc-A_37_env_23"__id**
-
-%env"
-%scope-A_37_envß"Ü
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js/ /('
-
-%funcRes_3*'
-
-%sc-A_37_env_23"
-createAmpElement2
-	
-%global2
-
-%env2
-
-	%object_3Object¹
-¶
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js/ /('
-
-%sc-A_37_env_20"
-ampParentSibling"__id*
-
-
-%funcRes_3T
-R
-
-__unknown_file (
-%sc-A_37_env_24"__id**
-
-%env"
-%scope-A_37_envT
-R
-
-__unknown_file (
-%sc-A_37_env_25"__id**
-
-%env"
-%scope-A_37_envT
-R
-
-__unknown_file (
-%sc-A_37_env_26"__id**
-
-%env"
-%scope-A_37_env—”
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js3! 3(B
-	%object_4Object"Object©
-¦
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js3" 3(.
-
-	%object_4Object"
-id"__id*
-
-child1Å
-Â
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js30 3(A
-
-	%object_4Object"
-parent"__id*"* 
-
-%sc-A_37_env_26"
-	ampParentT
-R
-
-__unknown_file (
-%sc-A_37_env_27"__id**
-
-%env"
-%scope-A_37_envß"Ü
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js3 3( 
-
-%funcRes_4*'
-
-%sc-A_37_env_27"
-createAmpElement2
-	
-%global2
-
-%env2
-
-	%object_4Object²
-¯
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js3 3( 
-
-%sc-A_37_env_24"
-	ampChild1"__id*
-
-
-%funcRes_4T
-R
-
-__unknown_file (
-%sc-A_37_env_28"__id**
-
-%env"
-%scope-A_37_envT
-R
-
-__unknown_file (
-%sc-A_37_env_29"__id**
-
-%env"
-%scope-A_37_envT
-R
-
-__unknown_file (
-%sc-A_37_env_30"__id**
-
-%env"
-%scope-A_37_env—”
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js4! 4(B
-	%object_5Object"Object©
-¦
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js4" 4(.
-
-	%object_5Object"
-id"__id*
-
-child2Å
-Â
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js40 4(A
-
-	%object_5Object"
-parent"__id*"* 
-
-%sc-A_37_env_30"
-	ampParentT
-R
-
-__unknown_file (
-%sc-A_37_env_31"__id**
-
-%env"
-%scope-A_37_envß"Ü
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js4 4( 
-
-%funcRes_5*'
-
-%sc-A_37_env_31"
-createAmpElement2
-	
-%global2
-
-%env2
-
-	%object_5Object²
-¯
-u
-k/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/dom/test-resource-container-helper.js4 4( 
-
-%sc-A_37_env_28"
-	ampChild2"__id*
-
-
-%funcRes_5"
-
-__unknown_file ( :
-%envB 

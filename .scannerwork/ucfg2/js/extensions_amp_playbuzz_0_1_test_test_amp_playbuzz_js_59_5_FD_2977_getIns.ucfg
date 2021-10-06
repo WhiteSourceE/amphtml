@@ -1,784 +1,0 @@
-
-Iextensions_amp_playbuzz_0_1_test_test_amp_playbuzz_js_59_5_FD_2977_getInsv
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.js; ;("s8_1*ì
-s8_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-global=;
-
-__unknown_file (
-%scope-FD_2977_getIns"Object`
-^
-
-__unknown_file (!
-
-%env"
-%scope-FD_2977_getIns"__id*
-
-%scope-FD_2977_getInsÖ
-Ó
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.js;5 ;(M5
-
-%scope-FD_2977_getIns"
-opt_beforeLayoutCallback"__id*
-
-opt_beforeLayoutCallbackY
-W
-
-__unknown_file (
-%sc-A_18867_env_0"__id* *
-
-%env"
-%scope-A_18867_envM
-K
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-A_18867_env_0"
-docM
-K
-
-__unknown_file (	
-%expr_1"__id**
-	
-%expr_0"
-createElementÐ"Í
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.js< <(#
-
-%methRes_0*
-	
-%expr_0"
-createElement2
-	
-%expr_02
-
-%env2
-amp-playbuzz³
-°
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.js< <( 
-
-%scope-FD_2977_getIns"
-ins"__id*
-
-
-%methRes_0*
-s8_2
-s8_3*©
-s8_2
-<synthetic> (Q
-O
-
-__unknown_file (	
-%expr_2"__id*"* 
-
-%scope-FD_2977_getIns"
-insL
-J
-
-__unknown_file (	
-%expr_3"__id**
-	
-%expr_2"
-setAttributeà"Ý
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.js> >(
-
-%methRes_1*
-	
-%expr_2"
-setAttribute2
-	
-%expr_22
-
-%env2
-src2*
-	
-itemSrc"	
-itemUrl*
-s8_3*+
-s8_3
-<synthetic> (*
-s8_4
-s8_5*®
-s8_4
-<synthetic> (Q
-O
-
-__unknown_file (	
-%expr_4"__id*"* 
-
-%scope-FD_2977_getIns"
-insL
-J
-
-__unknown_file (	
-%expr_5"__id**
-	
-%expr_4"
-setAttributeå"â
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsA A(
-
-%methRes_2*
-	
-%expr_4"
-setAttribute2
-	
-%expr_42
-
-%env2
-	data-item2*
-	
-itemSrc"
-itemId*
-s8_5*˜
-s8_5
-<synthetic> (Q
-O
-
-__unknown_file (	
-%expr_6"__id*"* 
-
-%scope-FD_2977_getIns"
-insL
-J
-
-__unknown_file (	
-%expr_7"__id**
-	
-%expr_6"
-setAttributeÒ"Ï
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsC
- C(
-
-%methRes_3*
-	
-%expr_6"
-setAttribute2
-	
-%expr_62
-
-%env2
-
-height2
-222Q
-O
-
-__unknown_file (	
-%expr_8"__id*"* 
-
-%scope-FD_2977_getIns"
-insL
-J
-
-__unknown_file (	
-%expr_9"__id**
-	
-%expr_8"
-setAttributeÓ"Ð
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsD
- D(
-
-%methRes_4*
-	
-%expr_8"
-setAttribute2
-	
-%expr_82
-
-%env2
-alt2	
-Testing*
-s8_6
-s8_7*¡
-s8_6
-<synthetic> (R
-P
-
-__unknown_file (
-
-%expr_10"__id*"* 
-
-%scope-FD_2977_getIns"
-insN
-L
-
-__unknown_file (
-
-%expr_11"__id**
-
-
-%expr_10"
-setAttributeÓ"Ð
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsF F(
-
-%methRes_5*
-
-
-%expr_10"
-setAttribute2
-
-
-%expr_102
-
-%env2	
-width2
-111R
-P
-
-__unknown_file (
-
-%expr_12"__id*"* 
-
-%scope-FD_2977_getIns"
-insN
-L
-
-__unknown_file (
-
-%expr_13"__id**
-
-
-%expr_12"
-setAttributeÛ"Ø
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsG G(
-
-%methRes_6*
-
-
-%expr_12"
-setAttribute2
-
-
-%expr_122
-
-%env2
-
-layout2
-
-responsive*
-s8_8*©
-s8_7
-<synthetic> (R
-P
-
-__unknown_file (
-
-%expr_14"__id*"* 
-
-%scope-FD_2977_getIns"
-insN
-L
-
-__unknown_file (
-
-%expr_15"__id**
-
-
-%expr_14"
-setAttributeÝ"Ú
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsI I(
-
-%methRes_7*
-
-
-%expr_14"
-setAttribute2
-
-
-%expr_142
-
-%env2
-
-layout2
-fixed-height*
-s8_8*j
-s8_8
-<synthetic> (<
-:
-
-__unknown_file (
-
-%leftAnd_0"__id*
-
-
-params*
-s8_9
-s8_11*‘
-s8_9
-<synthetic>	 	(´
-±
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsK K(1
-%fieldAccess_0"__id**
-
-params"
-displayItemInfo­
-ª
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsK K(1
-%unaryOpRes_0"__js_typeof*
-
-%fieldAccess_0¶
-³
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsK K(?
-%binOpRes_0"
-__js_equal*
-
-%unaryOpRes_0*	
-booleanB
-@
-
-__unknown_file (
-%rightAnd_0"__id*
-
-%binOpRes_0*
-s8_10
-s8_11*Â
-s8_10
-<synthetic>
- 
-(R
-P
-
-__unknown_file (
-
-%expr_16"__id*"* 
-
-%scope-FD_2977_getIns"
-insN
-L
-
-__unknown_file (
-
-%expr_17"__id**
-
-
-%expr_16"
-setAttributeô"ñ
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsL L(
-
-%methRes_8*
-
-
-%expr_16"
-setAttribute2
-
-
-%expr_162
-
-%env2
-data-item-info2*
-
-params"
-displayItemInfo*
-s8_11*l
-s8_11
-<synthetic> (<
-:
-
-__unknown_file (
-
-%leftAnd_1"__id*
-
-
-params*
-s8_12
-s8_14*’
-s8_12
-<synthetic> (´
-±
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsN N(1
-%fieldAccess_1"__id**
-
-params"
-displayShareBar­
-ª
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsN N(1
-%unaryOpRes_1"__js_typeof*
-
-%fieldAccess_1¶
-³
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsN N(?
-%binOpRes_1"
-__js_equal*
-
-%unaryOpRes_1*	
-booleanB
-@
-
-__unknown_file (
-%rightAnd_1"__id*
-
-%binOpRes_1*
-s8_13
-s8_14*Æ
-s8_13
-<synthetic> (R
-P
-
-__unknown_file (
-
-%expr_18"__id*"* 
-
-%scope-FD_2977_getIns"
-insN
-L
-
-__unknown_file (
-
-%expr_19"__id**
-
-
-%expr_18"
-setAttributeø"õ
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsO O(
-
-%methRes_9*
-
-
-%expr_18"
-setAttribute2
-
-
-%expr_182
-
-%env2
-data-share-buttons2*
-
-params"
-displayShareBar*
-s8_14*l
-s8_14
-<synthetic> (<
-:
-
-__unknown_file (
-
-%leftAnd_2"__id*
-
-
-params*
-s8_15
-s8_17*’
-s8_15
-<synthetic> (´
-±
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsQ Q(1
-%fieldAccess_2"__id**
-
-params"
-displayComments­
-ª
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsQ Q(1
-%unaryOpRes_2"__js_typeof*
-
-%fieldAccess_2¶
-³
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsQ Q(?
-%binOpRes_2"
-__js_equal*
-
-%unaryOpRes_2*	
-booleanB
-@
-
-__unknown_file (
-%rightAnd_2"__id*
-
-%binOpRes_2*
-s8_16
-s8_17*Â
-s8_16
-<synthetic> (R
-P
-
-__unknown_file (
-
-%expr_20"__id*"* 
-
-%scope-FD_2977_getIns"
-insN
-L
-
-__unknown_file (
-
-%expr_21"__id**
-
-
-%expr_20"
-setAttributeô"ñ
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsR R(
-%methRes_10*
-
-
-%expr_20"
-setAttribute2
-
-
-%expr_202
-
-%env2
-data-comments2*
-
-params"
-displayComments*
-s8_17*l
-s8_17
-<synthetic> (<
-:
-
-__unknown_file (
-
-%leftAnd_3"__id*
-
-
-params*
-s8_18
-s8_20*|
-s8_18
-<synthetic> (L
-J
-
-__unknown_file (
-%rightAnd_3"__id**
-
-params"
-	arialabel*
-s8_19
-s8_20*¹
-s8_19
-<synthetic> (R
-P
-
-__unknown_file (
-
-%expr_22"__id*"* 
-
-%scope-FD_2977_getIns"
-insN
-L
-
-__unknown_file (
-
-%expr_23"__id**
-
-
-%expr_22"
-setAttributeë"è
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsU U(
-%methRes_11*
-
-
-%expr_22"
-setAttribute2
-
-
-%expr_222
-
-%env2
-
-aria-label2*
-
-params"
-	arialabel*
-s8_20*ß
-s8_20
-<synthetic> (Y
-W
-
-__unknown_file (
-%sc-A_18867_env_1"__id* *
-
-%env"
-%scope-A_18867_envN
-L
-
-__unknown_file (
-
-%expr_24"__id**
-
-%sc-A_18867_env_1"
-docF
-D
-
-__unknown_file (
-
-%expr_25"__id**
-
-
-%expr_24"
-bodyM
-K
-
-__unknown_file (
-
-%expr_26"__id**
-
-
-%expr_25"
-appendChildã"à
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsW W(
-%methRes_12*
-
-
-%expr_25"
-appendChild2
-
-
-%expr_252
-
-%env2"* 
-
-%scope-FD_2977_getIns"
-insR
-P
-
-__unknown_file (
-
-%expr_27"__id*"* 
-
-%scope-FD_2977_getIns"
-insO
-M
-
-__unknown_file (
-
-%expr_28"__id**
-
-
-%expr_27"
-buildInternalÁ"¾
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsY	 Y(
-%methRes_13*
-
-
-%expr_27"
-buildInternal2
-
-
-%expr_272
-
-%env†
-ƒ
-
-__unknown_file (	
-%func_0"__declareFunction*IG
-Eextensions_amp_playbuzz_0_1_test_test_amp_playbuzz_js_90_15_A_18869_0`
-^
-
-__unknown_file (!
-
-%env"
-%scope-FD_2977_getIns"__id*
-
-%scope-FD_2977_getInsfd
-
-__unknown_file (/
-%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_0"
-__setProto*
-	
-%func_0*1
-/
-%functionPrototype_0%SonarFunctionPrototypeJ
-H
-
-__unknown_file ("
-
-%env"
-_this_2_FD_2977_getIns"__id* ¼"¹
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsZ	 Z(
-
-%funcRes_0"	
-%func_02
-	
-%global2
-
-%env2
-
-%methRes_13†
-ƒ
-
-__unknown_file (	
-%func_1"__declareFunction*IG
-Eextensions_amp_playbuzz_0_1_test_test_amp_playbuzz_js_96_15_A_18870_0`
-^
-
-__unknown_file (!
-
-%env"
-%scope-FD_2977_getIns"__id*
-
-%scope-FD_2977_getInsfd
-
-__unknown_file (/
-%functionPrototype_1%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_1"
-__setProto*
-	
-%func_1*1
-/
-%functionPrototype_1%SonarFunctionPrototypeJ
-H
-
-__unknown_file ("
-
-%env"
-_this_2_FD_2977_getIns"__id* »"¸
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.js`	 `(
-
-%funcRes_1"	
-%func_12
-	
-%global2
-
-%env2
-
-
-%funcRes_0"ˆ
-v
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-playbuzz/0.1/test/test-amp-playbuzz.jsX `(
-
-
-%funcRes_1:
-%env:	
-itemSrc:
-params:
-opt_responsive:
-opt_beforeLayoutCallbackB 

@@ -1,877 +1,0 @@
-
-lextensions_amp_ad_network_adsense_impl_0_1_test_test_amp_ad_network_adsense_impl_js_1298_7_FD_1379_buildImpl—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js’
- ’
-("s174_1*å^
-s174_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-globalS
-Q
-
-__unknown_file (
-%sc-A_8674_0_0"__id**
-
-%env"
-%scope-A_8674_0Y
-W
-
-__unknown_file (	
-%expr_0"__id***(
-
-%sc-A_8674_0_0"
-containerContainerE
-C
-
-__unknown_file (	
-%expr_1"__id**
-	
-%expr_0"
-styleÇ
-Ä
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js”
- ”
-(+
-	
-%expr_1"
-
-marginLeft"__id*
-5pxS
-Q
-
-__unknown_file (
-%sc-A_8674_0_1"__id**
-
-%env"
-%scope-A_8674_0Y
-W
-
-__unknown_file (	
-%expr_2"__id***(
-
-%sc-A_8674_0_1"
-containerContainerE
-C
-
-__unknown_file (	
-%expr_3"__id**
-	
-%expr_2"
-styleÈ
-Å
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js•
- •
-(,
-	
-%expr_3"
-marginRight"__id*
-9pxS
-Q
-
-__unknown_file (
-%sc-A_8674_0_2"__id**
-
-%env"
-%scope-A_8674_0P
-N
-
-__unknown_file (	
-%expr_4"__id*!*
-
-%sc-A_8674_0_2"
-	containerE
-C
-
-__unknown_file (	
-%expr_5"__id**
-	
-%expr_4"
-styleÈ
-Å
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js˜
- ˜
-("
-	
-%expr_5"
-
-marginLeft"__id*
-19pxS
-Q
-
-__unknown_file (
-%sc-A_8674_0_3"__id**
-
-%env"
-%scope-A_8674_0P
-N
-
-__unknown_file (	
-%expr_6"__id*!*
-
-%sc-A_8674_0_3"
-	containerE
-C
-
-__unknown_file (	
-%expr_7"__id**
-	
-%expr_6"
-styleÉ
-Æ
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js™
- ™
-(#
-	
-%expr_7"
-marginRight"__id*
-25pxÄ
-Á
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js›
- ›
-(
-
-config"
-type"__id*	
-adsenseÒ
-Ï
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.jsœ
- œ
-( 
-
-config"
-data-ad-client"__id*
-ca-pub-1234W
-U
-
-__unknown_file (
-%sc-A_8518_env_0"__id**
-
-%env"
-%scope-A_8518_envM
-K
-
-__unknown_file (
-%sc-P_830_0"__id**
-
-%env"
-%scope-P_830W
-U
-
-__unknown_file (
-%sc-A_8518_env_1"__id**
-
-%env"
-%scope-A_8518_envM
-K
-
-__unknown_file (
-%sc-P_830_1"__id**
-
-%env"
-%scope-P_830©"¦
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.jsž
- ž
-(-
-
-%funcRes_0*.
-
-%sc-P_830_1"
-createElementWithAttributes2
-	
-%global2
-
-%env2*
-
-%sc-A_8518_env_1"
-doc2
-
-amp-ad2
-
-
-configÔ
-Ñ
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.jsž
- ž
-(
-
-%sc-A_8518_env_0"	
-element"__id*
-
-
-%funcRes_0S
-Q
-
-__unknown_file (
-%sc-A_8674_0_4"__id**
-
-%env"
-%scope-A_8674_0W
-U
-
-__unknown_file (
-%sc-A_8518_env_2"__id**
-
-%env"
-%scope-A_8518_envL
-J
-
-__unknown_file (	
-%expr_8"__id**
-
-%sc-A_8518_env_2"
-docM
-K
-
-__unknown_file (	
-%expr_9"__id**
-	
-%expr_8"
-createElementì"é
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.jsŸ
- Ÿ
-("
-
-%methRes_0*
-	
-%expr_8"
-createElement2
-	
-%expr_82
-
-%env2
-
-iframeÑ
-Î
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.jsŸ
- Ÿ
-(
-
-%sc-A_8674_0_4"
-iframe"__id*
-
-
-%methRes_0W
-U
-
-__unknown_file (
-%sc-A_8518_env_3"__id**
-
-%env"
-%scope-A_8518_envQ
-O
-
-__unknown_file (
-
-%expr_10"__id*!*
-
-%sc-A_8518_env_3"	
-elementS
-Q
-
-__unknown_file (
-%sc-A_8674_0_5"__id**
-
-%env"
-%scope-A_8674_0M
-K
-
-__unknown_file (
-
-%expr_11"__id**
-
-
-%expr_10"
-appendChild€"ý
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js¡
- ¡
-(
-
-%methRes_1*
-
-
-%expr_10"
-appendChild2
-
-
-%expr_102
-
-%env2*
-
-%sc-A_8674_0_5"
-iframeS
-Q
-
-__unknown_file (
-%sc-A_8674_0_6"__id**
-
-%env"
-%scope-A_8674_0Q
-O
-
-__unknown_file (
-
-%expr_12"__id*!*
-
-%sc-A_8674_0_6"
-	containerW
-U
-
-__unknown_file (
-%sc-A_8518_env_4"__id**
-
-%env"
-%scope-A_8518_envM
-K
-
-__unknown_file (
-
-%expr_13"__id**
-
-
-%expr_12"
-appendChildƒ"€
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js¢
- ¢
-(
-
-%methRes_2*
-
-
-%expr_12"
-appendChild2
-
-
-%expr_122
-
-%env2!*
-
-%sc-A_8518_env_4"	
-elementS
-Q
-
-__unknown_file (
-%sc-A_8674_0_7"__id**
-
-%env"
-%scope-A_8674_0Z
-X
-
-__unknown_file (
-
-%expr_14"__id***(
-
-%sc-A_8674_0_7"
-containerContainerS
-Q
-
-__unknown_file (
-%sc-A_8674_0_8"__id**
-
-%env"
-%scope-A_8674_0M
-K
-
-__unknown_file (
-
-%expr_15"__id**
-
-
-%expr_14"
-appendChildƒ"€
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js£
- £
-(&
-
-%methRes_3*
-
-
-%expr_14"
-appendChild2
-
-
-%expr_142
-
-%env2!*
-
-%sc-A_8674_0_8"
-	containerW
-U
-
-__unknown_file (
-%sc-A_8518_env_5"__id**
-
-%env"
-%scope-A_8518_envM
-K
-
-__unknown_file (
-
-%expr_16"__id**
-
-%sc-A_8518_env_5"
-docF
-D
-
-__unknown_file (
-
-%expr_17"__id**
-
-
-%expr_16"
-bodyS
-Q
-
-__unknown_file (
-%sc-A_8674_0_9"__id**
-
-%env"
-%scope-A_8674_0M
-K
-
-__unknown_file (
-
-%expr_18"__id**
-
-
-%expr_17"
-appendChildŒ"‰
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js¤
- ¤
-(
-
-%methRes_4*
-
-
-%expr_17"
-appendChild2
-
-
-%expr_172
-
-%env2**(
-
-%sc-A_8674_0_9"
-containerContainerW
-U
-
-__unknown_file (
-%sc-A_8518_env_6"__id**
-
-%env"
-%scope-A_8518_envM
-K
-
-__unknown_file (
-%sc-P_830_2"__id**
-
-%env"
-%scope-P_830W
-U
-
-__unknown_file (
-%sc-A_8518_env_7"__id**
-
-%env"
-%scope-A_8518_envº·
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js¦
- ¦
-(3
-	%object_0Object"Object\
-Z
-
-__unknown_file (
-
-%expr_19"__id*,**
-
-%sc-P_830_2"
-AmpAdNetworkAdsenseImpl›"˜
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js¦
- ¦
-(3
-
-%methRes_5**
-
-%sc-P_830_2"
-AmpAdNetworkAdsenseImpl2
-
-	%object_0Object2
-
-%env2!*
-
-%sc-A_8518_env_7"	
-elementQ
-O
-
-__unknown_file (
-%fieldAccess_0"__id**
-
-
-%expr_19"
-	prototype^
-\
-
-__unknown_file (	
-%void_0"
-__setProto*
-
-	%object_0Object*
-
-%fieldAccess_0Ø
-Õ
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js¦
- ¦
-(
-
-%sc-A_8518_env_6"
-impl"__id*
-
-	%object_0ObjectW
-U
-
-__unknown_file (
-%sc-A_8518_env_8"__id**
-
-%env"
-%scope-A_8518_envN
-L
-
-__unknown_file (
-
-%expr_20"__id**
-
-%sc-A_8518_env_8"
-implI
-G
-
-__unknown_file (
-
-%expr_21"__id**
-
-
-%expr_20"	
-elementG
-E
-
-__unknown_file (
-
-%expr_22"__id**
-
-
-%expr_21"
-styleÇ
-Ä
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js§
- §
-("
-
-
-%expr_22"	
-display"__id*	
-blockW
-U
-
-__unknown_file (
-%sc-A_8518_env_9"__id**
-
-%env"
-%scope-A_8518_envN
-L
-
-__unknown_file (
-
-%expr_23"__id**
-
-%sc-A_8518_env_9"
-implI
-G
-
-__unknown_file (
-
-%expr_24"__id**
-
-
-%expr_23"	
-elementG
-E
-
-__unknown_file (
-
-%expr_25"__id**
-
-
-%expr_24"
-styleË
-È
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js¨
- ¨
-(#
-
-
-%expr_25"
-
-position"__id*
-
-relativeX
-V
-
-__unknown_file (
-%sc-A_8518_env_10"__id**
-
-%env"
-%scope-A_8518_envO
-M
-
-__unknown_file (
-
-%expr_26"__id**
-
-%sc-A_8518_env_10"
-implI
-G
-
-__unknown_file (
-
-%expr_27"__id**
-
-
-%expr_26"	
-elementG
-E
-
-__unknown_file (
-
-%expr_28"__id**
-
-
-%expr_27"
-styleÃ
-À
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js©
- ©
-(
-
-
-%expr_28"
-top"__id*	
-150vhX
-V
-
-__unknown_file (
-%sc-A_8518_env_11"__id**
-
-%env"
-%scope-A_8518_envO
-M
-
-__unknown_file (
-
-%expr_29"__id**
-
-%sc-A_8518_env_11"
-implJ
-H
-
-__unknown_file (
-
-%expr_30"__id**
-
-
-%expr_29"
-
-getVsyncÝ"Ú
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js¬
- ¬
-(
-
-%methRes_6*
-
-
-%expr_29"
-
-getVsync2
-
-
-%expr_292
-
-%env«
-¨
-
-__unknown_file (	
-%func_0"__declareFunction*nl
-jextensions_amp_ad_network_adsense_impl_0_1_test_test_amp_ad_network_adsense_impl_js_1324_31_A_8675_vsy_vsyfd
-
-__unknown_file (/
-%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_1"
-__setProto*
-	
-%func_0*1
-/
-%functionPrototype_0%SonarFunctionPrototypeM
-K
-
-__unknown_file (%
-
-%env"
-_this_3_FD_1379_buildImpl"__id* Ç
-Ä
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js¬
- ¬
-(
-
-
-%methRes_6"
-run"__id*
-	
-%func_0X
-V
-
-__unknown_file (
-%sc-A_8518_env_12"__id**
-
-%env"
-%scope-A_8518_envO
-M
-
-__unknown_file (
-
-%expr_31"__id**
-
-%sc-A_8518_env_12"
-implM
-K
-
-__unknown_file (
-
-%expr_32"__id**
-
-
-%expr_31"
-getViewportà"Ý
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js·
- ·
-(
-
-%methRes_7*
-
-
-%expr_31"
-getViewport2
-
-
-%expr_312
-
-%env¥
-¢
-
-__unknown_file (	
-%func_1"__declareFunction*hf
-dextensions_amp_ad_network_adsense_impl_0_1_test_test_amp_ad_network_adsense_impl_js_1335_38_A_8676_0fd
-
-__unknown_file (/
-%functionPrototype_1%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_2"
-__setProto*
-	
-%func_1*1
-/
-%functionPrototype_1%SonarFunctionPrototypeM
-K
-
-__unknown_file (%
-
-%env"
-_this_3_FD_1379_buildImpl"__id* Ë
-È
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js·
- ·
-("
-
-
-%methRes_7"	
-getSize"__id*
-	
-%func_1X
-V
-
-__unknown_file (
-%sc-A_8518_env_13"__id**
-
-%env"
-%scope-A_8518_envO
-M
-
-__unknown_file (
-
-%expr_33"__id**
-
-%sc-A_8518_env_13"
-implO
-M
-
-__unknown_file (
-
-%expr_34"__id**
-
-
-%expr_33"
-buildCallbackâ"ß
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js¼
- ¼
-(!
-
-%methRes_8*
-
-
-%expr_33"
-buildCallback2
-
-
-%expr_332
-
-%env"ª
-—
-Š/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js¼
- ¼
-($
-
-
-%methRes_8:
-%env:
-configB 

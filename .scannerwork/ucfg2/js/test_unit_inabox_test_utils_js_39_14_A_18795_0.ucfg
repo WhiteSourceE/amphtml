@@ -1,750 +1,0 @@
-
-.test_unit_inabox_test_utils_js_39_14_A_18795_0_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js' '("s4_1*åP
-s4_1
-<synthetic> (Y
-W
-
-__unknown_file (
-%sc-A_18794_env_0"__id* *
-
-%env"
-%scope-A_18794_envY
-W
-
-__unknown_file (
-%sc-A_18794_env_1"__id* *
-
-%env"
-%scope-A_18794_envM
-K
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-A_18794_env_1"
-envn
-l
-
-__unknown_file (	
-%func_0"__declareFunction*20
-.test_unit_inabox_test_utils_js_40_42_A_18796_0fd
-
-__unknown_file (/
-%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_0"
-__setProto*
-	
-%func_0*1
-/
-%functionPrototype_0%SonarFunctionPrototypeÄ~
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js( ((4
-	%object_0Object"Objectû
-õ
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js( ((
-
-	%object_0Object"
-win"__id**
-	
-%expr_0"
-winù
-ö
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js( ((3$
-
-	%object_0Object"
-getRootNode"__id*
-	
-%func_0¢
-ü
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js( ((
-
-
-%sc-A_18794_env_0"
-ampdoc"__id*
-
-	%object_0ObjectY
-W
-
-__unknown_file (
-%sc-A_18794_env_2"__id* *
-
-%env"
-%scope-A_18794_envO
-M
-
-__unknown_file (
-%sc-P_1727_0"__id**
-
-%env"
-%scope-P_1727Ä~
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js) )($
-	%object_1Object"ObjectM
-K
-
-__unknown_file (	
-%expr_1"__id**
-
-%sc-P_1727_0"
-
-Deferred±"Æ
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js) )($
-
-%methRes_0*
-
-%sc-P_1727_0"
-
-Deferred2
-
-	%object_1Object2
-
-%envP
-N
-
-__unknown_file (
-%fieldAccess_0"__id**
-	
-%expr_1"
-	prototype^
-\
-
-__unknown_file (	
-%void_1"
-__setProto*
-
-	%object_1Object*
-
-%fieldAccess_0´
-®
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js) )((
-
-%sc-A_18794_env_2"
-iniLoadDeferred"__id*
-
-	%object_1ObjectY
-W
-
-__unknown_file (
-%sc-A_18794_env_3"__id* *
-
-%env"
-%scope-A_18794_envM
-K
-
-__unknown_file (	
-%expr_2"__id**
-
-%sc-A_18794_env_3"
-envG
-E
-
-__unknown_file (	
-%expr_3"__id**
-	
-%expr_2"	
-sandboxO
-M
-
-__unknown_file (
-%sc-P_1727_1"__id**
-
-%env"
-%scope-P_1727D
-B
-
-__unknown_file (	
-%expr_4"__id**
-	
-%expr_3"
-stub‹"Ÿ
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js, ,(
-
-%methRes_1*
-	
-%expr_3"
-stub2
-	
-%expr_32
-
-%env2*
-
-%sc-P_1727_1"	
-IniLoad2
-whenContentIniLoadMeasureY
-W
-
-__unknown_file (
-%sc-A_18794_env_4"__id* *
-
-%env"
-%scope-A_18794_envY
-W
-
-__unknown_file (	
-%expr_5"__id***(
-
-%sc-A_18794_env_4"
-iniLoadDeferredJ
-H
-
-__unknown_file (	
-%expr_6"__id**
-
-
-%methRes_1"	
-returns¡"æ
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js- -(
-
-%methRes_2*
-
-
-%methRes_1"	
-returns2
-
-
-%methRes_12
-
-%env2*
-	
-%expr_5"	
-promiseY
-W
-
-__unknown_file (
-%sc-A_18794_env_5"__id* *
-
-%env"
-%scope-A_18794_envM
-K
-
-__unknown_file (	
-%expr_7"__id**
-
-%sc-A_18794_env_5"
-envG
-E
-
-__unknown_file (	
-%expr_8"__id**
-	
-%expr_7"	
-sandboxO
-M
-
-__unknown_file (
-%sc-P_1727_2"__id**
-
-%env"
-%scope-P_1727D
-B
-
-__unknown_file (	
-%expr_9"__id**
-	
-%expr_8"
-stub“"œ
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js/ /(
-
-%methRes_3*
-	
-%expr_8"
-stub2
-	
-%expr_82
-
-%env2*
-
-%sc-P_1727_2"
-
-Services2
-viewportForDocY
-W
-
-__unknown_file (
-%sc-A_18794_env_6"__id* *
-
-%env"
-%scope-A_18794_envL
-J
-
-__unknown_file (
-
-%expr_10"__id**
-
-
-%methRes_3"
-
-withArgsÀ"»
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js0 0(
-
-%methRes_4*
-
-
-%methRes_3"
-
-withArgs2
-
-
-%methRes_32
-
-%env2!*
-
-%sc-A_18794_env_6"
-ampdocn
-l
-
-__unknown_file (	
-%func_1"__declareFunction*20
-.test_unit_inabox_test_utils_js_49_32_A_18797_0fd
-
-__unknown_file (/
-%functionPrototype_1%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_2"
-__setProto*
-	
-%func_1*1
-/
-%functionPrototype_1%SonarFunctionPrototypeÄ~
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js1 1(*
-	%object_2Object"Objectü
-ú
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js1 1()&
-
-	%object_2Object"
-getLayoutRect"__id*
-	
-%func_1K
-I
-
-__unknown_file (
-
-%expr_11"__id**
-
-
-%methRes_4"	
-returnsæ"ª
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js1 1(
-
-%methRes_5*
-
-
-%methRes_4"	
-returns2
-
-
-%methRes_42
-
-%env2
-
-	%object_2ObjectY
-W
-
-__unknown_file (
-%sc-A_18794_env_7"__id* *
-
-%env"
-%scope-A_18794_envY
-W
-
-__unknown_file (
-%sc-A_18794_env_8"__id* *
-
-%env"
-%scope-A_18794_envN
-L
-
-__unknown_file (
-
-%expr_12"__id**
-
-%sc-A_18794_env_8"
-envI
-G
-
-__unknown_file (
-
-%expr_13"__id**
-
-
-%expr_12"	
-sandboxF
-D
-
-__unknown_file (
-
-%expr_14"__id**
-
-
-%expr_13"
-stub†"ù
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js2( 2(,
-
-%methRes_6*
-
-
-%expr_13"
-stub2
-
-
-%expr_132
-
-%env™
-ß
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js2 2(.
-
-%sc-A_18794_env_7"
-parentPostMessageStub"__id*
-
-
-%methRes_6Y
-W
-
-__unknown_file (
-%sc-A_18794_env_9"__id* *
-
-%env"
-%scope-A_18794_envZ
-X
-
-__unknown_file (
-%sc-A_18794_env_10"__id* *
-
-%env"
-%scope-A_18794_envO
-M
-
-__unknown_file (
-
-%expr_15"__id**
-
-%sc-A_18794_env_10"
-envI
-G
-
-__unknown_file (
-
-%expr_16"__id**
-
-
-%expr_15"	
-sandboxF
-D
-
-__unknown_file (
-
-%expr_17"__id**
-
-
-%expr_16"
-stub†"ù
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js3$ 3((
-
-%methRes_7*
-
-
-%expr_16"
-stub2
-
-
-%expr_162
-
-%env¶
-£
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js3 3(*
-
-%sc-A_18794_env_9"
-dispatchEventStub"__id*
-
-
-%methRes_7Z
-X
-
-__unknown_file (
-%sc-A_18794_env_11"__id* *
-
-%env"
-%scope-A_18794_envZ
-X
-
-__unknown_file (
-%sc-A_18794_env_12"__id* *
-
-%env"
-%scope-A_18794_envO
-M
-
-__unknown_file (
-
-%expr_18"__id**
-
-%sc-A_18794_env_12"
-envI
-G
-
-__unknown_file (
-
-%expr_19"__id**
-
-
-%expr_18"	
-sandboxF
-D
-
-__unknown_file (
-
-%expr_20"__id**
-
-
-%expr_19"
-stub†"ù
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js4& 4(*
-
-%methRes_8*
-
-
-%expr_19"
-stub2
-
-
-%expr_192
-
-%env©
-¶
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js4 4(-
-
-%sc-A_18794_env_11"
-initCustomEventStub"__id*
-
-
-%methRes_8Z
-X
-
-__unknown_file (
-%sc-A_18794_env_13"__id* *
-
-%env"
-%scope-A_18794_envO
-M
-
-__unknown_file (
-
-%expr_21"__id**
-
-%sc-A_18794_env_13"
-envE
-C
-
-__unknown_file (
-
-%expr_22"__id**
-
-
-%expr_21"
-winZ
-X
-
-__unknown_file (
-%sc-A_18794_env_14"__id* *
-
-%env"
-%scope-A_18794_envÄ~
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js5 5(9
-	%object_3Object"Object√
-¿
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js5 5(8$
-
-	%object_3Object"
-postMessage"__id*1*/
-
-%sc-A_18794_env_14"
-parentPostMessageStubô
-ñ
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js5 5(
-
-
-%expr_22"
-parent"__id*
-
-	%object_3ObjectZ
-X
-
-__unknown_file (
-%sc-A_18794_env_15"__id* *
-
-%env"
-%scope-A_18794_envO
-M
-
-__unknown_file (
-
-%expr_23"__id**
-
-%sc-A_18794_env_15"
-envE
-C
-
-__unknown_file (
-
-%expr_24"__id**
-
-
-%expr_23"
-wint
-r
-
-__unknown_file (	
-%func_2"__declareFunction*86
-4test_unit_inabox_test_utils_js_54_27_A_18798_typ_evefd
-
-__unknown_file (/
-%functionPrototype_2%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_3"
-__setProto*
-	
-%func_2*1
-/
-%functionPrototype_2%SonarFunctionPrototypeî
-ë
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js6 6(
-
-
-%expr_24"
-CustomEvent"__id*
-	
-%func_2Z
-X
-
-__unknown_file (
-%sc-A_18794_env_16"__id* *
-
-%env"
-%scope-A_18794_envO
-M
-
-__unknown_file (
-
-%expr_25"__id**
-
-%sc-A_18794_env_16"
-envE
-C
-
-__unknown_file (
-
-%expr_26"__id**
-
-
-%expr_25"
-winJ
-H
-
-__unknown_file (
-
-%expr_27"__id**
-
-
-%expr_26"
-
-documentn
-l
-
-__unknown_file (	
-%func_3"__declareFunction*20
-.test_unit_inabox_test_utils_js_57_36_A_18799_0fd
-
-__unknown_file (/
-%functionPrototype_3%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_4"
-__setProto*
-	
-%func_3*1
-/
-%functionPrototype_3%SonarFunctionPrototypeî
-ë
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js9 9( 
-
-
-%expr_27"
-createEvent"__id*
-	
-%func_3Z
-X
-
-__unknown_file (
-%sc-A_18794_env_17"__id* *
-
-%env"
-%scope-A_18794_envO
-M
-
-__unknown_file (
-
-%expr_28"__id**
-
-%sc-A_18794_env_17"
-envE
-C
-
-__unknown_file (
-
-%expr_29"__id**
-
-
-%expr_28"
-winZ
-X
-
-__unknown_file (
-%sc-A_18794_env_18"__id* *
-
-%env"
-%scope-A_18794_env∏
-µ
-_
-U/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/inabox/test-utils.js< <(
-
-
-%expr_29"
-dispatchEvent"__id*-*+
-
-%sc-A_18794_env_18"
-dispatchEventStub"
-
-__unknown_file ( :
-%envB 

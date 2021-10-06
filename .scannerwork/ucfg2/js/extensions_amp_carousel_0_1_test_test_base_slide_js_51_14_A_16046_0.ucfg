@@ -1,1019 +1,0 @@
-
-Cextensions_amp_carousel_0_1_test_test_base_slide_js_51_14_A_16046_0t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.js3 3("s3_1*üc
-s3_1
-<synthetic> (Y
-W
-
-__unknown_file (
-%sc-A_16045_env_0"__id* *
-
-%env"
-%scope-A_16045_envY
-W
-
-__unknown_file (
-%sc-A_16045_env_1"__id* *
-
-%env"
-%scope-A_16045_envM
-K
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-A_16045_env_1"
-env³
-°
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.js4 4(
-
-%sc-A_16045_env_0"
-win"__id**
-	
-%expr_0"
-winY
-W
-
-__unknown_file (
-%sc-A_16045_env_2"__id* *
-
-%env"
-%scope-A_16045_envY
-W
-
-__unknown_file (
-%sc-A_16045_env_3"__id* *
-
-%env"
-%scope-A_16045_envM
-K
-
-__unknown_file (	
-%expr_1"__id**
-
-%sc-A_16045_env_3"
-win¸
-µ
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.js5 5(
-
-%sc-A_16045_env_2"
-doc"__id**
-	
-%expr_1"
-
-documentY
-W
-
-__unknown_file (
-%sc-A_16045_env_4"__id* *
-
-%env"
-%scope-A_16045_envY
-W
-
-__unknown_file (
-%sc-A_16045_env_5"__id* *
-
-%env"
-%scope-A_16045_envM
-K
-
-__unknown_file (	
-%expr_2"__id**
-
-%sc-A_16045_env_5"
-envG
-E
-
-__unknown_file (	
-%expr_3"__id**
-	
-%expr_2"	
-sandboxC
-A
-
-__unknown_file (	
-%expr_4"__id**
-	
-%expr_3"
-spy²"¯
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.js6! 6($
-
-%methRes_0*
-	
-%expr_3"
-spy2
-	
-%expr_32
-
-%env¸
-µ
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.js6 6('
-
-%sc-A_16045_env_4"
-buildSlidesSpy"__id*
-
-
-%methRes_0Y
-W
-
-__unknown_file (
-%sc-A_16045_env_6"__id* *
-
-%env"
-%scope-A_16045_envY
-W
-
-__unknown_file (
-%sc-A_16045_env_7"__id* *
-
-%env"
-%scope-A_16045_envM
-K
-
-__unknown_file (	
-%expr_5"__id**
-
-%sc-A_16045_env_7"
-envG
-E
-
-__unknown_file (	
-%expr_6"__id**
-	
-%expr_5"	
-sandboxC
-A
-
-__unknown_file (	
-%expr_7"__id**
-	
-%expr_6"
-spy²"¯
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.js7& 7()
-
-%methRes_1*
-	
-%expr_6"
-spy2
-	
-%expr_62
-
-%env½
-º
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.js7 7(,
-
-%sc-A_16045_env_6"
-viewportCallbackSpy"__id*
-
-
-%methRes_1Y
-W
-
-__unknown_file (
-%sc-A_16045_env_8"__id* *
-
-%env"
-%scope-A_16045_envY
-W
-
-__unknown_file (
-%sc-A_16045_env_9"__id* *
-
-%env"
-%scope-A_16045_envM
-K
-
-__unknown_file (	
-%expr_8"__id**
-
-%sc-A_16045_env_9"
-envG
-E
-
-__unknown_file (	
-%expr_9"__id**
-	
-%expr_8"	
-sandboxD
-B
-
-__unknown_file (
-
-%expr_10"__id**
-	
-%expr_9"
-spy²"¯
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.js8 8( 
-
-%methRes_2*
-	
-%expr_9"
-spy2
-	
-%expr_92
-
-%env´
-±
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.js8 8(#
-
-%sc-A_16045_env_8"
-
-hasPrevSpy"__id*
-
-
-%methRes_2Z
-X
-
-__unknown_file (
-%sc-A_16045_env_10"__id* *
-
-%env"
-%scope-A_16045_envZ
-X
-
-__unknown_file (
-%sc-A_16045_env_11"__id* *
-
-%env"
-%scope-A_16045_envO
-M
-
-__unknown_file (
-
-%expr_11"__id**
-
-%sc-A_16045_env_11"
-envI
-G
-
-__unknown_file (
-
-%expr_12"__id**
-
-
-%expr_11"	
-sandboxE
-C
-
-__unknown_file (
-
-%expr_13"__id**
-
-
-%expr_12"
-spy´"±
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.js9 9( 
-
-%methRes_3*
-
-
-%expr_12"
-spy2
-
-
-%expr_122
-
-%envµ
-²
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.js9 9($
-
-%sc-A_16045_env_10"
-
-hasNextSpy"__id*
-
-
-%methRes_3Z
-X
-
-__unknown_file (
-%sc-A_16045_env_12"__id* *
-
-%env"
-%scope-A_16045_envZ
-X
-
-__unknown_file (
-%sc-A_16045_env_13"__id* *
-
-%env"
-%scope-A_16045_envO
-M
-
-__unknown_file (
-
-%expr_14"__id**
-
-%sc-A_16045_env_13"
-envI
-G
-
-__unknown_file (
-
-%expr_15"__id**
-
-
-%expr_14"	
-sandboxE
-C
-
-__unknown_file (
-
-%expr_16"__id**
-
-
-%expr_15"
-spy´"±
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.js:  :(#
-
-%methRes_4*
-
-
-%expr_15"
-spy2
-
-
-%expr_152
-
-%env¸
-µ
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.js: :('
-
-%sc-A_16045_env_12"
-goCallbackSpy"__id*
-
-
-%methRes_4Z
-X
-
-__unknown_file (
-%sc-A_16045_env_14"__id* *
-
-%env"
-%scope-A_16045_envZ
-X
-
-__unknown_file (
-%sc-A_16045_env_15"__id* *
-
-%env"
-%scope-A_16045_envO
-M
-
-__unknown_file (
-
-%expr_17"__id**
-
-%sc-A_16045_env_15"
-envI
-G
-
-__unknown_file (
-
-%expr_18"__id**
-
-
-%expr_17"	
-sandboxO
-M
-
-__unknown_file (
-%sc-P_1479_0"__id**
-
-%env"
-%scope-P_1479P
-N
-
-__unknown_file (
-
-%expr_19"__id* *
-
-%sc-P_1479_0"
-
-BaseSlidesE
-C
-
-__unknown_file (
-
-%expr_20"__id**
-
-
-%expr_18"
-spyå"â
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.js;# ;(&
-
-%methRes_5*
-
-
-%expr_18"
-spy2
-
-
-%expr_182
-
-%env2*
-
-
-%expr_19"
-	prototype2
-setupAutoplay_»
-¸
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.js; ;(*
-
-%sc-A_16045_env_14"
-setupAutoplaySpy"__id*
-
-
-%methRes_5Z
-X
-
-__unknown_file (
-%sc-A_16045_env_16"__id* *
-
-%env"
-%scope-A_16045_envZ
-X
-
-__unknown_file (
-%sc-A_16045_env_17"__id* *
-
-%env"
-%scope-A_16045_envO
-M
-
-__unknown_file (
-
-%expr_21"__id**
-
-%sc-A_16045_env_17"
-envI
-G
-
-__unknown_file (
-
-%expr_22"__id**
-
-
-%expr_21"	
-sandboxO
-M
-
-__unknown_file (
-%sc-P_1479_1"__id**
-
-%env"
-%scope-P_1479P
-N
-
-__unknown_file (
-
-%expr_23"__id* *
-
-%sc-P_1479_1"
-
-BaseSlidesE
-C
-
-__unknown_file (
-
-%expr_24"__id**
-
-
-%expr_22"
-spyã"à
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.js<" <(%
-
-%methRes_6*
-
-
-%expr_22"
-spy2
-
-
-%expr_222
-
-%env2*
-
-
-%expr_23"
-	prototype2
-buildButtonsº
-·
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.js< <()
-
-%sc-A_16045_env_16"
-buildButtonsSpy"__id*
-
-
-%methRes_6Z
-X
-
-__unknown_file (
-%sc-A_16045_env_18"__id* *
-
-%env"
-%scope-A_16045_envZ
-X
-
-__unknown_file (
-%sc-A_16045_env_19"__id* *
-
-%env"
-%scope-A_16045_envO
-M
-
-__unknown_file (
-
-%expr_25"__id**
-
-%sc-A_16045_env_19"
-envI
-G
-
-__unknown_file (
-
-%expr_26"__id**
-
-
-%expr_25"	
-sandboxO
-M
-
-__unknown_file (
-%sc-P_1479_2"__id**
-
-%env"
-%scope-P_1479P
-N
-
-__unknown_file (
-
-%expr_27"__id* *
-
-%sc-P_1479_2"
-
-BaseSlidesE
-C
-
-__unknown_file (
-
-%expr_28"__id**
-
-
-%expr_26"
-spyä"á
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.js=# =(&
-
-%methRes_7*
-
-
-%expr_26"
-spy2
-
-
-%expr_262
-
-%env2*
-
-
-%expr_27"
-	prototype2
-setupGestures»
-¸
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.js= =(*
-
-%sc-A_16045_env_18"
-setupGesturesSpy"__id*
-
-
-%methRes_7Z
-X
-
-__unknown_file (
-%sc-A_16045_env_20"__id* *
-
-%env"
-%scope-A_16045_envZ
-X
-
-__unknown_file (
-%sc-A_16045_env_21"__id* *
-
-%env"
-%scope-A_16045_envO
-M
-
-__unknown_file (
-
-%expr_29"__id**
-
-%sc-A_16045_env_21"
-envI
-G
-
-__unknown_file (
-
-%expr_30"__id**
-
-
-%expr_29"	
-sandboxO
-M
-
-__unknown_file (
-%sc-P_1479_3"__id**
-
-%env"
-%scope-P_1479P
-N
-
-__unknown_file (
-
-%expr_31"__id* *
-
-%sc-P_1479_3"
-
-BaseSlidesE
-C
-
-__unknown_file (
-
-%expr_32"__id**
-
-
-%expr_30"
-spyç"ä
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.js>& >()
-
-%methRes_8*
-
-
-%expr_30"
-spy2
-
-
-%expr_302
-
-%env2*
-
-
-%expr_31"
-	prototype2
-setControlsState¾
-»
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.js> >(-
-
-%sc-A_16045_env_20"
-setControlsStateSpy"__id*
-
-
-%methRes_8Z
-X
-
-__unknown_file (
-%sc-A_16045_env_22"__id* *
-
-%env"
-%scope-A_16045_envZ
-X
-
-__unknown_file (
-%sc-A_16045_env_23"__id* *
-
-%env"
-%scope-A_16045_envO
-M
-
-__unknown_file (
-
-%expr_33"__id**
-
-%sc-A_16045_env_23"
-envI
-G
-
-__unknown_file (
-
-%expr_34"__id**
-
-
-%expr_33"	
-sandboxO
-M
-
-__unknown_file (
-%sc-P_1479_4"__id**
-
-%env"
-%scope-P_1479P
-N
-
-__unknown_file (
-
-%expr_35"__id* *
-
-%sc-P_1479_4"
-
-BaseSlidesE
-C
-
-__unknown_file (
-
-%expr_36"__id**
-
-
-%expr_34"
-spyã"à
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.jsB" B(%
-
-%methRes_9*
-
-
-%expr_34"
-spy2
-
-
-%expr_342
-
-%env2*
-
-
-%expr_35"
-	prototype2
-hintControlsº
-·
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.jsB B()
-
-%sc-A_16045_env_22"
-hintControlsSpy"__id*
-
-
-%methRes_9Z
-X
-
-__unknown_file (
-%sc-A_16045_env_24"__id* *
-
-%env"
-%scope-A_16045_envZ
-X
-
-__unknown_file (
-%sc-A_16045_env_25"__id* *
-
-%env"
-%scope-A_16045_envO
-M
-
-__unknown_file (
-
-%expr_37"__id**
-
-%sc-A_16045_env_25"
-envI
-G
-
-__unknown_file (
-
-%expr_38"__id**
-
-
-%expr_37"	
-sandboxO
-M
-
-__unknown_file (
-%sc-P_1479_5"__id**
-
-%env"
-%scope-P_1479P
-N
-
-__unknown_file (
-
-%expr_39"__id* *
-
-%sc-P_1479_5"
-
-BaseSlidesE
-C
-
-__unknown_file (
-
-%expr_40"__id**
-
-
-%expr_38"
-spyá"Þ
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.jsC C(!
-%methRes_10*
-
-
-%expr_38"
-spy2
-
-
-%expr_382
-
-%env2*
-
-
-%expr_39"
-	prototype2
-	autoplay_·
-´
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.jsC C(%
-
-%sc-A_16045_env_24"
-autoplaySpy"__id*
-
-%methRes_10Z
-X
-
-__unknown_file (
-%sc-A_16045_env_26"__id* *
-
-%env"
-%scope-A_16045_envZ
-X
-
-__unknown_file (
-%sc-A_16045_env_27"__id* *
-
-%env"
-%scope-A_16045_envO
-M
-
-__unknown_file (
-
-%expr_41"__id**
-
-%sc-A_16045_env_27"
-envI
-G
-
-__unknown_file (
-
-%expr_42"__id**
-
-
-%expr_41"	
-sandboxO
-M
-
-__unknown_file (
-%sc-P_1479_6"__id**
-
-%env"
-%scope-P_1479P
-N
-
-__unknown_file (
-
-%expr_43"__id* *
-
-%sc-P_1479_6"
-
-BaseSlidesE
-C
-
-__unknown_file (
-
-%expr_44"__id**
-
-
-%expr_42"
-spyå"â
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.jsD# D(&
-%methRes_11*
-
-
-%expr_42"
-spy2
-
-
-%expr_422
-
-%env2*
-
-
-%expr_43"
-	prototype2
-clearAutoplay¼
-¹
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.jsD D(*
-
-%sc-A_16045_env_26"
-clearAutoplaySpy"__id*
-
-%methRes_11Z
-X
-
-__unknown_file (
-%sc-A_16045_env_28"__id* *
-
-%env"
-%scope-A_16045_envZ
-X
-
-__unknown_file (
-%sc-A_16045_env_29"__id* *
-
-%env"
-%scope-A_16045_envO
-M
-
-__unknown_file (
-
-%expr_45"__id**
-
-%sc-A_16045_env_29"
-envI
-G
-
-__unknown_file (
-
-%expr_46"__id**
-
-
-%expr_45"	
-sandboxO
-M
-
-__unknown_file (
-%sc-P_1479_7"__id**
-
-%env"
-%scope-P_1479P
-N
-
-__unknown_file (
-
-%expr_47"__id* *
-
-%sc-P_1479_7"
-
-BaseSlidesE
-C
-
-__unknown_file (
-
-%expr_48"__id**
-
-
-%expr_46"
-spyì"é
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.jsE& E()
-%methRes_12*
-
-
-%expr_46"
-spy2
-
-
-%expr_462
-
-%env2*
-
-
-%expr_47"
-	prototype2
-viewportCallbackTemp¿
-¼
-t
-j/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-carousel/0.1/test/test-base-slide.jsE E(-
-
-%sc-A_16045_env_28"
-viewportCallbackSpy"__id*
-
-%methRes_12"
-
-__unknown_file ( :
-%envB 

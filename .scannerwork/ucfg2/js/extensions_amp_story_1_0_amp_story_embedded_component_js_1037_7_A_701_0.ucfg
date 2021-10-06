@@ -1,592 +1,0 @@
-
-Gextensions_amp_story_1_0_amp_story_embedded_component_js_1037_7_A_701_0{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsç ç("s53_1*µ
-s53_1
-<synthetic> (W
-U
-
-__unknown_file (
-%sc-FE_350_tar_0"__id**
-
-%env"
-%scope-FE_350_tarO
-M
-
-__unknown_file (	
-%expr_0"__id* *
-
-%sc-FE_350_tar_0"
-targetU
-S
-
-__unknown_file (	
-%expr_1"__id*&*$
-	
-%expr_0"
-getBoundingClientRectÀ"»
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsé) é(>
-
-%methRes_0*$
-	
-%expr_0"
-getBoundingClientRect2
-	
-%expr_02
-
-%env§
-°
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsé é(
-
-targetRect"__id*
-
-
-%methRes_0O
-M
-
-__unknown_file (	
-%expr_2"__id* *
-
-%env"
-_this_1_FE_350_tarN
-L
-
-__unknown_file (	
-%expr_3"__id**
-	
-%expr_2"
-componentPage_U
-S
-
-__unknown_file (	
-%expr_4"__id*&*$
-	
-%expr_3"
-getBoundingClientRectÀ"»
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsë4 ë(I
-
-%methRes_1*$
-	
-%expr_3"
-getBoundingClientRect2
-	
-%expr_32
-
-%env¢
-ü
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsë ë(
-
-pageRect"__id*
-
-
-%methRes_1W
-U
-
-__unknown_file (
-%sc-FE_350_tar_1"__id**
-
-%env"
-%scope-FE_350_tarO
-M
-
-__unknown_file (	
-%expr_5"__id* *
-
-%sc-FE_350_tar_1"
-target≥
-∞
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsí í(
-
-realHeight"__id**
-	
-%expr_5"
-offsetHeightK
-I
-
-__unknown_file (
-
-%sc-P_92_0"__id**
-
-%env"
-%scope-P_92≤
-Ø
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsì ì(<
-%fieldAccess_0"__id**
-
-
-pageRect"
-heightæ
-ª
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsì ì(<
-%fieldAccess_1"__id*$*"
-
-
-%sc-P_92_0"
-VERTICAL_PADDING¡
-æ
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsì ì(<
-%binOpRes_0"__js_sub*
-
-%fieldAccess_0*
-
-%fieldAccess_1§
-°
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsì ì(
-	maxHeight"__id*
-
-%binOpRes_0W
-U
-
-__unknown_file (
-%sc-FE_350_tar_2"__id**
-
-%env"
-%scope-FE_350_tarN
-L
-
-__unknown_file (	
-%expr_6"__id**
-
-%sc-FE_350_tar_2"
-state®
-•
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsî î(
-	
-%expr_6"
-scaleFactor"__id*2¡
-æ
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsï ï("
-%binOpRes_1"__js_greater_than*
-
-
-realHeight*
-
-	maxHeight*
-s53_2
-s53_3*¡
-s53_2
-<synthetic> (W
-U
-
-__unknown_file (
-%sc-FE_350_tar_3"__id**
-
-%env"
-%scope-FE_350_tarN
-L
-
-__unknown_file (	
-%expr_7"__id**
-
-%sc-FE_350_tar_3"
-state∏
-µ
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsñ ñ(4
-%binOpRes_2"__js_div*
-
-	maxHeight*
-
-
-realHeight≥
-∞
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsñ
- ñ(
-	
-%expr_7"
-scaleFactor"__id*
-
-%binOpRes_2*
-s53_3*Ù>
-s53_3
-<synthetic> (W
-U
-
-__unknown_file (
-%sc-FE_350_tar_4"__id**
-
-%env"
-%scope-FE_350_tarR
-P
-
-__unknown_file (	
-%expr_8"__id*#*!
-
-%sc-FE_350_tar_4"
-	embedData∞
-≠
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsõ õ(;
-%fieldAccess_2"__id**
-	
-%expr_8"
-width≥
-∞
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsõ õ(;
-%fieldAccess_3"__id**
-
-
-targetRect"
-width¡
-æ
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsõ õ(;
-%binOpRes_3"__js_sub*
-
-%fieldAccess_2*
-
-%fieldAccess_3∞
-≠
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsõ õ(@
-%binOpRes_4"__js_div*
-
-%binOpRes_3*2¢
-ü
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsõ õ(	
-leftGap"__id*
-
-%binOpRes_4≤
-Ø
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsû û(8
-%fieldAccess_4"__id**
-
-
-targetRect"
-left∫
-∑
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsû û(8
-%binOpRes_5"__js_sub*
-
-%fieldAccess_4*
-	
-leftGap∞
-≠
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsû û(H
-%fieldAccess_5"__id**
-
-
-pageRect"
-leftæ
-ª
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsû û(H
-%binOpRes_6"__js_sub*
-
-%binOpRes_5*
-
-%fieldAccess_5©
-¶
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsû û(
-fullScreenLeft"__id*
-
-%binOpRes_6±
-Æ
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsü ü(/
-%fieldAccess_6"__id**
-
-
-pageRect"
-width≥
-∞
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsü ü(/
-%binOpRes_7"__js_div*
-
-%fieldAccess_6*2W
-U
-
-__unknown_file (
-%sc-FE_350_tar_5"__id**
-
-%env"
-%scope-FE_350_tarR
-P
-
-__unknown_file (	
-%expr_9"__id*#*!
-
-%sc-FE_350_tar_5"
-	embedData∞
-≠
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsü2 ü(E
-%fieldAccess_7"__id**
-	
-%expr_9"
-width≥
-∞
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsü2 ü(E
-%binOpRes_8"__js_div*
-
-%fieldAccess_7*2ª
-∏
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsü ü(E
-%binOpRes_9"__js_sub*
-
-%binOpRes_7*
-
-%binOpRes_8ß
-§
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsü ü(
-centeredLeft"__id*
-
-%binOpRes_9W
-U
-
-__unknown_file (
-%sc-FE_350_tar_6"__id**
-
-%env"
-%scope-FE_350_tarO
-M
-
-__unknown_file (
-
-%expr_10"__id**
-
-%sc-FE_350_tar_6"
-state¿
-Ω
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.js† †(8
-%binOpRes_10"__js_sub*
-
-centeredLeft*
-
-fullScreenLeft¥
-±
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.js† †(
-
-
-%expr_10"
-
-translateX"__id*
-
-%binOpRes_10W
-U
-
-__unknown_file (
-%sc-FE_350_tar_7"__id**
-
-%env"
-%scope-FE_350_tarO
-M
-
-__unknown_file (
-
-%expr_11"__id**
-
-%sc-FE_350_tar_7"
-state∑
-¥
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.js§ §(6
-%fieldAccess_8"__id**
-
-
-%expr_11"
-scaleFactoræ
-ª
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.js§ §(6
-%binOpRes_11"__js_mul*
-
-
-realHeight*
-
-%fieldAccess_8¥
-±
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.js§ §(J
-%fieldAccess_9"__id**
-
-
-targetRect"
-height¿
-Ω
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.js§ §(J
-%binOpRes_12"__js_sub*
-
-%binOpRes_11*
-
-%fieldAccess_9≤
-Ø
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.js§ §(O
-%binOpRes_13"__js_div*
-
-%binOpRes_12*2¢
-ü
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.js§ §(
-topGap"__id*
-
-%binOpRes_13≤
-Ø
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsß ß(5
-%fieldAccess_10"__id**
-
-
-targetRect"
-topª
-∏
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsß ß(5
-%binOpRes_14"__js_sub*
-
-%fieldAccess_10*
-
-
-topGap∞
-≠
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsß ß(D
-%fieldAccess_11"__id**
-
-
-pageRect"
-top¡
-æ
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsß ß(D
-%binOpRes_15"__js_sub*
-
-%binOpRes_14*
-
-%fieldAccess_11©
-¶
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.jsß ß(
-fullScreenTop"__id*
-
-%binOpRes_15≥
-∞
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.js©
- ©(
-%fieldAccess_12"__id**
-
-
-pageRect"
-heightµ
-≤
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.js©
- ©(
-%binOpRes_16"__js_div*
-
-%fieldAccess_12*2W
-U
-
-__unknown_file (
-%sc-FE_350_tar_8"__id**
-
-%env"
-%scope-FE_350_tarO
-M
-
-__unknown_file (
-
-%expr_12"__id**
-
-%sc-FE_350_tar_8"
-state∏
-µ
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.js©! ©(?
-%fieldAccess_13"__id**
-
-
-%expr_12"
-scaleFactorø
-º
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.js©! ©(?
-%binOpRes_17"__js_mul*
-
-
-realHeight*
-
-%fieldAccess_13≤
-Ø
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.js©  ©(D
-%binOpRes_18"__js_div*
-
-%binOpRes_17*2æ
-ª
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.js©
- ©(D
-%binOpRes_19"__js_sub*
-
-%binOpRes_16*
-
-%binOpRes_18ß
-§
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.js® ®(
-centeredTop"__id*
-
-%binOpRes_19W
-U
-
-__unknown_file (
-%sc-FE_350_tar_9"__id**
-
-%env"
-%scope-FE_350_tarO
-M
-
-__unknown_file (
-
-%expr_13"__id**
-
-%sc-FE_350_tar_9"
-stateæ
-ª
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.js™ ™(6
-%binOpRes_20"__js_sub*
-
-centeredTop*
-
-fullScreenTop¥
-±
-{
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-story/1.0/amp-story-embedded-component.js™ ™(
-
-
-%expr_13"
-
-translateY"__id*
-
-%binOpRes_20"
-
-__unknown_file ( :
-%envB 

@@ -1,1166 +1,0 @@
-
-Hextensions_amp_analytics_0_1_test_test_scroll_manager_js_33_14_A_32869_0y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js! !("s4_1*©‰
-s4_1
-<synthetic> (Y
-W
-
-__unknown_file (
-%sc-A_32868_env_0"__id* *
-
-%env"
-%scope-A_32868_envY
-W
-
-__unknown_file (
-%sc-A_32868_env_1"__id* *
-
-%env"
-%scope-A_32868_envM
-K
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-A_32868_env_1"
-env¸
-µ
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js" "(
-
-%sc-A_32868_env_0"
-win"__id**
-	
-%expr_0"
-winY
-W
-
-__unknown_file (
-%sc-A_32868_env_2"__id* *
-
-%env"
-%scope-A_32868_envY
-W
-
-__unknown_file (
-%sc-A_32868_env_3"__id* *
-
-%env"
-%scope-A_32868_envM
-K
-
-__unknown_file (	
-%expr_1"__id**
-
-%sc-A_32868_env_3"
-env¾
-»
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js# #(
-
-
-%sc-A_32868_env_2"
-ampdoc"__id**
-	
-%expr_1"
-ampdocY
-W
-
-__unknown_file (
-%sc-A_32868_env_4"__id* *
-
-%env"
-%scope-A_32868_envO
-M
-
-__unknown_file (
-%sc-P_3008_0"__id**
-
-%env"
-%scope-P_3008Y
-W
-
-__unknown_file (
-%sc-A_32868_env_5"__id* *
-
-%env"
-%scope-A_32868_env›˜
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js$ $(*
-	%object_0Object"ObjectX
-V
-
-__unknown_file (	
-%expr_2"__id*)*'
-
-%sc-P_3008_0"
-AmpdocAnalyticsRootù"ö
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js$ $(*
-
-%methRes_0*'
-
-%sc-P_3008_0"
-AmpdocAnalyticsRoot2
-
-	%object_0Object2
-
-%env2!*
-
-%sc-A_32868_env_5"
-ampdocP
-N
-
-__unknown_file (
-%fieldAccess_0"__id**
-	
-%expr_2"
-	prototype^
-\
-
-__unknown_file (	
-%void_0"
-__setProto*
-
-	%object_0Object*
-
-%fieldAccess_0º
-·
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js$ $(
-
-%sc-A_32868_env_4"
-root"__id*
-
-	%object_0ObjectY
-W
-
-__unknown_file (
-%sc-A_32868_env_6"__id* *
-
-%env"
-%scope-A_32868_envY
-W
-
-__unknown_file (
-%sc-A_32868_env_7"__id* *
-
-%env"
-%scope-A_32868_envM
-K
-
-__unknown_file (	
-%expr_3"__id**
-
-%sc-A_32868_env_7"
-winH
-F
-
-__unknown_file (	
-%expr_4"__id**
-	
-%expr_3"
-
-documentº
-·
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js% %(
-
-%sc-A_32868_env_6"
-body"__id**
-	
-%expr_4"
-bodyY
-W
-
-__unknown_file (
-%sc-A_32868_env_8"__id* *
-
-%env"
-%scope-A_32868_envY
-W
-
-__unknown_file (
-%sc-A_32868_env_9"__id* *
-
-%env"
-%scope-A_32868_envM
-K
-
-__unknown_file (	
-%expr_5"__id**
-
-%sc-A_32868_env_9"
-winH
-F
-
-__unknown_file (	
-%expr_6"__id**
-	
-%expr_5"
-
-documentM
-K
-
-__unknown_file (	
-%expr_7"__id**
-	
-%expr_6"
-createElementÍ"Ê
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js' '('
-
-%methRes_1*
-	
-%expr_6"
-createElement2
-	
-%expr_62
-
-%env2
-
-targetµ
-²
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js' '(
-
-
-%sc-A_32868_env_8"
-target"__id*
-
-
-%methRes_1Z
-X
-
-__unknown_file (
-%sc-A_32868_env_10"__id* *
-
-%env"
-%scope-A_32868_envQ
-O
-
-__unknown_file (	
-%expr_8"__id*"* 
-
-%sc-A_32868_env_10"
-target£
- 
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js( ((
-	
-%expr_8"
-id"__id*
-
-targetZ
-X
-
-__unknown_file (
-%sc-A_32868_env_11"__id* *
-
-%env"
-%scope-A_32868_envQ
-O
-
-__unknown_file (	
-%expr_9"__id*"* 
-
-%sc-A_32868_env_11"
-targetª
-§
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js) )(
-	
-%expr_9"
-	className"__id*
-
-targetZ
-X
-
-__unknown_file (
-%sc-A_32868_env_12"__id* *
-
-%env"
-%scope-A_32868_envP
-N
-
-__unknown_file (
-
-%expr_10"__id* *
-
-%sc-A_32868_env_12"
-bodyZ
-X
-
-__unknown_file (
-%sc-A_32868_env_13"__id* *
-
-%env"
-%scope-A_32868_envM
-K
-
-__unknown_file (
-
-%expr_11"__id**
-
-
-%expr_10"
-appendChildå"â
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js*	 *(
-
-%methRes_2*
-
-
-%expr_10"
-appendChild2
-
-
-%expr_102
-
-%env2"* 
-
-%sc-A_32868_env_13"
-targetZ
-X
-
-__unknown_file (
-%sc-A_32868_env_14"__id* *
-
-%env"
-%scope-A_32868_envZ
-X
-
-__unknown_file (
-%sc-A_32868_env_15"__id* *
-
-%env"
-%scope-A_32868_envO
-M
-
-__unknown_file (
-
-%expr_12"__id**
-
-%sc-A_32868_env_15"
-winJ
-H
-
-__unknown_file (
-
-%expr_13"__id**
-
-
-%expr_12"
-
-documentO
-M
-
-__unknown_file (
-
-%expr_14"__id**
-
-
-%expr_13"
-createElementÎ"Ë
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js, ,(&
-
-%methRes_3*
-
-
-%expr_13"
-createElement2
-
-
-%expr_132
-
-%env2	
-childµ
-²
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js, ,(	
-
-%sc-A_32868_env_14"
-child"__id*
-
-
-%methRes_3Z
-X
-
-__unknown_file (
-%sc-A_32868_env_16"__id* *
-
-%env"
-%scope-A_32868_envQ
-O
-
-__unknown_file (
-
-%expr_15"__id*!*
-
-%sc-A_32868_env_16"
-child£
- 
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js- -(
-
-
-%expr_15"
-id"__id*	
-childZ
-X
-
-__unknown_file (
-%sc-A_32868_env_17"__id* *
-
-%env"
-%scope-A_32868_envQ
-O
-
-__unknown_file (
-
-%expr_16"__id*!*
-
-%sc-A_32868_env_17"
-childª
-§
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js. .(
-
-
-%expr_16"
-	className"__id*	
-childZ
-X
-
-__unknown_file (
-%sc-A_32868_env_18"__id* *
-
-%env"
-%scope-A_32868_envR
-P
-
-__unknown_file (
-
-%expr_17"__id*"* 
-
-%sc-A_32868_env_18"
-targetZ
-X
-
-__unknown_file (
-%sc-A_32868_env_19"__id* *
-
-%env"
-%scope-A_32868_envM
-K
-
-__unknown_file (
-
-%expr_18"__id**
-
-
-%expr_17"
-appendChildä"á
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js/ /(
-
-%methRes_4*
-
-
-%expr_17"
-appendChild2
-
-
-%expr_172
-
-%env2!*
-
-%sc-A_32868_env_19"
-childZ
-X
-
-__unknown_file (
-%sc-A_32868_env_20"__id* *
-
-%env"
-%scope-A_32868_envZ
-X
-
-__unknown_file (
-%sc-A_32868_env_21"__id* *
-
-%env"
-%scope-A_32868_envO
-M
-
-__unknown_file (
-
-%expr_19"__id**
-
-%sc-A_32868_env_21"
-winJ
-H
-
-__unknown_file (
-
-%expr_20"__id**
-
-
-%expr_19"
-
-documentO
-M
-
-__unknown_file (
-
-%expr_21"__id**
-
-
-%expr_20"
-createElementÌ"É
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js1 1(&
-
-%methRes_5*
-
-
-%expr_20"
-createElement2
-
-
-%expr_202
-
-%env2
-divµ
-²
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js1 1(	
-
-%sc-A_32868_env_20"
-other"__id*
-
-
-%methRes_5Z
-X
-
-__unknown_file (
-%sc-A_32868_env_22"__id* *
-
-%env"
-%scope-A_32868_envQ
-O
-
-__unknown_file (
-
-%expr_22"__id*!*
-
-%sc-A_32868_env_22"
-other£
- 
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js2 2(
-
-
-%expr_22"
-id"__id*	
-otherZ
-X
-
-__unknown_file (
-%sc-A_32868_env_23"__id* *
-
-%env"
-%scope-A_32868_envQ
-O
-
-__unknown_file (
-
-%expr_23"__id*!*
-
-%sc-A_32868_env_23"
-otherª
-§
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js3 3(
-
-
-%expr_23"
-	className"__id*	
-otherZ
-X
-
-__unknown_file (
-%sc-A_32868_env_24"__id* *
-
-%env"
-%scope-A_32868_envP
-N
-
-__unknown_file (
-
-%expr_24"__id* *
-
-%sc-A_32868_env_24"
-bodyZ
-X
-
-__unknown_file (
-%sc-A_32868_env_25"__id* *
-
-%env"
-%scope-A_32868_envM
-K
-
-__unknown_file (
-
-%expr_25"__id**
-
-
-%expr_24"
-appendChildä"á
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js4	 4(
-
-%methRes_6*
-
-
-%expr_24"
-appendChild2
-
-
-%expr_242
-
-%env2!*
-
-%sc-A_32868_env_25"
-otherZ
-X
-
-__unknown_file (
-%sc-A_32868_env_26"__id* *
-
-%env"
-%scope-A_32868_envO
-M
-
-__unknown_file (
-%sc-P_3008_1"__id**
-
-%env"
-%scope-P_3008Z
-X
-
-__unknown_file (
-%sc-A_32868_env_27"__id* *
-
-%env"
-%scope-A_32868_env›˜
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js6 6(+
-	%object_1Object"ObjectS
-Q
-
-__unknown_file (
-
-%expr_26"__id*#*!
-
-%sc-P_3008_1"
-ScrollManagerò"ï
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js6 6(+
-
-%methRes_7*!
-
-%sc-P_3008_1"
-ScrollManager2
-
-	%object_1Object2
-
-%env2 *
-
-%sc-A_32868_env_27"
-rootQ
-O
-
-__unknown_file (
-%fieldAccess_1"__id**
-
-
-%expr_26"
-	prototype^
-\
-
-__unknown_file (	
-%void_1"
-__setProto*
-
-	%object_1Object*
-
-%fieldAccess_1Ä
-Á
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js6 6('
-
-%sc-A_32868_env_26"
-scrollManager"__id*
-
-	%object_1ObjectZ
-X
-
-__unknown_file (
-%sc-A_32868_env_28"__id* *
-
-%env"
-%scope-A_32868_envP
-N
-
-__unknown_file (
-
-%expr_27"__id* *
-
-%sc-A_32868_env_28"
-rootZ
-X
-
-__unknown_file (
-%sc-A_32868_env_29"__id* *
-
-%env"
-%scope-A_32868_envÏ
-Ì
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js7 7(
-
-
-%expr_27"
-scrollManager_"__id*)*'
-
-%sc-A_32868_env_29"
-scrollManagerZ
-X
-
-__unknown_file (
-%sc-A_32868_env_30"__id* *
-
-%env"
-%scope-A_32868_envZ
-X
-
-__unknown_file (
-%sc-A_32868_env_31"__id* *
-
-%env"
-%scope-A_32868_envO
-M
-
-__unknown_file (
-
-%expr_28"__id**
-
-%sc-A_32868_env_31"
-envI
-G
-
-__unknown_file (
-
-%expr_29"__id**
-
-
-%expr_28"	
-sandboxF
-D
-
-__unknown_file (
-
-%expr_30"__id**
-
-
-%expr_29"
-stubº"·
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js:	 :(
-
-%methRes_8*
-
-
-%expr_29"
-stub2
-
-
-%expr_292
-
-%env›˜
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js; ;(;
-	%object_2Object"Object¦
-£
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js; ;(
-
-	%object_2Object"
-top"__id*2 §
-¤
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js; ;(!
-
-	%object_2Object"
-left"__id*2 ¬
-©
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js;# ;(.
-
-	%object_2Object"
-height"__id*2È«
-¨
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js;0 ;(:
-
-	%object_2Object"
-width"__id*2ÈK
-I
-
-__unknown_file (
-
-%expr_31"__id**
-
-
-%methRes_8"	
-returnsØ"Õ
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js;	 ;(
-
-%methRes_9*
-
-
-%methRes_8"	
-returns2
-
-
-%methRes_82
-
-%env2
-
-	%object_2ObjectZ
-X
-
-__unknown_file (
-%sc-A_32868_env_32"__id* *
-
-%env"
-%scope-A_32868_envO
-M
-
-__unknown_file (
-
-%expr_32"__id**
-
-%sc-A_32868_env_32"
-envI
-G
-
-__unknown_file (
-
-%expr_33"__id**
-
-
-%expr_32"	
-sandboxF
-D
-
-__unknown_file (
-
-%expr_34"__id**
-
-
-%expr_33"
-stub»"¸
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js<" <(&
-%methRes_10*
-
-
-%expr_33"
-stub2
-
-
-%expr_332
-
-%envL
-J
-
-__unknown_file (
-
-%expr_35"__id**
-
-%methRes_10"	
-returnsÈ"Å
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js<) <(0
-%methRes_11*
-
-%methRes_10"	
-returns2
-
-%methRes_102
-
-%env22 Z
-X
-
-__unknown_file (
-%sc-A_32868_env_33"__id* *
-
-%env"
-%scope-A_32868_envO
-M
-
-__unknown_file (
-
-%expr_36"__id**
-
-%sc-A_32868_env_33"
-envI
-G
-
-__unknown_file (
-
-%expr_37"__id**
-
-
-%expr_36"	
-sandboxF
-D
-
-__unknown_file (
-
-%expr_38"__id**
-
-
-%expr_37"
-stub»"¸
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js=# =('
-%methRes_12*
-
-
-%expr_37"
-stub2
-
-
-%expr_372
-
-%envL
-J
-
-__unknown_file (
-
-%expr_39"__id**
-
-%methRes_12"	
-returnsÈ"Å
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js=* =(1
-%methRes_13*
-
-%methRes_12"	
-returns2
-
-%methRes_122
-
-%env22 Z
-X
-
-__unknown_file (
-%sc-A_32868_env_34"__id* *
-
-%env"
-%scope-A_32868_envO
-M
-
-__unknown_file (
-
-%expr_40"__id**
-
-%sc-A_32868_env_34"
-envI
-G
-
-__unknown_file (
-
-%expr_41"__id**
-
-
-%expr_40"	
-sandboxF
-D
-
-__unknown_file (
-
-%expr_42"__id**
-
-
-%expr_41"
-stub»"¸
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js?	 ?(
-%methRes_14*
-
-
-%expr_41"
-stub2
-
-
-%expr_412
-
-%env›˜
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js@ @(;
-	%object_3Object"Object«
-¨
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js@ @(
-
-	%object_3Object"
-width"__id*2ô¬
-©
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js@ @()
-
-	%object_3Object"
-height"__id*2ô¦
-£
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js@+ @(1
-
-	%object_3Object"
-top"__id*2 §
-¤
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js@3 @(:
-
-	%object_3Object"
-left"__id*2 L
-J
-
-__unknown_file (
-
-%expr_43"__id**
-
-%methRes_14"	
-returnsÛ"Ø
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js@	 @(
-%methRes_15*
-
-%methRes_14"	
-returns2
-
-%methRes_142
-
-%env2
-
-	%object_3Object‰
-†
-
-__unknown_file (	
-%func_0"__declareFunction*LJ
-Hextensions_amp_analytics_0_1_test_test_scroll_manager_js_65_20_A_32870_0fd
-
-__unknown_file (/
-%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_2"
-__setProto*
-	
-%func_0*1
-/
-%functionPrototype_0%SonarFunctionPrototype›˜
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js8 D(
-	%object_4Object"Object¶
-³
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js9 ;(< 
-
-	%object_4Object"	
-getSize"__id*
-
-
-%methRes_9¼
-¹
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js< <(3%
-
-	%object_4Object"
-getScrollTop"__id*
-
-%methRes_11½
-º
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js= =(4&
-
-	%object_4Object"
-getScrollLeft"__id*
-
-%methRes_13½
-º
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js> @(<&
-
-	%object_4Object"
-getLayoutRect"__id*
-
-%methRes_15µ
-²
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.jsA C("
-
-	%object_4Object"
-	onChanged"__id*
-	
-%func_0Ã
-À
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.js8 8(&
-
-%sc-A_32868_env_30"
-fakeViewport"__id*
-
-	%object_4ObjectZ
-X
-
-__unknown_file (
-%sc-A_32868_env_35"__id* *
-
-%env"
-%scope-A_32868_envY
-W
-
-__unknown_file (
-
-%expr_44"__id*)*'
-
-%sc-A_32868_env_35"
-scrollManagerZ
-X
-
-__unknown_file (
-%sc-A_32868_env_36"__id* *
-
-%env"
-%scope-A_32868_envÉ
-Æ
-y
-o/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-analytics/0.1/test/test-scroll-manager.jsE E(
-
-
-%expr_44"
-	viewport_"__id*(*&
-
-%sc-A_32868_env_36"
-fakeViewport"
-
-__unknown_file ( :
-%envB 

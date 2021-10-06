@@ -1,543 +1,0 @@
-
-:extensions_amp_auto_ads_0_1_placement_js_201_54_A_5342_took
-_/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-auto-ads/0.1/placement.js…5 …(B"s13_1*s
-s13_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-global*
-s13_2
-s13_4*Ω
-s13_2
-<synthetic>
- 
-(\
-Z
-
-__unknown_file (	
-%expr_0"__id*-*+
-
-%env"!
-_this_1_FE_2242_bas_siz_adT_isRM
-K
-
-__unknown_file (
-%sc-P_564_0"__id**
-
-%env"
-%scope-P_564R
-P
-
-__unknown_file (	
-%expr_1"__id*#*!
-
-%sc-P_564_0"
-PlacementState¥
-±
-k
-_/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-auto-ads/0.1/placement.jsÀ
- À(
-	
-%expr_0"
-state_"__id*%*#
-	
-%expr_1"
-TOO_NEAR_EXISTING_AD\
-Z
-
-__unknown_file (	
-%expr_2"__id*-*+
-
-%env"!
-_this_1_FE_2242_bas_siz_adT_isR"Ü
-k
-_/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-auto-ads/0.1/placement.jsÃ
- Ã(*
-	
-%expr_2"
-state_*è
-s13_4
-<synthetic> (q
-o
-
-__unknown_file (
-%sc-FE_2242_bas_siz_adT_isR_0"__id*,**
-
-%env" 
-%scope-FE_2242_bas_siz_adT_isRl
-j
-
-__unknown_file (
-
-%leftAnd_0"__id*:*8
-
-%sc-FE_2242_bas_siz_adT_isR_0"
-isResponsiveEnabled*
-s13_5
-s13_6*‡
-s13_5
-<synthetic> (\
-Z
-
-__unknown_file (	
-%expr_3"__id*-*+
-
-%env"!
-_this_1_FE_2242_bas_siz_adT_isR\
-Z
-
-__unknown_file (	
-%expr_4"__id*-*+
-
-%env"!
-_this_1_FE_2242_bas_siz_adT_isRW
-U
-
-__unknown_file (	
-%expr_5"__id*(*&
-	
-%expr_3"
-isLayoutViewportNarrow_ﬁ"€
-k
-_/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-auto-ads/0.1/placement.js— —(&
-
-%methRes_0*&
-	
-%expr_3"
-isLayoutViewportNarrow_2
-	
-%expr_32
-
-%env2*
-	
-%expr_4"
-anchorElement_A
-?
-
-__unknown_file (
-%rightAnd_0"__id*
-
-
-%methRes_0*
-s13_6*∂
-s13_6
-<synthetic> (ß
-§
-k
-_/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-auto-ads/0.1/placement.jsœ œ(*
-shouldUseFullWidthResponsive"__id*
-
-%rightAnd_0\
-Z
-
-__unknown_file (	
-%expr_6"__id*-*+
-
-%env"!
-_this_1_FE_2242_bas_siz_adT_isR*
-s13_7
-s13_8*®
-s13_7
-<synthetic> (\
-Z
-
-__unknown_file (	
-%expr_7"__id*-*+
-
-%env"!
-_this_1_FE_2242_bas_siz_adT_isRq
-o
-
-__unknown_file (
-%sc-FE_2242_bas_siz_adT_isR_1"__id*,**
-
-%env" 
-%scope-FE_2242_bas_siz_adT_isRc
-a
-
-__unknown_file (	
-%expr_8"__id*4*2
-	
-%expr_7"%
-#createFullWidthResponsiveAdElement_Ä"˝
-k
-_/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-auto-ads/0.1/placement.js” ”(4
-
-%methRes_1*2
-	
-%expr_7"%
-#createFullWidthResponsiveAdElement_2
-	
-%expr_72
-
-%env25*3
-
-%sc-FE_2242_bas_siz_adT_isR_1"
-baseAttributesF
-D
-
-__unknown_file (
-%unionThenElse_0"__id*
-
-
-%methRes_1*
-s13_9*Ó
-s13_8
-<synthetic> (\
-Z
-
-__unknown_file (	
-%expr_9"__id*-*+
-
-%env"!
-_this_1_FE_2242_bas_siz_adT_isRq
-o
-
-__unknown_file (
-%sc-FE_2242_bas_siz_adT_isR_2"__id*,**
-
-%env" 
-%scope-FE_2242_bas_siz_adT_isRq
-o
-
-__unknown_file (
-%sc-FE_2242_bas_siz_adT_isR_3"__id*,**
-
-%env" 
-%scope-FE_2242_bas_siz_adT_isR]
-[
-
-__unknown_file (
-
-%expr_10"__id*-*+
-
-%sc-FE_2242_bas_siz_adT_isR_3"
-sizingQ
-O
-
-__unknown_file (
-
-%expr_11"__id*!*
-	
-%expr_9"
-createAdElement_Ü"É
-k
-_/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-auto-ads/0.1/placement.js‘ ‘(!
-
-%methRes_2*
-	
-%expr_9"
-createAdElement_2
-	
-%expr_92
-
-%env25*3
-
-%sc-FE_2242_bas_siz_adT_isR_2"
-baseAttributes2*
-
-
-%expr_10"
-widthF
-D
-
-__unknown_file (
-%unionThenElse_0"__id*
-
-
-%methRes_2*
-s13_9*±
-s13_9
-<synthetic> (ß
-§
-k
-_/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-auto-ads/0.1/placement.js“ “(
-	
-%expr_6"
-
-adElement_"__id*
-
-%unionThenElse_0]
-[
-
-__unknown_file (
-
-%expr_12"__id*-*+
-
-%env"!
-_this_1_FE_2242_bas_siz_adT_isR]
-[
-
-__unknown_file (
-
-%expr_13"__id*-*+
-
-%env"!
-_this_1_FE_2242_bas_siz_adT_isR]
-[
-
-__unknown_file (
-
-%expr_14"__id*-*+
-
-%env"!
-_this_1_FE_2242_bas_siz_adT_isRN
-L
-
-__unknown_file (
-
-%expr_15"__id**
-
-
-%expr_14"
-getAdElement¥"±
-k
-_/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-auto-ads/0.1/placement.js÷1 ÷(=
-
-%methRes_3*
-
-
-%expr_14"
-getAdElement2
-
-
-%expr_142
-
-%envK
-I
-
-__unknown_file (
-
-%expr_16"__id**
-
-
-%expr_12"
-	injector_„"‡
-k
-_/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-auto-ads/0.1/placement.js÷ ÷(
-
-%methRes_4*
-
-
-%expr_12"
-	injector_2
-
-
-%expr_122
-
-%env2 *
-
-
-%expr_13"
-anchorElement_2
-
-
-%methRes_3*
-s13_10
-s13_12*é
-s13_10
-<synthetic>	 	(M
-K
-
-__unknown_file (
-%sc-P_564_1"__id**
-
-%env"
-%scope-P_564]
-[
-
-__unknown_file (
-
-%expr_17"__id*-*+
-
-%env"!
-_this_1_FE_2242_bas_siz_adT_isRN
-L
-
-__unknown_file (
-
-%expr_18"__id**
-
-
-%expr_17"
-getAdElement¥"±
-k
-_/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-auto-ads/0.1/placement.js⁄- ⁄(9
-
-%methRes_5*
-
-
-%expr_17"
-getAdElement2
-
-
-%expr_172
-
-%envM
-K
-
-__unknown_file (
-%sc-P_564_2"__id**
-
-%env"
-%scope-P_564’"“
-k
-_/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-auto-ads/0.1/placement.js⁄ ⁄('
-
-%funcRes_0*.
-
-%sc-P_564_2"
-whenUpgradedToCustomElement2
-	
-%global2
-
-%env2
-
-
-%methRes_5x
-v
-
-__unknown_file (	
-%func_0"__declareFunction*<:
-8extensions_amp_auto_ads_0_1_placement_js_220_21_A_5343_0fd
-
-__unknown_file (/
-%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_0"
-__setProto*
-	
-%func_0*1
-/
-%functionPrototype_0%SonarFunctionPrototype∞"≠
-k
-_/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-auto-ads/0.1/placement.js‹ ‹(
-
-%funcRes_1"	
-%func_02
-	
-%global2
-
-%env2
-
-
-%funcRes_0x
-v
-
-__unknown_file (	
-%func_1"__declareFunction*<:
-8extensions_amp_auto_ads_0_1_placement_js_221_21_A_5344_0fd
-
-__unknown_file (/
-%functionPrototype_1%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_1"
-__setProto*
-	
-%func_1*1
-/
-%functionPrototype_1%SonarFunctionPrototype∞"≠
-k
-_/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-auto-ads/0.1/placement.js› ›(
-
-%funcRes_2"	
-%func_12
-	
-%global2
-
-%env2
-
-
-%funcRes_1"}
-k
-_/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-auto-ads/0.1/placement.jsŸ
- Ê(
-
-
-%funcRes_2*¿	
-s13_12
-<synthetic> (]
-[
-
-__unknown_file (
-
-%expr_19"__id*-*+
-
-%env"!
-_this_1_FE_2242_bas_siz_adT_isRq
-o
-
-__unknown_file (
-%sc-FE_2242_bas_siz_adT_isR_4"__id*,**
-
-%env" 
-%scope-FE_2242_bas_siz_adT_isRU
-S
-
-__unknown_file (
-
-%expr_20"__id*%*#
-
-
-%expr_19"
-getPlacementSizing_Í"Á
-k
-_/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-auto-ads/0.1/placement.jsÈ È('
-
-%methRes_6*#
-
-
-%expr_19"
-getPlacementSizing_2
-
-
-%expr_192
-
-%env2-*+
-
-%sc-FE_2242_bas_siz_adT_isR_4"
-sizingz
-x
-
-__unknown_file (	
-%func_2"__declareFunction*><
-:extensions_amp_auto_ads_0_1_placement_js_233_54_A_5345_plafd
-
-__unknown_file (/
-%functionPrototype_2%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_2"
-__setProto*
-	
-%func_2*1
-/
-%functionPrototype_2%SonarFunctionPrototype∞"≠
-k
-_/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-auto-ads/0.1/placement.jsÈ0 È(4
-
-%funcRes_3"	
-%func_22
-	
-%global2
-
-%env2
-
-
-%methRes_6"}
-k
-_/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-auto-ads/0.1/placement.jsÈ Å(
-
-
-%funcRes_3:
-%env:	
-tooNearB 

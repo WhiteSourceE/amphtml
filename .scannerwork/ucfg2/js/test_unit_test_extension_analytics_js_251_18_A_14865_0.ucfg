@@ -1,654 +1,0 @@
-
-6test_unit_test_extension_analytics_js_251_18_A_14865_0h
-\/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-extension-analytics.js˚ ˚("s28_1*∞B
-s28_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-globalU
-S
-
-__unknown_file (
-%sc-A_14864_0_0"__id**
-
-%env"
-%scope-A_14864_0Y
-W
-
-__unknown_file (
-%sc-A_14840_env_0"__id* *
-
-%env"
-%scope-A_14840_envM
-K
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-A_14840_env_0"
-env´
-®
-h
-\/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-extension-analytics.js¸ ¸(
-
-%sc-A_14864_0_0"
-ampdoc"__id**
-	
-%expr_0"
-ampdocU
-S
-
-__unknown_file (
-%sc-A_14864_0_1"__id**
-
-%env"
-%scope-A_14864_0Y
-W
-
-__unknown_file (
-%sc-A_14840_env_1"__id* *
-
-%env"
-%scope-A_14840_envM
-K
-
-__unknown_file (	
-%expr_1"__id**
-
-%sc-A_14840_env_1"
-envG
-E
-
-__unknown_file (	
-%expr_2"__id**
-	
-%expr_1"	
-sandboxC
-A
-
-__unknown_file (	
-%expr_3"__id**
-	
-%expr_2"
-spy¶"£
-h
-\/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-extension-analytics.js˝& ˝()
-
-%methRes_0*
-	
-%expr_2"
-spy2
-	
-%expr_22
-
-%env´
-®
-h
-\/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-extension-analytics.js˝ ˝(&
-
-%sc-A_14864_0_1"
-triggerEventSpy"__id*
-
-
-%methRes_0O
-M
-
-__unknown_file (
-%sc-P_1381_0"__id**
-
-%env"
-%scope-P_1381Y
-W
-
-__unknown_file (
-%sc-A_14840_env_2"__id* *
-
-%env"
-%scope-A_14840_envM
-K
-
-__unknown_file (	
-%expr_4"__id**
-
-%sc-A_14840_env_2"
-envO
-M
-
-__unknown_file (
-%sc-P_1381_1"__id**
-
-%env"
-%scope-P_1381˜"Ù
-h
-\/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-extension-analytics.js˛ ˛(
-
-%funcRes_0**
-
-%sc-P_1381_1"
-resetServiceForTesting2
-	
-%global2
-
-%env2*
-	
-%expr_4"
-win2!
-amp-analytics-instrumentationO
-M
-
-__unknown_file (
-%sc-P_1381_2"__id**
-
-%env"
-%scope-P_1381U
-S
-
-__unknown_file (
-%sc-A_14864_0_2"__id**
-
-%env"
-%scope-A_14864_0U
-S
-
-__unknown_file (
-%sc-A_14864_0_3"__id**
-
-%env"
-%scope-A_14864_0O
-M
-
-__unknown_file (
-%sc-P_1381_3"__id**
-
-%env"
-%scope-P_1381∂"≥
-h
-\/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-extension-analytics.jsˇ ˇ($
-
-%funcRes_1*0
-
-%sc-P_1381_3"
-registerServiceBuilderForDoc2
-	
-%global2
-
-%env2*
-
-%sc-A_14864_0_2"
-ampdoc2!
-amp-analytics-instrumentation2,**
-
-%sc-A_14864_0_3"
-MockInstrumentationO
-M
-
-__unknown_file (
-%sc-P_1381_4"__id**
-
-%env"
-%scope-P_1381U
-S
-
-__unknown_file (
-%sc-A_14864_0_4"__id**
-
-%env"
-%scope-A_14864_0O
-M
-
-__unknown_file (
-%sc-P_1381_5"__id**
-
-%env"
-%scope-P_1381¸"˘
-h
-\/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-extension-analytics.jsÖ Ö(
-
-%funcRes_2*$
-
-%sc-P_1381_5"
-getServiceForDoc2
-	
-%global2
-
-%env2*
-
-%sc-A_14864_0_4"
-ampdoc2!
-amp-analytics-instrumentationO
-M
-
-__unknown_file (
-%sc-P_1381_6"__id**
-
-%env"
-%scope-P_1381Y
-W
-
-__unknown_file (
-%sc-A_14840_env_3"__id* *
-
-%env"
-%scope-A_14840_envM
-K
-
-__unknown_file (	
-%expr_5"__id**
-
-%sc-A_14840_env_3"
-envO
-M
-
-__unknown_file (
-%sc-P_1381_7"__id**
-
-%env"
-%scope-P_1381O
-M
-
-__unknown_file (
-%sc-P_1381_8"__id**
-
-%env"
-%scope-P_1381˛"˚
-h
-\/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-extension-analytics.jsá á(
-
-%funcRes_3*#
-
-%sc-P_1381_8"
-registerElement2
-	
-%global2
-
-%env2*
-	
-%expr_5"
-win2
-
-amp-test2!*
-
-%sc-P_1381_7"
-BaseElementU
-S
-
-__unknown_file (
-%sc-A_14864_0_5"__id**
-
-%env"
-%scope-A_14864_0Y
-W
-
-__unknown_file (
-%sc-A_14840_env_4"__id* *
-
-%env"
-%scope-A_14840_envM
-K
-
-__unknown_file (	
-%expr_6"__id**
-
-%sc-A_14840_env_4"
-envC
-A
-
-__unknown_file (	
-%expr_7"__id**
-	
-%expr_6"
-winH
-F
-
-__unknown_file (	
-%expr_8"__id**
-	
-%expr_7"
-
-documentM
-K
-
-__unknown_file (	
-%expr_9"__id**
-	
-%expr_8"
-createElementæ"ª
-h
-\/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-extension-analytics.jsà% à(2
-
-%methRes_1*
-	
-%expr_8"
-createElement2
-	
-%expr_82
-
-%env2
-
-amp-test•
-¢
-h
-\/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-extension-analytics.jsà à( 
-
-%sc-A_14864_0_5"
-	parentEle"__id*
-
-
-%methRes_1U
-S
-
-__unknown_file (
-%sc-A_14864_0_6"__id**
-
-%env"
-%scope-A_14864_0R
-P
-
-__unknown_file (
-
-%expr_10"__id*"* 
-
-%sc-A_14864_0_6"
-	parentEleN
-L
-
-__unknown_file (
-
-%expr_11"__id**
-
-
-%expr_10"
-setAttributeÃ"…
-h
-\/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-extension-analytics.jsâ â(
-
-%methRes_2*
-
-
-%expr_10"
-setAttribute2
-
-
-%expr_102
-
-%env2
-
-layout2
-	nodisplayY
-W
-
-__unknown_file (
-%sc-A_14840_env_5"__id* *
-
-%env"
-%scope-A_14840_envN
-L
-
-__unknown_file (
-
-%expr_12"__id**
-
-%sc-A_14840_env_5"
-envE
-C
-
-__unknown_file (
-
-%expr_13"__id**
-
-
-%expr_12"
-winJ
-H
-
-__unknown_file (
-
-%expr_14"__id**
-
-
-%expr_13"
-
-documentF
-D
-
-__unknown_file (
-
-%expr_15"__id**
-
-
-%expr_14"
-bodyU
-S
-
-__unknown_file (
-%sc-A_14864_0_7"__id**
-
-%env"
-%scope-A_14864_0M
-K
-
-__unknown_file (
-
-%expr_16"__id**
-
-
-%expr_15"
-appendChild‘"—
-h
-\/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-extension-analytics.jsä ä()
-
-%methRes_3*
-
-
-%expr_15"
-appendChild2
-
-
-%expr_152
-
-%env2"* 
-
-%sc-A_14864_0_7"
-	parentEleU
-S
-
-__unknown_file (
-%sc-A_14864_0_8"__id**
-
-%env"
-%scope-A_14864_0R
-P
-
-__unknown_file (
-
-%expr_17"__id*"* 
-
-%sc-A_14864_0_8"
-	parentEleO
-M
-
-__unknown_file (
-
-%expr_18"__id**
-
-
-%expr_17"
-buildInternal≤"Ø
-h
-\/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-extension-analytics.jsã' ã(4
-
-%methRes_4*
-
-
-%expr_17"
-buildInternal2
-
-
-%expr_172
-
-%envì
-ê
-h
-\/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-extension-analytics.jsã ã(
-buildPromise"__id*
-
-
-%methRes_4U
-S
-
-__unknown_file (
-%sc-A_14864_0_9"__id**
-
-%env"
-%scope-A_14864_0O
-M
-
-__unknown_file (
-%sc-P_1381_9"__id**
-
-%env"
-%scope-P_1381V
-T
-
-__unknown_file (
-%sc-A_14864_0_10"__id**
-
-%env"
-%scope-A_14864_0äá
-h
-\/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-extension-analytics.jså å(;
-	%object_0Object"Object`
-^
-
-__unknown_file (
-
-%expr_19"__id*0*.
-
-%sc-P_1381_9"
-CustomEventReporterBuilderÒ"Ó
-h
-\/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-extension-analytics.jså å(;
-
-%methRes_5*.
-
-%sc-P_1381_9"
-CustomEventReporterBuilder2
-
-	%object_0Object2
-
-%env2#*!
-
-%sc-A_14864_0_10"
-	parentEleQ
-O
-
-__unknown_file (
-%fieldAccess_0"__id**
-
-
-%expr_19"
-	prototype^
-\
-
-__unknown_file (	
-%void_0"
-__setProto*
-
-	%object_0Object*
-
-%fieldAccess_0™
-ß
-h
-\/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-extension-analytics.jså å(
-
-%sc-A_14864_0_9"	
-builder"__id*
-
-	%object_0ObjectV
-T
-
-__unknown_file (
-%sc-A_14864_0_11"__id**
-
-%env"
-%scope-A_14864_0V
-T
-
-__unknown_file (
-%sc-A_14864_0_12"__id**
-
-%env"
-%scope-A_14864_0Q
-O
-
-__unknown_file (
-
-%expr_20"__id*!*
-
-%sc-A_14864_0_12"	
-builderG
-E
-
-__unknown_file (
-
-%expr_21"__id**
-
-
-%expr_20"
-track√"¿
-h
-\/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-extension-analytics.jsç ç( 
-
-%methRes_6*
-
-
-%expr_20"
-track2
-
-
-%expr_202
-
-%env2
-test2
-	fake.testI
-G
-
-__unknown_file (
-
-%expr_22"__id**
-
-
-%methRes_6"
-buildÆ"´
-h
-\/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-extension-analytics.jsç6 ç(;
-
-%methRes_7*
-
-
-%methRes_6"
-build2
-
-
-%methRes_62
-
-%env•
-¢
-h
-\/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-extension-analytics.jsç ç( 
-
-%sc-A_14864_0_11"
-
-reporter"__id*
-
-
-%methRes_7"|
-h
-\/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-extension-analytics.jsé é(
-
-buildPromise:
-%envB 

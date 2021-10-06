@@ -1,983 +1,0 @@
-
-Hsrc_service_core_services_js_107_1_FD_2075_installAmpdocServicesInternal]
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jsk	 k(&"s6_1*Œ
-s6_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-globalO
-M
-
-__unknown_file (
-%sc-P_1201_0"__id**
-
-%env"
-%scope-P_1201O
-M
-
-__unknown_file (
-%sc-P_1201_1"__id**
-
-%env"
-%scope-P_1201π"∂
-]
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jsr r(
-
-%funcRes_0*$
-
-%sc-P_1201_1"
-installUrlForDoc2
-	
-%global2
-
-%env2
-
-
-ampdoc*
-s6_2
-s6_3*Ë
-s6_2
-<synthetic> (O
-M
-
-__unknown_file (
-%sc-P_1201_2"__id**
-
-%env"
-%scope-P_1201O
-M
-
-__unknown_file (
-%sc-P_1201_3"__id**
-
-%env"
-%scope-P_1201÷"”
-]
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jst t($
-
-%funcRes_1*2
-
-%sc-P_1201_3" 
-adoptServiceFactoryForEmbedDoc2
-	
-%global2
-
-%env2
-
-
-ampdoc2
-	templatesF
-D
-
-__unknown_file (
-%unionThenElse_0"__id*
-
-
-%funcRes_1*
-s6_4*ÿ
-s6_3
-<synthetic> (O
-M
-
-__unknown_file (
-%sc-P_1201_4"__id**
-
-%env"
-%scope-P_1201O
-M
-
-__unknown_file (
-%sc-P_1201_5"__id**
-
-%env"
-%scope-P_1201∆"√
-]
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jsu u(#
-
-%funcRes_2*1
-
-%sc-P_1201_5"
-installTemplatesServiceForDoc2
-	
-%global2
-
-%env2
-
-
-ampdocF
-D
-
-__unknown_file (
-%unionThenElse_0"__id*
-
-
-%funcRes_2*
-s6_4*+
-s6_4
-<synthetic> (*
-s6_5
-s6_6*‰
-s6_5
-<synthetic> (O
-M
-
-__unknown_file (
-%sc-P_1201_6"__id**
-
-%env"
-%scope-P_1201O
-M
-
-__unknown_file (
-%sc-P_1201_7"__id**
-
-%env"
-%scope-P_1201“"œ
-]
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jsw w(
-
-%funcRes_3*+
-
-%sc-P_1201_7"
-adoptServiceForEmbedDoc2
-	
-%global2
-
-%env2
-
-
-ampdoc2
-documentInfoF
-D
-
-__unknown_file (
-%unionThenElse_1"__id*
-
-
-%funcRes_3*
-s6_7*€
-s6_6
-<synthetic> (O
-M
-
-__unknown_file (
-%sc-P_1201_8"__id**
-
-%env"
-%scope-P_1201O
-M
-
-__unknown_file (
-%sc-P_1201_9"__id**
-
-%env"
-%scope-P_1201…"∆
-]
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jsx x(&
-
-%funcRes_4*4
-
-%sc-P_1201_9""
- installDocumentInfoServiceForDoc2
-	
-%global2
-
-%env2
-
-
-ampdocF
-D
-
-__unknown_file (
-%unionThenElse_1"__id*
-
-
-%funcRes_4*
-s6_7*+
-s6_7
-<synthetic> (*
-s6_8
-s6_9*ﬂ
-s6_8
-<synthetic>	 	(P
-N
-
-__unknown_file (
-%sc-P_1201_10"__id**
-
-%env"
-%scope-P_1201P
-N
-
-__unknown_file (
-%sc-P_1201_11"__id**
-
-%env"
-%scope-P_1201 "«
-]
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.js{ {(
-
-%funcRes_5*,
-
-%sc-P_1201_11"
-adoptServiceForEmbedDoc2
-	
-%global2
-
-%env2
-
-
-ampdoc2
-cidF
-D
-
-__unknown_file (
-%unionThenElse_2"__id*
-
-
-%funcRes_5*
-s6_10*–
-s6_9
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1201_12"__id**
-
-%env"
-%scope-P_1201P
-N
-
-__unknown_file (
-%sc-P_1201_13"__id**
-
-%env"
-%scope-P_1201ª"∏
-]
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.js| |(
-
-%funcRes_6*&
-
-%sc-P_1201_13"
-installCidService2
-	
-%global2
-
-%env2
-
-
-ampdocF
-D
-
-__unknown_file (
-%unionThenElse_2"__id*
-
-
-%funcRes_6*
-s6_10*.
-s6_10
-<synthetic>
- 
-(*
-s6_11
-s6_12*„
-s6_11
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1201_14"__id**
-
-%env"
-%scope-P_1201P
-N
-
-__unknown_file (
-%sc-P_1201_15"__id**
-
-%env"
-%scope-P_1201Õ" 
-]
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.js~ ~(
-
-%funcRes_7*,
-
-%sc-P_1201_15"
-adoptServiceForEmbedDoc2
-	
-%global2
-
-%env2
-
-
-ampdoc2
-
-viewerF
-D
-
-__unknown_file (
-%unionThenElse_3"__id*
-
-
-%funcRes_7*
-s6_13*⁄
-s6_12
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1201_16"__id**
-
-%env"
-%scope-P_1201P
-N
-
-__unknown_file (
-%sc-P_1201_17"__id**
-
-%env"
-%scope-P_1201ƒ"¡
-]
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.js ( 
-
-%funcRes_8*/
-
-%sc-P_1201_17"
-installViewerServiceForDoc2
-	
-%global2
-
-%env2
-
-
-ampdocF
-D
-
-__unknown_file (
-%unionThenElse_3"__id*
-
-
-%funcRes_8*
-s6_13*.
-s6_13
-<synthetic> (*
-s6_14
-s6_15*Á
-s6_14
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1201_18"__id**
-
-%env"
-%scope-P_1201P
-N
-
-__unknown_file (
-%sc-P_1201_19"__id**
-
-%env"
-%scope-P_1201—"Œ
-_
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jsÅ Å(
-
-%funcRes_9*,
-
-%sc-P_1201_19"
-adoptServiceForEmbedDoc2
-	
-%global2
-
-%env2
-
-
-ampdoc2
-
-viewportF
-D
-
-__unknown_file (
-%unionThenElse_4"__id*
-
-
-%funcRes_9*
-s6_16*‡
-s6_15
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1201_20"__id**
-
-%env"
-%scope-P_1201P
-N
-
-__unknown_file (
-%sc-P_1201_21"__id**
-
-%env"
-%scope-P_1201…"∆
-_
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jsÇ Ç("
-%funcRes_10*1
-
-%sc-P_1201_21"
-installViewportServiceForDoc2
-	
-%global2
-
-%env2
-
-
-ampdocG
-E
-
-__unknown_file (
-%unionThenElse_4"__id*
-
-%funcRes_10*
-s6_16*ù
-s6_16
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1201_22"__id**
-
-%env"
-%scope-P_1201P
-N
-
-__unknown_file (
-%sc-P_1201_23"__id**
-
-%env"
-%scope-P_1201»"≈
-_
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jsÉ É(
-%funcRes_11*0
-
-%sc-P_1201_23"
-installHiddenObserverForDoc2
-	
-%global2
-
-%env2
-
-
-ampdoc*
-s6_17
-s6_18*Ë
-s6_17
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1201_24"__id**
-
-%env"
-%scope-P_1201P
-N
-
-__unknown_file (
-%sc-P_1201_25"__id**
-
-%env"
-%scope-P_1201—"Œ
-_
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jsÖ Ö(
-%funcRes_12*,
-
-%sc-P_1201_25"
-adoptServiceForEmbedDoc2
-	
-%global2
-
-%env2
-
-
-ampdoc2	
-historyG
-E
-
-__unknown_file (
-%unionThenElse_5"__id*
-
-%funcRes_12*
-s6_19*ﬂ
-s6_18
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1201_26"__id**
-
-%env"
-%scope-P_1201P
-N
-
-__unknown_file (
-%sc-P_1201_27"__id**
-
-%env"
-%scope-P_1201»"≈
-_
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jsÜ Ü(!
-%funcRes_13*0
-
-%sc-P_1201_27"
-installHistoryServiceForDoc2
-	
-%global2
-
-%env2
-
-
-ampdocG
-E
-
-__unknown_file (
-%unionThenElse_5"__id*
-
-%funcRes_13*
-s6_19*.
-s6_19
-<synthetic> (*
-s6_20
-s6_21*Á
-s6_20
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1201_28"__id**
-
-%env"
-%scope-P_1201P
-N
-
-__unknown_file (
-%sc-P_1201_29"__id**
-
-%env"
-%scope-P_1201–"Õ
-_
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jsâ â()
-%funcRes_14*8
-
-%sc-P_1201_29"%
-#installInaboxResourcesServiceForDoc2
-	
-%global2
-
-%env2
-
-
-ampdocG
-E
-
-__unknown_file (
-%unionThenElse_6"__id*
-
-%funcRes_14*
-s6_22*·
-s6_21
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1201_30"__id**
-
-%env"
-%scope-P_1201P
-N
-
-__unknown_file (
-%sc-P_1201_31"__id**
-
-%env"
-%scope-P_1201 "«
-_
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jsä ä(#
-%funcRes_15*2
-
-%sc-P_1201_31"
-installResourcesServiceForDoc2
-	
-%global2
-
-%env2
-
-
-ampdocG
-E
-
-__unknown_file (
-%unionThenElse_6"__id*
-
-%funcRes_15*
-s6_22*ã
-s6_22
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1201_32"__id**
-
-%env"
-%scope-P_1201P
-N
-
-__unknown_file (
-%sc-P_1201_33"__id**
-
-%env"
-%scope-P_1201«"ƒ
-_
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jsã ã(
-%funcRes_16*/
-
-%sc-P_1201_33"
-installOwnersServiceForDoc2
-	
-%global2
-
-%env2
-
-
-ampdocP
-N
-
-__unknown_file (
-%sc-P_1201_34"__id**
-
-%env"
-%scope-P_1201P
-N
-
-__unknown_file (
-%sc-P_1201_35"__id**
-
-%env"
-%scope-P_1201»"≈
-_
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jså å(
-%funcRes_17*0
-
-%sc-P_1201_35"
-installMutatorServiceForDoc2
-	
-%global2
-
-%env2
-
-
-ampdoc*
-s6_23
-s6_24*Ï
-s6_23
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1201_36"__id**
-
-%env"
-%scope-P_1201P
-N
-
-__unknown_file (
-%sc-P_1201_37"__id**
-
-%env"
-%scope-P_1201’"“
-_
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jsè è(
-%funcRes_18*,
-
-%sc-P_1201_37"
-adoptServiceForEmbedDoc2
-	
-%global2
-
-%env2
-
-
-ampdoc2
-url-replaceG
-E
-
-__unknown_file (
-%unionThenElse_7"__id*
-
-%funcRes_18*
-s6_25*Á
-s6_24
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1201_38"__id**
-
-%env"
-%scope-P_1201P
-N
-
-__unknown_file (
-%sc-P_1201_39"__id**
-
-%env"
-%scope-P_1201–"Õ
-_
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jsê ê()
-%funcRes_19*8
-
-%sc-P_1201_39"%
-#installUrlReplacementsServiceForDoc2
-	
-%global2
-
-%env2
-
-
-ampdocG
-E
-
-__unknown_file (
-%unionThenElse_7"__id*
-
-%funcRes_19*
-s6_25*å
-s6_25
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1201_40"__id**
-
-%env"
-%scope-P_1201P
-N
-
-__unknown_file (
-%sc-P_1201_41"__id**
-
-%env"
-%scope-P_1201«"ƒ
-_
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jsë ë(
-%funcRes_20*/
-
-%sc-P_1201_41"
-installActionServiceForDoc2
-	
-%global2
-
-%env2
-
-
-ampdocP
-N
-
-__unknown_file (
-%sc-P_1201_42"__id**
-
-%env"
-%scope-P_1201P
-N
-
-__unknown_file (
-%sc-P_1201_43"__id**
-
-%env"
-%scope-P_1201…"∆
-_
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jsí í(
-%funcRes_21*1
-
-%sc-P_1201_43"
-installStandardActionsForDoc2
-	
-%global2
-
-%env2
-
-
-ampdoc*
-s6_26
-s6_27*Ë
-s6_26
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1201_44"__id**
-
-%env"
-%scope-P_1201P
-N
-
-__unknown_file (
-%sc-P_1201_45"__id**
-
-%env"
-%scope-P_1201—"Œ
-_
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jsî î(
-%funcRes_22*,
-
-%sc-P_1201_45"
-adoptServiceForEmbedDoc2
-	
-%global2
-
-%env2
-
-
-ampdoc2	
-storageG
-E
-
-__unknown_file (
-%unionThenElse_8"__id*
-
-%funcRes_22*
-s6_28*ﬂ
-s6_27
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1201_46"__id**
-
-%env"
-%scope-P_1201P
-N
-
-__unknown_file (
-%sc-P_1201_47"__id**
-
-%env"
-%scope-P_1201»"≈
-_
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jsï ï(!
-%funcRes_23*0
-
-%sc-P_1201_47"
-installStorageServiceForDoc2
-	
-%global2
-
-%env2
-
-
-ampdocG
-E
-
-__unknown_file (
-%unionThenElse_8"__id*
-
-%funcRes_23*
-s6_28*õ
-s6_28
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1201_48"__id**
-
-%env"
-%scope-P_1201P
-N
-
-__unknown_file (
-%sc-P_1201_49"__id**
-
-%env"
-%scope-P_1201—"Œ
-_
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jsñ ñ(&
-%funcRes_24*9
-
-%sc-P_1201_49"&
-$installGlobalNavigationHandlerForDoc2
-	
-%global2
-
-%env2
-
-
-ampdocP
-N
-
-__unknown_file (
-%sc-P_1201_50"__id**
-
-%env"
-%scope-P_1201P
-N
-
-__unknown_file (
-%sc-P_1201_51"__id**
-
-%env"
-%scope-P_1201Œ"À
-_
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jsó ó(#
-%funcRes_25*6
-
-%sc-P_1201_51"#
-!installGlobalSubmitListenerForDoc2
-	
-%global2
-
-%env2
-
-
-ampdoc*
-s6_29
-s6_30*ò
-s6_29
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1201_52"__id**
-
-%env"
-%scope-P_1201P
-N
-
-__unknown_file (
-%sc-P_1201_53"__id**
-
-%env"
-%scope-P_1201 "«
-_
-S/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/src/service/core-services.jsõ õ(!
-%funcRes_26*2
-
-%sc-P_1201_53"
-installLoadingIndicatorForDoc2
-	
-%global2
-
-%env2
-
-
-ampdoc*
-s6_30*>
-s6_30
-<synthetic> ("
-
-__unknown_file ( :
-%env:
-ampdoc:
-
-isEmbeddedB 

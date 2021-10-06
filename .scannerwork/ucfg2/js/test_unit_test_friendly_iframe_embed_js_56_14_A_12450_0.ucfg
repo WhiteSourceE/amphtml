@@ -1,778 +1,0 @@
-
-7test_unit_test_friendly_iframe_embed_js_56_14_A_12450_0h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.js8 8("s3_1*“T
-s3_1
-<synthetic> (86
-
-__unknown_file (
-%scope-A_12450_0"ObjectV
-T
-
-__unknown_file (
-
-%env"
-%scope-A_12450_0"__id*
-
-%scope-A_12450_0Y
-W
-
-__unknown_file (
-%sc-A_12449_env_0"__id* *
-
-%env"
-%scope-A_12449_envY
-W
-
-__unknown_file (
-%sc-A_12449_env_1"__id* *
-
-%env"
-%scope-A_12449_envM
-K
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-A_12449_env_1"
-envª
-§
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.js9 9(
-
-
-%sc-A_12449_env_0"
-window"__id**
-	
-%expr_0"
-winY
-W
-
-__unknown_file (
-%sc-A_12449_env_2"__id* *
-
-%env"
-%scope-A_12449_envY
-W
-
-__unknown_file (
-%sc-A_12449_env_3"__id* *
-
-%env"
-%scope-A_12449_envP
-N
-
-__unknown_file (	
-%expr_1"__id*!*
-
-%sc-A_12449_env_3"
-window±
-®
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.js: :(!
-
-%sc-A_12449_env_2"
-
-document"__id**
-	
-%expr_1"
-
-documentO
-M
-
-__unknown_file (
-%sc-P_1165_0"__id**
-
-%env"
-%scope-P_1165M
-K
-
-__unknown_file (	
-%expr_2"__id**
-
-%sc-P_1165_0"
-
-ServicesY
-W
-
-__unknown_file (
-%sc-A_12449_env_4"__id* *
-
-%env"
-%scope-A_12449_envM
-K
-
-__unknown_file (	
-%expr_3"__id**
-	
-%expr_2"
-extensionsForÓ"Ð
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.js<  <(-
-
-%methRes_0*
-	
-%expr_2"
-extensionsFor2
-	
-%expr_22
-
-%env2!*
-
-%sc-A_12449_env_4"
-window‘
-Ž
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.js<
- <(
-
-extensions"__id*
-
-
-%methRes_0O
-M
-
-__unknown_file (
-%sc-P_1165_1"__id**
-
-%env"
-%scope-P_1165M
-K
-
-__unknown_file (	
-%expr_4"__id**
-
-%sc-P_1165_1"
-
-ServicesY
-W
-
-__unknown_file (
-%sc-A_12449_env_5"__id* *
-
-%env"
-%scope-A_12449_envO
-M
-
-__unknown_file (	
-%expr_5"__id* *
-	
-%expr_4"
-resourcesForDoc×"Ô
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.js= =(.
-
-%methRes_1*
-	
-%expr_4"
-resourcesForDoc2
-	
-%expr_42
-
-%env2#*!
-
-%sc-A_12449_env_5"
-
-document
-
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.js=
- =(
-	resources"__id*
-
-
-%methRes_1w
-u
-
-__unknown_file (	
-%func_0"__declareFunction*;9
-7test_unit_test_friendly_iframe_embed_js_63_18_A_12451_0fd
-
-__unknown_file (/
-%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_0"
-__setProto*
-	
-%func_0*1
-/
-%functionPrototype_0%SonarFunctionPrototype
-
-
-__unknown_file (	
-%func_1"__declareFunction*EC
-Atest_unit_test_friendly_iframe_embed_js_64_22_A_12452_url_chi_optfd
-
-__unknown_file (/
-%functionPrototype_1%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_1"
-__setProto*
-	
-%func_1*1
-/
-%functionPrototype_1%SonarFunctionPrototypeŠ‡
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.js> B(
-	%object_0Object"Object¤
-¡
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.js? ?(!"
-
-	%object_0Object"
-	getAmpDoc"__id*
-	
-%func_0¨
-¥
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.js@ A(9&
-
-	%object_0Object"
-installFieDoc"__id*
-	
-%func_1±
-®
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.js>
- >(%
-
-%scope-A_12450_0"
-ampdocService"__id*
-
-	%object_0ObjectY
-W
-
-__unknown_file (
-%sc-A_12449_env_6"__id* *
-
-%env"
-%scope-A_12449_envY
-W
-
-__unknown_file (
-%sc-A_12449_env_7"__id* *
-
-%env"
-%scope-A_12449_envM
-K
-
-__unknown_file (	
-%expr_6"__id**
-
-%sc-A_12449_env_7"
-envG
-E
-
-__unknown_file (	
-%expr_7"__id**
-	
-%expr_6"	
-sandboxD
-B
-
-__unknown_file (	
-%expr_8"__id**
-	
-%expr_7"
-mock·"´
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.jsC! C(%
-
-%methRes_2*
-	
-%expr_7"
-mock2
-	
-%expr_72
-
-%env2
-
-
-extensions¬
-©
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.jsC C('
-
-%sc-A_12449_env_6"
-extensionsMock"__id*
-
-
-%methRes_2Y
-W
-
-__unknown_file (
-%sc-A_12449_env_8"__id* *
-
-%env"
-%scope-A_12449_envY
-W
-
-__unknown_file (
-%sc-A_12449_env_9"__id* *
-
-%env"
-%scope-A_12449_envM
-K
-
-__unknown_file (	
-%expr_9"__id**
-
-%sc-A_12449_env_9"
-envH
-F
-
-__unknown_file (
-
-%expr_10"__id**
-	
-%expr_9"	
-sandboxF
-D
-
-__unknown_file (
-
-%expr_11"__id**
-
-
-%expr_10"
-mock¸"µ
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.jsD  D($
-
-%methRes_3*
-
-
-%expr_10"
-mock2
-
-
-%expr_102
-
-%env2
-
-	resources«
-¨
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.jsD D(&
-
-%sc-A_12449_env_8"
-resourcesMock"__id*
-
-
-%methRes_3Z
-X
-
-__unknown_file (
-%sc-A_12449_env_10"__id* *
-
-%env"
-%scope-A_12449_envZ
-X
-
-__unknown_file (
-%sc-A_12449_env_11"__id* *
-
-%env"
-%scope-A_12449_envO
-M
-
-__unknown_file (
-
-%expr_12"__id**
-
-%sc-A_12449_env_11"
-envI
-G
-
-__unknown_file (
-
-%expr_13"__id**
-
-
-%expr_12"	
-sandboxF
-D
-
-__unknown_file (
-
-%expr_14"__id**
-
-
-%expr_13"
-mockÒ"Ï
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.jsE$ E((
-
-%methRes_4*
-
-
-%expr_13"
-mock2
-
-
-%expr_132
-
-%env2'*%
-
-%scope-A_12450_0"
-ampdocService°
-­
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.jsE E(+
-
-%sc-A_12449_env_10"
-ampdocServiceMock"__id*
-
-
-%methRes_4Z
-X
-
-__unknown_file (
-%sc-A_12449_env_12"__id* *
-
-%env"
-%scope-A_12449_envO
-M
-
-__unknown_file (
-
-%expr_15"__id**
-
-%sc-A_12449_env_12"
-envI
-G
-
-__unknown_file (
-
-%expr_16"__id**
-
-
-%expr_15"	
-sandboxO
-M
-
-__unknown_file (
-%sc-P_1165_2"__id**
-
-%env"
-%scope-P_1165F
-D
-
-__unknown_file (
-
-%expr_17"__id**
-
-
-%expr_16"
-stubß"Ü
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.jsG G(
-
-%methRes_5*
-
-
-%expr_16"
-stub2
-
-
-%expr_162
-
-%env2*
-
-%sc-P_1165_2"
-
-Services2
-ampdocServiceForw
-u
-
-__unknown_file (	
-%func_2"__declareFunction*;9
-7test_unit_test_friendly_iframe_embed_js_72_18_A_12453_0V
-T
-
-__unknown_file (
-
-%env"
-%scope-A_12450_0"__id*
-
-%scope-A_12450_0fd
-
-__unknown_file (/
-%functionPrototype_2%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_2"
-__setProto*
-	
-%func_2*1
-/
-%functionPrototype_2%SonarFunctionPrototypeM
-K
-
-__unknown_file (
-
-%expr_18"__id**
-
-
-%methRes_5"
-	callsFake¿"¼
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.jsH H(
-
-%methRes_6*
-
-
-%methRes_5"
-	callsFake2
-
-
-%methRes_52
-
-%env2
-	
-%func_2Z
-X
-
-__unknown_file (
-%sc-A_12449_env_13"__id* *
-
-%env"
-%scope-A_12449_envZ
-X
-
-__unknown_file (
-%sc-A_12449_env_14"__id* *
-
-%env"
-%scope-A_12449_envT
-R
-
-__unknown_file (
-
-%expr_19"__id*$*"
-
-%sc-A_12449_env_14"
-
-documentO
-M
-
-__unknown_file (
-
-%expr_20"__id**
-
-
-%expr_19"
-createElement¾"»
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.jsJ J(#
-
-%methRes_7*
-
-
-%expr_19"
-createElement2
-
-
-%expr_192
-
-%env2
-
-iframe¥
-¢
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.jsJ J(
- 
-
-%sc-A_12449_env_13"
-iframe"__id*
-
-
-%methRes_7Z
-X
-
-__unknown_file (
-%sc-A_12449_env_15"__id* *
-
-%env"
-%scope-A_12449_env«
-¨
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.jsL L(2
-
-%sc-A_12449_env_15"
-customElementsDefineStub"__id* Z
-X
-
-__unknown_file (
-%sc-A_12449_env_16"__id* *
-
-%env"
-%scope-A_12449_envZ
-X
-
-__unknown_file (
-%sc-A_12449_env_17"__id* *
-
-%env"
-%scope-A_12449_envO
-M
-
-__unknown_file (
-
-%expr_21"__id**
-
-%sc-A_12449_env_17"
-envI
-G
-
-__unknown_file (
-
-%expr_22"__id**
-
-
-%expr_21"	
-sandboxE
-C
-
-__unknown_file (
-
-%expr_23"__id**
-
-
-%expr_22"
-spy¨"¥
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.jsM( M(+
-
-%methRes_8*
-
-
-%expr_22"
-spy2
-
-
-%expr_222
-
-%env´
-±
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.jsM M(/
-
-%sc-A_12449_env_16"
-preinstallCallbackSpy"__id*
-
-
-%methRes_8Z
-X
-
-__unknown_file (
-%sc-A_12449_env_18"__id* *
-
-%env"
-%scope-A_12449_env}
-{
-
-__unknown_file (	
-%func_3"__declareFunction*A?
-=test_unit_test_friendly_iframe_embed_js_78_26_A_12454_win_ampfd
-
-__unknown_file (/
-%functionPrototype_3%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_3"
-__setProto*
-	
-%func_3*1
-/
-%functionPrototype_3%SonarFunctionPrototype®
-«
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.jsN N(,
-
-%sc-A_12449_env_18"
-preinstallCallback"__id*
-	
-%func_3Z
-X
-
-__unknown_file (
-%sc-A_12449_env_19"__id* *
-
-%env"
-%scope-A_12449_envZ
-X
-
-__unknown_file (
-%sc-A_12449_env_20"__id* *
-
-%env"
-%scope-A_12449_envO
-M
-
-__unknown_file (
-
-%expr_24"__id**
-
-%sc-A_12449_env_20"
-envI
-G
-
-__unknown_file (
-
-%expr_25"__id**
-
-
-%expr_24"	
-sandboxO
-M
-
-__unknown_file (
-%sc-P_1165_3"__id**
-
-%env"
-%scope-P_1165F
-D
-
-__unknown_file (
-
-%expr_26"__id**
-
-
-%expr_25"
-stubï"ì
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.jsS& S(*
-
-%methRes_9*
-
-
-%expr_25"
-stub2
-
-
-%expr_252
-
-%env2 *
-
-%sc-P_1165_3"
-
-Installers2" 
-installStandardServicesInEmbed²
-¯
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-friendly-iframe-embed.jsS S(-
-
-%sc-A_12449_env_19"
-installServicesStub"__id*
-
-
-%methRes_9"
-
-__unknown_file ( :
-%envB 

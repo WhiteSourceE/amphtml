@@ -1,1312 +1,0 @@
-
-Lextensions_amp_date_display_0_1_test_test_amp_date_display_js_60_63_A_7961_0~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.js<> <(J"s5_1*Ôƒ
-s5_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-globalW
-U
-
-__unknown_file (
-%sc-A_7958_env_0"__id**
-
-%env"
-%scope-A_7958_envP
-N
-
-__unknown_file (	
-%expr_0"__id*!*
-
-%sc-A_7958_env_0"	
-elementL
-J
-
-__unknown_file (	
-%expr_1"__id**
-	
-%expr_0"
-setAttributeñ"î
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.js= =(
-
-%methRes_0*
-	
-%expr_0"
-setAttribute2
-	
-%expr_02
-
-%env2
-
-datetime2
-2001-02-03T04:05:06.007ZW
-U
-
-__unknown_file (
-%sc-A_7958_env_1"__id**
-
-%env"
-%scope-A_7958_envP
-N
-
-__unknown_file (	
-%expr_2"__id*!*
-
-%sc-A_7958_env_1"	
-elementL
-J
-
-__unknown_file (	
-%expr_3"__id**
-	
-%expr_2"
-setAttributeÞ"Û
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.js> >(
-
-%methRes_1*
-	
-%expr_2"
-setAttribute2
-	
-%expr_22
-
-%env2
-
-display-in2
-UTCW
-U
-
-__unknown_file (
-%sc-A_7958_env_2"__id**
-
-%env"
-%scope-A_7958_envP
-N
-
-__unknown_file (	
-%expr_4"__id*!*
-
-%sc-A_7958_env_2"	
-elementM
-K
-
-__unknown_file (	
-%expr_5"__id**
-	
-%expr_4"
-buildInternalÆ"Ã
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.js? ?(!
-
-%methRes_2*
-	
-%expr_4"
-buildInternal2
-	
-%expr_42
-
-%envW
-U
-
-__unknown_file (
-%sc-A_7958_env_3"__id**
-
-%env"
-%scope-A_7958_envM
-K
-
-__unknown_file (	
-%expr_6"__id**
-
-%sc-A_7958_env_3"
-implS
-Q
-
-__unknown_file (	
-%expr_7"__id*$*"
-	
-%expr_6"
-getDataForTemplate_Ì"É
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsA A(+
-
-%methRes_3*"
-	
-%expr_6"
-getDataForTemplate_2
-	
-%expr_62
-
-%env¡
-ž
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsA A(
-data"__id*
-
-
-%methRes_3M
-K
-
-__unknown_file (
-%sc-P_787_0"__id**
-
-%env"
-%scope-P_787M
-K
-
-__unknown_file (
-%sc-P_787_1"__id**
-
-%env"
-%scope-P_787×"Ô
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsC C(
-
-%funcRes_0*
-
-%sc-P_787_1"
-expect2
-	
-%global2
-
-%env2*
-
-data"
-yearE
-C
-
-__unknown_file (	
-%expr_8"__id**
-
-
-%funcRes_0"
-toE
-C
-
-__unknown_file (	
-%expr_9"__id**
-	
-%expr_8"
-equalÅ"Â
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsC C( 
-
-%methRes_4*
-	
-%expr_8"
-equal2
-	
-%expr_82
-
-%env22ÑM
-K
-
-__unknown_file (
-%sc-P_787_2"__id**
-
-%env"
-%scope-P_787M
-K
-
-__unknown_file (
-%sc-P_787_3"__id**
-
-%env"
-%scope-P_787ß"Ü
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsD D(
-
-%funcRes_1*
-
-%sc-P_787_3"
-expect2
-	
-%global2
-
-%env2*
-
-data"
-yearTwoDigitF
-D
-
-__unknown_file (
-
-%expr_10"__id**
-
-
-%funcRes_1"
-toG
-E
-
-__unknown_file (
-
-%expr_11"__id**
-
-
-%expr_10"
-equalÈ"Å
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsD# D((
-
-%methRes_5*
-
-
-%expr_10"
-equal2
-
-
-%expr_102
-
-%env2
-01M
-K
-
-__unknown_file (
-%sc-P_787_4"__id**
-
-%env"
-%scope-P_787M
-K
-
-__unknown_file (
-%sc-P_787_5"__id**
-
-%env"
-%scope-P_787Ø"Õ
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsE E(
-
-%funcRes_2*
-
-%sc-P_787_5"
-expect2
-	
-%global2
-
-%env2*
-
-data"
-monthF
-D
-
-__unknown_file (
-
-%expr_12"__id**
-
-
-%funcRes_2"
-toG
-E
-
-__unknown_file (
-
-%expr_13"__id**
-
-
-%expr_12"
-equalÆ"Ã
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsE E(!
-
-%methRes_6*
-
-
-%expr_12"
-equal2
-
-
-%expr_122
-
-%env22M
-K
-
-__unknown_file (
-%sc-P_787_6"__id**
-
-%env"
-%scope-P_787M
-K
-
-__unknown_file (
-%sc-P_787_7"__id**
-
-%env"
-%scope-P_787à"Ý
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsF F(
-
-%funcRes_3*
-
-%sc-P_787_7"
-expect2
-	
-%global2
-
-%env2*
-
-data"
-monthTwoDigitF
-D
-
-__unknown_file (
-
-%expr_14"__id**
-
-
-%funcRes_3"
-toG
-E
-
-__unknown_file (
-
-%expr_15"__id**
-
-
-%expr_14"
-equalÈ"Å
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsF$ F()
-
-%methRes_7*
-
-
-%expr_14"
-equal2
-
-
-%expr_142
-
-%env2
-02M
-K
-
-__unknown_file (
-%sc-P_787_8"__id**
-
-%env"
-%scope-P_787M
-K
-
-__unknown_file (
-%sc-P_787_9"__id**
-
-%env"
-%scope-P_787Ü"Ù
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsG G(
-
-%funcRes_4*
-
-%sc-P_787_9"
-expect2
-	
-%global2
-
-%env2*
-
-data"
-	monthNameF
-D
-
-__unknown_file (
-
-%expr_16"__id**
-
-
-%funcRes_4"
-toG
-E
-
-__unknown_file (
-
-%expr_17"__id**
-
-
-%expr_16"
-equalÎ"Ë
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsG  G(%
-
-%methRes_8*
-
-
-%expr_16"
-equal2
-
-
-%expr_162
-
-%env2
-
-FebruaryN
-L
-
-__unknown_file (
-%sc-P_787_10"__id**
-
-%env"
-%scope-P_787N
-L
-
-__unknown_file (
-%sc-P_787_11"__id**
-
-%env"
-%scope-P_787â"ß
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsH H(
-
-%funcRes_5*
-
-%sc-P_787_11"
-expect2
-	
-%global2
-
-%env2*
-
-data"
-monthNameShortF
-D
-
-__unknown_file (
-
-%expr_18"__id**
-
-
-%funcRes_5"
-toG
-E
-
-__unknown_file (
-
-%expr_19"__id**
-
-
-%expr_18"
-equalÉ"Æ
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsH% H(*
-
-%methRes_9*
-
-
-%expr_18"
-equal2
-
-
-%expr_182
-
-%env2
-FebN
-L
-
-__unknown_file (
-%sc-P_787_12"__id**
-
-%env"
-%scope-P_787N
-L
-
-__unknown_file (
-%sc-P_787_13"__id**
-
-%env"
-%scope-P_787×"Ô
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsI I(
-
-%funcRes_6*
-
-%sc-P_787_13"
-expect2
-	
-%global2
-
-%env2*
-
-data"
-dayF
-D
-
-__unknown_file (
-
-%expr_20"__id**
-
-
-%funcRes_6"
-toG
-E
-
-__unknown_file (
-
-%expr_21"__id**
-
-
-%expr_20"
-equalÇ"Ä
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsI I(
-%methRes_10*
-
-
-%expr_20"
-equal2
-
-
-%expr_202
-
-%env22N
-L
-
-__unknown_file (
-%sc-P_787_14"__id**
-
-%env"
-%scope-P_787N
-L
-
-__unknown_file (
-%sc-P_787_15"__id**
-
-%env"
-%scope-P_787ß"Ü
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsJ J(
-
-%funcRes_7*
-
-%sc-P_787_15"
-expect2
-	
-%global2
-
-%env2*
-
-data"
-dayTwoDigitF
-D
-
-__unknown_file (
-
-%expr_22"__id**
-
-
-%funcRes_7"
-toG
-E
-
-__unknown_file (
-
-%expr_23"__id**
-
-
-%expr_22"
-equalÉ"Æ
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsJ" J('
-%methRes_11*
-
-
-%expr_22"
-equal2
-
-
-%expr_222
-
-%env2
-03N
-L
-
-__unknown_file (
-%sc-P_787_16"__id**
-
-%env"
-%scope-P_787N
-L
-
-__unknown_file (
-%sc-P_787_17"__id**
-
-%env"
-%scope-P_787Û"Ø
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsK K(
-
-%funcRes_8*
-
-%sc-P_787_17"
-expect2
-	
-%global2
-
-%env2*
-
-data"	
-dayNameF
-D
-
-__unknown_file (
-
-%expr_24"__id**
-
-
-%funcRes_8"
-toG
-E
-
-__unknown_file (
-
-%expr_25"__id**
-
-
-%expr_24"
-equalÏ"Ì
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsK K(#
-%methRes_12*
-
-
-%expr_24"
-equal2
-
-
-%expr_242
-
-%env2
-
-SaturdayN
-L
-
-__unknown_file (
-%sc-P_787_18"__id**
-
-%env"
-%scope-P_787N
-L
-
-__unknown_file (
-%sc-P_787_19"__id**
-
-%env"
-%scope-P_787à"Ý
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsL L(
-
-%funcRes_9*
-
-%sc-P_787_19"
-expect2
-	
-%global2
-
-%env2*
-
-data"
-dayNameShortF
-D
-
-__unknown_file (
-
-%expr_26"__id**
-
-
-%funcRes_9"
-toG
-E
-
-__unknown_file (
-
-%expr_27"__id**
-
-
-%expr_26"
-equalÊ"Ç
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsL# L((
-%methRes_13*
-
-
-%expr_26"
-equal2
-
-
-%expr_262
-
-%env2
-SatN
-L
-
-__unknown_file (
-%sc-P_787_20"__id**
-
-%env"
-%scope-P_787N
-L
-
-__unknown_file (
-%sc-P_787_21"__id**
-
-%env"
-%scope-P_787Ù"Ö
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsM M(
-%funcRes_10*
-
-%sc-P_787_21"
-expect2
-	
-%global2
-
-%env2*
-
-data"
-hourG
-E
-
-__unknown_file (
-
-%expr_28"__id**
-
-%funcRes_10"
-toG
-E
-
-__unknown_file (
-
-%expr_29"__id**
-
-
-%expr_28"
-equalÇ"Ä
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsM M( 
-%methRes_14*
-
-
-%expr_28"
-equal2
-
-
-%expr_282
-
-%env22N
-L
-
-__unknown_file (
-%sc-P_787_22"__id**
-
-%env"
-%scope-P_787N
-L
-
-__unknown_file (
-%sc-P_787_23"__id**
-
-%env"
-%scope-P_787á"Þ
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsN N(
-%funcRes_11*
-
-%sc-P_787_23"
-expect2
-	
-%global2
-
-%env2*
-
-data"
-hourTwoDigitG
-E
-
-__unknown_file (
-
-%expr_30"__id**
-
-%funcRes_11"
-toG
-E
-
-__unknown_file (
-
-%expr_31"__id**
-
-
-%expr_30"
-equalÉ"Æ
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsN# N((
-%methRes_15*
-
-
-%expr_30"
-equal2
-
-
-%expr_302
-
-%env2
-04N
-L
-
-__unknown_file (
-%sc-P_787_24"__id**
-
-%env"
-%scope-P_787N
-L
-
-__unknown_file (
-%sc-P_787_25"__id**
-
-%env"
-%scope-P_787Û"Ø
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsO O(
-%funcRes_12*
-
-%sc-P_787_25"
-expect2
-	
-%global2
-
-%env2*
-
-data"
-hour12G
-E
-
-__unknown_file (
-
-%expr_32"__id**
-
-%funcRes_12"
-toG
-E
-
-__unknown_file (
-
-%expr_33"__id**
-
-
-%expr_32"
-equalÇ"Ä
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsO O("
-%methRes_16*
-
-
-%expr_32"
-equal2
-
-
-%expr_322
-
-%env22N
-L
-
-__unknown_file (
-%sc-P_787_26"__id**
-
-%env"
-%scope-P_787N
-L
-
-__unknown_file (
-%sc-P_787_27"__id**
-
-%env"
-%scope-P_787ã"à
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsP P(
-%funcRes_13*
-
-%sc-P_787_27"
-expect2
-	
-%global2
-
-%env2*
-
-data"
-hour12TwoDigitG
-E
-
-__unknown_file (
-
-%expr_34"__id**
-
-%funcRes_13"
-toG
-E
-
-__unknown_file (
-
-%expr_35"__id**
-
-
-%expr_34"
-equalÉ"Æ
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsP% P(*
-%methRes_17*
-
-
-%expr_34"
-equal2
-
-
-%expr_342
-
-%env2
-04N
-L
-
-__unknown_file (
-%sc-P_787_28"__id**
-
-%env"
-%scope-P_787N
-L
-
-__unknown_file (
-%sc-P_787_29"__id**
-
-%env"
-%scope-P_787Û"Ø
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsQ Q(
-%funcRes_14*
-
-%sc-P_787_29"
-expect2
-	
-%global2
-
-%env2*
-
-data"
-minuteG
-E
-
-__unknown_file (
-
-%expr_36"__id**
-
-%funcRes_14"
-toG
-E
-
-__unknown_file (
-
-%expr_37"__id**
-
-
-%expr_36"
-equalÇ"Ä
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsQ Q("
-%methRes_18*
-
-
-%expr_36"
-equal2
-
-
-%expr_362
-
-%env22N
-L
-
-__unknown_file (
-%sc-P_787_30"__id**
-
-%env"
-%scope-P_787N
-L
-
-__unknown_file (
-%sc-P_787_31"__id**
-
-%env"
-%scope-P_787ã"à
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsR R(
-%funcRes_15*
-
-%sc-P_787_31"
-expect2
-	
-%global2
-
-%env2*
-
-data"
-minuteTwoDigitG
-E
-
-__unknown_file (
-
-%expr_38"__id**
-
-%funcRes_15"
-toG
-E
-
-__unknown_file (
-
-%expr_39"__id**
-
-
-%expr_38"
-equalÉ"Æ
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsR% R(*
-%methRes_19*
-
-
-%expr_38"
-equal2
-
-
-%expr_382
-
-%env2
-05N
-L
-
-__unknown_file (
-%sc-P_787_32"__id**
-
-%env"
-%scope-P_787N
-L
-
-__unknown_file (
-%sc-P_787_33"__id**
-
-%env"
-%scope-P_787Û"Ø
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsS S(
-%funcRes_16*
-
-%sc-P_787_33"
-expect2
-	
-%global2
-
-%env2*
-
-data"
-secondG
-E
-
-__unknown_file (
-
-%expr_40"__id**
-
-%funcRes_16"
-toG
-E
-
-__unknown_file (
-
-%expr_41"__id**
-
-
-%expr_40"
-equalÇ"Ä
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsS S("
-%methRes_20*
-
-
-%expr_40"
-equal2
-
-
-%expr_402
-
-%env22N
-L
-
-__unknown_file (
-%sc-P_787_34"__id**
-
-%env"
-%scope-P_787N
-L
-
-__unknown_file (
-%sc-P_787_35"__id**
-
-%env"
-%scope-P_787ã"à
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsT T(
-%funcRes_17*
-
-%sc-P_787_35"
-expect2
-	
-%global2
-
-%env2*
-
-data"
-secondTwoDigitG
-E
-
-__unknown_file (
-
-%expr_42"__id**
-
-%funcRes_17"
-toG
-E
-
-__unknown_file (
-
-%expr_43"__id**
-
-
-%expr_42"
-equalÉ"Æ
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsT% T(*
-%methRes_21*
-
-
-%expr_42"
-equal2
-
-
-%expr_422
-
-%env2
-06N
-L
-
-__unknown_file (
-%sc-P_787_36"__id**
-
-%env"
-%scope-P_787N
-L
-
-__unknown_file (
-%sc-P_787_37"__id**
-
-%env"
-%scope-P_787Þ"Û
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsU U(
-%funcRes_18*
-
-%sc-P_787_37"
-expect2
-	
-%global2
-
-%env2*
-
-data"
-	dayPeriodG
-E
-
-__unknown_file (
-
-%expr_44"__id**
-
-%funcRes_18"
-toG
-E
-
-__unknown_file (
-
-%expr_45"__id**
-
-
-%expr_44"
-equalÉ"Æ
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsU  U(%
-%methRes_22*
-
-
-%expr_44"
-equal2
-
-
-%expr_442
-
-%env2
-amN
-L
-
-__unknown_file (
-%sc-P_787_38"__id**
-
-%env"
-%scope-P_787N
-L
-
-__unknown_file (
-%sc-P_787_39"__id**
-
-%env"
-%scope-P_787á"Þ
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsV V(
-%funcRes_19*
-
-%sc-P_787_39"
-expect2
-	
-%global2
-
-%env2*
-
-data"
-localeStringG
-E
-
-__unknown_file (
-
-%expr_46"__id**
-
-%funcRes_19"
-toG
-E
-
-__unknown_file (
-
-%expr_47"__id**
-
-
-%expr_46"
-equalÛ"Ø
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-date-display/0.1/test/test-amp-date-display.jsV# V((
-%methRes_23*
-
-
-%expr_46"
-equal2
-
-
-%expr_462
-
-%env2
-Feb 3, 2001, 4:05 AM"
-
-__unknown_file ( :
-%envB 

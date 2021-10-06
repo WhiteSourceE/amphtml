@@ -1,763 +1,0 @@
-
-Bbuild_system_tasks_e2e_describes_e2e_js_130_1_FD_2699_createDriverj
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsÇ	 Ç("s5_1*√
-s5_1
-<synthetic> (O
-M
-
-__unknown_file (
-%sc-P_1575_0"__id**
-
-%env"
-%scope-P_1575Q
-O
-
-__unknown_file (	
-%expr_0"__id*"* 
-
-%sc-P_1575_0"
-Capabilities°
-û
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsÉ É(0
-%var_0"__mapGet*
-	
-%expr_0*
-
-browserNameû"õ
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsÉ$ É(/
-
-%methRes_0"
-%var_02
-	
-%expr_02
-
-%envï
-í
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsÉ É(
-capabilities"__id*
-
-
-%methRes_0O
-M
-
-__unknown_file (
-%sc-P_1575_1"__id**
-
-%env"
-%scope-P_1575L
-J
-
-__unknown_file (	
-%expr_1"__id**
-
-%sc-P_1575_1"	
-loggingåâ
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsÖ Ö()
-	%object_0Object"ObjectK
-I
-
-__unknown_file (	
-%expr_2"__id**
-	
-%expr_1"
-Preferences∫"∑
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsÖ Ö()
-
-%methRes_1*
-	
-%expr_1"
-Preferences2
-
-	%object_0Object2
-
-%envP
-N
-
-__unknown_file (
-%fieldAccess_0"__id**
-	
-%expr_2"
-	prototype^
-\
-
-__unknown_file (	
-%void_0"
-__setProto*
-
-	%object_0Object*
-
-%fieldAccess_0ï
-í
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsÖ Ö(
-prefs"__id*
-
-	%object_0ObjectO
-M
-
-__unknown_file (
-%sc-P_1575_2"__id**
-
-%env"
-%scope-P_1575L
-J
-
-__unknown_file (	
-%expr_3"__id**
-
-%sc-P_1575_2"	
-loggingD
-B
-
-__unknown_file (	
-%expr_4"__id**
-	
-%expr_3"
-TypeO
-M
-
-__unknown_file (
-%sc-P_1575_3"__id**
-
-%env"
-%scope-P_1575L
-J
-
-__unknown_file (	
-%expr_5"__id**
-
-%sc-P_1575_3"	
-loggingE
-C
-
-__unknown_file (	
-%expr_6"__id**
-	
-%expr_5"
-LevelF
-D
-
-__unknown_file (	
-%expr_7"__id**
-
-prefs"
-
-setLevel›"⁄
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsÜ Ü(
-
-%methRes_2*
-
-prefs"
-
-setLevel2	
-
-prefs2
-
-%env2*
-	
-%expr_4"
-PERFORMANCE2*
-	
-%expr_6"
-ALLT
-R
-
-__unknown_file (	
-%expr_8"__id*%*#
-
-capabilities"
-setLoggingPrefs…"∆
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsá á(
-
-%methRes_3*#
-
-capabilities"
-setLoggingPrefs2
-
-capabilities2
-
-%env2	
-
-prefs*
-s5_2
-s5_4*Ó
-s5_2
-<synthetic>	 	(O
-M
-
-__unknown_file (
-%sc-P_1575_4"__id**
-
-%env"
-%scope-P_1575L
-J
-
-__unknown_file (	
-%expr_9"__id**
-
-%sc-P_1575_4"	
-firefoxåâ
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsä ä(2
-	%object_1Object"ObjectH
-F
-
-__unknown_file (
-
-%expr_10"__id**
-	
-%expr_9"	
-Options∂"≥
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsä ä(2
-
-%methRes_4*
-	
-%expr_9"	
-Options2
-
-	%object_1Object2
-
-%envQ
-O
-
-__unknown_file (
-%fieldAccess_1"__id**
-
-
-%expr_10"
-	prototype^
-\
-
-__unknown_file (	
-%void_1"
-__setProto*
-
-	%object_1Object*
-
-%fieldAccess_1•
-¢
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsä ä(
-%firefoxOptions~iSc_5"__id*
-
-	%object_1Object[
-Y
-
-__unknown_file (
-
-%expr_11"__id*+*)
-
-%firefoxOptions~iSc_5"
-addArguments◊"‘
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsã ã(!
-
-%methRes_5*)
-
-%firefoxOptions~iSc_5"
-addArguments2
-
-%firefoxOptions~iSc_52
-
-%env2
-
-argsO
-M
-
-__unknown_file (
-%sc-P_1575_5"__id**
-
-%env"
-%scope-P_1575^
-\
-
-__unknown_file (
-
-%expr_12"__id*.*,
-
-%sc-P_1575_5"
-DEFAULT_E2E_INITIAL_RECTO
-M
-
-__unknown_file (
-%sc-P_1575_6"__id**
-
-%env"
-%scope-P_1575^
-\
-
-__unknown_file (
-
-%expr_13"__id*.*,
-
-%sc-P_1575_6"
-DEFAULT_E2E_INITIAL_RECTåâ
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jså  è(
-	%object_2Object"ObjectÆ
-´
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsç ç(-
-
-	%object_2Object"
-width"__id**
-
-
-%expr_12"
-width∞
-≠
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsé é(/
-
-	%object_2Object"
-height"__id**
-
-
-%expr_13"
-heightY
-W
-
-__unknown_file (
-
-%expr_14"__id*)*'
-
-%firefoxOptions~iSc_5"
-
-windowSize‚"ﬂ
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jså å(
-
-%methRes_6*'
-
-%firefoxOptions~iSc_5"
-
-windowSize2
-
-%firefoxOptions~iSc_52
-
-%env2
-
-	%object_2ObjectO
-M
-
-__unknown_file (
-%sc-P_1575_7"__id**
-
-%env"
-%scope-P_1575åâ
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsê ê(
-	%object_3Object"ObjectM
-K
-
-__unknown_file (
-
-%expr_15"__id**
-
-%sc-P_1575_7"	
-Builderª"∏
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsê ê(
-
-%methRes_7*
-
-%sc-P_1575_7"	
-Builder2
-
-	%object_3Object2
-
-%envQ
-O
-
-__unknown_file (
-%fieldAccess_2"__id**
-
-
-%expr_15"
-	prototype^
-\
-
-__unknown_file (	
-%void_2"
-__setProto*
-
-	%object_3Object*
-
-%fieldAccess_2U
-S
-
-__unknown_file (
-
-%expr_16"__id*%*#
-
-	%object_3Object"
-
-forBrowser–"Õ
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsë	 ë(
-
-%methRes_8*#
-
-	%object_3Object"
-
-forBrowser2
-
-	%object_3Object2
-
-%env2	
-firefoxU
-S
-
-__unknown_file (
-
-%expr_17"__id*%*#
-
-
-%methRes_8"
-setFirefoxOptions◊"‘
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsí	 í(
-
-%methRes_9*#
-
-
-%methRes_8"
-setFirefoxOptions2
-
-
-%methRes_82
-
-%env2
-
-%firefoxOptions~iSc_5I
-G
-
-__unknown_file (
-
-%expr_18"__id**
-
-
-%methRes_9"
-build±"Æ
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsì	 ì(
-%methRes_10*
-
-
-%methRes_9"
-build2
-
-
-%methRes_92
-
-%env"}
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsê ì(
-
-%methRes_10*+
-s5_4
-<synthetic> (*
-s5_5
-s5_9*Ä
-
-s5_5
-<synthetic> (O
-M
-
-__unknown_file (
-%sc-P_1575_8"__id**
-
-%env"
-%scope-P_1575L
-J
-
-__unknown_file (
-
-%expr_19"__id**
-
-%sc-P_1575_8"
-chromeåâ
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsï ï(<
-	%object_4Object"ObjectI
-G
-
-__unknown_file (
-
-%expr_20"__id**
-
-
-%expr_19"	
-Options "«
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsï ï(<
-%methRes_11*
-
-
-%expr_19"	
-Options2
-
-	%object_4Object2
-
-%env2
-
-capabilitiesQ
-O
-
-__unknown_file (
-%fieldAccess_3"__id**
-
-
-%expr_20"
-	prototype^
-\
-
-__unknown_file (	
-%void_3"
-__setProto*
-
-	%object_4Object*
-
-%fieldAccess_3§
-°
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsï ï(
-%chromeOptions~iSc_5"__id*
-
-	%object_4ObjectZ
-X
-
-__unknown_file (
-
-%expr_21"__id***(
-
-%chromeOptions~iSc_5"
-addArguments÷"”
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsñ ñ( 
-%methRes_12*(
-
-%chromeOptions~iSc_5"
-addArguments2
-
-%chromeOptions~iSc_52
-
-%env2
-
-args*
-s5_6
-s5_7*Ø
-s5_6
-<synthetic> (åâ
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsò) ò(5
-	%object_5Object"Object™
-ß
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsò* ò(4#
-
-	%object_5Object"
-
-deviceName"__id*
-
-
-deviceName`
-^
-
-__unknown_file (
-
-%expr_22"__id*0*.
-
-%chromeOptions~iSc_5"
-setMobileEmulationÈ"Ê
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsò ò((
-%methRes_13*.
-
-%chromeOptions~iSc_5"
-setMobileEmulation2
-
-%chromeOptions~iSc_52
-
-%env2
-
-	%object_5Object*
-s5_7*›
-s5_7
-<synthetic> (O
-M
-
-__unknown_file (
-%sc-P_1575_9"__id**
-
-%env"
-%scope-P_1575L
-J
-
-__unknown_file (
-
-%expr_23"__id**
-
-%sc-P_1575_9"
-chromeH
-F
-
-__unknown_file (
-
-%expr_24"__id**
-
-
-%expr_23"
-DriverO
-M
-
-__unknown_file (
-
-%expr_25"__id**
-
-
-%expr_24"
-createSessionœ"Ã
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsö# ö(0
-%methRes_14*
-
-
-%expr_24"
-createSession2
-
-
-%expr_242
-
-%env2
-
-%chromeOptions~iSc_5ó
-î
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsö ö(
-%driver~iSc_5"__id*
-
-%methRes_14ñ
-ì
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsù ù(
-
-%driver~iSc_5"
-onQuit"__id* "
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.jsû û(
-
-%driver~iSc_5*-
-s5_9
-<synthetic> (*
-s5_10
-s5_12*Ú
-
-s5_10
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_1575_10"__id**
-
-%env"
-%scope-P_1575åâ
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.js† †(
-	%object_6Object"ObjectN
-L
-
-__unknown_file (
-
-%expr_26"__id**
-
-%sc-P_1575_10"	
-BuilderΩ"∫
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.js† †(
-%methRes_15*
-
-%sc-P_1575_10"	
-Builder2
-
-	%object_6Object2
-
-%envQ
-O
-
-__unknown_file (
-%fieldAccess_4"__id**
-
-
-%expr_26"
-	prototype^
-\
-
-__unknown_file (	
-%void_4"
-__setProto*
-
-	%object_6Object*
-
-%fieldAccess_4U
-S
-
-__unknown_file (
-
-%expr_27"__id*%*#
-
-	%object_6Object"
-
-forBrowser’"“
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.js† †(%
-%methRes_16*#
-
-	%object_6Object"
-
-forBrowser2
-
-	%object_6Object2
-
-%env2
-
-browserNameJ
-H
-
-__unknown_file (
-
-%expr_28"__id**
-
-%methRes_16"
-build≥"∞
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.js†3 †(8
-%methRes_17*
-
-%methRes_16"
-build2
-
-%methRes_162
-
-%env"}
-j
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/tasks/e2e/describes-e2e.js† †(;
-
-%methRes_17*>
-s5_12
-<synthetic> ("
-
-__unknown_file ( :
-%env:
-browserName:
-args:
-
-deviceNameB 

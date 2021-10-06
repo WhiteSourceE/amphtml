@@ -1,7 +1,0 @@
-organization=aharon02
-projectKey=amphtml_ws
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.22548
-dashboardUrl=https://sonarcloud.io/dashboard?id=amphtml_ws
-ceTaskId=AXs27hO3vop40Iyiin89
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXs27hO3vop40Iyiin89

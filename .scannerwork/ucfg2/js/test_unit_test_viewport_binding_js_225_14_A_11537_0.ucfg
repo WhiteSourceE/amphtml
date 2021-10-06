@@ -1,789 +1,0 @@
-
-3test_unit_test_viewport_binding_js_225_14_A_11537_0e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.js· ·("s28_1*áL
-s28_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-globalY
-W
-
-__unknown_file (
-%sc-A_11536_env_0"__id* *
-
-%env"
-%scope-A_11536_envM
-K
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-A_11536_env_0"
-envF
-D
-
-__unknown_file (	
-%expr_1"__id**
-	
-%expr_0"
-iframeE
-C
-
-__unknown_file (	
-%expr_2"__id**
-	
-%expr_1"
-styleë
-é
-e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.js‚ ‚(
-	
-%expr_2"
-width"__id*	
-100pxY
-W
-
-__unknown_file (
-%sc-A_11536_env_1"__id* *
-
-%env"
-%scope-A_11536_envM
-K
-
-__unknown_file (	
-%expr_3"__id**
-
-%sc-A_11536_env_1"
-envF
-D
-
-__unknown_file (	
-%expr_4"__id**
-	
-%expr_3"
-iframeE
-C
-
-__unknown_file (	
-%expr_5"__id**
-	
-%expr_4"
-styleí
-è
-e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.js„ „(
-	
-%expr_5"
-height"__id*	
-200pxY
-W
-
-__unknown_file (
-%sc-A_11536_env_2"__id* *
-
-%env"
-%scope-A_11536_envY
-W
-
-__unknown_file (
-%sc-A_11536_env_3"__id* *
-
-%env"
-%scope-A_11536_envM
-K
-
-__unknown_file (	
-%expr_6"__id**
-
-%sc-A_11536_env_3"
-env§
-°
-e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.js‰ ‰(
-
-%sc-A_11536_env_2"
-win"__id**
-	
-%expr_6"
-winY
-W
-
-__unknown_file (
-%sc-A_11536_env_4"__id* *
-
-%env"
-%scope-A_11536_envM
-K
-
-__unknown_file (	
-%expr_7"__id**
-
-%sc-A_11536_env_4"
-winH
-F
-
-__unknown_file (	
-%expr_8"__id**
-	
-%expr_7"
-
-documentO
-M
-
-__unknown_file (	
-%expr_9"__id* *
-	
-%expr_8"
-documentElementJ
-H
-
-__unknown_file (
-
-%expr_10"__id**
-	
-%expr_9"
-	classListE
-C
-
-__unknown_file (
-
-%expr_11"__id**
-
-
-%expr_10"
-addæ"ª
-e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.jsÂ+ Â(.
-
-%methRes_0*
-
-
-%expr_10"
-add2
-
-
-%expr_102
-
-%env2
-i-amphtml-singledocY
-W
-
-__unknown_file (
-%sc-A_11536_env_5"__id* *
-
-%env"
-%scope-A_11536_envY
-W
-
-__unknown_file (
-%sc-A_11536_env_6"__id* *
-
-%env"
-%scope-A_11536_envN
-L
-
-__unknown_file (
-
-%expr_12"__id**
-
-%sc-A_11536_env_6"
-winJ
-H
-
-__unknown_file (
-
-%expr_13"__id**
-
-
-%expr_12"
-
-documentO
-M
-
-__unknown_file (
-
-%expr_14"__id**
-
-
-%expr_13"
-createElement∏"µ
-e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.jsÁ Á(&
-
-%methRes_1*
-
-
-%expr_13"
-createElement2
-
-
-%expr_132
-
-%env2
-div†
-ù
-e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.jsÁ Á(	
-
-%sc-A_11536_env_5"
-child"__id*
-
-
-%methRes_1Y
-W
-
-__unknown_file (
-%sc-A_11536_env_7"__id* *
-
-%env"
-%scope-A_11536_envP
-N
-
-__unknown_file (
-
-%expr_15"__id* *
-
-%sc-A_11536_env_7"
-childG
-E
-
-__unknown_file (
-
-%expr_16"__id**
-
-
-%expr_15"
-styleí
-è
-e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.jsË Ë(
-
-
-%expr_16"
-width"__id*	
-200pxY
-W
-
-__unknown_file (
-%sc-A_11536_env_8"__id* *
-
-%env"
-%scope-A_11536_envP
-N
-
-__unknown_file (
-
-%expr_17"__id* *
-
-%sc-A_11536_env_8"
-childG
-E
-
-__unknown_file (
-
-%expr_18"__id**
-
-
-%expr_17"
-styleì
-ê
-e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.jsÈ È(
-
-
-%expr_18"
-height"__id*	
-300pxY
-W
-
-__unknown_file (
-%sc-A_11536_env_9"__id* *
-
-%env"
-%scope-A_11536_envN
-L
-
-__unknown_file (
-
-%expr_19"__id**
-
-%sc-A_11536_env_9"
-winJ
-H
-
-__unknown_file (
-
-%expr_20"__id**
-
-
-%expr_19"
-
-documentF
-D
-
-__unknown_file (
-
-%expr_21"__id**
-
-
-%expr_20"
-bodyZ
-X
-
-__unknown_file (
-%sc-A_11536_env_10"__id* *
-
-%env"
-%scope-A_11536_envM
-K
-
-__unknown_file (
-
-%expr_22"__id**
-
-
-%expr_21"
-appendChild–"Õ
-e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.jsÍ Í(!
-
-%methRes_2*
-
-
-%expr_21"
-appendChild2
-
-
-%expr_212
-
-%env2!*
-
-%sc-A_11536_env_10"
-childO
-M
-
-__unknown_file (
-%sc-P_1075_0"__id**
-
-%env"
-%scope-P_1075Z
-X
-
-__unknown_file (
-%sc-A_11536_env_11"__id* *
-
-%env"
-%scope-A_11536_envO
-M
-
-__unknown_file (
-%sc-P_1075_1"__id**
-
-%env"
-%scope-P_1075‹"Ÿ
-e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.jsÏ Ï(
-
-%funcRes_0**
-
-%sc-P_1075_1"
-installPlatformService2
-	
-%global2
-
-%env2*
-
-%sc-A_11536_env_11"
-winO
-M
-
-__unknown_file (
-%sc-P_1075_2"__id**
-
-%env"
-%scope-P_1075Z
-X
-
-__unknown_file (
-%sc-A_11536_env_12"__id* *
-
-%env"
-%scope-A_11536_envO
-M
-
-__unknown_file (
-%sc-P_1075_3"__id**
-
-%env"
-%scope-P_1075Ÿ"÷
-e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.jsÌ Ì(
-
-%funcRes_1*'
-
-%sc-P_1075_3"
-installVsyncService2
-	
-%global2
-
-%env2*
-
-%sc-A_11536_env_12"
-winO
-M
-
-__unknown_file (
-%sc-P_1075_4"__id**
-
-%env"
-%scope-P_1075Z
-X
-
-__unknown_file (
-%sc-A_11536_env_13"__id* *
-
-%env"
-%scope-A_11536_envO
-M
-
-__unknown_file (
-%sc-P_1075_5"__id**
-
-%env"
-%scope-P_1075›"⁄
-e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.jsÓ Ó(
-
-%funcRes_2*%
-
-%sc-P_1075_5"
-installDocService2
-	
-%global2
-
-%env2*
-
-%sc-A_11536_env_13"
-win22Z
-X
-
-__unknown_file (
-%sc-A_11536_env_14"__id* *
-
-%env"
-%scope-A_11536_envO
-M
-
-__unknown_file (
-%sc-P_1075_6"__id**
-
-%env"
-%scope-P_1075N
-L
-
-__unknown_file (
-
-%expr_23"__id**
-
-%sc-P_1075_6"
-
-ServicesZ
-X
-
-__unknown_file (
-%sc-A_11536_env_15"__id* *
-
-%env"
-%scope-A_11536_envR
-P
-
-__unknown_file (
-
-%expr_24"__id*"* 
-
-
-%expr_23"
-ampdocServiceFor”"–
-e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.jsÔ Ô(&
-
-%methRes_3* 
-
-
-%expr_23"
-ampdocServiceFor2
-
-
-%expr_232
-
-%env2*
-
-%sc-A_11536_env_15"
-winP
-N
-
-__unknown_file (
-
-%expr_25"__id* *
-
-
-%methRes_3"
-getSingleDoc≤"Ø
-e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.jsÔ, Ô(8
-
-%methRes_4*
-
-
-%methRes_3"
-getSingleDoc2
-
-
-%methRes_32
-
-%env¢
-ü
-e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.jsÔ Ô(
- 
-
-%sc-A_11536_env_14"
-ampdoc"__id*
-
-
-%methRes_4Z
-X
-
-__unknown_file (
-%sc-A_11536_env_16"__id* *
-
-%env"
-%scope-A_11536_envO
-M
-
-__unknown_file (
-
-%expr_26"__id**
-
-%sc-A_11536_env_16"
-envI
-G
-
-__unknown_file (
-
-%expr_27"__id**
-
-
-%expr_26"	
-sandboxO
-M
-
-__unknown_file (
-%sc-P_1075_7"__id**
-
-%env"
-%scope-P_1075N
-L
-
-__unknown_file (
-
-%expr_28"__id**
-
-%sc-P_1075_7"
-
-ServicesZ
-X
-
-__unknown_file (
-%sc-A_11536_env_17"__id* *
-
-%env"
-%scope-A_11536_envM
-K
-
-__unknown_file (
-
-%expr_29"__id**
-
-
-%expr_28"
-platformForŒ"À
-e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.js ()
-
-%methRes_5*
-
-
-%expr_28"
-platformFor2
-
-
-%expr_282
-
-%env2*
-
-%sc-A_11536_env_17"
-winF
-D
-
-__unknown_file (
-
-%expr_30"__id**
-
-
-%expr_27"
-stub¡"æ
-e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.js (
-
-%methRes_6*
-
-
-%expr_27"
-stub2
-
-
-%expr_272
-
-%env2
-
-
-%methRes_52	
-isIosK
-I
-
-__unknown_file (
-
-%expr_31"__id**
-
-
-%methRes_6"	
-returns≥"∞
-e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.js9 (@
-
-%methRes_7*
-
-
-%methRes_6"	
-returns2
-
-
-%methRes_62
-
-%env22Z
-X
-
-__unknown_file (
-%sc-A_11536_env_18"__id* *
-
-%env"
-%scope-A_11536_envO
-M
-
-__unknown_file (
-%sc-P_1075_8"__id**
-
-%env"
-%scope-P_1075Z
-X
-
-__unknown_file (
-%sc-A_11536_env_19"__id* *
-
-%env"
-%scope-A_11536_enváÑ
-e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.jsÒ Ò(1
-	%object_0Object"Object]
-[
-
-__unknown_file (
-
-%expr_32"__id*-*+
-
-%sc-P_1075_8"
-ViewportBindingNatural_Í"Á
-e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.jsÒ Ò(1
-
-%methRes_8*+
-
-%sc-P_1075_8"
-ViewportBindingNatural_2
-
-	%object_0Object2
-
-%env2"* 
-
-%sc-A_11536_env_19"
-ampdocQ
-O
-
-__unknown_file (
-%fieldAccess_0"__id**
-
-
-%expr_32"
-	prototype^
-\
-
-__unknown_file (	
-%void_0"
-__setProto*
-
-	%object_0Object*
-
-%fieldAccess_0™
-ß
-e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.jsÒ Ò(!
-
-%sc-A_11536_env_18"	
-binding"__id*
-
-	%object_0ObjectZ
-X
-
-__unknown_file (
-%sc-A_11536_env_20"__id* *
-
-%env"
-%scope-A_11536_envS
-Q
-
-__unknown_file (
-
-%expr_33"__id*#*!
-
-%sc-A_11536_env_20"	
-bindingI
-G
-
-__unknown_file (
-
-%expr_34"__id**
-
-
-%expr_33"	
-connect©"¶
-e
-Y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewport-binding.jsÚ Ú(
-
-%methRes_9*
-
-
-%expr_33"	
-connect2
-
-
-%expr_332
-
-%env"
-
-__unknown_file ( :
-%envB 

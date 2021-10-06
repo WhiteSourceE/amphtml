@@ -1,687 +1,0 @@
-
-Sextensions_amp_access_laterpay_0_1_test_test_amp_access_laterpay_js_37_16_A_22864_0„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js% %("s3_1*è\
-s3_1
-<synthetic> (Y
-W
-
-__unknown_file (
-%sc-A_22863_env_0"__id* *
-
-%env"
-%scope-A_22863_envY
-W
-
-__unknown_file (
-%sc-A_22863_env_1"__id* *
-
-%env"
-%scope-A_22863_envM
-K
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-A_22863_env_1"
-envÄ
-Á
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js& &(	
-
-%sc-A_22863_env_0"
-win"__id**
-	
-%expr_0"
-winY
-W
-
-__unknown_file (
-%sc-A_22863_env_2"__id* *
-
-%env"
-%scope-A_22863_envY
-W
-
-__unknown_file (
-%sc-A_22863_env_3"__id* *
-
-%env"
-%scope-A_22863_envM
-K
-
-__unknown_file (	
-%expr_1"__id**
-
-%sc-A_22863_env_3"
-envÊ
-Ç
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js' '(
-
-%sc-A_22863_env_2"
-ampdoc"__id**
-	
-%expr_1"
-ampdocY
-W
-
-__unknown_file (
-%sc-A_22863_env_4"__id* *
-
-%env"
-%scope-A_22863_envY
-W
-
-__unknown_file (
-%sc-A_22863_env_5"__id* *
-
-%env"
-%scope-A_22863_envM
-K
-
-__unknown_file (	
-%expr_2"__id**
-
-%sc-A_22863_env_5"
-winÎ
-Ë
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js( ((!
-
-%sc-A_22863_env_4"
-
-document"__id**
-	
-%expr_2"
-
-documentY
-W
-
-__unknown_file (
-%sc-A_22863_env_6"__id* *
-
-%env"
-%scope-A_22863_env§¤
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js* -(
-	%object_0Object"ObjectÙ
-Ö
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js+ +(4-
-
-	%object_0Object"
-articleTitleSelector"__id*
-#laterpay-test-title¹
-¶
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js, ,(
-
-	%object_0Object"
-region"__id*
-usÐ
-Í
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js* *('
-
-%sc-A_22863_env_6"
-laterpayConfig"__id*
-
-	%object_0ObjectY
-W
-
-__unknown_file (
-%sc-A_22863_env_7"__id* *
-
-%env"
-%scope-A_22863_env”
-‘
-
-__unknown_file (	
-%func_0"__declareFunction*WU
-Sextensions_amp_access_laterpay_0_1_test_test_amp_access_laterpay_js_48_27_A_22865_0fd
-
-__unknown_file (/
-%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_0"
-__setProto*
-	
-%func_0*1
-/
-%functionPrototype_0%SonarFunctionPrototype”
-‘
-
-__unknown_file (	
-%func_1"__declareFunction*WU
-Sextensions_amp_access_laterpay_0_1_test_test_amp_access_laterpay_js_51_19_A_22866_0fd
-
-__unknown_file (/
-%functionPrototype_1%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_1"
-__setProto*
-	
-%func_1*1
-/
-%functionPrototype_1%SonarFunctionPrototype”
-‘
-
-__unknown_file (	
-%func_2"__declareFunction*WU
-Sextensions_amp_access_laterpay_0_1_test_test_amp_access_laterpay_js_52_23_A_22867_0fd
-
-__unknown_file (/
-%functionPrototype_2%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_2"
-__setProto*
-	
-%func_2*1
-/
-%functionPrototype_2%SonarFunctionPrototype”
-‘
-
-__unknown_file (	
-%func_3"__declareFunction*WU
-Sextensions_amp_access_laterpay_0_1_test_test_amp_access_laterpay_js_53_22_A_22868_0fd
-
-__unknown_file (/
-%functionPrototype_3%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_3"
-__setProto*
-	
-%func_3*1
-/
-%functionPrototype_3%SonarFunctionPrototype§¤
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js/ 6(
-	%object_1Object"ObjectÈ
-Å
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js0 2(	)
-
-	%object_1Object"
-getAdapterConfig"__id*
-	
-%func_0À
-½
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js3 3(!
-
-	%object_1Object"
-
-buildUrl"__id*
-	
-%func_1Ä
-Á
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js4 4(%
-
-	%object_1Object"
-loginWithUrl"__id*
-	
-%func_2Ã
-À
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js5 5($
-
-	%object_1Object"
-getLoginUrl"__id*
-	
-%func_3Î
-Ë
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js/ /(%
-
-%sc-A_22863_env_7"
-accessSource"__id*
-
-	%object_1ObjectY
-W
-
-__unknown_file (
-%sc-A_22863_env_8"__id* *
-
-%env"
-%scope-A_22863_envY
-W
-
-__unknown_file (
-%sc-A_22863_env_9"__id* *
-
-%env"
-%scope-A_22863_env”
-‘
-
-__unknown_file (	
-%func_4"__declareFunction*WU
-Sextensions_amp_access_laterpay_0_1_test_test_amp_access_laterpay_js_58_20_A_22869_0fd
-
-__unknown_file (/
-%functionPrototype_4%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_4"
-__setProto*
-	
-%func_4*1
-/
-%functionPrototype_4%SonarFunctionPrototype§¤
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js8 ;(
-	%object_2Object"ObjectÔ
-Ñ
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js9 9(
-
-	%object_2Object"
-ampdoc"__id*!*
-
-%sc-A_22863_env_9"
-ampdocÁ
-¾
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js: :(%"
-
-	%object_2Object"
-	getSource"__id*
-	
-%func_4Ï
-Ì
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js8 8(&
-
-%sc-A_22863_env_8"
-accessService"__id*
-
-	%object_2ObjectZ
-X
-
-__unknown_file (
-%sc-A_22863_env_10"__id* *
-
-%env"
-%scope-A_22863_envZ
-X
-
-__unknown_file (
-%sc-A_22863_env_11"__id* *
-
-%env"
-%scope-A_22863_envN
-L
-
-__unknown_file (	
-%expr_3"__id**
-
-%sc-A_22863_env_11"
-envG
-E
-
-__unknown_file (	
-%expr_4"__id**
-	
-%expr_3"	
-sandboxZ
-X
-
-__unknown_file (
-%sc-A_22863_env_12"__id* *
-
-%env"
-%scope-A_22863_envD
-B
-
-__unknown_file (	
-%expr_5"__id**
-	
-%expr_4"
-mockî"ë
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js=% =()
-
-%methRes_0*
-	
-%expr_4"
-mock2
-	
-%expr_42
-
-%env2(*&
-
-%sc-A_22863_env_12"
-accessSourceÌ
-É
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js= =(*
-
-%sc-A_22863_env_10"
-accessSourceMock"__id*
-
-
-%methRes_0Z
-X
-
-__unknown_file (
-%sc-A_22863_env_13"__id* *
-
-%env"
-%scope-A_22863_envZ
-X
-
-__unknown_file (
-%sc-A_22863_env_14"__id* *
-
-%env"
-%scope-A_22863_envS
-Q
-
-__unknown_file (	
-%expr_6"__id*$*"
-
-%sc-A_22863_env_14"
-
-documentM
-K
-
-__unknown_file (	
-%expr_7"__id**
-	
-%expr_6"
-createElementÕ"Ò
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js? ?(+
-
-%methRes_1*
-	
-%expr_6"
-createElement2
-	
-%expr_62
-
-%env2
-h1È
-Å
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js? ?(&
-
-%sc-A_22863_env_13"
-articleTitle"__id*
-
-
-%methRes_1Z
-X
-
-__unknown_file (
-%sc-A_22863_env_15"__id* *
-
-%env"
-%scope-A_22863_envW
-U
-
-__unknown_file (	
-%expr_8"__id*(*&
-
-%sc-A_22863_env_15"
-articleTitle¼
-¹
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.js@ @(
-	
-%expr_8"
-id"__id*
-laterpay-test-titleZ
-X
-
-__unknown_file (
-%sc-A_22863_env_16"__id* *
-
-%env"
-%scope-A_22863_envW
-U
-
-__unknown_file (	
-%expr_9"__id*(*&
-
-%sc-A_22863_env_16"
-articleTitle¼
-¹
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.jsA A(
-	
-%expr_9"
-textContent"__id*
-
-test titleZ
-X
-
-__unknown_file (
-%sc-A_22863_env_17"__id* *
-
-%env"
-%scope-A_22863_envT
-R
-
-__unknown_file (
-
-%expr_10"__id*$*"
-
-%sc-A_22863_env_17"
-
-documentF
-D
-
-__unknown_file (
-
-%expr_11"__id**
-
-
-%expr_10"
-bodyZ
-X
-
-__unknown_file (
-%sc-A_22863_env_18"__id* *
-
-%env"
-%scope-A_22863_envM
-K
-
-__unknown_file (
-
-%expr_12"__id**
-
-
-%expr_11"
-appendChild÷"ô
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.jsB B(
-
-%methRes_2*
-
-
-%expr_11"
-appendChild2
-
-
-%expr_112
-
-%env2(*&
-
-%sc-A_22863_env_18"
-articleTitleZ
-X
-
-__unknown_file (
-%sc-A_22863_env_19"__id* *
-
-%env"
-%scope-A_22863_envO
-M
-
-__unknown_file (
-%sc-P_2110_0"__id**
-
-%env"
-%scope-P_2110Z
-X
-
-__unknown_file (
-%sc-A_22863_env_20"__id* *
-
-%env"
-%scope-A_22863_envZ
-X
-
-__unknown_file (
-%sc-A_22863_env_21"__id* *
-
-%env"
-%scope-A_22863_env§¤
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.jsD D(>
-	%object_3Object"ObjectT
-R
-
-__unknown_file (
-
-%expr_13"__id*$*"
-
-%sc-P_2110_0"
-LaterpayVendor²"¯
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.jsD D(>
-
-%methRes_3*"
-
-%sc-P_2110_0"
-LaterpayVendor2
-
-	%object_3Object2
-
-%env2)*'
-
-%sc-A_22863_env_20"
-accessService2(*&
-
-%sc-A_22863_env_21"
-accessSourceQ
-O
-
-__unknown_file (
-%fieldAccess_0"__id**
-
-
-%expr_13"
-	prototype^
-\
-
-__unknown_file (	
-%void_5"
-__setProto*
-
-	%object_3Object*
-
-%fieldAccess_0É
-Æ
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.jsD D( 
-
-%sc-A_22863_env_19"
-vendor"__id*
-
-	%object_3ObjectZ
-X
-
-__unknown_file (
-%sc-A_22863_env_22"__id* *
-
-%env"
-%scope-A_22863_envZ
-X
-
-__unknown_file (
-%sc-A_22863_env_23"__id* *
-
-%env"
-%scope-A_22863_envO
-M
-
-__unknown_file (
-
-%expr_14"__id**
-
-%sc-A_22863_env_23"
-envI
-G
-
-__unknown_file (
-
-%expr_15"__id**
-
-
-%expr_14"	
-sandboxZ
-X
-
-__unknown_file (
-%sc-A_22863_env_24"__id* *
-
-%env"
-%scope-A_22863_envR
-P
-
-__unknown_file (
-
-%expr_16"__id*"* 
-
-%sc-A_22863_env_24"
-vendorF
-D
-
-__unknown_file (
-
-%expr_17"__id**
-
-
-%expr_15"
-mockÞ"Û
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.jsE E( 
-
-%methRes_4*
-
-
-%expr_15"
-mock2
-
-
-%expr_152
-
-%env2*
-
-
-%expr_16"
-xhr_Ã
-À
-„
-z/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-access-laterpay/0.1/test/test-amp-access-laterpay.jsE E(!
-
-%sc-A_22863_env_22"	
-xhrMock"__id*
-
-
-%methRes_4"
-
-__unknown_file ( :
-%envB 

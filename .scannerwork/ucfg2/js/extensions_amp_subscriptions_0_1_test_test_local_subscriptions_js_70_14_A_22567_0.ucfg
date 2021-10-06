@@ -1,895 +1,0 @@
-
-Qextensions_amp_subscriptions_0_1_test_test_local_subscriptions_js_70_14_A_22567_0Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsF F("s3_1*»g
-s3_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-global86
-
-__unknown_file (
-%scope-A_22567_0"ObjectV
-T
-
-__unknown_file (
-
-%env"
-%scope-A_22567_0"__id*
-
-%scope-A_22567_0Y
-W
-
-__unknown_file (
-%sc-A_22566_env_0"__id* *
-
-%env"
-%scope-A_22566_envY
-W
-
-__unknown_file (
-%sc-A_22566_env_1"__id* *
-
-%env"
-%scope-A_22566_envM
-K
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-A_22566_env_1"
-env»
-≈
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsG G(
-
-
-%sc-A_22566_env_0"
-ampdoc"__id**
-	
-%expr_0"
-ampdocY
-W
-
-__unknown_file (
-%sc-A_22566_env_2"__id* *
-
-%env"
-%scope-A_22566_envO
-M
-
-__unknown_file (
-%sc-P_2075_0"__id**
-
-%env"
-%scope-P_2075•¢
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsH( H(*
-	%object_0Object"Object•¢
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsH H(+
-	%object_1Object"ObjectS
-Q
-
-__unknown_file (	
-%expr_1"__id*$*"
-
-%sc-P_2075_0"
-ServiceAdapterÚ"Ô
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsH H(+
-
-%methRes_0*"
-
-%sc-P_2075_0"
-ServiceAdapter2
-
-	%object_1Object2
-
-%env2
-
-	%object_0ObjectP
-N
-
-__unknown_file (
-%fieldAccess_0"__id**
-	
-%expr_1"
-	prototype^
-\
-
-__unknown_file (	
-%void_0"
-__setProto*
-
-	%object_1Object*
-
-%fieldAccess_0Œ
-À
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsH H('
-
-%sc-A_22566_env_2"
-serviceAdapter"__id*
-
-	%object_1ObjectO
-M
-
-__unknown_file (
-%sc-P_2075_1"__id**
-
-%env"
-%scope-P_2075Y
-W
-
-__unknown_file (
-%sc-A_22566_env_3"__id* *
-
-%env"
-%scope-A_22566_envP
-N
-
-__unknown_file (	
-%expr_2"__id*!*
-
-%sc-A_22566_env_3"
-ampdocK
-I
-
-__unknown_file (	
-%expr_3"__id**
-	
-%expr_2"
-getRootNode…"∆
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsI7 I(B
-
-%methRes_1*
-	
-%expr_2"
-getRootNode2
-	
-%expr_22
-
-%env•¢
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsI I(E
-	%object_2Object"ObjectZ
-X
-
-__unknown_file (	
-%expr_4"__id*+*)
-
-%sc-P_2075_1"
-SubscriptionAnalyticsÚ"Ô
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsI I(E
-
-%methRes_2*)
-
-%sc-P_2075_1"
-SubscriptionAnalytics2
-
-	%object_2Object2
-
-%env2
-
-
-%methRes_1P
-N
-
-__unknown_file (
-%fieldAccess_1"__id**
-	
-%expr_4"
-	prototype^
-\
-
-__unknown_file (	
-%void_1"
-__setProto*
-
-	%object_2Object*
-
-%fieldAccess_1»
-≈
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsI
- I(!
-
-%scope-A_22567_0"
-	analytics"__id*
-
-	%object_2ObjectY
-W
-
-__unknown_file (
-%sc-A_22566_env_4"__id* *
-
-%env"
-%scope-A_22566_envM
-K
-
-__unknown_file (	
-%expr_5"__id**
-
-%sc-A_22566_env_4"
-envG
-E
-
-__unknown_file (	
-%expr_6"__id**
-	
-%expr_5"	
-sandboxY
-W
-
-__unknown_file (
-%sc-A_22566_env_5"__id* *
-
-%env"
-%scope-A_22566_envD
-B
-
-__unknown_file (	
-%expr_7"__id**
-	
-%expr_6"
-stubˇ"¸
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsJ J(
-
-%methRes_3*
-	
-%expr_6"
-stub2
-	
-%expr_62
-
-%env2)*'
-
-%sc-A_22566_env_5"
-serviceAdapter2
-getAnalyticsí
-è
-
-__unknown_file (	
-%func_0"__declareFunction*US
-Qextensions_amp_subscriptions_0_1_test_test_local_subscriptions_js_74_64_A_22568_0V
-T
-
-__unknown_file (
-
-%env"
-%scope-A_22567_0"__id*
-
-%scope-A_22567_0fd
-
-__unknown_file (/
-%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_2"
-__setProto*
-	
-%func_0*1
-/
-%functionPrototype_0%SonarFunctionPrototypeL
-J
-
-__unknown_file (	
-%expr_8"__id**
-
-
-%methRes_3"
-	callsFake⁄"◊
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsJ5 J(>
-
-%methRes_4*
-
-
-%methRes_3"
-	callsFake2
-
-
-%methRes_32
-
-%env2
-	
-%func_0Y
-W
-
-__unknown_file (
-%sc-A_22566_env_6"__id* *
-
-%env"
-%scope-A_22566_envM
-K
-
-__unknown_file (	
-%expr_9"__id**
-
-%sc-A_22566_env_6"
-envH
-F
-
-__unknown_file (
-
-%expr_10"__id**
-	
-%expr_9"	
-sandboxY
-W
-
-__unknown_file (
-%sc-A_22566_env_7"__id* *
-
-%env"
-%scope-A_22566_envF
-D
-
-__unknown_file (
-
-%expr_11"__id**
-
-
-%expr_10"
-stubâ"Ü
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsL L(
-
-%methRes_5*
-
-
-%expr_10"
-stub2
-
-
-%expr_102
-
-%env2)*'
-
-%sc-A_22566_env_7"
-serviceAdapter2
-getScoreFactorStatesí
-è
-
-__unknown_file (	
-%func_1"__declareFunction*US
-Qextensions_amp_subscriptions_0_1_test_test_local_subscriptions_js_77_18_A_22569_0fd
-
-__unknown_file (/
-%functionPrototype_1%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_3"
-__setProto*
-	
-%func_1*1
-/
-%functionPrototype_1%SonarFunctionPrototypeM
-K
-
-__unknown_file (
-
-%expr_12"__id**
-
-
-%methRes_5"
-	callsFake⁄"◊
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsM M(
-
-%methRes_6*
-
-
-%methRes_5"
-	callsFake2
-
-
-%methRes_52
-
-%env2
-	
-%func_1Y
-W
-
-__unknown_file (
-%sc-A_22566_env_8"__id* *
-
-%env"
-%scope-A_22566_envN
-L
-
-__unknown_file (
-
-%expr_13"__id**
-
-%sc-A_22566_env_8"
-envI
-G
-
-__unknown_file (
-
-%expr_14"__id**
-
-
-%expr_13"	
-sandboxY
-W
-
-__unknown_file (
-%sc-A_22566_env_9"__id* *
-
-%env"
-%scope-A_22566_envF
-D
-
-__unknown_file (
-
-%expr_15"__id**
-
-
-%expr_14"
-stubÇ"ˇ
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsO O(
-
-%methRes_7*
-
-
-%expr_14"
-stub2
-
-
-%expr_142
-
-%env2)*'
-
-%sc-A_22566_env_9"
-serviceAdapter2
-getPageConfigí
-è
-
-__unknown_file (	
-%func_2"__declareFunction*US
-Qextensions_amp_subscriptions_0_1_test_test_local_subscriptions_js_80_18_A_22570_0fd
-
-__unknown_file (/
-%functionPrototype_2%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_4"
-__setProto*
-	
-%func_2*1
-/
-%functionPrototype_2%SonarFunctionPrototypeM
-K
-
-__unknown_file (
-
-%expr_16"__id**
-
-
-%methRes_7"
-	callsFake⁄"◊
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsP P(
-
-%methRes_8*
-
-
-%methRes_7"
-	callsFake2
-
-
-%methRes_72
-
-%env2
-	
-%func_2Z
-X
-
-__unknown_file (
-%sc-A_22566_env_10"__id* *
-
-%env"
-%scope-A_22566_envO
-M
-
-__unknown_file (
-
-%expr_17"__id**
-
-%sc-A_22566_env_10"
-envI
-G
-
-__unknown_file (
-
-%expr_18"__id**
-
-
-%expr_17"	
-sandboxZ
-X
-
-__unknown_file (
-%sc-A_22566_env_11"__id* *
-
-%env"
-%scope-A_22566_envF
-D
-
-__unknown_file (
-
-%expr_19"__id**
-
-
-%expr_18"
-stubˇ"¸
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsR R(
-
-%methRes_9*
-
-
-%expr_18"
-stub2
-
-
-%expr_182
-
-%env2**(
-
-%sc-A_22566_env_11"
-serviceAdapter2
-	getDialogí
-è
-
-__unknown_file (	
-%func_3"__declareFunction*US
-Qextensions_amp_subscriptions_0_1_test_test_local_subscriptions_js_83_18_A_22571_0fd
-
-__unknown_file (/
-%functionPrototype_3%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_5"
-__setProto*
-	
-%func_3*1
-/
-%functionPrototype_3%SonarFunctionPrototypeM
-K
-
-__unknown_file (
-
-%expr_20"__id**
-
-
-%methRes_9"
-	callsFake€"ÿ
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsS S(
-%methRes_10*
-
-
-%methRes_9"
-	callsFake2
-
-
-%methRes_92
-
-%env2
-	
-%func_3Z
-X
-
-__unknown_file (
-%sc-A_22566_env_12"__id* *
-
-%env"
-%scope-A_22566_envO
-M
-
-__unknown_file (
-
-%expr_21"__id**
-
-%sc-A_22566_env_12"
-envI
-G
-
-__unknown_file (
-
-%expr_22"__id**
-
-
-%expr_21"	
-sandboxZ
-X
-
-__unknown_file (
-%sc-A_22566_env_13"__id* *
-
-%env"
-%scope-A_22566_envF
-D
-
-__unknown_file (
-
-%expr_23"__id**
-
-
-%expr_22"
-stubÇ"ˇ
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsU U(
-%methRes_11*
-
-
-%expr_22"
-stub2
-
-
-%expr_222
-
-%env2**(
-
-%sc-A_22566_env_13"
-serviceAdapter2
-getReaderIdí
-è
-
-__unknown_file (	
-%func_4"__declareFunction*US
-Qextensions_amp_subscriptions_0_1_test_test_local_subscriptions_js_86_18_A_22572_0fd
-
-__unknown_file (/
-%functionPrototype_4%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_6"
-__setProto*
-	
-%func_4*1
-/
-%functionPrototype_4%SonarFunctionPrototypeN
-L
-
-__unknown_file (
-
-%expr_24"__id**
-
-%methRes_11"
-	callsFake›"⁄
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsV V(
-%methRes_12*
-
-%methRes_11"
-	callsFake2
-
-%methRes_112
-
-%env2
-	
-%func_4Z
-X
-
-__unknown_file (
-%sc-A_22566_env_14"__id* *
-
-%env"
-%scope-A_22566_envZ
-X
-
-__unknown_file (
-%sc-A_22566_env_15"__id* *
-
-%env"
-%scope-A_22566_envO
-M
-
-__unknown_file (
-
-%expr_25"__id**
-
-%sc-A_22566_env_15"
-envI
-G
-
-__unknown_file (
-
-%expr_26"__id**
-
-
-%expr_25"	
-sandboxZ
-X
-
-__unknown_file (
-%sc-A_22566_env_16"__id* *
-
-%env"
-%scope-A_22566_envF
-D
-
-__unknown_file (
-
-%expr_27"__id**
-
-
-%expr_26"
-stubé"ã
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsX X(
-%methRes_13*
-
-
-%expr_26"
-stub2
-
-
-%expr_262
-
-%env2**(
-
-%sc-A_22566_env_16"
-serviceAdapter2
-getEncryptedDocumentKeyí
-è
-
-__unknown_file (	
-%func_5"__declareFunction*US
-Qextensions_amp_subscriptions_0_1_test_test_local_subscriptions_js_89_18_A_22573_0fd
-
-__unknown_file (/
-%functionPrototype_5%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_7"
-__setProto*
-	
-%func_5*1
-/
-%functionPrototype_5%SonarFunctionPrototypeN
-L
-
-__unknown_file (
-
-%expr_28"__id**
-
-%methRes_13"
-	callsFake›"⁄
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsY Y(
-%methRes_14*
-
-%methRes_13"
-	callsFake2
-
-%methRes_132
-
-%env2
-	
-%func_5÷
-”
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsW W(5
-
-%sc-A_22566_env_14"
-getEncryptedDocumentKeyStub"__id*
-
-%methRes_14Z
-X
-
-__unknown_file (
-%sc-A_22566_env_17"__id* *
-
-%env"
-%scope-A_22566_envO
-M
-
-__unknown_file (
-%sc-P_2075_2"__id**
-
-%env"
-%scope-P_2075Z
-X
-
-__unknown_file (
-%sc-A_22566_env_18"__id* *
-
-%env"
-%scope-A_22566_envZ
-X
-
-__unknown_file (
-%sc-A_22566_env_19"__id* *
-
-%env"
-%scope-A_22566_envY
-W
-
-__unknown_file (
-
-%expr_29"__id*)*'
-
-%sc-A_22566_env_19"
-serviceConfigJ
-H
-
-__unknown_file (
-
-%expr_30"__id**
-
-
-%expr_29"
-
-servicesÆ
-´
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.js\ \(
-%var_0"__mapGet*
-
-
-%expr_30*2 Z
-X
-
-__unknown_file (
-%sc-A_22566_env_20"__id* *
-
-%env"
-%scope-A_22566_envO
-M
-
-__unknown_file (
-%sc-P_2075_3"__id**
-
-%env"
-%scope-P_2075ø"º
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsZ  Z(@
-
-%funcRes_0*4
-
-%sc-P_2075_3""
- localSubscriptionPlatformFactory2
-	
-%global2
-
-%env2"* 
-
-%sc-A_22566_env_18"
-ampdoc2
-
-
-%var_02**(
-
-%sc-A_22566_env_20"
-serviceAdapter”
-–
-Ç
-x/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-subscriptions/0.1/test/test-local-subscriptions.jsZ Z(3
-
-%sc-A_22566_env_17"
-localSubscriptionPlatform"__id*
-
-
-%funcRes_0"
-
-__unknown_file ( :
-%envB 

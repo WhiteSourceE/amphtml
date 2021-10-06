@@ -1,599 +1,0 @@
-
-Pads_inabox_full_overlay_frame_helper_js_27_8_FD_3781_centerFrameUnderVsyncMutateh
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js (+"s2_1*ÆN
-s2_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-globalO
-M
-
-__unknown_file (
-%sc-P_2173_0"__id**
-
-%env"
-%scope-P_2173¢
-ü
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js% %(
-%fieldAccess_0"__id**
-
-viewportSize"
-width†
-ù
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js% %(
-%binOpRes_0"__js_div*
-
-%fieldAccess_0*2†
-ù
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js% %(1
-%fieldAccess_1"__id**
-
-
-iframeRect"
-width†
-ù
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js% %(1
-%binOpRes_1"__js_div*
-
-%fieldAccess_1*2®
-•
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js% %(1
-%binOpRes_2"__js_sub*
-
-%binOpRes_0*
-
-%binOpRes_1ü
-ú
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js% %(C
-%fieldAccess_2"__id**
-
-
-iframeRect"
-left´
-®
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js% %(C
-%binOpRes_3"__js_sub*
-
-%binOpRes_2*
-
-%fieldAccess_2O
-M
-
-__unknown_file (
-%sc-P_2173_1"__id**
-
-%env"
-%scope-P_2173ª"∏
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js$ $(
-
-%funcRes_0*
-
-%sc-P_2173_1"
-px2
-	
-%global2
-
-%env2
-
-%binOpRes_3ë
-é
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js$ $(
-
-translateX"__id*
-
-
-%funcRes_0O
-M
-
-__unknown_file (
-%sc-P_2173_2"__id**
-
-%env"
-%scope-P_2173£
-†
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js) )(
-%fieldAccess_3"__id**
-
-viewportSize"
-height†
-ù
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js) )(
-%binOpRes_4"__js_div*
-
-%fieldAccess_3*2°
-û
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js) )(3
-%fieldAccess_4"__id**
-
-
-iframeRect"
-height†
-ù
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js) )(3
-%binOpRes_5"__js_div*
-
-%fieldAccess_4*2®
-•
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js) )(3
-%binOpRes_6"__js_sub*
-
-%binOpRes_4*
-
-%binOpRes_5û
-õ
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js) )(D
-%fieldAccess_5"__id**
-
-
-iframeRect"
-top´
-®
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js) )(D
-%binOpRes_7"__js_sub*
-
-%binOpRes_6*
-
-%fieldAccess_5O
-M
-
-__unknown_file (
-%sc-P_2173_3"__id**
-
-%env"
-%scope-P_2173ª"∏
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js( ((
-
-%funcRes_1*
-
-%sc-P_2173_3"
-px2
-	
-%global2
-
-%env2
-
-%binOpRes_7ë
-é
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js( ((
-
-translateY"__id*
-
-
-%funcRes_1O
-M
-
-__unknown_file (
-%sc-P_2173_4"__id**
-
-%env"
-%scope-P_2173O
-M
-
-__unknown_file (
-%sc-P_2173_5"__id**
-
-%env"
-%scope-P_2173O
-M
-
-__unknown_file (
-%sc-P_2173_6"__id**
-
-%env"
-%scope-P_2173√"¿
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js. .(
-
-%funcRes_2*
-
-%sc-P_2173_6"
-px2
-	
-%global2
-
-%env2*
-
-
-iframeRect"
-topO
-M
-
-__unknown_file (
-%sc-P_2173_7"__id**
-
-%env"
-%scope-P_2173ü
-ú
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js/& /(H
-%fieldAccess_6"__id**
-
-
-iframeRect"
-left†
-ù
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js/& /(H
-%fieldAccess_7"__id**
-
-
-iframeRect"
-width¨
-©
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js/& /(H
-	%concat_0"__concat*
-
-%fieldAccess_6*
-
-%fieldAccess_7¢
-ü
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js/ /(I
-%fieldAccess_8"__id**
-
-viewportSize"
-width©
-¶
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js/ /(I
-%binOpRes_8"__js_sub*
-
-%fieldAccess_8*
-
-	%concat_0O
-M
-
-__unknown_file (
-%sc-P_2173_8"__id**
-
-%env"
-%scope-P_2173ª"∏
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js/ /(
-
-%funcRes_3*
-
-%sc-P_2173_8"
-px2
-	
-%global2
-
-%env2
-
-%binOpRes_8O
-M
-
-__unknown_file (
-%sc-P_2173_9"__id**
-
-%env"
-%scope-P_2173P
-N
-
-__unknown_file (
-%sc-P_2173_10"__id**
-
-%env"
-%scope-P_2173≈"¬
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js0 0(
-
-%funcRes_4*
-
-%sc-P_2173_10"
-px2
-	
-%global2
-
-%env2*
-
-
-iframeRect"
-leftP
-N
-
-__unknown_file (
-%sc-P_2173_11"__id**
-
-%env"
-%scope-P_2173û
-õ
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js1( 1(J
-%fieldAccess_9"__id**
-
-
-iframeRect"
-top¢
-ü
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js1( 1(J
-%fieldAccess_10"__id**
-
-
-iframeRect"
-height≠
-™
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js1( 1(J
-	%concat_1"__concat*
-
-%fieldAccess_9*
-
-%fieldAccess_10§
-°
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js1 1(K
-%fieldAccess_11"__id**
-
-viewportSize"
-height™
-ß
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js1 1(K
-%binOpRes_9"__js_sub*
-
-%fieldAccess_11*
-
-	%concat_1P
-N
-
-__unknown_file (
-%sc-P_2173_12"__id**
-
-%env"
-%scope-P_2173º"π
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js1 1(
-
-%funcRes_5*
-
-%sc-P_2173_12"
-px2
-	
-%global2
-
-%env2
-
-%binOpRes_9P
-N
-
-__unknown_file (
-%sc-P_2173_13"__id**
-
-%env"
-%scope-P_2173P
-N
-
-__unknown_file (
-%sc-P_2173_14"__id**
-
-%env"
-%scope-P_2173«"ƒ
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js2 2(
-
-%funcRes_6*
-
-%sc-P_2173_14"
-px2
-	
-%global2
-
-%env2*
-
-
-iframeRect"
-heightP
-N
-
-__unknown_file (
-%sc-P_2173_15"__id**
-
-%env"
-%scope-P_2173P
-N
-
-__unknown_file (
-%sc-P_2173_16"__id**
-
-%env"
-%scope-P_2173∆"√
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js3 3(
-
-%funcRes_7*
-
-%sc-P_2173_16"
-px2
-	
-%global2
-
-%env2*
-
-
-iframeRect"
-width∑
-¥
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js4 4(8
-	%concat_2"__concat*
-
-transform *
-
-transitionTimeMs*	
-ms easeP
-N
-
-__unknown_file (
-%sc-P_2173_17"__id**
-
-%env"
-%scope-P_2173P
-N
-
-__unknown_file (
-%sc-P_2173_18"__id**
-
-%env"
-%scope-P_2173“"œ
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js5 5(
-
-%funcRes_8*
-
-%sc-P_2173_18"
-	translate2
-	
-%global2
-
-%env2
-
-
-translateX2
-
-
-translateYäá
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js, 7(
-	%object_0Object"Object°
-û
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js- -(!
-
-	%object_0Object"
-
-position"__id*	
-fixed°
-û
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js. .(
-
-	%object_0Object"
-top"__id*
-
-
-%funcRes_2£
-†
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js/ /(J
-
-	%object_0Object"
-right"__id*
-
-
-%funcRes_3¢
-ü
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js0 0(
-
-	%object_0Object"
-left"__id*
-
-
-%funcRes_4§
-°
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js1 1(L
-
-	%object_0Object"
-bottom"__id*
-
-
-%funcRes_5§
-°
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js2 2(#
-
-	%object_0Object"
-height"__id*
-
-
-%funcRes_6£
-†
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js3 3(!
-
-	%object_0Object"
-width"__id*
-
-
-%funcRes_7ß
-§
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js4 4(8#
-
-	%object_0Object"
-
-transition"__id*
-
-	%concat_2ß
-§
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js5 5(2"
-
-	%object_0Object"
-	transform"__id*
-
-
-%funcRes_8ò
-ï
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js6 6(
-
-	%object_0Object"
-margin"__id*2 P
-N
-
-__unknown_file (
-%sc-P_2173_19"__id**
-
-%env"
-%scope-P_2173’"“
-h
-^/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/inabox/full-overlay-frame-helper.js, ,(
-
-%funcRes_9*
-
-%sc-P_2173_19"
-	setStyles2
-	
-%global2
-
-%env2
-
-
-iframe2
-
-	%object_0Object"
-
-__unknown_file ( :
-%env:
-iframe:
-
-iframeRect:
-viewportSize:
-transitionTimeMsB 

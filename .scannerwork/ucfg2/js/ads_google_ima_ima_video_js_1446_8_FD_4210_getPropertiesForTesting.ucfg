@@ -1,527 +1,0 @@
-
-Bads_google_ima_ima_video_js_1446_8_FD_4210_getPropertiesForTesting^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js¦ ¦('"s61_1*Ë?
-s61_1
-<synthetic> (O
-M
-
-__unknown_file (
-%sc-P_2413_0"__id**
-
-%env"
-%scope-P_2413O
-M
-
-__unknown_file (
-%sc-P_2413_1"__id**
-
-%env"
-%scope-P_2413O
-M
-
-__unknown_file (
-%sc-P_2413_2"__id**
-
-%env"
-%scope-P_2413O
-M
-
-__unknown_file (
-%sc-P_2413_3"__id**
-
-%env"
-%scope-P_2413O
-M
-
-__unknown_file (
-%sc-P_2413_4"__id**
-
-%env"
-%scope-P_2413O
-M
-
-__unknown_file (
-%sc-P_2413_5"__id**
-
-%env"
-%scope-P_2413O
-M
-
-__unknown_file (
-%sc-P_2413_6"__id**
-
-%env"
-%scope-P_2413O
-M
-
-__unknown_file (
-%sc-P_2413_7"__id**
-
-%env"
-%scope-P_2413O
-M
-
-__unknown_file (
-%sc-P_2413_8"__id**
-
-%env"
-%scope-P_2413O
-M
-
-__unknown_file (
-%sc-P_2413_9"__id**
-
-%env"
-%scope-P_2413P
-N
-
-__unknown_file (
-%sc-P_2413_10"__id**
-
-%env"
-%scope-P_2413P
-N
-
-__unknown_file (
-%sc-P_2413_11"__id**
-
-%env"
-%scope-P_2413P
-N
-
-__unknown_file (
-%sc-P_2413_12"__id**
-
-%env"
-%scope-P_2413P
-N
-
-__unknown_file (
-%sc-P_2413_13"__id**
-
-%env"
-%scope-P_2413P
-N
-
-__unknown_file (
-%sc-P_2413_14"__id**
-
-%env"
-%scope-P_2413P
-N
-
-__unknown_file (
-%sc-P_2413_15"__id**
-
-%env"
-%scope-P_2413P
-N
-
-__unknown_file (
-%sc-P_2413_16"__id**
-
-%env"
-%scope-P_2413P
-N
-
-__unknown_file (
-%sc-P_2413_17"__id**
-
-%env"
-%scope-P_2413P
-N
-
-__unknown_file (
-%sc-P_2413_18"__id**
-
-%env"
-%scope-P_2413N
-L
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-P_2413_18"
-
-elementsP
-N
-
-__unknown_file (
-%sc-P_2413_19"__id**
-
-%env"
-%scope-P_2413N
-L
-
-__unknown_file (	
-%expr_1"__id**
-
-%sc-P_2413_19"
-
-elementsP
-N
-
-__unknown_file (
-%sc-P_2413_20"__id**
-
-%env"
-%scope-P_2413N
-L
-
-__unknown_file (	
-%expr_2"__id**
-
-%sc-P_2413_20"
-
-elementsP
-N
-
-__unknown_file (
-%sc-P_2413_21"__id**
-
-%env"
-%scope-P_2413N
-L
-
-__unknown_file (	
-%expr_3"__id**
-
-%sc-P_2413_21"
-
-elementsP
-N
-
-__unknown_file (
-%sc-P_2413_22"__id**
-
-%env"
-%scope-P_2413N
-L
-
-__unknown_file (	
-%expr_4"__id**
-
-%sc-P_2413_22"
-
-elementsP
-N
-
-__unknown_file (
-%sc-P_2413_23"__id**
-
-%env"
-%scope-P_2413N
-L
-
-__unknown_file (	
-%expr_5"__id**
-
-%sc-P_2413_23"
-
-elementsP
-N
-
-__unknown_file (
-%sc-P_2413_24"__id**
-
-%env"
-%scope-P_2413N
-L
-
-__unknown_file (	
-%expr_6"__id**
-
-%sc-P_2413_24"
-
-elementsP
-N
-
-__unknown_file (
-%sc-P_2413_25"__id**
-
-%env"
-%scope-P_2413N
-L
-
-__unknown_file (	
-%expr_7"__id**
-
-%sc-P_2413_25"
-
-elementsP
-N
-
-__unknown_file (
-%sc-P_2413_26"__id**
-
-%env"
-%scope-P_2413N
-L
-
-__unknown_file (	
-%expr_8"__id**
-
-%sc-P_2413_26"
-
-elements}
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js§	 Ä(
-	%object_0Object"Objectº
-·
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js¨ ¨((
-
-	%object_0Object"
-allAdsCompleted"__id*%*#
-
-%sc-P_2413_0"
-allAdsCompletedº
-·
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js© ©((
-
-	%object_0Object"
-adRequestFailed"__id*%*#
-
-%sc-P_2413_1"
-adRequestFailed®
-«
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.jsª ª("
-
-	%object_0Object"
-	adsActive"__id**
-
-%sc-P_2413_2"
-	adsActiveÆ
-Ã
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js« «(.
-
-	%object_0Object"
-adsManagerWidthOnLoad"__id*+*)
-
-%sc-P_2413_3"
-adsManagerWidthOnLoadÈ
-Å
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js¬ ¬(/
-
-	%object_0Object"
-adsManagerHeightOnLoad"__id*,**
-
-%sc-P_2413_4"
-adsManagerHeightOnLoad°
-­
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js­ ­(#
-
-	%object_0Object"
-
-adsRequest"__id* *
-
-%sc-P_2413_5"
-
-adsRequestº
-·
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js® ®((
-
-	%object_0Object"
-contentComplete"__id*%*#
-
-%sc-P_2413_6"
-contentCompleteº
-·
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js¯ ¯((
-
-	%object_0Object"
-controlsVisible"__id*%*#
-
-%sc-P_2413_7"
-controlsVisibleÂ
-¿
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js° °(,
-
-	%object_0Object"
-hideControlsTimeout"__id*)*'
-
-%sc-P_2413_8"
-hideControlsTimeout¸
-µ
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js± ±('
-
-	%object_0Object"
-imaLoadAllowed"__id*$*"
-
-%sc-P_2413_9"
-imaLoadAllowed·
-´
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js² ²(&
-
-	%object_0Object"
-interactEvent"__id*$*"
-
-%sc-P_2413_10"
-interactEvent»
-¸
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js³ ³((
-
-	%object_0Object"
-playbackStarted"__id*&*$
-
-%sc-P_2413_11"
-playbackStarted³
-°
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js´ ´($
-
-	%object_0Object"
-playerState"__id*"* 
-
-%sc-P_2413_12"
-playerStateµ
-²
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.jsµ µ(%
-
-	%object_0Object"
-PlayerStates"__id*#*!
-
-%sc-P_2413_13"
-PlayerStates­
-ª
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js¶ ¶(!
-
-	%object_0Object"
-
-uiTicker"__id**
-
-%sc-P_2413_14"
-
-uiTickerÁ
-¾
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js· ·(+
-
-	%object_0Object"
-hideControlsQueued"__id*)*'
-
-%sc-P_2413_15"
-hideControlsQueued§
-¤
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js¸ ¸(	
-
-	%object_0Object"
-icons"__id**
-
-%sc-P_2413_16"
-icons­
-ª
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.jsº º(!
-
-	%object_0Object"
-
-elements"__id**
-
-%sc-P_2413_17"
-
-elements§
-¤
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js» »("$
-
-	%object_0Object"
-videoPlayer"__id**
-	
-%expr_0"
-video°
-­
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js¼ ¼(+'
-
-	%object_0Object"
-adContainerDiv"__id**
-	
-%expr_1"
-adContainerª
-§
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js½ ½(%$
-
-	%object_0Object"
-controlsDiv"__id**
-	
-%expr_2"
-
-controls­
-ª
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js¾ ¾((%
-
-	%object_0Object"
-playPauseDiv"__id**
-	
-%expr_3"
-
-playButton¬
-©
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js¿ ¿('%
-
-	%object_0Object"
-countdownDiv"__id**
-	
-%expr_4"
-	countdown¢
-Ÿ
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.jsÀ À( 
-
-	%object_0Object"	
-timeDiv"__id**
-	
-%expr_5"
-time®
-«
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.jsÁ Á()&
-
-	%object_0Object"
-muteUnmuteDiv"__id**
-	
-%expr_6"
-
-muteButton´
-±
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.jsÂ Â(/&
-
-	%object_0Object"
-fullscreenDiv"__id*!*
-	
-%expr_7"
-fullscreenButton®
-«
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.jsÃ Ã()#
-
-	%object_0Object"
-
-bigPlayDiv"__id**
-	
-%expr_8"
-overlayButton"w
-^
-R/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/ads/google/ima/ima-video.js§ Ä(
-
-	%object_0Object:
-%envB 

@@ -1,657 +1,0 @@
-
-:build_system_server_app_utils_js_62_1_FD_3903_logServeModea
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.js>	 >("s4_1*Ô
-s4_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-globalO
-M
-
-__unknown_file (
-%sc-P_2276_0"__id**
-
-%env"
-%scope-P_2276O
-M
-
-__unknown_file (
-%sc-P_2276_1"__id**
-
-%env"
-%scope-P_2276≠"™
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.js? ?( 
-
-%funcRes_0* 
-
-%sc-P_2276_1"
-getServeMode2
-	
-%global2
-
-%envâ
-Ü
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.js? ?(
-	serveMode"__id*
-
-
-%funcRes_0û
-õ
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.js@ @(
-%binOpRes_0"
-__js_equal*
-
-	serveMode*
-
-compiled*
-s4_2
-s4_3*¢
-s4_2
-<synthetic> (O
-M
-
-__unknown_file (
-%sc-P_2276_2"__id**
-
-%env"
-%scope-P_2276O
-M
-
-__unknown_file (
-%sc-P_2276_3"__id**
-
-%env"
-%scope-P_2276O
-M
-
-__unknown_file (
-%sc-P_2276_4"__id**
-
-%env"
-%scope-P_2276≥"∞
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.jsA A(
-
-%funcRes_1*
-
-%sc-P_2276_4"
-green2
-	
-%global2
-
-%env2	
-ServingO
-M
-
-__unknown_file (
-%sc-P_2276_5"__id**
-
-%env"
-%scope-P_2276O
-M
-
-__unknown_file (
-%sc-P_2276_6"__id**
-
-%env"
-%scope-P_2276≥"∞
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.jsA A(
-
-%funcRes_2*
-
-%sc-P_2276_6"
-cyan2
-	
-%global2
-
-%env2
-
-minifiedO
-M
-
-__unknown_file (
-%sc-P_2276_7"__id**
-
-%env"
-%scope-P_2276O
-M
-
-__unknown_file (
-%sc-P_2276_8"__id**
-
-%env"
-%scope-P_2276Æ"´
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.jsA, A(1
-
-%funcRes_3*
-
-%sc-P_2276_8"
-green2
-	
-%global2
-
-%env2
-JSO
-M
-
-__unknown_file (
-%sc-P_2276_9"__id**
-
-%env"
-%scope-P_2276‘"—
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.jsA A(
-
-%funcRes_4*
-
-%sc-P_2276_9"
-log2
-	
-%global2
-
-%env2
-
-
-%funcRes_12
-
-
-%funcRes_22
-
-
-%funcRes_3*
-s4_13*«
-s4_3
-<synthetic> (ô
-ñ
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.jsB B(
-%binOpRes_1"
-__js_equal*
-
-	serveMode*
-esm*
-s4_4
-s4_5*©
-s4_4
-<synthetic>
- 
-(P
-N
-
-__unknown_file (
-%sc-P_2276_10"__id**
-
-%env"
-%scope-P_2276P
-N
-
-__unknown_file (
-%sc-P_2276_11"__id**
-
-%env"
-%scope-P_2276P
-N
-
-__unknown_file (
-%sc-P_2276_12"__id**
-
-%env"
-%scope-P_2276¥"±
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.jsC C(
-
-%funcRes_5*
-
-%sc-P_2276_12"
-green2
-	
-%global2
-
-%env2	
-ServingP
-N
-
-__unknown_file (
-%sc-P_2276_13"__id**
-
-%env"
-%scope-P_2276P
-N
-
-__unknown_file (
-%sc-P_2276_14"__id**
-
-%env"
-%scope-P_2276Ø"¨
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.jsC C(
-
-%funcRes_6*
-
-%sc-P_2276_14"
-cyan2
-	
-%global2
-
-%env2
-ESMP
-N
-
-__unknown_file (
-%sc-P_2276_15"__id**
-
-%env"
-%scope-P_2276P
-N
-
-__unknown_file (
-%sc-P_2276_16"__id**
-
-%env"
-%scope-P_2276Ø"¨
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.jsC' C(,
-
-%funcRes_7*
-
-%sc-P_2276_16"
-green2
-	
-%global2
-
-%env2
-JSP
-N
-
-__unknown_file (
-%sc-P_2276_17"__id**
-
-%env"
-%scope-P_2276’"“
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.jsC C(
-
-%funcRes_8*
-
-%sc-P_2276_17"
-log2
-	
-%global2
-
-%env2
-
-
-%funcRes_52
-
-
-%funcRes_62
-
-
-%funcRes_7*
-s4_12*«
-s4_5
-<synthetic> (ô
-ñ
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.jsD D(
-%binOpRes_2"
-__js_equal*
-
-	serveMode*
-cdn*
-s4_6
-s4_7*∑
-s4_6
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_2276_18"__id**
-
-%env"
-%scope-P_2276P
-N
-
-__unknown_file (
-%sc-P_2276_19"__id**
-
-%env"
-%scope-P_2276P
-N
-
-__unknown_file (
-%sc-P_2276_20"__id**
-
-%env"
-%scope-P_2276¥"±
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.jsE E(
-
-%funcRes_9*
-
-%sc-P_2276_20"
-green2
-	
-%global2
-
-%env2	
-ServingP
-N
-
-__unknown_file (
-%sc-P_2276_21"__id**
-
-%env"
-%scope-P_2276P
-N
-
-__unknown_file (
-%sc-P_2276_22"__id**
-
-%env"
-%scope-P_2276π"∂
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.jsE E(
-%funcRes_10*
-
-%sc-P_2276_22"
-cyan2
-	
-%global2
-
-%env2
-current prodP
-N
-
-__unknown_file (
-%sc-P_2276_23"__id**
-
-%env"
-%scope-P_2276P
-N
-
-__unknown_file (
-%sc-P_2276_24"__id**
-
-%env"
-%scope-P_2276∞"≠
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.jsE0 E(5
-%funcRes_11*
-
-%sc-P_2276_24"
-green2
-	
-%global2
-
-%env2
-JSP
-N
-
-__unknown_file (
-%sc-P_2276_25"__id**
-
-%env"
-%scope-P_2276ÿ"’
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.jsE E(
-%funcRes_12*
-
-%sc-P_2276_25"
-log2
-	
-%global2
-
-%env2
-
-
-%funcRes_92
-
-%funcRes_102
-
-%funcRes_11*
-s4_11*ç
-s4_7
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_2276_26"__id**
-
-%env"
-%scope-P_2276P
-N
-
-__unknown_file (
-%sc-P_2276_27"__id**
-
-%env"
-%scope-P_2276ª"∏
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.jsF F(
-%funcRes_13*
-
-%sc-P_2276_27"
-	isRtvMode2
-	
-%global2
-
-%env2
-
-	serveMode*
-s4_8
-s4_9*⁄
-s4_8
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_2276_28"__id**
-
-%env"
-%scope-P_2276P
-N
-
-__unknown_file (
-%sc-P_2276_29"__id**
-
-%env"
-%scope-P_2276P
-N
-
-__unknown_file (
-%sc-P_2276_30"__id**
-
-%env"
-%scope-P_2276¡"æ
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.jsG G(
-%funcRes_14*
-
-%sc-P_2276_30"
-green2
-	
-%global2
-
-%env2
-Serving JS from RTVP
-N
-
-__unknown_file (
-%sc-P_2276_31"__id**
-
-%env"
-%scope-P_2276P
-N
-
-__unknown_file (
-%sc-P_2276_32"__id**
-
-%env"
-%scope-P_2276∂"≥
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.jsG& G(*
-%funcRes_15*
-
-%sc-P_2276_32"
-cyan2
-	
-%global2
-
-%env2
-
-	serveModeP
-N
-
-__unknown_file (
-%sc-P_2276_33"__id**
-
-%env"
-%scope-P_2276»"≈
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.jsG G(
-%funcRes_16*
-
-%sc-P_2276_33"
-log2
-	
-%global2
-
-%env2
-
-%funcRes_142
-
-%funcRes_15*
-s4_10*∑
-s4_9
-<synthetic> (P
-N
-
-__unknown_file (
-%sc-P_2276_34"__id**
-
-%env"
-%scope-P_2276P
-N
-
-__unknown_file (
-%sc-P_2276_35"__id**
-
-%env"
-%scope-P_2276P
-N
-
-__unknown_file (
-%sc-P_2276_36"__id**
-
-%env"
-%scope-P_2276µ"≤
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.jsI I(
-%funcRes_17*
-
-%sc-P_2276_36"
-green2
-	
-%global2
-
-%env2	
-ServingP
-N
-
-__unknown_file (
-%sc-P_2276_37"__id**
-
-%env"
-%scope-P_2276P
-N
-
-__unknown_file (
-%sc-P_2276_38"__id**
-
-%env"
-%scope-P_2276∑"¥
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.jsI I(
-%funcRes_18*
-
-%sc-P_2276_38"
-cyan2
-	
-%global2
-
-%env2
-
-unminifiedP
-N
-
-__unknown_file (
-%sc-P_2276_39"__id**
-
-%env"
-%scope-P_2276P
-N
-
-__unknown_file (
-%sc-P_2276_40"__id**
-
-%env"
-%scope-P_2276∞"≠
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.jsI. I(3
-%funcRes_19*
-
-%sc-P_2276_40"
-green2
-	
-%global2
-
-%env2
-JSP
-N
-
-__unknown_file (
-%sc-P_2276_41"__id**
-
-%env"
-%scope-P_2276Ÿ"÷
-a
-W/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/build-system/server/app-utils.jsI I(
-%funcRes_20*
-
-%sc-P_2276_41"
-log2
-	
-%global2
-
-%env2
-
-%funcRes_172
-
-%funcRes_182
-
-%funcRes_19*
-s4_10*'
-s4_10
-<synthetic> (*
-s4_11*'
-s4_11
-<synthetic>	 	(*
-s4_12*'
-s4_12
-<synthetic> (*
-s4_13*>
-s4_13
-<synthetic> ("
-
-__unknown_file ( :
-%envB 

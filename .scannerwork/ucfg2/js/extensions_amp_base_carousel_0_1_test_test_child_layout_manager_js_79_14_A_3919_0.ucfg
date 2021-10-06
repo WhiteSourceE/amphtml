@@ -1,678 +1,0 @@
-
-Qextensions_amp_base_carousel_0_1_test_test_child_layout_manager_js_79_14_A_3919_0ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.jsO O("s11_1*ƒM
-s11_1
-<synthetic> (W
-U
-
-__unknown_file (
-%sc-A_3918_env_0"__id**
-
-%env"
-%scope-A_3918_envW
-U
-
-__unknown_file (
-%sc-A_3918_env_1"__id**
-
-%env"
-%scope-A_3918_envL
-J
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-A_3918_env_1"
-envÂ
-¿
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.jsP P(
-
-%sc-A_3918_env_0"
-win"__id**
-	
-%expr_0"
-winW
-U
-
-__unknown_file (
-%sc-A_3918_env_2"__id**
-
-%env"
-%scope-A_3918_envW
-U
-
-__unknown_file (
-%sc-A_3918_env_3"__id**
-
-%env"
-%scope-A_3918_envL
-J
-
-__unknown_file (	
-%expr_1"__id**
-
-%sc-A_3918_env_3"
-winÇ
-Ä
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.jsQ Q(
-
-%sc-A_3918_env_2"
-doc"__id**
-	
-%expr_1"
-
-documentW
-U
-
-__unknown_file (
-%sc-A_3918_env_4"__id**
-
-%env"
-%scope-A_3918_envL
-J
-
-__unknown_file (	
-%expr_2"__id**
-
-%sc-A_3918_env_4"
-envF
-D
-
-__unknown_file (	
-%expr_3"__id**
-	
-%expr_2"
-iframe¯
-¬
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.jsR R(
-	
-%expr_3"
-width"__id*
-1000W
-U
-
-__unknown_file (
-%sc-A_3918_env_5"__id**
-
-%env"
-%scope-A_3918_envL
-J
-
-__unknown_file (	
-%expr_4"__id**
-
-%sc-A_3918_env_5"
-envF
-D
-
-__unknown_file (	
-%expr_5"__id**
-	
-%expr_4"
-iframe°
-­
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.jsS S(
-	
-%expr_5"
-height"__id*
-1000W
-U
-
-__unknown_file (
-%sc-A_3918_env_6"__id**
-
-%env"
-%scope-A_3918_envW
-U
-
-__unknown_file (
-%sc-A_3918_env_7"__id**
-
-%env"
-%scope-A_3918_envL
-J
-
-__unknown_file (	
-%expr_6"__id**
-
-%sc-A_3918_env_7"
-docM
-K
-
-__unknown_file (	
-%expr_7"__id**
-	
-%expr_6"
-createElementÕ"Ò
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.jsT T(!
-
-%methRes_0*
-	
-%expr_6"
-createElement2
-	
-%expr_62
-
-%env2
-divÂ
-¿
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.jsT T(!
-
-%sc-A_3918_env_6"
-	container"__id*
-
-
-%methRes_0W
-U
-
-__unknown_file (
-%sc-A_3918_env_8"__id**
-
-%env"
-%scope-A_3918_envL
-J
-
-__unknown_file (	
-%expr_8"__id**
-
-%sc-A_3918_env_8"
-docD
-B
-
-__unknown_file (	
-%expr_9"__id**
-	
-%expr_8"
-bodyW
-U
-
-__unknown_file (
-%sc-A_3918_env_9"__id**
-
-%env"
-%scope-A_3918_envL
-J
-
-__unknown_file (
-
-%expr_10"__id**
-	
-%expr_9"
-appendChildï"ì
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.jsU U(
-
-%methRes_1*
-	
-%expr_9"
-appendChild2
-	
-%expr_92
-
-%env2#*!
-
-%sc-A_3918_env_9"
-	containerX
-V
-
-__unknown_file (
-%sc-A_3918_env_10"__id**
-
-%env"
-%scope-A_3918_env¦£
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.jsW W(
-	%object_0Object"ObjectÏ
-Ì
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.jsW W('
-
-%sc-A_3918_env_10"
-domElementMock"__id*
-
-	%object_0ObjectX
-V
-
-__unknown_file (
-%sc-A_3918_env_11"__id**
-
-%env"
-%scope-A_3918_envX
-V
-
-__unknown_file (
-%sc-A_3918_env_12"__id**
-
-%env"
-%scope-A_3918_envX
-V
-
-__unknown_file (
-%sc-A_3918_env_13"__id**
-
-%env"
-%scope-A_3918_env¦£
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.jsX [(
-	%object_1Object"ObjectÍ
-Ê
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.jsY Y(	
-
-	%object_1Object"
-win"__id**
-
-%sc-A_3918_env_12"
-winÜ
-Ù
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.jsZ Z( 
-
-	%object_1Object"	
-element"__id*)*'
-
-%sc-A_3918_env_13"
-domElementMockÏ
-Ì
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.jsX X('
-
-%sc-A_3918_env_11"
-ampElementMock"__id*
-
-	%object_1ObjectX
-V
-
-__unknown_file (
-%sc-A_3918_env_14"__id**
-
-%env"
-%scope-A_3918_envX
-V
-
-__unknown_file (
-%sc-A_3918_env_15"__id**
-
-%env"
-%scope-A_3918_envN
-L
-
-__unknown_file (
-
-%expr_11"__id**
-
-%sc-A_3918_env_15"
-envI
-G
-
-__unknown_file (
-
-%expr_12"__id**
-
-
-%expr_11"	
-sandboxE
-C
-
-__unknown_file (
-
-%expr_13"__id**
-
-
-%expr_12"
-spyÄ"Á
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.js] ](
-
-%methRes_2*
-
-
-%expr_12"
-spy2
-
-
-%expr_122
-
-%envX
-V
-
-__unknown_file (
-%sc-A_3918_env_16"__id**
-
-%env"
-%scope-A_3918_envN
-L
-
-__unknown_file (
-
-%expr_14"__id**
-
-%sc-A_3918_env_16"
-envI
-G
-
-__unknown_file (
-
-%expr_15"__id**
-
-
-%expr_14"	
-sandboxE
-C
-
-__unknown_file (
-
-%expr_16"__id**
-
-
-%expr_15"
-spyÄ"Á
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.js^" ^(%
-
-%methRes_3*
-
-
-%expr_15"
-spy2
-
-
-%expr_152
-
-%envX
-V
-
-__unknown_file (
-%sc-A_3918_env_17"__id**
-
-%env"
-%scope-A_3918_envN
-L
-
-__unknown_file (
-
-%expr_17"__id**
-
-%sc-A_3918_env_17"
-envI
-G
-
-__unknown_file (
-
-%expr_18"__id**
-
-
-%expr_17"	
-sandboxE
-C
-
-__unknown_file (
-
-%expr_19"__id**
-
-
-%expr_18"
-spyÄ"Á
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.js_$ _('
-
-%methRes_4*
-
-
-%expr_18"
-spy2
-
-
-%expr_182
-
-%envX
-V
-
-__unknown_file (
-%sc-A_3918_env_18"__id**
-
-%env"
-%scope-A_3918_envN
-L
-
-__unknown_file (
-
-%expr_20"__id**
-
-%sc-A_3918_env_18"
-envI
-G
-
-__unknown_file (
-
-%expr_21"__id**
-
-
-%expr_20"	
-sandboxE
-C
-
-__unknown_file (
-
-%expr_22"__id**
-
-
-%expr_21"
-spyÄ"Á
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.js`! `($
-
-%methRes_5*
-
-
-%expr_21"
-spy2
-
-
-%expr_212
-
-%envX
-V
-
-__unknown_file (
-%sc-A_3918_env_19"__id**
-
-%env"
-%scope-A_3918_envN
-L
-
-__unknown_file (
-
-%expr_23"__id**
-
-%sc-A_3918_env_19"
-envI
-G
-
-__unknown_file (
-
-%expr_24"__id**
-
-
-%expr_23"	
-sandboxE
-C
-
-__unknown_file (
-
-%expr_25"__id**
-
-
-%expr_24"
-spyÄ"Á
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.jsa" a(%
-
-%methRes_6*
-
-
-%expr_24"
-spy2
-
-
-%expr_242
-
-%env¦£
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.js\ b(
-	%object_2Object"ObjectÂ
-¿
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.js] ](!!
-
-	%object_2Object"
-
-setOwner"__id*
-
-
-%methRes_2È
-Å
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.js^ ^(''
-
-	%object_2Object"
-scheduleLayout"__id*
-
-
-%methRes_3Ê
-Ç
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.js_ _())
-
-	%object_2Object"
-scheduleUnlayout"__id*
-
-
-%methRes_4Ç
-Ä
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.js` `(&&
-
-	%object_2Object"
-schedulePause"__id*
-
-
-%methRes_5È
-Å
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.jsa a(''
-
-	%object_2Object"
-scheduleResume"__id*
-
-
-%methRes_6Ë
-È
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.js\ \(#
-
-%sc-A_3918_env_14"
-
-ownersMock"__id*
-
-	%object_2ObjectX
-V
-
-__unknown_file (
-%sc-A_3918_env_20"__id**
-
-%env"
-%scope-A_3918_envN
-L
-
-__unknown_file (
-
-%expr_26"__id**
-
-%sc-A_3918_env_20"
-envI
-G
-
-__unknown_file (
-
-%expr_27"__id**
-
-
-%expr_26"	
-sandboxM
-K
-
-__unknown_file (
-%sc-P_414_0"__id**
-
-%env"
-%scope-P_414F
-D
-
-__unknown_file (
-
-%expr_28"__id**
-
-
-%expr_27"
-stubö"ó
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.jsc c(
-
-%methRes_7*
-
-
-%expr_27"
-stub2
-
-
-%expr_272
-
-%env2*
-
-%sc-P_414_0"
-
-Services2
-ownersForDocX
-V
-
-__unknown_file (
-%sc-A_3918_env_21"__id**
-
-%env"
-%scope-A_3918_envK
-I
-
-__unknown_file (
-
-%expr_29"__id**
-
-
-%methRes_7"	
-returnsó"ð
-ƒ
-y/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-base-carousel/0.1/test/test-child-layout-manager.jsc/ c(6
-
-%methRes_8*
-
-
-%methRes_7"	
-returns2
-
-
-%methRes_72
-
-%env2%*#
-
-%sc-A_3918_env_21"
-
-ownersMock"
-
-__unknown_file ( :
-%envB 

@@ -1,683 +1,0 @@
-
-^extensions_amp_autocomplete_0_1_test_test_amp_autocomplete_js_41_5_FD_584_buildAmpAutocomplete~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.js) )(!"s5_1*®(
-s5_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-globalJH
-
-__unknown_file ($
-"%scope-FD_584_buildAmpAutocomplete"Objectz
-x
-
-__unknown_file (.
-
-%env"$
-"%scope-FD_584_buildAmpAutocomplete"__id*&
-$
-"%scope-FD_584_buildAmpAutocompleteM
-K
-
-__unknown_file (
-%sc-P_281_0"__id**
-
-%env"
-%scope-P_281W
-U
-
-__unknown_file (
-%sc-A_2550_env_0"__id**
-
-%env"
-%scope-A_2550_env†ù
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.js*K -(
-	%object_0Object"Objectπ
-∂
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.js+ +(
-
-	%object_0Object"
-layout"__id*
-	containerπ
-∂
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.js, ,(
-
-	%object_0Object"
-filter"__id*
-	substringM
-K
-
-__unknown_file (
-%sc-P_281_1"__id**
-
-%env"
-%scope-P_281§"°
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.js* *(1
-
-%funcRes_0*.
-
-%sc-P_281_1"
-createElementWithAttributes2
-	
-%global2
-
-%env2*
-
-%sc-A_2550_env_0"
-doc2
-amp-autocomplete2
-
-	%object_0Object§
-°
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.js* *(	
-element"__id*
-
-
-%funcRes_0W
-U
-
-__unknown_file (
-%sc-A_2550_env_1"__id**
-
-%env"
-%scope-A_2550_envL
-J
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-A_2550_env_1"
-winH
-F
-
-__unknown_file (	
-%expr_1"__id**
-	
-%expr_0"
-
-documentM
-K
-
-__unknown_file (	
-%expr_2"__id**
-	
-%expr_1"
-createElement—"Œ
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.js/! /(.
-
-%methRes_0*
-	
-%expr_1"
-createElement2
-	
-%expr_12
-
-%env2	
-input¢
-ü
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.js/ /(
-input"__id*
-
-
-%methRes_0J
-H
-
-__unknown_file (	
-%expr_3"__id**
-
-input"
-setAttribute’"“
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.js0 0(
-
-%methRes_1*
-
-input"
-setAttribute2	
-
-input2
-
-%env2
-type2
-textK
-I
-
-__unknown_file (	
-%expr_4"__id**
-	
-element"
-appendChildœ"Ã
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.js1 1(
-
-%methRes_2*
-	
-element"
-appendChild2
-	
-element2
-
-%env2	
-
-inputW
-U
-
-__unknown_file (
-%sc-A_2550_env_2"__id**
-
-%env"
-%scope-A_2550_envL
-J
-
-__unknown_file (	
-%expr_5"__id**
-
-%sc-A_2550_env_2"
-winH
-F
-
-__unknown_file (	
-%expr_6"__id**
-	
-%expr_5"
-
-documentM
-K
-
-__unknown_file (	
-%expr_7"__id**
-	
-%expr_6"
-createElement“"œ
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.js3" 3(/
-
-%methRes_3*
-	
-%expr_6"
-createElement2
-	
-%expr_62
-
-%env2
-
-script£
-†
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.js3 3(
-script"__id*
-
-
-%methRes_3K
-I
-
-__unknown_file (	
-%expr_8"__id**
-
-script"
-setAttribute„"‡
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.js4 4(
-
-%methRes_4*
-
-script"
-setAttribute2
-
-
-script2
-
-%env2
-type2
-application/jsonò"ï
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.js5 5(	
-%void_0*2
-
-script"&
-$__setWatchedMemberDescendantProperty2
-
-
-script2
-
-%env2
-	innerHTML2/-
-+{ "items" : ["apple", "banana", "orange"] }”
-–
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.js5 5(
-
-script"
-	innerHTML"__id*/-
-+{ "items" : ["apple", "banana", "orange"] }K
-I
-
-__unknown_file (	
-%expr_9"__id**
-	
-element"
-appendChild–"Õ
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.js6 6(
-
-%methRes_5*
-	
-element"
-appendChild2
-	
-element2
-
-%env2
-
-
-scriptW
-U
-
-__unknown_file (
-%sc-A_2550_env_3"__id**
-
-%env"
-%scope-A_2550_envM
-K
-
-__unknown_file (
-
-%expr_10"__id**
-
-%sc-A_2550_env_3"
-docF
-D
-
-__unknown_file (
-
-%expr_11"__id**
-
-
-%expr_10"
-bodyM
-K
-
-__unknown_file (
-
-%expr_12"__id**
-
-
-%expr_11"
-appendChild”"–
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.js8 8(
-
-%methRes_6*
-
-
-%expr_11"
-appendChild2
-
-
-%expr_112
-
-%env2
-	
-element*
-s5_2
-s5_3*¨
-s5_2
-<synthetic> (P
-N
-
-__unknown_file (
-
-%expr_13"__id* *
-	
-element"
-removeAttribute‘"—
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.js; ;(
-
-%methRes_7*
-	
-element"
-removeAttribute2
-	
-element2
-
-%env2
-
-filterM
-K
-
-__unknown_file (
-
-%expr_14"__id**
-	
-element"
-setAttribute‡"›
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.js< <(
-
-%methRes_8*
-	
-element"
-setAttribute2
-	
-element2
-
-%env2
-src2
-example.jsonW
-U
-
-__unknown_file (
-%sc-A_2550_env_4"__id**
-
-%env"
-%scope-A_2550_envM
-K
-
-__unknown_file (
-
-%expr_15"__id**
-
-%sc-A_2550_env_4"
-docO
-M
-
-__unknown_file (
-
-%expr_16"__id**
-
-
-%expr_15"
-createElement÷"”
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.js= =(*
-
-%methRes_9*
-
-
-%expr_15"
-createElement2
-
-
-%expr_152
-
-%env2
-
-template¨
-©
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.js= =(
-%template~iSc_1"__id*
-
-
-%methRes_9L
-J
-
-__unknown_file (
-
-%expr_17"__id**
-	
-element"
-appendChild⁄"◊
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.js> >(
-%methRes_10*
-	
-element"
-appendChild2
-	
-element2
-
-%env2
-
-%template~iSc_1*
-s5_3*ò
-s5_3
-<synthetic> (M
-K
-
-__unknown_file (
-%sc-P_281_2"__id**
-
-%env"
-%scope-P_281†ù
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.jsA A(:
-	%object_1Object"ObjectT
-R
-
-__unknown_file (
-
-%expr_18"__id*$*"
-
-%sc-P_281_2"
-AmpAutocomplete‰"·
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.jsA A(:
-%methRes_11*"
-
-%sc-P_281_2"
-AmpAutocomplete2
-
-	%object_1Object2
-
-%env2
-	
-elementQ
-O
-
-__unknown_file (
-%fieldAccess_0"__id**
-
-
-%expr_18"
-	prototype^
-\
-
-__unknown_file (	
-%void_1"
-__setProto*
-
-	%object_1Object*
-
-%fieldAccess_0€
-ÿ
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.jsA A(9
-$
-"%scope-FD_584_buildAmpAutocomplete"
-ampAutocomplete"__id*
-
-	%object_1Objectk
-i
-
-__unknown_file (
-
-%expr_19"__id*;*9
-$
-"%scope-FD_584_buildAmpAutocomplete"
-ampAutocompleteV
-T
-
-__unknown_file (
-
-%expr_20"__id*&*$
-
-
-%expr_19"
-getSsrTemplateHelper–"Õ
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.jsB0 B(D
-%methRes_12*$
-
-
-%expr_19"
-getSsrTemplateHelper2
-
-
-%expr_192
-
-%envØ
-¨
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.jsB B(
-ssrTemplateHelper"__id*
-
-%methRes_12W
-U
-
-__unknown_file (
-%sc-A_2550_env_5"__id**
-
-%env"
-%scope-A_2550_envM
-K
-
-__unknown_file (
-
-%expr_21"__id**
-
-%sc-A_2550_env_5"
-envI
-G
-
-__unknown_file (
-
-%expr_22"__id**
-
-
-%expr_21"	
-sandboxF
-D
-
-__unknown_file (
-
-%expr_23"__id**
-
-
-%expr_22"
-stubÊ"„
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.jsC C(
-%methRes_13*
-
-
-%expr_22"
-stub2
-
-
-%expr_222
-
-%env2
-
-ssrTemplateHelper2
-	isEnabledL
-J
-
-__unknown_file (
-
-%expr_24"__id**
-
-%methRes_13"	
-returns÷"”
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.jsC7 C(>
-%methRes_14*
-
-%methRes_13"	
-returns2
-
-%methRes_132
-
-%env2
-	
-wantSsrk
-i
-
-__unknown_file (
-
-%expr_25"__id*;*9
-$
-"%scope-FD_584_buildAmpAutocomplete"
-ampAutocompleteO
-M
-
-__unknown_file (
-
-%expr_26"__id**
-
-
-%expr_25"
-buildCallback…"∆
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.jsE E(*
-%methRes_15*
-
-
-%expr_25"
-buildCallback2
-
-
-%expr_252
-
-%envç
-ä
-
-__unknown_file (	
-%func_0"__declareFunction*PN
-Lextensions_amp_autocomplete_0_1_test_test_amp_autocomplete_js_69_51_A_2553_0z
-x
-
-__unknown_file (.
-
-%env"$
-"%scope-FD_584_buildAmpAutocomplete"__id*&
-$
-"%scope-FD_584_buildAmpAutocompletefd
-
-__unknown_file (/
-%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_2"
-__setProto*
-	
-%func_0*1
-/
-%functionPrototype_0%SonarFunctionPrototypeW
-U
-
-__unknown_file (/
-
-%env"%
-#_this_2_FD_584_buildAmpAutocomplete"__id* ƒ"¡
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.jsE- E(1
-
-%funcRes_1"	
-%func_02
-	
-%global2
-
-%env2
-
-%methRes_15"ê
-~
-t/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-autocomplete/0.1/test/test-amp-autocomplete.jsE G(	
-
-
-%funcRes_1:
-%env:	
-wantSsrB 

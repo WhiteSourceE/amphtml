@@ -1,676 +1,0 @@
-
-)test_unit_test_service_js_486_18_A_3422_0\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÊ Ê("s70_1*∏T
-s70_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-globalS
-Q
-
-__unknown_file (
-%sc-A_3421_0_0"__id**
-
-%env"
-%scope-A_3421_0}{
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÈ È(0
-	%object_0Object"Objectê
-ç
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÈ È(/!
-
-	%object_0Object"
-
-nodeType"__id*2	S
-Q
-
-__unknown_file (
-%sc-A_3396_0_0"__id**
-
-%env"
-%scope-A_3396_0}{
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÍ( Í(@
-	%object_1Object"Object∞
-≠
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÍ) Í(?$
-
-	%object_1Object"
-defaultView"__id*!*
-
-%sc-A_3396_0_0"
-	windowApi}{
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÍ Í(A
-	%object_2Object"Object¶
-£
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÍ Í(@&
-
-	%object_2Object"
-ownerDocument"__id*
-
-	%object_1Object}{
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsË Î(	
-	%object_3Object"Object°
-û
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÈ
- È(0!
-
-	%object_3Object"
-
-document"__id*
-
-	%object_0Object•
-¢
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÍ
- Í(A%
-
-	%object_3Object"
-frameElement"__id*
-
-	%object_2Objectû
-õ
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsË Ë(
-
-%sc-A_3421_0_0"
-
-childWin"__id*
-
-	%object_3ObjectS
-Q
-
-__unknown_file (
-%sc-A_3421_0_1"__id**
-
-%env"
-%scope-A_3421_0O
-M
-
-__unknown_file (	
-%expr_0"__id* *
-
-%sc-A_3421_0_1"
-
-childWinH
-F
-
-__unknown_file (	
-%expr_1"__id**
-	
-%expr_0"
-
-documentS
-Q
-
-__unknown_file (
-%sc-A_3421_0_2"__id**
-
-%env"
-%scope-A_3421_0•
-¢
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÏ Ï(%
-	
-%expr_1"
-defaultView"__id* *
-
-%sc-A_3421_0_2"
-
-childWinS
-Q
-
-__unknown_file (
-%sc-A_3421_0_3"__id**
-
-%env"
-%scope-A_3421_0S
-Q
-
-__unknown_file (
-%sc-A_3421_0_4"__id**
-
-%env"
-%scope-A_3421_0O
-M
-
-__unknown_file (	
-%expr_2"__id* *
-
-%sc-A_3421_0_4"
-
-childWin}{
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÌ Ì(F
-	%object_4Object"Objectê
-ç
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÌ Ì(#!
-
-	%object_4Object"
-
-nodeType"__id*2™
-ß
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÌ% Ì(E&
-
-	%object_4Object"
-ownerDocument"__id**
-	
-%expr_2"
-
-document¢
-ü
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÌ Ì("
-
-%sc-A_3421_0_3"
-childWinNode"__id*
-
-	%object_4ObjectM
-K
-
-__unknown_file (
-%sc-P_362_0"__id**
-
-%env"
-%scope-P_362S
-Q
-
-__unknown_file (
-%sc-A_3421_0_5"__id**
-
-%env"
-%scope-A_3421_0S
-Q
-
-__unknown_file (
-%sc-A_3396_0_1"__id**
-
-%env"
-%scope-A_3396_0M
-K
-
-__unknown_file (
-%sc-P_362_1"__id**
-
-%env"
-%scope-P_362Ô"Ï
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÓ Ó(
-
-%funcRes_0*"
-
-%sc-P_362_1"
-setParentWindow2
-	
-%global2
-
-%env2 *
-
-%sc-A_3421_0_5"
-
-childWin2!*
-
-%sc-A_3396_0_1"
-	windowApiS
-Q
-
-__unknown_file (
-%sc-A_3421_0_6"__id**
-
-%env"
-%scope-A_3421_0}{
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÚ Ú(0
-	%object_5Object"Objectê
-ç
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÚ Ú(/!
-
-	%object_5Object"
-
-nodeType"__id*2	}{
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÒ Û(	
-	%object_6Object"Object°
-û
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÚ
- Ú(0!
-
-	%object_6Object"
-
-document"__id*
-
-	%object_5Object£
-†
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÒ Ò(#
-
-%sc-A_3421_0_6"
-grandchildWin"__id*
-
-	%object_6ObjectS
-Q
-
-__unknown_file (
-%sc-A_3421_0_7"__id**
-
-%env"
-%scope-A_3421_0T
-R
-
-__unknown_file (	
-%expr_3"__id*%*#
-
-%sc-A_3421_0_7"
-grandchildWinH
-F
-
-__unknown_file (	
-%expr_4"__id**
-	
-%expr_3"
-
-documentS
-Q
-
-__unknown_file (
-%sc-A_3421_0_8"__id**
-
-%env"
-%scope-A_3421_0™
-ß
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÙ Ù(*
-	
-%expr_4"
-defaultView"__id*%*#
-
-%sc-A_3421_0_8"
-grandchildWinS
-Q
-
-__unknown_file (
-%sc-A_3421_0_9"__id**
-
-%env"
-%scope-A_3421_0T
-R
-
-__unknown_file (
-%sc-A_3421_0_10"__id**
-
-%env"
-%scope-A_3421_0U
-S
-
-__unknown_file (	
-%expr_5"__id*&*$
-
-%sc-A_3421_0_10"
-grandchildWinT
-R
-
-__unknown_file (
-%sc-A_3421_0_11"__id**
-
-%env"
-%scope-A_3421_0}{
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.js¯( ¯(?
-	%object_7Object"Object∞
-≠
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.js¯) ¯(>$
-
-	%object_7Object"
-defaultView"__id*!*
-
-%sc-A_3421_0_11"
-
-childWin}{
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.js¯ ¯(@
-	%object_8Object"Object¶
-£
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.js¯ ¯(?&
-
-	%object_8Object"
-ownerDocument"__id*
-
-	%object_7Object}{
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsı ˘(	
-	%object_9Object"Objectê
-ç
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsˆ
- ˆ(!
-
-	%object_9Object"
-
-nodeType"__id*2™
-ß
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.js˜
- ˜(/&
-
-	%object_9Object"
-ownerDocument"__id**
-	
-%expr_5"
-
-document•
-¢
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.js¯
- ¯(@%
-
-	%object_9Object"
-frameElement"__id*
-
-	%object_8Objectß
-§
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsı ı('
-
-%sc-A_3421_0_9"
-grandChildWinNode"__id*
-
-	%object_9ObjectM
-K
-
-__unknown_file (
-%sc-P_362_2"__id**
-
-%env"
-%scope-P_362T
-R
-
-__unknown_file (
-%sc-A_3421_0_12"__id**
-
-%env"
-%scope-A_3421_0T
-R
-
-__unknown_file (
-%sc-A_3421_0_13"__id**
-
-%env"
-%scope-A_3421_0M
-K
-
-__unknown_file (
-%sc-P_362_3"__id**
-
-%env"
-%scope-P_362ı"Ú
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.js˙ ˙(
-
-%funcRes_1*"
-
-%sc-P_362_3"
-setParentWindow2
-	
-%global2
-
-%env2&*$
-
-%sc-A_3421_0_12"
-grandchildWin2!*
-
-%sc-A_3421_0_13"
-
-childWinM
-K
-
-__unknown_file (
-%sc-P_362_4"__id**
-
-%env"
-%scope-P_362S
-Q
-
-__unknown_file (
-%sc-A_3396_0_2"__id**
-
-%env"
-%scope-A_3396_0S
-Q
-
-__unknown_file (
-%sc-A_3396_0_3"__id**
-
-%env"
-%scope-A_3396_0M
-K
-
-__unknown_file (
-%sc-P_362_5"__id**
-
-%env"
-%scope-P_362ˇ"¸
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.js¸ ¸($
-
-%funcRes_2*/
-
-%sc-P_362_5"
-registerServiceBuilderForDoc2
-	
-%global2
-
-%env2*
-
-%sc-A_3396_0_2"
-ampdoc2
-c2*
-
-%sc-A_3396_0_3"	
-factoryT
-R
-
-__unknown_file (
-%sc-A_3421_0_14"__id**
-
-%env"
-%scope-A_3421_0M
-K
-
-__unknown_file (
-%sc-P_362_6"__id**
-
-%env"
-%scope-P_362S
-Q
-
-__unknown_file (
-%sc-A_3396_0_4"__id**
-
-%env"
-%scope-A_3396_0M
-K
-
-__unknown_file (
-%sc-P_362_7"__id**
-
-%env"
-%scope-P_362“"œ
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.js˝ ˝(%
-
-%funcRes_3*#
-
-%sc-P_362_7"
-getServiceForDoc2
-	
-%global2
-
-%env2*
-
-%sc-A_3396_0_4"
-ampdoc2
-cö
-ó
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.js˝ ˝(!
-
-%sc-A_3421_0_14"
-
-topService"__id*
-
-
-%funcRes_3S
-Q
-
-__unknown_file (
-%sc-A_3396_0_5"__id**
-
-%env"
-%scope-A_3396_0M
-K
-
-__unknown_file (	
-%expr_6"__id**
-
-%sc-A_3396_0_5"
-ampdocT
-R
-
-__unknown_file (
-%sc-A_3421_0_15"__id**
-
-%env"
-%scope-A_3421_0û
-õ
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsˇ ˇ(
-	
-%expr_6"
-win"__id*!*
-
-%sc-A_3421_0_15"
-
-childWinT
-R
-
-__unknown_file (
-%sc-A_3421_0_16"__id**
-
-%env"
-%scope-A_3421_0i
-g
-
-__unknown_file (	
-%func_0"__declareFunction*-+
-)test_unit_test_service_js_513_24_A_3423_0fd
-
-__unknown_file (/
-%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_0"
-__setProto*
-	
-%func_0*1
-/
-%functionPrototype_0%SonarFunctionPrototypeS
-Q
-
-__unknown_file (
-%sc-A_3396_0_6"__id**
-
-%env"
-%scope-A_3396_0~|
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÄ É(	
-
-%object_10Object"Objectõ
-ò
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÅ
- Å("%
-
-
-%object_10Object"
-isSingleDoc"__id*
-	
-%func_0©
-¶
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÇ
- Ç(
-
-
-%object_10Object"
-win"__id*!*
-
-%sc-A_3396_0_6"
-	windowApi§
-°
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÄ Ä(#
-
-%sc-A_3421_0_16"
-parentAmpdoc"__id*
-
-
-%object_10ObjectS
-Q
-
-__unknown_file (
-%sc-A_3396_0_7"__id**
-
-%env"
-%scope-A_3396_0M
-K
-
-__unknown_file (	
-%expr_7"__id**
-
-%sc-A_3396_0_7"
-ampdoci
-g
-
-__unknown_file (	
-%func_1"__declareFunction*-+
-)test_unit_test_service_js_516_28_A_3424_0fd
-
-__unknown_file (/
-%functionPrototype_1%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_1"
-__setProto*
-	
-%func_1*1
-/
-%functionPrototype_1%SonarFunctionPrototypeé
-ã
-\
-P/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-service.jsÑ Ñ(
-	
-%expr_7"
-	getParent"__id*
-	
-%func_1"
-
-__unknown_file ( :
-%envB 

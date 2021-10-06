@@ -1,525 +1,0 @@
-
-Fextensions_amp_lightbox_0_1_test_test_amp_lightbox_js_236_77_A_34186_0x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsÏL Ï(X"s34_1*ıA
-s34_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-global86
-
-__unknown_file (
-%scope-A_34186_0"ObjectV
-T
-
-__unknown_file (
-
-%env"
-%scope-A_34186_0"__id*
-
-%scope-A_34186_0Y
-W
-
-__unknown_file (
-%sc-A_34158_env_0"__id* *
-
-%env"
-%scope-A_34158_envY
-W
-
-__unknown_file (
-%sc-A_34158_env_1"__id* *
-
-%env"
-%scope-A_34158_envÀ"»
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsÌ Ì(%
-
-%funcRes_0*'
-
-%sc-A_34158_env_1"
-createLightbox2
-	
-%global2
-
-%envü
-ú
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsÌ Ì(
-
-lightbox"__id*
-
-
-%funcRes_0Y
-W
-
-__unknown_file (
-%sc-A_34158_env_2"__id* *
-
-%env"
-%scope-A_34158_envY
-W
-
-__unknown_file (
-%sc-A_34158_env_3"__id* *
-
-%env"
-%scope-A_34158_env◊"‘
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsÓ Ó(#
-
-%funcRes_1*#
-
-%sc-A_34158_env_3"
-
-createLink2
-	
-%global2
-
-%env2
-
-insideLink∑
-¥
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsÓ Ó("
-
-%scope-A_34186_0"
-
-insideLink"__id*
-
-
-%funcRes_1L
-J
-
-__unknown_file (	
-%expr_0"__id**
-
-
-lightbox"
-appendChildÊ"„
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsÔ Ô(
-
-%methRes_0*
-
-
-lightbox"
-appendChild2
-
-
-lightbox2
-
-%env2$*"
-
-%scope-A_34186_0"
-
-insideLinkH
-F
-
-__unknown_file (	
-%expr_1"__id**
-
-
-lightbox"	
-getImpl¬"ø
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.js" ()
-
-%methRes_1*
-
-
-lightbox"	
-getImpl2
-
-
-lightbox2
-
-%env22±
-Æ
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.js (
-
-%scope-A_34186_0"
-impl"__id*
-
-
-%methRes_1Y
-W
-
-__unknown_file (
-%sc-A_34158_env_4"__id* *
-
-%env"
-%scope-A_34158_envY
-W
-
-__unknown_file (
-%sc-A_34158_env_5"__id* *
-
-%env"
-%scope-A_34158_envÿ"’
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsÚ Ú($
-
-%funcRes_2*#
-
-%sc-A_34158_env_5"
-
-createLink2
-	
-%global2
-
-%env2
-outsideLink∏
-µ
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsÚ Ú(#
-
-%scope-A_34186_0"
-outsideLink"__id*
-
-
-%funcRes_2Y
-W
-
-__unknown_file (
-%sc-A_34158_env_6"__id* *
-
-%env"
-%scope-A_34158_envM
-K
-
-__unknown_file (	
-%expr_2"__id**
-
-%sc-A_34158_env_6"
-docD
-B
-
-__unknown_file (	
-%expr_3"__id**
-	
-%expr_2"
-bodyK
-I
-
-__unknown_file (	
-%expr_4"__id**
-	
-%expr_3"
-appendChildÂ"‚
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsÛ Û(
-
-%methRes_2*
-	
-%expr_3"
-appendChild2
-	
-%expr_32
-
-%env2%*#
-
-%scope-A_34186_0"
-outsideLinkY
-W
-
-__unknown_file (
-%sc-A_34158_env_7"__id* *
-
-%env"
-%scope-A_34158_envM
-K
-
-__unknown_file (	
-%expr_5"__id**
-
-%sc-A_34158_env_7"
-envG
-E
-
-__unknown_file (	
-%expr_6"__id**
-	
-%expr_5"	
-sandboxC
-A
-
-__unknown_file (	
-%expr_7"__id**
-	
-%expr_6"
-spyÈ"Ê
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsı& ı()
-
-%methRes_3*
-	
-%expr_6"
-spy2
-	
-%expr_62
-
-%env2*
-
-%scope-A_34186_0"
-impl2
-finalizeOpen_¢
-ü
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsı ı(
-finalizeSpy"__id*
-
-
-%methRes_3Y
-W
-
-__unknown_file (
-%sc-A_34158_env_8"__id* *
-
-%env"
-%scope-A_34158_envM
-K
-
-__unknown_file (	
-%expr_8"__id**
-
-%sc-A_34158_env_8"
-envG
-E
-
-__unknown_file (	
-%expr_9"__id**
-	
-%expr_8"	
-sandboxE
-C
-
-__unknown_file (
-
-%expr_10"__id**
-	
-%expr_9"
-stubÌ"Í
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsˆ' ˆ(+
-
-%methRes_4*
-	
-%expr_9"
-stub2
-	
-%expr_92
-
-%env2*
-
-%scope-A_34186_0"
-impl2
-hasCurrentFocus_π
-∂
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsˆ ˆ($
-
-%scope-A_34186_0"
-hasFocusStub"__id*
-
-
-%methRes_4N
-L
-
-__unknown_file (
-
-%expr_11"__id**
-
-%scope-A_34186_0"
-implá
-Ñ
-
-__unknown_file (	
-%func_0"__declareFunction*JH
-Fextensions_amp_lightbox_0_1_test_test_amp_lightbox_js_248_26_A_34187_0fd
-
-__unknown_file (/
-%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_0"
-__setProto*
-	
-%func_0*1
-/
-%functionPrototype_0%SonarFunctionPrototype≠
-™
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.js¯ ¯(
-
-
-%expr_11"
-getHistory_"__id*
-	
-%func_0öó
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsˇ ˇ(
-	%object_0Object"Object¢
-ü
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsˇ ˇ(
-args"__id*
-
-	%object_0Objectá
-Ñ
-
-__unknown_file (	
-%func_1"__declareFunction*JH
-Fextensions_amp_lightbox_0_1_test_test_amp_lightbox_js_259_25_A_34190_0fd
-
-__unknown_file (/
-%functionPrototype_1%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_1"
-__setProto*
-	
-%func_1*1
-/
-%functionPrototype_1%SonarFunctionPrototypeöó
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsÄ Ñ(
-	%object_1Object"ObjectÆ
-´
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsÅ Å(
-
-	%object_1Object"
-method"__id*
-open¨
-©
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsÇ Ç(
-
-	%object_1Object"
-args"__id*
-
-argsπ
-∂
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsÉ É("'
-
-	%object_1Object"
-satisfiesTrust"__id*
-	
-%func_1¨
-©
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsÄ Ä(
-openInvocation"__id*
-
-	%object_1ObjectN
-L
-
-__unknown_file (
-
-%expr_12"__id**
-
-%scope-A_34186_0"
-implO
-M
-
-__unknown_file (
-
-%expr_13"__id**
-
-
-%expr_12"
-executeAction÷"”
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsÖ Ö(
-
-%methRes_5*
-
-
-%expr_12"
-executeAction2
-
-
-%expr_122
-
-%env2
-
-openInvocationO
-M
-
-__unknown_file (
-%sc-P_3145_0"__id**
-
-%env"
-%scope-P_3145O
-M
-
-__unknown_file (
-%sc-P_3145_1"__id**
-
-%env"
-%scope-P_3145”"–
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsá á(
-
-%funcRes_3*
-
-%sc-P_3145_1"
-
-whenCalled2
-	
-%global2
-
-%env2
-
-finalizeSpyá
-Ñ
-
-__unknown_file (	
-%func_2"__declareFunction*JH
-Fextensions_amp_lightbox_0_1_test_test_amp_lightbox_js_263_43_A_34191_0V
-T
-
-__unknown_file (
-
-%env"
-%scope-A_34186_0"__id*
-
-%scope-A_34186_0fd
-
-__unknown_file (/
-%functionPrototype_2%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_2"
-__setProto*
-	
-%func_2*1
-/
-%functionPrototype_2%SonarFunctionPrototypeΩ"∫
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsá% á()
-
-%funcRes_4"	
-%func_22
-	
-%global2
-
-%env2
-
-
-%funcRes_3"ä
-x
-l/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-lightbox/0.1/test/test-amp-lightbox.jsá ë(	
-
-
-%funcRes_4:
-%envB 

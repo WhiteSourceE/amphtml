@@ -1,537 +1,0 @@
-
-bextensions_amp_ad_network_doubleclick_impl_0_1_test_test_doubleclick_safeframe_js_459_47_A_27423_0ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.jsÀ. À(4"s26_1*ôD
-s26_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-global86
-
-__unknown_file (
-%scope-A_27423_0"ObjectV
-T
-
-__unknown_file (
-
-%env"
-%scope-A_27423_0"__id*
-
-%scope-A_27423_0O
-M
-
-__unknown_file (
-%sc-P_2533_0"__id**
-
-%env"
-%scope-P_2533Y
-W
-
-__unknown_file (
-%sc-A_27403_env_0"__id* *
-
-%env"
-%scope-A_27403_env∏µ
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.jsŒI –(	
-	%object_0Object"Object–
-Õ
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.jsœ
- œ(
-
-	%object_0Object"
-class"__id*
-	safeframeO
-M
-
-__unknown_file (
-%sc-P_2533_1"__id**
-
-%env"
-%scope-P_2533¥"±
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.jsŒ Œ(9
-
-%funcRes_0*/
-
-%sc-P_2533_1"
-createElementWithAttributes2
-	
-%global2
-
-%env2*
-
-%sc-A_27403_env_0"
-doc2
-
-iframe2
-
-	%object_0Object¬
-ø
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.jsŒ Œ(
-safeframeMock"__id*
-
-
-%funcRes_0O
-M
-
-__unknown_file (
-%sc-P_2533_2"__id**
-
-%env"
-%scope-P_2533Y
-W
-
-__unknown_file (
-%sc-A_27403_env_1"__id* *
-
-%env"
-%scope-A_27403_envO
-M
-
-__unknown_file (
-%sc-P_2533_3"__id**
-
-%env"
-%scope-P_2533ú"ô
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.js— —(/
-
-%funcRes_1*/
-
-%sc-P_2533_3"
-createElementWithAttributes2
-	
-%global2
-
-%env2*
-
-%sc-A_27403_env_1"
-doc2	
-style∏
-µ
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.js— —(
-css"__id*
-
-
-%funcRes_1‡
-›
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.js”
- ‘($
-	%concat_0"__concat*
-
-.safeframe*
-{height:100px!important;›
-⁄
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.js”
- ’("
-	%concat_1"__concat*
-
-	%concat_0*
-width:100px!important;Á
-‰
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.js”
- ÷(,
-	%concat_2"__concat*
-
-	%concat_1*$"
- background-color:blue!important;‡
-›
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.js”
- ◊(%
-	%concat_3"__concat*
-
-	%concat_2*
-display:block!important;}à"Ö
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.js“ “(	
-%void_0*/
-
-css"&
-$__setWatchedMemberDescendantProperty2
-
-css2
-
-%env2
-	innerHTML2
-
-	%concat_3∆
-√
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.js“ “(
-
-css"
-	innerHTML"__id*
-
-	%concat_3Y
-W
-
-__unknown_file (
-%sc-A_27403_env_2"__id* *
-
-%env"
-%scope-A_27403_envM
-K
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-A_27403_env_2"
-docD
-B
-
-__unknown_file (	
-%expr_1"__id**
-	
-%expr_0"
-headK
-I
-
-__unknown_file (	
-%expr_2"__id**
-	
-%expr_1"
-appendChildÂ"‚
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.jsÿ ÿ(
-
-%methRes_0*
-	
-%expr_1"
-appendChild2
-	
-%expr_12
-
-%env2
-
-cssY
-W
-
-__unknown_file (
-%sc-A_27403_env_3"__id* *
-
-%env"
-%scope-A_27403_envO
-M
-
-__unknown_file (	
-%expr_3"__id* *
-
-%sc-A_27403_env_3"
-ampAdK
-I
-
-__unknown_file (	
-%expr_4"__id**
-	
-%expr_3"
-appendChildÔ"Ï
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.jsŸ Ÿ(
-
-%methRes_1*
-	
-%expr_3"
-appendChild2
-	
-%expr_32
-
-%env2
-
-safeframeMockY
-W
-
-__unknown_file (
-%sc-A_27403_env_4"__id* *
-
-%env"
-%scope-A_27403_envW
-U
-
-__unknown_file (	
-%expr_5"__id*(*&
-
-%sc-A_27403_env_4"
-safeframeHostÃ
-…
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.js⁄ ⁄(
-	
-%expr_5"	
-iframe_"__id*
-
-safeframeMockY
-W
-
-__unknown_file (
-%sc-A_27403_env_5"__id* *
-
-%env"
-%scope-A_27403_envW
-U
-
-__unknown_file (	
-%expr_6"__id*(*&
-
-%sc-A_27403_env_5"
-safeframeHostI
-G
-
-__unknown_file (	
-%expr_7"__id**
-	
-%expr_6"
-	viewport_L
-J
-
-__unknown_file (	
-%expr_8"__id**
-	
-%expr_7"
-setScrollTop„"‡
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.js›  ›(,
-
-%methRes_2*
-	
-%expr_7"
-setScrollTop2
-	
-%expr_72
-
-%env222Y
-W
-
-__unknown_file (
-%sc-A_27403_env_6"__id* *
-
-%env"
-%scope-A_27403_envM
-K
-
-__unknown_file (	
-%expr_9"__id**
-
-%sc-A_27403_env_6"
-envH
-F
-
-__unknown_file (
-
-%expr_10"__id**
-	
-%expr_9"	
-sandboxY
-W
-
-__unknown_file (
-%sc-A_27403_env_7"__id* *
-
-%env"
-%scope-A_27403_envF
-D
-
-__unknown_file (
-
-%expr_11"__id**
-
-
-%expr_10"
-stubì"ê
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.jsﬂ3 ﬂ(7
-
-%methRes_3*
-
-
-%expr_10"
-stub2
-
-
-%expr_102
-
-%env2(*&
-
-%sc-A_27403_env_7"
-safeframeHost2
-sendMessage_⁄
-◊
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.jsﬂ ﬂ('
-
-%scope-A_27423_0"
-sendMessageStub"__id*
-
-
-%methRes_3Y
-W
-
-__unknown_file (
-%sc-A_27403_env_8"__id* *
-
-%env"
-%scope-A_27403_envX
-V
-
-__unknown_file (
-
-%expr_12"__id*(*&
-
-%sc-A_27403_env_8"
-safeframeHostQ
-O
-
-__unknown_file (
-
-%expr_13"__id*!*
-
-
-%expr_12"
-updateGeometry_‚"ﬂ
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.js„ „(%
-
-%methRes_4*
-
-
-%expr_12"
-updateGeometry_2
-
-
-%expr_122
-
-%envO
-M
-
-__unknown_file (
-%sc-P_2533_4"__id**
-
-%env"
-%scope-P_2533N
-L
-
-__unknown_file (
-
-%expr_14"__id**
-
-%sc-P_2533_4"
-
-ServicesY
-W
-
-__unknown_file (
-%sc-A_27403_env_9"__id* *
-
-%env"
-%scope-A_27403_envN
-L
-
-__unknown_file (
-
-%expr_15"__id**
-
-%sc-A_27403_env_9"
-envJ
-H
-
-__unknown_file (
-
-%expr_16"__id**
-
-
-%expr_14"
-
-timerForÚ"Ô
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.jsÂ Â( 
-
-%methRes_5*
-
-
-%expr_14"
-
-timerFor2
-
-
-%expr_142
-
-%env2*
-
-
-%expr_15"
-winK
-I
-
-__unknown_file (
-
-%expr_17"__id**
-
-
-%methRes_5"	
-promise‰"·
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.jsÊ Ê(
-
-%methRes_6*
-
-
-%methRes_5"	
-promise2
-
-
-%methRes_52
-
-%env22d£
-†
-
-__unknown_file (	
-%func_0"__declareFunction*fd
-bextensions_amp_ad_network_doubleclick_impl_0_1_test_test_doubleclick_safeframe_js_487_17_A_27424_0V
-T
-
-__unknown_file (
-
-%env"
-%scope-A_27423_0"__id*
-
-%scope-A_27423_0fd
-
-__unknown_file (/
-%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_1"
-__setProto*
-	
-%func_0*1
-/
-%functionPrototype_0%SonarFunctionPrototype€"ÿ
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.jsÁ Á(
-
-%funcRes_2"	
-%func_02
-	
-%global2
-
-%env2
-
-
-%methRes_6"®
-ï
-à/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-doubleclick-impl/0.1/test/test-doubleclick-safeframe.jsÂ ı(
-
-
-%funcRes_2:
-%envB 

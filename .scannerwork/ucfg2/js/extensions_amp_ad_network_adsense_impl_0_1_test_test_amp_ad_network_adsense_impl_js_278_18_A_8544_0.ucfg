@@ -1,484 +1,0 @@
-
-cextensions_amp_ad_network_adsense_impl_0_1_test_test_amp_ad_network_adsense_impl_js_278_18_A_8544_0ó
-ä/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.jsñ ñ("s36_1*ﬂ<
-s36_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-globalW
-U
-
-__unknown_file (
-%sc-A_8518_env_0"__id**
-
-%env"
-%scope-A_8518_envM
-K
-
-__unknown_file (
-%sc-P_830_0"__id**
-
-%env"
-%scope-P_830W
-U
-
-__unknown_file (
-%sc-A_8518_env_1"__id**
-
-%env"
-%scope-A_8518_env∫∑
-ó
-ä/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.jsó= õ(	
-	%object_0Object"ObjectÃ
-…
-ó
-ä/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.jsò
- ò(
-
-	%object_0Object"
-width"__id*
-200Ã
-…
-ó
-ä/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.jsô
- ô(
-
-	%object_0Object"
-height"__id*
-50œ
-Ã
-ó
-ä/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.jsö
- ö(
-
-	%object_0Object"
-type"__id*	
-adsenseM
-K
-
-__unknown_file (
-%sc-P_830_1"__id**
-
-%env"
-%scope-P_830¥"±
-ó
-ä/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.jsó ó(-
-
-%funcRes_0*.
-
-%sc-P_830_1"
-createElementWithAttributes2
-	
-%global2
-
-%env2*
-
-%sc-A_8518_env_1"
-doc2
-
-amp-ad2
-
-	%object_0Object‘
-—
-ó
-ä/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.jsó ó(
-
-%sc-A_8518_env_0"	
-element"__id*
-
-
-%funcRes_0W
-U
-
-__unknown_file (
-%sc-A_8518_env_2"__id**
-
-%env"
-%scope-A_8518_envL
-J
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-A_8518_env_2"
-docD
-B
-
-__unknown_file (	
-%expr_1"__id**
-	
-%expr_0"
-bodyW
-U
-
-__unknown_file (
-%sc-A_8518_env_3"__id**
-
-%env"
-%scope-A_8518_envK
-I
-
-__unknown_file (	
-%expr_2"__id**
-	
-%expr_1"
-appendChildÅ"˛
-ó
-ä/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.jsú ú(
-
-%methRes_0*
-	
-%expr_1"
-appendChild2
-	
-%expr_12
-
-%env2!*
-
-%sc-A_8518_env_3"	
-elementW
-U
-
-__unknown_file (
-%sc-A_8518_env_4"__id**
-
-%env"
-%scope-A_8518_envM
-K
-
-__unknown_file (
-%sc-P_830_2"__id**
-
-%env"
-%scope-P_830W
-U
-
-__unknown_file (
-%sc-A_8518_env_5"__id**
-
-%env"
-%scope-A_8518_env∫∑
-ó
-ä/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.jsù ù(3
-	%object_1Object"Object[
-Y
-
-__unknown_file (	
-%expr_3"__id*,**
-
-%sc-P_830_2"
-AmpAdNetworkAdsenseImplõ"ò
-ó
-ä/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.jsù ù(3
-
-%methRes_1**
-
-%sc-P_830_2"
-AmpAdNetworkAdsenseImpl2
-
-	%object_1Object2
-
-%env2!*
-
-%sc-A_8518_env_5"	
-elementP
-N
-
-__unknown_file (
-%fieldAccess_0"__id**
-	
-%expr_3"
-	prototype^
-\
-
-__unknown_file (	
-%void_0"
-__setProto*
-
-	%object_1Object*
-
-%fieldAccess_0ÿ
-’
-ó
-ä/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.jsù ù(
-
-%sc-A_8518_env_4"
-impl"__id*
-
-	%object_1ObjectW
-U
-
-__unknown_file (
-%sc-A_8518_env_6"__id**
-
-%env"
-%scope-A_8518_envM
-K
-
-__unknown_file (	
-%expr_4"__id**
-
-%sc-A_8518_env_6"
-impl§
-°
-
-__unknown_file (	
-%func_0"__declareFunction*ge
-cextensions_amp_ad_network_adsense_impl_0_1_test_test_amp_ad_network_adsense_impl_js_286_38_A_8545_0fd
-
-__unknown_file (/
-%functionPrototype_0%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_1"
-__setProto*
-	
-%func_0*1
-/
-%functionPrototype_0%SonarFunctionPrototype÷
-”
-ó
-ä/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.jsû û("$
-	
-%expr_4"
-getA4aAnalyticsConfig"__id*
-	
-%func_0W
-U
-
-__unknown_file (
-%sc-A_8518_env_7"__id**
-
-%env"
-%scope-A_8518_envM
-K
-
-__unknown_file (	
-%expr_5"__id**
-
-%sc-A_8518_env_7"
-implM
-K
-
-__unknown_file (	
-%expr_6"__id**
-	
-%expr_5"
-buildCallback‡"›
-ó
-ä/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.jsü ü(
-
-%methRes_2*
-	
-%expr_5"
-buildCallback2
-	
-%expr_52
-
-%envW
-U
-
-__unknown_file (
-%sc-A_8518_env_8"__id**
-
-%env"
-%scope-A_8518_envL
-J
-
-__unknown_file (	
-%expr_7"__id**
-
-%sc-A_8518_env_8"
-envG
-E
-
-__unknown_file (	
-%expr_8"__id**
-	
-%expr_7"	
-sandboxW
-U
-
-__unknown_file (
-%sc-A_8518_env_9"__id**
-
-%env"
-%scope-A_8518_envD
-B
-
-__unknown_file (	
-%expr_9"__id**
-	
-%expr_8"
-stubÜ"É
-ó
-ä/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js† †(
-
-%methRes_3*
-	
-%expr_8"
-stub2
-	
-%expr_82
-
-%env2*
-
-%sc-A_8518_env_9"
-impl2
-	getAmpDoc§
-°
-
-__unknown_file (	
-%func_1"__declareFunction*ge
-cextensions_amp_ad_network_adsense_impl_0_1_test_test_amp_ad_network_adsense_impl_js_288_55_A_8546_0fd
-
-__unknown_file (/
-%functionPrototype_1%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_2"
-__setProto*
-	
-%func_1*1
-/
-%functionPrototype_1%SonarFunctionPrototypeM
-K
-
-__unknown_file (
-
-%expr_10"__id**
-
-
-%methRes_3"
-	callsFakeÔ"Ï
-ó
-ä/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js†, †(5
-
-%methRes_4*
-
-
-%methRes_3"
-	callsFake2
-
-
-%methRes_32
-
-%env2
-	
-%func_1X
-V
-
-__unknown_file (
-%sc-A_8518_env_10"__id**
-
-%env"
-%scope-A_8518_envN
-L
-
-__unknown_file (
-
-%expr_11"__id**
-
-%sc-A_8518_env_10"
-envI
-G
-
-__unknown_file (
-
-%expr_12"__id**
-
-
-%expr_11"	
-sandboxX
-V
-
-__unknown_file (
-%sc-A_8518_env_11"__id**
-
-%env"
-%scope-A_8518_envN
-L
-
-__unknown_file (
-
-%expr_13"__id**
-
-%sc-A_8518_env_11"
-envF
-D
-
-__unknown_file (
-
-%expr_14"__id**
-
-
-%expr_12"
-stubâ"Ü
-ó
-ä/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js¢ ¢(
-
-%methRes_5*
-
-
-%expr_12"
-stub2
-
-
-%expr_122
-
-%env2*
-
-
-%expr_13"
-ampdocService2
-	getAmpDoc§
-°
-
-__unknown_file (	
-%func_2"__declareFunction*ge
-cextensions_amp_ad_network_adsense_impl_0_1_test_test_amp_ad_network_adsense_impl_js_291_22_A_8547_0fd
-
-__unknown_file (/
-%functionPrototype_2%SonarFunctionPrototype"%SonarFunctionPrototypes
-q
-
-__unknown_file (	
-%void_3"
-__setProto*
-	
-%func_2*1
-/
-%functionPrototype_2%SonarFunctionPrototypeM
-K
-
-__unknown_file (
-
-%expr_15"__id**
-
-
-%methRes_5"
-	callsFakeÔ"Ï
-ó
-ä/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/extensions/amp-ad-network-adsense-impl/0.1/test/test-amp-ad-network-adsense-impl.js£ £(
-
-%methRes_6*
-
-
-%methRes_5"
-	callsFake2
-
-
-%methRes_52
-
-%env2
-	
-%func_2"
-
-__unknown_file ( :
-%envB 

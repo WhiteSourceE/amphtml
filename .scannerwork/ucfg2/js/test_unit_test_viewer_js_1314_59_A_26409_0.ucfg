@@ -1,783 +1,0 @@
-
-*test_unit_test_viewer_js_1314_59_A_26409_0[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.js¢
-: ¢
-(@"s202_1*¼Y
-s202_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-globalU
-S
-
-__unknown_file (
-%sc-A_26336_0_0"__id**
-
-%env"
-%scope-A_26336_0U
-S
-
-__unknown_file (
-%sc-A_26336_0_1"__id**
-
-%env"
-%scope-A_26336_0ä"á
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.js£
- £
-(
-
-%funcRes_0*/
-
-%sc-A_26336_0_1"
-testHasRoughlySameOrigin2
-	
-%global2
-
-%env2
-http://google.com2
-http://google.comU
-S
-
-__unknown_file (
-%sc-A_26336_0_2"__id**
-
-%env"
-%scope-A_26336_0U
-S
-
-__unknown_file (
-%sc-A_26336_0_3"__id**
-
-%env"
-%scope-A_26336_0æ"ã
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.js¤
- ¤
-(
-
-%funcRes_1*/
-
-%sc-A_26336_0_3"
-testHasRoughlySameOrigin2
-	
-%global2
-
-%env2
-https://google.com2
-https://google.comU
-S
-
-__unknown_file (
-%sc-A_26336_0_4"__id**
-
-%env"
-%scope-A_26336_0U
-S
-
-__unknown_file (
-%sc-A_26336_0_5"__id**
-
-%env"
-%scope-A_26336_0ê"ç
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.js¥
- ¥
-(
-
-%funcRes_2*/
-
-%sc-A_26336_0_5"
-testHasRoughlySameOrigin2
-	
-%global2
-
-%env2
-https://www.google.com2
-https://google.comU
-S
-
-__unknown_file (
-%sc-A_26336_0_6"__id**
-
-%env"
-%scope-A_26336_0U
-S
-
-__unknown_file (
-%sc-A_26336_0_7"__id**
-
-%env"
-%scope-A_26336_0ê"ç
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.js¦
- ¦
-(
-
-%funcRes_3*/
-
-%sc-A_26336_0_7"
-testHasRoughlySameOrigin2
-	
-%global2
-
-%env2
-https://www.google.net2
-https://google.netU
-S
-
-__unknown_file (
-%sc-A_26336_0_8"__id**
-
-%env"
-%scope-A_26336_0U
-S
-
-__unknown_file (
-%sc-A_26336_0_9"__id**
-
-%env"
-%scope-A_26336_0î"ë
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.js§
- §
-(
-
-%funcRes_4*/
-
-%sc-A_26336_0_9"
-testHasRoughlySameOrigin2
-	
-%global2
-
-%env2
-https://www.google.co.uk2
-https://google.co.ukV
-T
-
-__unknown_file (
-%sc-A_26336_0_10"__id**
-
-%env"
-%scope-A_26336_0V
-T
-
-__unknown_file (
-%sc-A_26336_0_11"__id**
-
-%env"
-%scope-A_26336_0õ"ò
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.js«
- «
-(
-
-%funcRes_5*0
-
-%sc-A_26336_0_11"
-testHasRoughlySameOrigin2
-	
-%global2
-
-%env2
-https://www.google.co.uk:802
-https://google.co.uk:80V
-T
-
-__unknown_file (
-%sc-A_26336_0_12"__id**
-
-%env"
-%scope-A_26336_0V
-T
-
-__unknown_file (
-%sc-A_26336_0_13"__id**
-
-%env"
-%scope-A_26336_0ï"ì
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.js¯
- ¯
-(
-
-%funcRes_6*0
-
-%sc-A_26336_0_13"
-testHasRoughlySameOrigin2
-	
-%global2
-
-%env2
-https://www.www.google.com2
-https://google.comV
-T
-
-__unknown_file (
-%sc-A_26336_0_14"__id**
-
-%env"
-%scope-A_26336_0V
-T
-
-__unknown_file (
-%sc-A_26336_0_15"__id**
-
-%env"
-%scope-A_26336_0ó"ð
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.js³
- ³
-(
-
-%funcRes_7*0
-
-%sc-A_26336_0_15"
-testHasRoughlySameOrigin2
-	
-%global2
-
-%env2" 
-https://www.www.www.google.com2
-https://google.comV
-T
-
-__unknown_file (
-%sc-A_26336_0_16"__id**
-
-%env"
-%scope-A_26336_0V
-T
-
-__unknown_file (
-%sc-A_26336_0_17"__id**
-
-%env"
-%scope-A_26336_0û"ø
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.js·
- ·
-(
-
-%funcRes_8*0
-
-%sc-A_26336_0_17"
-testHasRoughlySameOrigin2
-	
-%global2
-
-%env2&$
-"http://www.www.www.google.com:13372
-http://google.com:1337V
-T
-
-__unknown_file (
-%sc-A_26336_0_18"__id**
-
-%env"
-%scope-A_26336_0V
-T
-
-__unknown_file (
-%sc-A_26336_0_19"__id**
-
-%env"
-%scope-A_26336_0ë"è
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.js»
- »
-(
-
-%funcRes_9*0
-
-%sc-A_26336_0_19"
-testHasRoughlySameOrigin2
-	
-%global2
-
-%env2
-https://amp.google.com2
-https://google.comV
-T
-
-__unknown_file (
-%sc-A_26336_0_20"__id**
-
-%env"
-%scope-A_26336_0V
-T
-
-__unknown_file (
-%sc-A_26336_0_21"__id**
-
-%env"
-%scope-A_26336_0ð"í
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.js¼
- ¼
-(
-%funcRes_10*0
-
-%sc-A_26336_0_21"
-testHasRoughlySameOrigin2
-	
-%global2
-
-%env2
-https://www.amp.google.com2
-https://google.comV
-T
-
-__unknown_file (
-%sc-A_26336_0_22"__id**
-
-%env"
-%scope-A_26336_0V
-T
-
-__unknown_file (
-%sc-A_26336_0_23"__id**
-
-%env"
-%scope-A_26336_0ð"í
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.jsÀ
- À
-(
-%funcRes_11*0
-
-%sc-A_26336_0_23"
-testHasRoughlySameOrigin2
-	
-%global2
-
-%env2
-https://amp.www.google.com2
-https://google.comV
-T
-
-__unknown_file (
-%sc-A_26336_0_24"__id**
-
-%env"
-%scope-A_26336_0V
-T
-
-__unknown_file (
-%sc-A_26336_0_25"__id**
-
-%env"
-%scope-A_26336_0ï"ì
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.jsÄ
- Ä
-(
-%funcRes_12*0
-
-%sc-A_26336_0_25"
-testHasRoughlySameOrigin2
-	
-%global2
-
-%env2
-https://mobile.google.com2
-https://google.comV
-T
-
-__unknown_file (
-%sc-A_26336_0_26"__id**
-
-%env"
-%scope-A_26336_0V
-T
-
-__unknown_file (
-%sc-A_26336_0_27"__id**
-
-%env"
-%scope-A_26336_0ê"ç
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.jsÈ
- È
-(
-%funcRes_13*0
-
-%sc-A_26336_0_27"
-testHasRoughlySameOrigin2
-	
-%global2
-
-%env2
-https://m.google.com2
-https://google.comV
-T
-
-__unknown_file (
-%sc-A_26336_0_28"__id**
-
-%env"
-%scope-A_26336_0V
-T
-
-__unknown_file (
-%sc-A_26336_0_29"__id**
-
-%env"
-%scope-A_26336_0î"ë
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.jsÉ
- É
-(
-%funcRes_14*0
-
-%sc-A_26336_0_29"
-testHasRoughlySameOrigin2
-	
-%global2
-
-%env2
-https://amp.m.google.com2
-https://google.comV
-T
-
-__unknown_file (
-%sc-A_26336_0_30"__id**
-
-%env"
-%scope-A_26336_0V
-T
-
-__unknown_file (
-%sc-A_26336_0_31"__id**
-
-%env"
-%scope-A_26336_0ó"ð
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.jsÍ
- Í
-(
-%funcRes_15*0
-
-%sc-A_26336_0_31"
-testHasRoughlySameOrigin2
-	
-%global2
-
-%env2!
-https://amp.mobile.google.com2
-https://google.comV
-T
-
-__unknown_file (
-%sc-A_26336_0_32"__id**
-
-%env"
-%scope-A_26336_0V
-T
-
-__unknown_file (
-%sc-A_26336_0_33"__id**
-
-%env"
-%scope-A_26336_0÷"ô
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.jsÑ
- Ñ
-(
-%funcRes_16*0
-
-%sc-A_26336_0_33"
-testHasRoughlySameOrigin2
-	
-%global2
-
-%env2#!
-https://amp.mobile.google.co.uk2
-https://google.co.ukV
-T
-
-__unknown_file (
-%sc-A_26336_0_34"__id**
-
-%env"
-%scope-A_26336_0V
-T
-
-__unknown_file (
-%sc-A_26336_0_35"__id**
-
-%env"
-%scope-A_26336_0÷"ô
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.jsÕ
- Õ
-(
-%funcRes_17*0
-
-%sc-A_26336_0_35"
-testHasRoughlySameOrigin2
-	
-%global2
-
-%env2%#
-!https://www1.www2.www3.google.com2
-https://google.comV
-T
-
-__unknown_file (
-%sc-A_26336_0_36"__id**
-
-%env"
-%scope-A_26336_0V
-T
-
-__unknown_file (
-%sc-A_26336_0_37"__id**
-
-%env"
-%scope-A_26336_0ô"ñ
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.jsÙ
- Ù
-(
-%funcRes_18*0
-
-%sc-A_26336_0_37"
-testHasRoughlySameOrigin2
-	
-%global2
-
-%env2
-https://www.xyz.google.com2
-https://xyz.google.comV
-T
-
-__unknown_file (
-%sc-A_26336_0_38"__id**
-
-%env"
-%scope-A_26336_0V
-T
-
-__unknown_file (
-%sc-A_26336_0_39"__id**
-
-%env"
-%scope-A_26336_0€"ý
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.jsÝ
- Ý
-(
-%funcRes_19*0
-
-%sc-A_26336_0_39"
-testHasRoughlySameOrigin2
-	
-%global2
-
-%env2" 
-https://xyz.www.xyz.google.com2" 
-https://xyz.www.xyz.google.comV
-T
-
-__unknown_file (
-%sc-A_26336_0_40"__id**
-
-%env"
-%scope-A_26336_0V
-T
-
-__unknown_file (
-%sc-A_26336_0_41"__id**
-
-%env"
-%scope-A_26336_0ì"é
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.jsá
- á
-(#
-%funcRes_20*5
-
-%sc-A_26336_0_41"
-testHasRoughlyDifferentOrigin2
-	
-%global2
-
-%env2
-http://google.com2
-https://google.comV
-T
-
-__unknown_file (
-%sc-A_26336_0_42"__id**
-
-%env"
-%scope-A_26336_0V
-T
-
-__unknown_file (
-%sc-A_26336_0_43"__id**
-
-%env"
-%scope-A_26336_0í"ê
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.jsâ
- â
-(#
-%funcRes_21*5
-
-%sc-A_26336_0_43"
-testHasRoughlyDifferentOrigin2
-	
-%global2
-
-%env2
-https://google.com2
-https://google.netV
-T
-
-__unknown_file (
-%sc-A_26336_0_44"__id**
-
-%env"
-%scope-A_26336_0V
-T
-
-__unknown_file (
-%sc-A_26336_0_45"__id**
-
-%env"
-%scope-A_26336_0ð"í
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.jsã
- ã
-(#
-%funcRes_22*5
-
-%sc-A_26336_0_45"
-testHasRoughlyDifferentOrigin2
-	
-%global2
-
-%env2
-https://www.google.com2
-http://google.comV
-T
-
-__unknown_file (
-%sc-A_26336_0_46"__id**
-
-%env"
-%scope-A_26336_0V
-T
-
-__unknown_file (
-%sc-A_26336_0_47"__id**
-
-%env"
-%scope-A_26336_0ó"ð
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.jsç
- ç
-(#
-%funcRes_23*5
-
-%sc-A_26336_0_47"
-testHasRoughlyDifferentOrigin2
-	
-%global2
-
-%env2
-https://google.com:802
-https://google.com:81V
-T
-
-__unknown_file (
-%sc-A_26336_0_48"__id**
-
-%env"
-%scope-A_26336_0V
-T
-
-__unknown_file (
-%sc-A_26336_0_49"__id**
-
-%env"
-%scope-A_26336_0ñ"î
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.jsë
- ë
-(#
-%funcRes_24*5
-
-%sc-A_26336_0_49"
-testHasRoughlyDifferentOrigin2
-	
-%global2
-
-%env2
-https://xyz.google.com2
-https://google.comV
-T
-
-__unknown_file (
-%sc-A_26336_0_50"__id**
-
-%env"
-%scope-A_26336_0V
-T
-
-__unknown_file (
-%sc-A_26336_0_51"__id**
-
-%env"
-%scope-A_26336_0ô"ñ
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.jsï
- ï
-(#
-%funcRes_25*5
-
-%sc-A_26336_0_51"
-testHasRoughlyDifferentOrigin2
-	
-%global2
-
-%env2
-https://xyz.google.com2
-http://xyz.google.comV
-T
-
-__unknown_file (
-%sc-A_26336_0_52"__id**
-
-%env"
-%scope-A_26336_0V
-T
-
-__unknown_file (
-%sc-A_26336_0_53"__id**
-
-%env"
-%scope-A_26336_0û"ø
-[
-O/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/test-viewer.jsó
- ó
-(#
-%funcRes_26*5
-
-%sc-A_26336_0_53"
-testHasRoughlyDifferentOrigin2
-	
-%global2
-
-%env2
-https://xyz.google.com:802
-https://xyz.google.com:81"
-
-__unknown_file ( :
-%envB 

@@ -1,1133 +1,0 @@
-
-;test_unit_core_context_test_node_values_js_876_16_A_32164_0m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsÏ Ï("s54_1*ßo
-s54_1
-<synthetic> (C
-A
-
-__unknown_file (	
-%global"__id**
-
-%env"
-globalY
-W
-
-__unknown_file (
-%sc-A_32122_env_0"__id* *
-
-%env"
-%scope-A_32122_envM
-K
-
-__unknown_file (	
-%expr_0"__id**
-
-%sc-A_32122_env_0"
-docD
-B
-
-__unknown_file (	
-%expr_1"__id**
-	
-%expr_0"
-bodyY
-W
-
-__unknown_file (
-%sc-A_32122_env_1"__id* *
-
-%env"
-%scope-A_32122_envK
-I
-
-__unknown_file (	
-%expr_2"__id**
-	
-%expr_1"
-appendChild‘"—
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsÌ Ì(
-
-%methRes_0*
-	
-%expr_1"
-appendChild2
-	
-%expr_12
-
-%env2*
-
-%sc-A_32122_env_1"
-treeU
-S
-
-__unknown_file (
-%sc-A_32163_0_0"__id**
-
-%env"
-%scope-A_32163_0O
-M
-
-__unknown_file (
-%sc-P_2946_0"__id**
-
-%env"
-%scope-P_2946P
-N
-
-__unknown_file (	
-%expr_3"__id*!*
-
-%sc-P_2946_0"
-ContextNodeY
-W
-
-__unknown_file (
-%sc-A_32122_env_2"__id* *
-
-%env"
-%scope-A_32122_envY
-W
-
-__unknown_file (
-%sc-A_32122_env_3"__id* *
-
-%env"
-%scope-A_32122_env¡"æ
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsÓ! Ó(#
-
-%funcRes_0*
-
-%sc-A_32122_env_3"
-el2
-	
-%global2
-
-%env2	
-T-1-1-1C
-A
-
-__unknown_file (	
-%expr_4"__id**
-	
-%expr_3"
-getª"∏
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsÓ Ó( 
-
-%methRes_1*
-	
-%expr_3"
-get2
-	
-%expr_32
-
-%env2
-
-
-%funcRes_0©
-¶
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsÓ Ó(
-
-%sc-A_32163_0_0"
-
-sibling1"__id*
-
-
-%methRes_1U
-S
-
-__unknown_file (
-%sc-A_32163_0_1"__id**
-
-%env"
-%scope-A_32163_0O
-M
-
-__unknown_file (
-%sc-P_2946_1"__id**
-
-%env"
-%scope-P_2946P
-N
-
-__unknown_file (	
-%expr_5"__id*!*
-
-%sc-P_2946_1"
-ContextNodeY
-W
-
-__unknown_file (
-%sc-A_32122_env_4"__id* *
-
-%env"
-%scope-A_32122_envY
-W
-
-__unknown_file (
-%sc-A_32122_env_5"__id* *
-
-%env"
-%scope-A_32122_env¡"æ
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsÔ! Ô(#
-
-%funcRes_1*
-
-%sc-A_32122_env_5"
-el2
-	
-%global2
-
-%env2	
-T-1-1-2C
-A
-
-__unknown_file (	
-%expr_6"__id**
-	
-%expr_5"
-getª"∏
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsÔ Ô( 
-
-%methRes_2*
-	
-%expr_5"
-get2
-	
-%expr_52
-
-%env2
-
-
-%funcRes_1©
-¶
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsÔ Ô(
-
-%sc-A_32163_0_1"
-
-sibling2"__id*
-
-
-%methRes_2U
-S
-
-__unknown_file (
-%sc-A_32163_0_2"__id**
-
-%env"
-%scope-A_32163_0O
-M
-
-__unknown_file (
-%sc-P_2946_2"__id**
-
-%env"
-%scope-P_2946P
-N
-
-__unknown_file (	
-%expr_7"__id*!*
-
-%sc-P_2946_2"
-ContextNodeY
-W
-
-__unknown_file (
-%sc-A_32122_env_6"__id* *
-
-%env"
-%scope-A_32122_envY
-W
-
-__unknown_file (
-%sc-A_32122_env_7"__id* *
-
-%env"
-%scope-A_32122_env¡"æ
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.js  ("
-
-%funcRes_2*
-
-%sc-A_32122_env_7"
-el2
-	
-%global2
-
-%env2	
-T-1-2-1C
-A
-
-__unknown_file (	
-%expr_8"__id**
-	
-%expr_7"
-getª"∏
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.js (
-
-%methRes_3*
-	
-%expr_7"
-get2
-	
-%expr_72
-
-%env2
-
-
-%funcRes_2®
-•
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.js (
-
-%sc-A_32163_0_2"	
-cousin1"__id*
-
-
-%methRes_3U
-S
-
-__unknown_file (
-%sc-A_32163_0_3"__id**
-
-%env"
-%scope-A_32163_0O
-M
-
-__unknown_file (
-%sc-P_2946_3"__id**
-
-%env"
-%scope-P_2946P
-N
-
-__unknown_file (	
-%expr_9"__id*!*
-
-%sc-P_2946_3"
-ContextNodeY
-W
-
-__unknown_file (
-%sc-A_32122_env_8"__id* *
-
-%env"
-%scope-A_32122_envY
-W
-
-__unknown_file (
-%sc-A_32122_env_9"__id* *
-
-%env"
-%scope-A_32122_envΩ"∫
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsÒ$ Ò(&
-
-%funcRes_3*
-
-%sc-A_32122_env_9"
-el2
-	
-%global2
-
-%env2
-T-1D
-B
-
-__unknown_file (
-
-%expr_10"__id**
-	
-%expr_9"
-getª"∏
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsÒ  Ò(#
-
-%methRes_4*
-	
-%expr_9"
-get2
-	
-%expr_92
-
-%env2
-
-
-%funcRes_3¨
-©
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsÒ Ò("
-
-%sc-A_32163_0_3"
-grandparent"__id*
-
-
-%methRes_4U
-S
-
-__unknown_file (
-%sc-A_32163_0_4"__id**
-
-%env"
-%scope-A_32163_0Z
-X
-
-__unknown_file (
-%sc-A_32122_env_10"__id* *
-
-%env"
-%scope-A_32122_envS
-Q
-
-__unknown_file (
-
-%expr_11"__id*#*!
-
-%sc-A_32122_env_10"	
-sandboxF
-D
-
-__unknown_file (
-
-%expr_12"__id**
-
-
-%expr_11"
-stubÆ"´
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsÛ Û(!
-
-%methRes_5*
-
-
-%expr_11"
-stub2
-
-
-%expr_112
-
-%env≠
-™
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsÛ Û(#
-
-%sc-A_32163_0_4"
-sibling1Stub"__id*
-
-
-%methRes_5U
-S
-
-__unknown_file (
-%sc-A_32163_0_5"__id**
-
-%env"
-%scope-A_32163_0Z
-X
-
-__unknown_file (
-%sc-A_32122_env_11"__id* *
-
-%env"
-%scope-A_32122_envS
-Q
-
-__unknown_file (
-
-%expr_13"__id*#*!
-
-%sc-A_32122_env_11"	
-sandboxF
-D
-
-__unknown_file (
-
-%expr_14"__id**
-
-
-%expr_13"
-stubÆ"´
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsÙ Ù(!
-
-%methRes_6*
-
-
-%expr_13"
-stub2
-
-
-%expr_132
-
-%env≠
-™
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsÙ Ù(#
-
-%sc-A_32163_0_5"
-sibling2Stub"__id*
-
-
-%methRes_6U
-S
-
-__unknown_file (
-%sc-A_32163_0_6"__id**
-
-%env"
-%scope-A_32163_0Z
-X
-
-__unknown_file (
-%sc-A_32122_env_12"__id* *
-
-%env"
-%scope-A_32122_envS
-Q
-
-__unknown_file (
-
-%expr_15"__id*#*!
-
-%sc-A_32122_env_12"	
-sandboxF
-D
-
-__unknown_file (
-
-%expr_16"__id**
-
-
-%expr_15"
-stubÆ"´
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsı ı( 
-
-%methRes_7*
-
-
-%expr_15"
-stub2
-
-
-%expr_152
-
-%env¨
-©
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsı ı("
-
-%sc-A_32163_0_6"
-cousin1Stub"__id*
-
-
-%methRes_7U
-S
-
-__unknown_file (
-%sc-A_32163_0_7"__id**
-
-%env"
-%scope-A_32163_0Z
-X
-
-__unknown_file (
-%sc-A_32122_env_13"__id* *
-
-%env"
-%scope-A_32122_envS
-Q
-
-__unknown_file (
-
-%expr_17"__id*#*!
-
-%sc-A_32122_env_13"	
-sandboxF
-D
-
-__unknown_file (
-
-%expr_18"__id**
-
-
-%expr_17"
-stubÆ"´
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsˆ  ˆ($
-
-%methRes_8*
-
-
-%expr_17"
-stub2
-
-
-%expr_172
-
-%env∞
-≠
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsˆ ˆ(&
-
-%sc-A_32163_0_7"
-grandparentStub"__id*
-
-
-%methRes_8Z
-X
-
-__unknown_file (
-%sc-A_32122_env_14"__id* *
-
-%env"
-%scope-A_32122_envU
-S
-
-__unknown_file (
-%sc-A_32163_0_8"__id**
-
-%env"
-%scope-A_32163_0U
-S
-
-__unknown_file (
-%sc-A_32163_0_9"__id**
-
-%env"
-%scope-A_32163_0V
-T
-
-__unknown_file (
-%sc-A_32163_0_10"__id**
-
-%env"
-%scope-A_32163_0V
-T
-
-__unknown_file (
-%sc-A_32163_0_11"__id**
-
-%env"
-%scope-A_32163_0Z
-X
-
-__unknown_file (
-%sc-A_32122_env_15"__id* *
-
-%env"
-%scope-A_32122_env“"œ
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.js¯ ¯(
-
-%funcRes_4*)
-
-%sc-A_32122_env_15"
-waitForDiscover2
-	
-%global2
-
-%env2$*"
-
-%sc-A_32163_0_8"
-grandparent2!*
-
-%sc-A_32163_0_9"
-
-sibling12"* 
-
-%sc-A_32163_0_10"
-
-sibling22!*
-
-%sc-A_32163_0_11"	
-cousin1V
-T
-
-__unknown_file (
-%sc-A_32163_0_12"__id**
-
-%env"
-%scope-A_32163_0R
-P
-
-__unknown_file (
-
-%expr_19"__id*"* 
-
-%sc-A_32163_0_12"
-
-sibling1H
-F
-
-__unknown_file (
-
-%expr_20"__id**
-
-
-%expr_19"
-valuesO
-M
-
-__unknown_file (
-%sc-P_2946_4"__id**
-
-%env"
-%scope-P_2946V
-T
-
-__unknown_file (
-%sc-A_32163_0_13"__id**
-
-%env"
-%scope-A_32163_0K
-I
-
-__unknown_file (
-
-%expr_21"__id**
-
-
-%expr_20"
-	subscribe˘"ˆ
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.js˙ ˙(
-
-%methRes_9*
-
-
-%expr_20"
-	subscribe2
-
-
-%expr_202
-
-%env2*
-
-%sc-P_2946_4"
-Concat2&*$
-
-%sc-A_32163_0_13"
-sibling1StubV
-T
-
-__unknown_file (
-%sc-A_32163_0_14"__id**
-
-%env"
-%scope-A_32163_0R
-P
-
-__unknown_file (
-
-%expr_22"__id*"* 
-
-%sc-A_32163_0_14"
-
-sibling2H
-F
-
-__unknown_file (
-
-%expr_23"__id**
-
-
-%expr_22"
-valuesO
-M
-
-__unknown_file (
-%sc-P_2946_5"__id**
-
-%env"
-%scope-P_2946V
-T
-
-__unknown_file (
-%sc-A_32163_0_15"__id**
-
-%env"
-%scope-A_32163_0K
-I
-
-__unknown_file (
-
-%expr_24"__id**
-
-
-%expr_23"
-	subscribe˙"˜
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.js˚ ˚(
-%methRes_10*
-
-
-%expr_23"
-	subscribe2
-
-
-%expr_232
-
-%env2*
-
-%sc-P_2946_5"
-Concat2&*$
-
-%sc-A_32163_0_15"
-sibling2StubV
-T
-
-__unknown_file (
-%sc-A_32163_0_16"__id**
-
-%env"
-%scope-A_32163_0Q
-O
-
-__unknown_file (
-
-%expr_25"__id*!*
-
-%sc-A_32163_0_16"	
-cousin1H
-F
-
-__unknown_file (
-
-%expr_26"__id**
-
-
-%expr_25"
-valuesO
-M
-
-__unknown_file (
-%sc-P_2946_6"__id**
-
-%env"
-%scope-P_2946V
-T
-
-__unknown_file (
-%sc-A_32163_0_17"__id**
-
-%env"
-%scope-A_32163_0K
-I
-
-__unknown_file (
-
-%expr_27"__id**
-
-
-%expr_26"
-	subscribe˘"ˆ
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.js¸ ¸(
-%methRes_11*
-
-
-%expr_26"
-	subscribe2
-
-
-%expr_262
-
-%env2*
-
-%sc-P_2946_6"
-Concat2%*#
-
-%sc-A_32163_0_17"
-cousin1StubV
-T
-
-__unknown_file (
-%sc-A_32163_0_18"__id**
-
-%env"
-%scope-A_32163_0U
-S
-
-__unknown_file (
-
-%expr_28"__id*%*#
-
-%sc-A_32163_0_18"
-grandparentH
-F
-
-__unknown_file (
-
-%expr_29"__id**
-
-
-%expr_28"
-valuesO
-M
-
-__unknown_file (
-%sc-P_2946_7"__id**
-
-%env"
-%scope-P_2946V
-T
-
-__unknown_file (
-%sc-A_32163_0_19"__id**
-
-%env"
-%scope-A_32163_0K
-I
-
-__unknown_file (
-
-%expr_30"__id**
-
-
-%expr_29"
-	subscribe˝"˙
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.js˝ ˝("
-%methRes_12*
-
-
-%expr_29"
-	subscribe2
-
-
-%expr_292
-
-%env2*
-
-%sc-P_2946_7"
-Concat2)*'
-
-%sc-A_32163_0_19"
-grandparentStubZ
-X
-
-__unknown_file (
-%sc-A_32122_env_16"__id* *
-
-%env"
-%scope-A_32122_envQ
-O
-
-__unknown_file (
-
-%expr_31"__id*!*
-
-%sc-A_32122_env_16"
-clockH
-F
-
-__unknown_file (
-
-%expr_32"__id**
-
-
-%expr_31"
-runAll±"Æ
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.js˛ ˛(
-%methRes_13*
-
-
-%expr_31"
-runAll2
-
-
-%expr_312
-
-%envZ
-X
-
-__unknown_file (
-%sc-A_32122_env_17"__id* *
-
-%env"
-%scope-A_32122_envS
-Q
-
-__unknown_file (
-
-%expr_33"__id*#*!
-
-%sc-A_32122_env_17"	
-calcSpyN
-L
-
-__unknown_file (
-
-%expr_34"__id**
-
-
-%expr_33"
-resetHistory∑"¥
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsˇ ˇ(
-%methRes_14*
-
-
-%expr_33"
-resetHistory2
-
-
-%expr_332
-
-%envV
-T
-
-__unknown_file (
-%sc-A_32163_0_20"__id**
-
-%env"
-%scope-A_32163_0V
-T
-
-__unknown_file (
-
-%expr_35"__id*&*$
-
-%sc-A_32163_0_20"
-sibling1StubN
-L
-
-__unknown_file (
-
-%expr_36"__id**
-
-
-%expr_35"
-resetHistory∑"¥
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsÄ Ä(
-%methRes_15*
-
-
-%expr_35"
-resetHistory2
-
-
-%expr_352
-
-%envV
-T
-
-__unknown_file (
-%sc-A_32163_0_21"__id**
-
-%env"
-%scope-A_32163_0V
-T
-
-__unknown_file (
-
-%expr_37"__id*&*$
-
-%sc-A_32163_0_21"
-sibling2StubN
-L
-
-__unknown_file (
-
-%expr_38"__id**
-
-
-%expr_37"
-resetHistory∑"¥
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsÅ Å(
-%methRes_16*
-
-
-%expr_37"
-resetHistory2
-
-
-%expr_372
-
-%envV
-T
-
-__unknown_file (
-%sc-A_32163_0_22"__id**
-
-%env"
-%scope-A_32163_0U
-S
-
-__unknown_file (
-
-%expr_39"__id*%*#
-
-%sc-A_32163_0_22"
-cousin1StubN
-L
-
-__unknown_file (
-
-%expr_40"__id**
-
-
-%expr_39"
-resetHistory∑"¥
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsÇ Ç(
-%methRes_17*
-
-
-%expr_39"
-resetHistory2
-
-
-%expr_392
-
-%envV
-T
-
-__unknown_file (
-%sc-A_32163_0_23"__id**
-
-%env"
-%scope-A_32163_0Y
-W
-
-__unknown_file (
-
-%expr_41"__id*)*'
-
-%sc-A_32163_0_23"
-grandparentStubN
-L
-
-__unknown_file (
-
-%expr_42"__id**
-
-
-%expr_41"
-resetHistory∑"¥
-m
-a/home/denis-py/Desktop/WHITESOURCE/js-projects/amphtml/test/unit/core/context/test-node-values.jsÉ É("
-%methRes_18*
-
-
-%expr_41"
-resetHistory2
-
-
-%expr_412
-
-%env"
-
-__unknown_file ( :
-%envB 
